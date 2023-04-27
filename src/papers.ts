@@ -61,7 +61,7 @@ class IEEETrans {
                 link: paperURL,
                 title: paper.articleTitle,
                 description: paper.abstract,
-                date: new Date(),
+                date: new Date(paper.date),
                 author: paper.authors.map(author => ({ name: author }))
             })
         })
@@ -73,7 +73,8 @@ class IEEETrans {
             articleNumber: record.articleNumber,
             articleTitle: record.articleTitle,
             authors: record.authors.map(author => author.preferredName),
-            abstract: record.abstract
+            abstract: record.abstract,
+            date: new Date()
         }
     }
 
@@ -115,10 +116,10 @@ class IEEETrans {
 
 export async function papers() {
     const venues = JSON.parse(fs.readFileSync('./config.json').toString()) as Venue[]
-    venues.forEach(async venue => {
+    for (const venue of venues) {
         console.log(venue.name)
         const trans = new IEEETrans(venue.name, venue.acronym, venue.pubid)
         await trans.retrieve()
         await trans.write()
-    })
+    }
 }

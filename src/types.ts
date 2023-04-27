@@ -149,6 +149,7 @@ export interface IEEEBriefRecord {
     articleNumber:           string;
     articleTitle:            string;
     abstract:                string;
+    date:                    Date;
 }
 
 interface Author {
