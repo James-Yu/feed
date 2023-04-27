@@ -21,13 +21,10 @@ jobs:
       - name: Setup dependencies
         run: npm i
 
-      - name: Scan Papers
+      - name: Run
         run: npx ts-node src/index.ts
 
       - name: Commit changes
         uses: elstudio/actions-js-build/commit@v4
         with:
           commitMessage: Update Feeds
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          PUSH_BRANCH: 'main'
