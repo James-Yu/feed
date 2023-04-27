@@ -18,11 +18,11 @@ class IEEETrans {
     }
     private archive: IEEEBriefRecord[]
     private archiveFile: string
-    private rssFile: string
+    private feedFile: string
 
     constructor(private name: string, private acronym: string, private pubid: number) {
         this.archiveFile = `./data/${this.acronym}.json`
-        this.rssFile = `./docs/${this.acronym}.rss`
+        this.feedFile = `./docs/${this.acronym}.xml`
         this.archive = fs.existsSync(this.archiveFile) ? JSON.parse(fs.readFileSync(this.archiveFile).toString()) as IEEEBriefRecord[] : []
     }
 
@@ -52,7 +52,7 @@ class IEEETrans {
             link: url,
             title: this.name,
             description: this.name,
-            copyright: 'MIT',
+            copyright: 'Copyright reserved',
         })
         this.archive.forEach(paper => {
             const paperURL = `https://ieeexplore.ieee.org/document/${paper.articleNumber}`
@@ -65,7 +65,7 @@ class IEEETrans {
                 author: paper.authors.map(author => ({ name: author }))
             })
         })
-        fs.writeFileSync(this.rssFile, feed.rss2())
+        fs.writeFileSync(this.feedFile, feed.atom1())
     }
 
     private briefRecord(record: IEEERecord): IEEEBriefRecord {
