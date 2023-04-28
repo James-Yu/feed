@@ -1,5 +1,30 @@
 [
   {
+    "articleNumber": "10109761",
+    "articleTitle": "FDPR: A Novel Fog Data Prediction and Recovery using Efficient DL in IoT Networks",
+    "authors": [
+      "Made Adi Paramartha Putra",
+      "Ade Pitra Hermawan",
+      "Cosmas Ifeanyi Nwakanma",
+      "Dong-Seong Kim",
+      "Jae-Min Lee"
+    ],
+    "abstract": "The goal of this study is to offer a novel fog data prediction and recovery (FDPR) algorithm that uses deep learning (DL) to forecast and recover missing sensor data in an internet of things (IoT) network. Because of the fog layer’s unique qualities compared to other IoT environment layers, the FDPR algorithm is employed in this layer. The most recent studies generally concentrate on data recovery...",
+    "date": "2023-04-28T01:21:28.174Z"
+  },
+  {
+    "articleNumber": "10109805",
+    "articleTitle": "Cache-Aided MEC with the Assistance of Intelligent Reflecting Surface",
+    "authors": [
+      "Jiadi Zhang",
+      "Rui Wang",
+      "Jun Wu",
+      "Lihua Ai"
+    ],
+    "abstract": "To address the large concerns of energy consumption caused by the rapid growth of online data traffic and network services such as the applications of the Internet of Things, many technologies have been developed to help wireless communication. Multi-access edge computing (MEC) can develop the efficiency and reduce the energy consumption of the network through edge-cloud benefits. Intelligent refl...",
+    "date": "2023-04-28T01:21:28.174Z"
+  },
+  {
     "articleNumber": "10109098",
     "articleTitle": "Self-adaptive Predictive Passenger Flow Modelling for Large-scale Railway Systems",
     "authors": [

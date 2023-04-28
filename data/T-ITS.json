@@ -1,5 +1,17 @@
 [
   {
+    "articleNumber": "10110009",
+    "articleTitle": "Temporal Information Fusion Network for Driving Behavior Prediction",
+    "authors": [
+      "Chenghao Guo",
+      "Haizhuang Liu",
+      "Jiansheng Chen",
+      "Huimin Ma"
+    ],
+    "abstract": "Since enormous hazards are caused by traffic crashes every year, ensuring safe driving is a hot topic in transportation. Technologies related to the Advanced Driver Assistance System (ADAS) are evolving rapidly. But without an adequate understanding of driving intention, ADAS usually can’t help the driver prepare for the danger in advance. This paper focuses on the fusion strategy of driver and en...",
+    "date": "2023-04-28T01:21:09.847Z"
+  },
+  {
     "articleNumber": "10109153",
     "articleTitle": "Deep Reinforcement Learning and NOMA-Based Multi-Objective RIS-Assisted IS-UAV-TNs: Trajectory Optimization and Beamforming Design",
     "authors": [

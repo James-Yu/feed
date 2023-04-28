@@ -1,5 +1,72 @@
 [
   {
+    "articleNumber": "10109879",
+    "articleTitle": "Dual Consistency-enhanced Semi-supervised Sentiment Analysis towards COVID-19 Tweets",
+    "authors": [
+      "Teng Sun",
+      "Liqiang Jing",
+      "Yinwei Wei",
+      "Xuemeng Song",
+      "Zhiyong Cheng",
+      "Liqiang Nie"
+    ],
+    "abstract": "In the context of COVID-19, numerous people present their opinions through social networks. It is thus highly desired to conduct sentiment analysis towards COVID-19 tweets to learn the public&#39;s attitudes, and facilitate the government to make proper guidelines for avoiding the social unrest. Although many efforts have studied the text-based sentiment classification from various domains (e.g., deli...",
+    "date": "2023-04-28T01:21:16.049Z"
+  },
+  {
+    "articleNumber": "10109821",
+    "articleTitle": "Adaptive Ensemble Clustering With Boosting BLS-Based Autoencoder",
+    "authors": [
+      "Yifan Shi",
+      "Kaixiang Yang",
+      "Zhiwen Yu",
+      "C. L. Philip Chen",
+      "Huanqiang Zeng"
+    ],
+    "abstract": "Ensemble clustering has an advantage in producing a more promising and robust clustering result by combining multiple partitions strategically. The quality of both base partitions and co-association matrix plays an essential role in improving the consensus partition. However, the current ensemble clustering methods have several limitations: 1) The noise in high-dimensional feature space is ignored...",
+    "date": "2023-04-28T01:21:16.049Z"
+  },
+  {
+    "articleNumber": "10109882",
+    "articleTitle": "Finding Materialized Models for Model Reuse",
+    "authors": [
+      "Minjun Zhao",
+      "Lu Chen",
+      "Keyu Yang",
+      "Yuntao Du",
+      "Yunjun Gao"
+    ],
+    "abstract": "Materialized model query aims to find the most appropriate materialized model as the initial model for model reuse. It is the precondition of model reuse, and has recently attracted much attention. Nonetheless, the existing methods suffer from the need to provide source data, limited range of applications, and inefficiency since they do not construct a suitable metric to measure the target-related...",
+    "date": "2023-04-28T01:21:16.049Z"
+  },
+  {
+    "articleNumber": "10109889",
+    "articleTitle": "Prefix Coding Scheme Supporting Direct Access Without Auxiliary Space",
+    "authors": [
+      "Na Wang",
+      "Wei Yan",
+      "Hao Jiang",
+      "Sian-Jheng Lin",
+      "Yunghsiang S. Han"
+    ],
+    "abstract": "Entropy coding is a widely used technique for lossless data compression. The entropy coding schemes supporting the direct access capability on the encoded stream have been investigated in recent years. However, all prior schemes require auxiliary space to support the direct access ability. This paper proposes a rearranging method for prefix codes to support a certain level of direct access to the ...",
+    "date": "2023-04-28T01:21:16.049Z"
+  },
+  {
+    "articleNumber": "10109823",
+    "articleTitle": "Multi-View Bipartite Graph Clustering With Coupled Noisy Feature Filter",
+    "authors": [
+      "Liang Li",
+      "Junpu Zhang",
+      "Siwei Wang",
+      "Xinwang Liu",
+      "Kenli Li",
+      "Keqin Li"
+    ],
+    "abstract": "Unsupervised bipartite graph learning has been a hotpot in multi-view clustering, to tackle the restricted scalability issue of traditional full graph clustering in large-scale applications. However, the existing bipartite graph clustering paradigm pays little attention to the adverse impact of noisy features on learning process. To further facilitate this part of research, apart from simply rewei...",
+    "date": "2023-04-28T01:21:16.049Z"
+  },
+  {
     "articleNumber": "10109130",
     "articleTitle": "Multiplex Graph Representation Learning Via Dual Correlation Reduction",
     "authors": [

@@ -2,11 +2,127 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/TKDE.rss</id>
     <title>IEEE Transactions on Knowledge and Data Engineering</title>
-    <updated>2023-04-27T04:44:23.955Z</updated>
+    <updated>2023-04-28T01:21:16.054Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/TKDE.rss"/>
     <subtitle>IEEE Transactions on Knowledge and Data Engineering</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Dual Consistency-enhanced Semi-supervised Sentiment Analysis towards COVID-19 Tweets]]></title>
+        <id>https://ieeexplore.ieee.org/document/10109879</id>
+        <link href="https://ieeexplore.ieee.org/document/10109879"/>
+        <updated>2023-04-28T01:21:16.049Z</updated>
+        <summary type="html"><![CDATA[In the context of COVID-19, numerous people present their opinions through social networks. It is thus highly desired to conduct sentiment analysis towards COVID-19 tweets to learn the public&#39;s attitudes, and facilitate the government to make proper guidelines for avoiding the social unrest. Although many efforts have studied the text-based sentiment classification from various domains (e.g., deli...]]></summary>
+        <author>
+            <name>Teng Sun</name>
+        </author>
+        <author>
+            <name>Liqiang Jing</name>
+        </author>
+        <author>
+            <name>Yinwei Wei</name>
+        </author>
+        <author>
+            <name>Xuemeng Song</name>
+        </author>
+        <author>
+            <name>Zhiyong Cheng</name>
+        </author>
+        <author>
+            <name>Liqiang Nie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adaptive Ensemble Clustering With Boosting BLS-Based Autoencoder]]></title>
+        <id>https://ieeexplore.ieee.org/document/10109821</id>
+        <link href="https://ieeexplore.ieee.org/document/10109821"/>
+        <updated>2023-04-28T01:21:16.049Z</updated>
+        <summary type="html"><![CDATA[Ensemble clustering has an advantage in producing a more promising and robust clustering result by combining multiple partitions strategically. The quality of both base partitions and co-association matrix plays an essential role in improving the consensus partition. However, the current ensemble clustering methods have several limitations: 1) The noise in high-dimensional feature space is ignored...]]></summary>
+        <author>
+            <name>Yifan Shi</name>
+        </author>
+        <author>
+            <name>Kaixiang Yang</name>
+        </author>
+        <author>
+            <name>Zhiwen Yu</name>
+        </author>
+        <author>
+            <name>C. L. Philip Chen</name>
+        </author>
+        <author>
+            <name>Huanqiang Zeng</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Finding Materialized Models for Model Reuse]]></title>
+        <id>https://ieeexplore.ieee.org/document/10109882</id>
+        <link href="https://ieeexplore.ieee.org/document/10109882"/>
+        <updated>2023-04-28T01:21:16.049Z</updated>
+        <summary type="html"><![CDATA[Materialized model query aims to find the most appropriate materialized model as the initial model for model reuse. It is the precondition of model reuse, and has recently attracted much attention. Nonetheless, the existing methods suffer from the need to provide source data, limited range of applications, and inefficiency since they do not construct a suitable metric to measure the target-related...]]></summary>
+        <author>
+            <name>Minjun Zhao</name>
+        </author>
+        <author>
+            <name>Lu Chen</name>
+        </author>
+        <author>
+            <name>Keyu Yang</name>
+        </author>
+        <author>
+            <name>Yuntao Du</name>
+        </author>
+        <author>
+            <name>Yunjun Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prefix Coding Scheme Supporting Direct Access Without Auxiliary Space]]></title>
+        <id>https://ieeexplore.ieee.org/document/10109889</id>
+        <link href="https://ieeexplore.ieee.org/document/10109889"/>
+        <updated>2023-04-28T01:21:16.049Z</updated>
+        <summary type="html"><![CDATA[Entropy coding is a widely used technique for lossless data compression. The entropy coding schemes supporting the direct access capability on the encoded stream have been investigated in recent years. However, all prior schemes require auxiliary space to support the direct access ability. This paper proposes a rearranging method for prefix codes to support a certain level of direct access to the ...]]></summary>
+        <author>
+            <name>Na Wang</name>
+        </author>
+        <author>
+            <name>Wei Yan</name>
+        </author>
+        <author>
+            <name>Hao Jiang</name>
+        </author>
+        <author>
+            <name>Sian-Jheng Lin</name>
+        </author>
+        <author>
+            <name>Yunghsiang S. Han</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multi-View Bipartite Graph Clustering With Coupled Noisy Feature Filter]]></title>
+        <id>https://ieeexplore.ieee.org/document/10109823</id>
+        <link href="https://ieeexplore.ieee.org/document/10109823"/>
+        <updated>2023-04-28T01:21:16.049Z</updated>
+        <summary type="html"><![CDATA[Unsupervised bipartite graph learning has been a hotpot in multi-view clustering, to tackle the restricted scalability issue of traditional full graph clustering in large-scale applications. However, the existing bipartite graph clustering paradigm pays little attention to the adverse impact of noisy features on learning process. To further facilitate this part of research, apart from simply rewei...]]></summary>
+        <author>
+            <name>Liang Li</name>
+        </author>
+        <author>
+            <name>Junpu Zhang</name>
+        </author>
+        <author>
+            <name>Siwei Wang</name>
+        </author>
+        <author>
+            <name>Xinwang Liu</name>
+        </author>
+        <author>
+            <name>Kenli Li</name>
+        </author>
+        <author>
+            <name>Keqin Li</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Multiplex Graph Representation Learning Via Dual Correlation Reduction]]></title>
         <id>https://ieeexplore.ieee.org/document/10109130</id>

@@ -1,5 +1,30 @@
 [
   {
+    "articleNumber": "10109829",
+    "articleTitle": "ToolBot: Learning Oriented Keypoints for Tool Usage From Self-Supervision",
+    "authors": [
+      "Junhang Wei",
+      "Peng Hao",
+      "Shuo Wang"
+    ],
+    "abstract": "Tool usage is critical for enabling robots to complete challenging tasks that exceed their innate capabilities. Task-oriented grasp and manipulation are two primitive actions in tool usage tasks. In this paper, we present an end-to-end framework for jointly inferring two primitive actions through self-supervision, which can guide robots to complete tool usage tasks. We formulate primitive actions ...",
+    "date": "2023-04-28T01:21:34.122Z"
+  },
+  {
+    "articleNumber": "10109871",
+    "articleTitle": "RRV-BC: Random Reputation Voting Mechanism and Blockchain Assisted Access Authentication for Industrial Internet of Things",
+    "authors": [
+      "Peiying Zhang",
+      "Pan Yang",
+      "Neeraj Kumar",
+      "Ching-Hsien Hsu",
+      "Sheng Wu",
+      "Fan Zhou"
+    ],
+    "abstract": "Industry 4.0 integrates industrial Internet of Things (IIoT), artificial intelligence (AI) and cloud computing. The advent of the 5 G era has undoubtedly provided a new impetus for the development of many Industry 4.0 applications, but it also presents some key security hurdles. The network scale is becoming larger and larger, the network environment is becoming increasingly complex, and security ...",
+    "date": "2023-04-28T01:21:34.122Z"
+  },
+  {
     "articleNumber": "10109175",
     "articleTitle": "Online Crack Detection of Highly Curved Spiral Cylindrical Coils",
     "authors": [

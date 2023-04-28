@@ -2,11 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/IoTJ.rss</id>
     <title>IEEE Internet of Things Journal</title>
-    <updated>2023-04-27T04:44:36.206Z</updated>
+    <updated>2023-04-28T01:21:28.184Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/IoTJ.rss"/>
     <subtitle>IEEE Internet of Things Journal</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[FDPR: A Novel Fog Data Prediction and Recovery using Efficient DL in IoT Networks]]></title>
+        <id>https://ieeexplore.ieee.org/document/10109761</id>
+        <link href="https://ieeexplore.ieee.org/document/10109761"/>
+        <updated>2023-04-28T01:21:28.174Z</updated>
+        <summary type="html"><![CDATA[The goal of this study is to offer a novel fog data prediction and recovery (FDPR) algorithm that uses deep learning (DL) to forecast and recover missing sensor data in an internet of things (IoT) network. Because of the fog layer’s unique qualities compared to other IoT environment layers, the FDPR algorithm is employed in this layer. The most recent studies generally concentrate on data recovery...]]></summary>
+        <author>
+            <name>Made Adi Paramartha Putra</name>
+        </author>
+        <author>
+            <name>Ade Pitra Hermawan</name>
+        </author>
+        <author>
+            <name>Cosmas Ifeanyi Nwakanma</name>
+        </author>
+        <author>
+            <name>Dong-Seong Kim</name>
+        </author>
+        <author>
+            <name>Jae-Min Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cache-Aided MEC with the Assistance of Intelligent Reflecting Surface]]></title>
+        <id>https://ieeexplore.ieee.org/document/10109805</id>
+        <link href="https://ieeexplore.ieee.org/document/10109805"/>
+        <updated>2023-04-28T01:21:28.174Z</updated>
+        <summary type="html"><![CDATA[To address the large concerns of energy consumption caused by the rapid growth of online data traffic and network services such as the applications of the Internet of Things, many technologies have been developed to help wireless communication. Multi-access edge computing (MEC) can develop the efficiency and reduce the energy consumption of the network through edge-cloud benefits. Intelligent refl...]]></summary>
+        <author>
+            <name>Jiadi Zhang</name>
+        </author>
+        <author>
+            <name>Rui Wang</name>
+        </author>
+        <author>
+            <name>Jun Wu</name>
+        </author>
+        <author>
+            <name>Lihua Ai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Self-adaptive Predictive Passenger Flow Modelling for Large-scale Railway Systems]]></title>
         <id>https://ieeexplore.ieee.org/document/10109098</id>
