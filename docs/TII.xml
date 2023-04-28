@@ -2,11 +2,74 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/TII.rss</id>
     <title>IEEE Transactions on Industrial Informatics</title>
-    <updated>2023-04-28T12:15:36.519Z</updated>
+    <updated>2023-04-28T20:08:55.732Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/TII.rss"/>
     <subtitle>IEEE Transactions on Industrial Informatics</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Design and Implementation of a Mobile Experimental Application for Networked Control Systems]]></title>
+        <id>https://ieeexplore.ieee.org/document/10111021</id>
+        <link href="https://ieeexplore.ieee.org/document/10111021"/>
+        <updated>2023-04-28T20:08:55.727Z</updated>
+        <summary type="html"><![CDATA[With the development of mobile technologies, mobile applications are increasingly designed and developed. In the field of science, technology, engineering, and mathematics (STEM) education, the idea of using mobile devices for teaching and learning has gradually gained popularity and gained in-depth research. Owing to the advantages of convenience, portability and excellent interactive abilities, ...]]></summary>
+        <author>
+            <name>Xingwei Zhou</name>
+        </author>
+        <author>
+            <name>Guo-Ping Liu</name>
+        </author>
+        <author>
+            <name>Wenshan Hu</name>
+        </author>
+        <author>
+            <name>Zhongcheng Lei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Multi-Information Fusion Algorithm to Fault Diagnosis of Power Converter in Wind Power Generation Systems]]></title>
+        <id>https://ieeexplore.ieee.org/document/10110917</id>
+        <link href="https://ieeexplore.ieee.org/document/10110917"/>
+        <updated>2023-04-28T20:08:55.727Z</updated>
+        <summary type="html"><![CDATA[Power electronics-based converters are the major and most vulnerable components in wind power generation systems. Converter faults will affect power quality,damage expensive equipment such asgenerators, or even pose a massive threat to the entire power grid. Fault diagnosis is considered as a powerful means to improve system reliability and reduce maintenance costs. Existing data-driven fault diag...]]></summary>
+        <author>
+            <name>Jinping Liang</name>
+        </author>
+        <author>
+            <name>Ke Zhang</name>
+        </author>
+        <author>
+            <name>Ahmed Al-Durra</name>
+        </author>
+        <author>
+            <name>Daming Zhou</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ESUAV-NI: Endogenous Security Framework for UAV Perception System Based on Neural Immunity]]></title>
+        <id>https://ieeexplore.ieee.org/document/10111025</id>
+        <link href="https://ieeexplore.ieee.org/document/10111025"/>
+        <updated>2023-04-28T20:08:55.727Z</updated>
+        <summary type="html"><![CDATA[Unmanned aerial vehicles (UAV) represent an essential component of advanced intelligent equipment that can be used as an aerial perception system by installing various sensors such as vision, hearing, touch, taste and smell to achieve intelligently integrated perception of environments. However, these perception system with environmental information may be threatened by various internal and extern...]]></summary>
+        <author>
+            <name>Heqing Li</name>
+        </author>
+        <author>
+            <name>Xinde Li</name>
+        </author>
+        <author>
+            <name>Zhentong Zhang</name>
+        </author>
+        <author>
+            <name>Chuanfei Hu</name>
+        </author>
+        <author>
+            <name>Fir Dunkin</name>
+        </author>
+        <author>
+            <name>Shuzhi Sam Ge</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ToolBot: Learning Oriented Keypoints for Tool Usage From Self-Supervision]]></title>
         <id>https://ieeexplore.ieee.org/document/10109829</id>

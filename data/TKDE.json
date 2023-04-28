@@ -1,5 +1,57 @@
 [
   {
+    "articleNumber": "10111040",
+    "articleTitle": "GSim: A Graph Neural Network Based Relevance Measure for Heterogeneous Graphs",
+    "authors": [
+      "Linhao Luo",
+      "Yixiang Fang",
+      "Moli Lu",
+      "Xin Cao",
+      "Xiaofeng Zhang",
+      "Wenjie Zhang"
+    ],
+    "abstract": "Heterogeneous graphs, which contain nodes and edges of multiple types, are prevalent in various domains, including bibliographic networks, social media, and knowledge graphs. As a fundamental task in analyzing heterogeneous graphs, relevance measure aims to calculate the relevance between two objects of different types, which has been used in many applications such as web search, recommendation, a...",
+    "date": "2023-04-28T20:08:42.123Z"
+  },
+  {
+    "articleNumber": "10111083",
+    "articleTitle": "Progressive Hard Negative Masking: From Global Uniformity to Local Tolerance",
+    "authors": [
+      "Qingqiang Sun",
+      "Wenjie Zhang",
+      "Xuemin Lin"
+    ],
+    "abstract": "Unsupervised contrastive learning has recently become increasingly popular due to its amazing performance without the need for costly annotations. However, indiscriminate sampling of negative pairs is accompanied by the uniformity-tolerance dilemma, which is especially serious in node-level graph contrastive learning due to the smoothing property of graph convolutional operators. Previous negative...",
+    "date": "2023-04-28T20:08:42.123Z"
+  },
+  {
+    "articleNumber": "10110919",
+    "articleTitle": "Reveal Your Images: Gradient Leakage Attack against Unbiased Sampling-Based Secure Aggregation",
+    "authors": [
+      "Yilong Yang",
+      "Zhuo Ma",
+      "Bin Xiao",
+      "Yang Liu",
+      "Teng Li",
+      "Junwei Zhang"
+    ],
+    "abstract": "Recently, some Unbiased Gradient Sampling-based (UGS) methods are proposed to mitigate gradient leakage by introducing sampling and unbiased transformation, such as MinMax Sampling in SIGMOD &#39;22. In this paper, we first propose a novel gradient leakage attack, GLAUS, to show that the UGS schemes still expose the privacy of private datapoints. Specifically, for the above secure aggregation scenario...",
+    "date": "2023-04-28T20:08:42.123Z"
+  },
+  {
+    "articleNumber": "10111013",
+    "articleTitle": "Filter Transfer Learning Algorithm for Missing Data Imputation in Wastewater Treatment Process",
+    "authors": [
+      "Honggui Han",
+      "Mengmeng Li",
+      "Junfei Qiao",
+      "Qing Yang",
+      "Yongzhen Peng"
+    ],
+    "abstract": "Missing data imputation is a critical data processing procedure in wastewater treatment process. However, the existing imputation methods cannot stand the missing data with high proportions that frequently happens due to unmaintained instruments or detection failures. Transfer Learning aims to learn much reliable information for the target domain with previous learned knowledge from a source domai...",
+    "date": "2023-04-28T20:08:42.123Z"
+  },
+  {
     "articleNumber": "10109879",
     "articleTitle": "Dual Consistency-enhanced Semi-supervised Sentiment Analysis towards COVID-19 Tweets",
     "authors": [

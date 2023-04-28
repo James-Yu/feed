@@ -2,11 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/IoTJ.rss</id>
     <title>IEEE Internet of Things Journal</title>
-    <updated>2023-04-28T12:15:30.535Z</updated>
+    <updated>2023-04-28T20:08:50.955Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/IoTJ.rss"/>
     <subtitle>IEEE Internet of Things Journal</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[DMRA: Model Usability Detection Scheme against Model-Reuse Attacks in the Internet of Things]]></title>
+        <id>https://ieeexplore.ieee.org/document/10110981</id>
+        <link href="https://ieeexplore.ieee.org/document/10110981"/>
+        <updated>2023-04-28T20:08:50.949Z</updated>
+        <summary type="html"><![CDATA[Internet of Things (IoT) devices can utilize deep learning to boost their intelligence, but also suffer from the long model training process. IoT devices thus may reuse public pre-trained models to expedite the training through transfer learning. However, pre-trained models may be subject to model-reuse attacks initiated by malicious deep learning servers, causing models to misclassify targeted da...]]></summary>
+        <author>
+            <name>Qihao Dong</name>
+        </author>
+        <author>
+            <name>Xu Zheng</name>
+        </author>
+        <author>
+            <name>Anmin Fu</name>
+        </author>
+        <author>
+            <name>Mang Su</name>
+        </author>
+        <author>
+            <name>Lei Zhou</name>
+        </author>
+        <author>
+            <name>Shui Yu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Long-Short-Term Memory-Based Model for Kinesthetic Data Reduction]]></title>
+        <id>https://ieeexplore.ieee.org/document/10110985</id>
+        <link href="https://ieeexplore.ieee.org/document/10110985"/>
+        <updated>2023-04-28T20:08:50.950Z</updated>
+        <summary type="html"><![CDATA[This paper proposes a novel mathematical model for teleoperation over communication networks. For teleoperation over a communication network, a high packet rate can result in inefficient data transmission and cross-traffic problems, leading to extra delay and jitter. This paper proposes an LSTM-based mathematical model which focuses on kinesthetic data reduction without loss of transparency during...]]></summary>
+        <author>
+            <name>Qifang Deng</name>
+        </author>
+        <author>
+            <name>Toktam Mahmoodi</name>
+        </author>
+        <author>
+            <name>A. Hamid Aghvami</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Novel Minimum Distance Constraint Method Enhanced Dual-Foot-Mounted Inertial Navigation System for Pedestrian Positioning]]></title>
+        <id>https://ieeexplore.ieee.org/document/10110972</id>
+        <link href="https://ieeexplore.ieee.org/document/10110972"/>
+        <updated>2023-04-28T20:08:50.950Z</updated>
+        <summary type="html"><![CDATA[Foot-mounted inertial navigation system (Foot-INS) with the zero velocity update (ZUPT) has become one of the indispensable technical means in professional pedestrian positioning fields due to the advantages of self-constraint and immune to environmental factors. The dual-Foot-INS can provide more excellent autonomous positioning performance than a single-Foot-INS because it utilizes more opportun...]]></summary>
+        <author>
+            <name>Tao Liu</name>
+        </author>
+        <author>
+            <name>Jian Kuang</name>
+        </author>
+        <author>
+            <name>You Li</name>
+        </author>
+        <author>
+            <name>Xiaoji Niu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FDPR: A Novel Fog Data Prediction and Recovery using Efficient DL in IoT Networks]]></title>
         <id>https://ieeexplore.ieee.org/document/10109761</id>

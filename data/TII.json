@@ -1,5 +1,43 @@
 [
   {
+    "articleNumber": "10111021",
+    "articleTitle": "Design and Implementation of a Mobile Experimental Application for Networked Control Systems",
+    "authors": [
+      "Xingwei Zhou",
+      "Guo-Ping Liu",
+      "Wenshan Hu",
+      "Zhongcheng Lei"
+    ],
+    "abstract": "With the development of mobile technologies, mobile applications are increasingly designed and developed. In the field of science, technology, engineering, and mathematics (STEM) education, the idea of using mobile devices for teaching and learning has gradually gained popularity and gained in-depth research. Owing to the advantages of convenience, portability and excellent interactive abilities, ...",
+    "date": "2023-04-28T20:08:55.727Z"
+  },
+  {
+    "articleNumber": "10110917",
+    "articleTitle": "A Multi-Information Fusion Algorithm to Fault Diagnosis of Power Converter in Wind Power Generation Systems",
+    "authors": [
+      "Jinping Liang",
+      "Ke Zhang",
+      "Ahmed Al-Durra",
+      "Daming Zhou"
+    ],
+    "abstract": "Power electronics-based converters are the major and most vulnerable components in wind power generation systems. Converter faults will affect power quality,damage expensive equipment such asgenerators, or even pose a massive threat to the entire power grid. Fault diagnosis is considered as a powerful means to improve system reliability and reduce maintenance costs. Existing data-driven fault diag...",
+    "date": "2023-04-28T20:08:55.727Z"
+  },
+  {
+    "articleNumber": "10111025",
+    "articleTitle": "ESUAV-NI: Endogenous Security Framework for UAV Perception System Based on Neural Immunity",
+    "authors": [
+      "Heqing Li",
+      "Xinde Li",
+      "Zhentong Zhang",
+      "Chuanfei Hu",
+      "Fir Dunkin",
+      "Shuzhi Sam Ge"
+    ],
+    "abstract": "Unmanned aerial vehicles (UAV) represent an essential component of advanced intelligent equipment that can be used as an aerial perception system by installing various sensors such as vision, hearing, touch, taste and smell to achieve intelligently integrated perception of environments. However, these perception system with environmental information may be threatened by various internal and extern...",
+    "date": "2023-04-28T20:08:55.727Z"
+  },
+  {
     "articleNumber": "10109829",
     "articleTitle": "ToolBot: Learning Oriented Keypoints for Tool Usage From Self-Supervision",
     "authors": [

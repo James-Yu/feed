@@ -2,11 +2,99 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/TKDE.rss</id>
     <title>IEEE Transactions on Knowledge and Data Engineering</title>
-    <updated>2023-04-28T12:15:18.633Z</updated>
+    <updated>2023-04-28T20:08:42.128Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/TKDE.rss"/>
     <subtitle>IEEE Transactions on Knowledge and Data Engineering</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[GSim: A Graph Neural Network Based Relevance Measure for Heterogeneous Graphs]]></title>
+        <id>https://ieeexplore.ieee.org/document/10111040</id>
+        <link href="https://ieeexplore.ieee.org/document/10111040"/>
+        <updated>2023-04-28T20:08:42.123Z</updated>
+        <summary type="html"><![CDATA[Heterogeneous graphs, which contain nodes and edges of multiple types, are prevalent in various domains, including bibliographic networks, social media, and knowledge graphs. As a fundamental task in analyzing heterogeneous graphs, relevance measure aims to calculate the relevance between two objects of different types, which has been used in many applications such as web search, recommendation, a...]]></summary>
+        <author>
+            <name>Linhao Luo</name>
+        </author>
+        <author>
+            <name>Yixiang Fang</name>
+        </author>
+        <author>
+            <name>Moli Lu</name>
+        </author>
+        <author>
+            <name>Xin Cao</name>
+        </author>
+        <author>
+            <name>Xiaofeng Zhang</name>
+        </author>
+        <author>
+            <name>Wenjie Zhang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Progressive Hard Negative Masking: From Global Uniformity to Local Tolerance]]></title>
+        <id>https://ieeexplore.ieee.org/document/10111083</id>
+        <link href="https://ieeexplore.ieee.org/document/10111083"/>
+        <updated>2023-04-28T20:08:42.123Z</updated>
+        <summary type="html"><![CDATA[Unsupervised contrastive learning has recently become increasingly popular due to its amazing performance without the need for costly annotations. However, indiscriminate sampling of negative pairs is accompanied by the uniformity-tolerance dilemma, which is especially serious in node-level graph contrastive learning due to the smoothing property of graph convolutional operators. Previous negative...]]></summary>
+        <author>
+            <name>Qingqiang Sun</name>
+        </author>
+        <author>
+            <name>Wenjie Zhang</name>
+        </author>
+        <author>
+            <name>Xuemin Lin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reveal Your Images: Gradient Leakage Attack against Unbiased Sampling-Based Secure Aggregation]]></title>
+        <id>https://ieeexplore.ieee.org/document/10110919</id>
+        <link href="https://ieeexplore.ieee.org/document/10110919"/>
+        <updated>2023-04-28T20:08:42.123Z</updated>
+        <summary type="html"><![CDATA[Recently, some Unbiased Gradient Sampling-based (UGS) methods are proposed to mitigate gradient leakage by introducing sampling and unbiased transformation, such as MinMax Sampling in SIGMOD &#39;22. In this paper, we first propose a novel gradient leakage attack, GLAUS, to show that the UGS schemes still expose the privacy of private datapoints. Specifically, for the above secure aggregation scenario...]]></summary>
+        <author>
+            <name>Yilong Yang</name>
+        </author>
+        <author>
+            <name>Zhuo Ma</name>
+        </author>
+        <author>
+            <name>Bin Xiao</name>
+        </author>
+        <author>
+            <name>Yang Liu</name>
+        </author>
+        <author>
+            <name>Teng Li</name>
+        </author>
+        <author>
+            <name>Junwei Zhang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Filter Transfer Learning Algorithm for Missing Data Imputation in Wastewater Treatment Process]]></title>
+        <id>https://ieeexplore.ieee.org/document/10111013</id>
+        <link href="https://ieeexplore.ieee.org/document/10111013"/>
+        <updated>2023-04-28T20:08:42.123Z</updated>
+        <summary type="html"><![CDATA[Missing data imputation is a critical data processing procedure in wastewater treatment process. However, the existing imputation methods cannot stand the missing data with high proportions that frequently happens due to unmaintained instruments or detection failures. Transfer Learning aims to learn much reliable information for the target domain with previous learned knowledge from a source domai...]]></summary>
+        <author>
+            <name>Honggui Han</name>
+        </author>
+        <author>
+            <name>Mengmeng Li</name>
+        </author>
+        <author>
+            <name>Junfei Qiao</name>
+        </author>
+        <author>
+            <name>Qing Yang</name>
+        </author>
+        <author>
+            <name>Yongzhen Peng</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dual Consistency-enhanced Semi-supervised Sentiment Analysis towards COVID-19 Tweets]]></title>
         <id>https://ieeexplore.ieee.org/document/10109879</id>

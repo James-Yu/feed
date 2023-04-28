@@ -1,5 +1,47 @@
 [
   {
+    "articleNumber": "10111500",
+    "articleTitle": "Deep Learning for Metro Short-Term Origin-Destination Passenger Flow Forecasting Considering Section Capacity Utilization Ratio",
+    "authors": [
+      "Yan Zhang",
+      "Keyang Sun",
+      "Di Wen",
+      "Dingjun Chen",
+      "Hongxia Lv",
+      "Qingpeng Zhang"
+    ],
+    "abstract": "Origin-destination (OD) short-term passenger flow forecasting (OD STPFF) in urban rail transit (URT) is essential for developing timely network measures. The capacity utilization ratios of critical sections are key factors in developing these measures. The OD pairs passing through critical sections require a higher prediction accuracy than others; however, most studies have raised equal concerns o...",
+    "date": "2023-04-28T20:08:37.729Z"
+  },
+  {
+    "articleNumber": "10111502",
+    "articleTitle": "Personalized Car-Following Control Based on a Hybrid of Reinforcement Learning and Supervised Learning",
+    "authors": [
+      "Dongjian Song",
+      "Bing Zhu",
+      "Jian Zhao",
+      "Jiayi Han",
+      "Zhicheng Chen"
+    ],
+    "abstract": "With the development of intelligent vehicles, more research has focused on achieving human-like driving. As an important component of intelligent vehicle control, car-following control should ensure safety, tracking, comfort while considering the acceptance of human drivers. In this paper, we propose a car-following control strategy  $\\bm{\\pi}_{\\bm{Hybrid}}$  based on a hybrid of reinforcement lea...",
+    "date": "2023-04-28T20:08:37.729Z"
+  },
+  {
+    "articleNumber": "10111501",
+    "articleTitle": "Stochastic Linear Quadratic Optimal Control of Speed and Position of Multiple Trains on a Single-Track Line",
+    "authors": [
+      "Chiara Bersani",
+      "Matteo Cardano",
+      "Stefano Lavaggi",
+      "Roberto Sacile",
+      "Simona Sacone",
+      "Mohamed Sallak",
+      "Enrico Zero"
+    ],
+    "abstract": "In the European Rail Traffic Management System (ERTMS), the Route Control Centre System (RCCS) supervises the distance between consecutive trains and generates movement authorities, i.e. the permission for a train to move to a specific location within the constraints of the infrastructure and with supervision of speed. In this work, a control model aimed at determining the speed and position of a ...",
+    "date": "2023-04-28T20:08:37.729Z"
+  },
+  {
     "articleNumber": "10110009",
     "articleTitle": "Temporal Information Fusion Network for Driving Behavior Prediction",
     "authors": [

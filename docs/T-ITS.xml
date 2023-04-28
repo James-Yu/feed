@@ -2,11 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/T-ITS.rss</id>
     <title>IEEE Transactions on Intelligent Transportation Systems</title>
-    <updated>2023-04-28T12:15:12.658Z</updated>
+    <updated>2023-04-28T20:08:37.733Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/T-ITS.rss"/>
     <subtitle>IEEE Transactions on Intelligent Transportation Systems</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Deep Learning for Metro Short-Term Origin-Destination Passenger Flow Forecasting Considering Section Capacity Utilization Ratio]]></title>
+        <id>https://ieeexplore.ieee.org/document/10111500</id>
+        <link href="https://ieeexplore.ieee.org/document/10111500"/>
+        <updated>2023-04-28T20:08:37.729Z</updated>
+        <summary type="html"><![CDATA[Origin-destination (OD) short-term passenger flow forecasting (OD STPFF) in urban rail transit (URT) is essential for developing timely network measures. The capacity utilization ratios of critical sections are key factors in developing these measures. The OD pairs passing through critical sections require a higher prediction accuracy than others; however, most studies have raised equal concerns o...]]></summary>
+        <author>
+            <name>Yan Zhang</name>
+        </author>
+        <author>
+            <name>Keyang Sun</name>
+        </author>
+        <author>
+            <name>Di Wen</name>
+        </author>
+        <author>
+            <name>Dingjun Chen</name>
+        </author>
+        <author>
+            <name>Hongxia Lv</name>
+        </author>
+        <author>
+            <name>Qingpeng Zhang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Personalized Car-Following Control Based on a Hybrid of Reinforcement Learning and Supervised Learning]]></title>
+        <id>https://ieeexplore.ieee.org/document/10111502</id>
+        <link href="https://ieeexplore.ieee.org/document/10111502"/>
+        <updated>2023-04-28T20:08:37.729Z</updated>
+        <summary type="html"><![CDATA[With the development of intelligent vehicles, more research has focused on achieving human-like driving. As an important component of intelligent vehicle control, car-following control should ensure safety, tracking, comfort while considering the acceptance of human drivers. In this paper, we propose a car-following control strategy  $\bm{\pi}_{\bm{Hybrid}}$  based on a hybrid of reinforcement lea...]]></summary>
+        <author>
+            <name>Dongjian Song</name>
+        </author>
+        <author>
+            <name>Bing Zhu</name>
+        </author>
+        <author>
+            <name>Jian Zhao</name>
+        </author>
+        <author>
+            <name>Jiayi Han</name>
+        </author>
+        <author>
+            <name>Zhicheng Chen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stochastic Linear Quadratic Optimal Control of Speed and Position of Multiple Trains on a Single-Track Line]]></title>
+        <id>https://ieeexplore.ieee.org/document/10111501</id>
+        <link href="https://ieeexplore.ieee.org/document/10111501"/>
+        <updated>2023-04-28T20:08:37.729Z</updated>
+        <summary type="html"><![CDATA[In the European Rail Traffic Management System (ERTMS), the Route Control Centre System (RCCS) supervises the distance between consecutive trains and generates movement authorities, i.e. the permission for a train to move to a specific location within the constraints of the infrastructure and with supervision of speed. In this work, a control model aimed at determining the speed and position of a ...]]></summary>
+        <author>
+            <name>Chiara Bersani</name>
+        </author>
+        <author>
+            <name>Matteo Cardano</name>
+        </author>
+        <author>
+            <name>Stefano Lavaggi</name>
+        </author>
+        <author>
+            <name>Roberto Sacile</name>
+        </author>
+        <author>
+            <name>Simona Sacone</name>
+        </author>
+        <author>
+            <name>Mohamed Sallak</name>
+        </author>
+        <author>
+            <name>Enrico Zero</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Temporal Information Fusion Network for Driving Behavior Prediction]]></title>
         <id>https://ieeexplore.ieee.org/document/10110009</id>

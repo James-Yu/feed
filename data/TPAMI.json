@@ -1,5 +1,20 @@
 [
   {
+    "articleNumber": "10112633",
+    "articleTitle": "Fast-SNARF: A Fast Deformer for Articulated Neural Fields",
+    "authors": [
+      "Xu Chen",
+      "Tianjian Jiang",
+      "Jie Song",
+      "Max Rietmann",
+      "Andreas Geiger",
+      "Michael J. Black",
+      "Otmar Hilliges"
+    ],
+    "abstract": "Neural fields have revolutionized the area of 3D reconstruction and novel view synthesis of rigid scenes. A key challenge in making such methods applicable to articulated objects, such as the human body, is to model the deformation of 3D locations between the rest pose (a canonical space) and the deformed space. We propose a new articulation module for neural fields, Fast-SNARF, which finds accura...",
+    "date": "2023-04-28T20:08:47.075Z"
+  },
+  {
     "articleNumber": "10109834",
     "articleTitle": "Measuring Human Perception to Improve Open Set Recognition",
     "authors": [

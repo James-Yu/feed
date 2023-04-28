@@ -1,5 +1,42 @@
 [
   {
+    "articleNumber": "10110981",
+    "articleTitle": "DMRA: Model Usability Detection Scheme against Model-Reuse Attacks in the Internet of Things",
+    "authors": [
+      "Qihao Dong",
+      "Xu Zheng",
+      "Anmin Fu",
+      "Mang Su",
+      "Lei Zhou",
+      "Shui Yu"
+    ],
+    "abstract": "Internet of Things (IoT) devices can utilize deep learning to boost their intelligence, but also suffer from the long model training process. IoT devices thus may reuse public pre-trained models to expedite the training through transfer learning. However, pre-trained models may be subject to model-reuse attacks initiated by malicious deep learning servers, causing models to misclassify targeted da...",
+    "date": "2023-04-28T20:08:50.949Z"
+  },
+  {
+    "articleNumber": "10110985",
+    "articleTitle": "A Long-Short-Term Memory-Based Model for Kinesthetic Data Reduction",
+    "authors": [
+      "Qifang Deng",
+      "Toktam Mahmoodi",
+      "A. Hamid Aghvami"
+    ],
+    "abstract": "This paper proposes a novel mathematical model for teleoperation over communication networks. For teleoperation over a communication network, a high packet rate can result in inefficient data transmission and cross-traffic problems, leading to extra delay and jitter. This paper proposes an LSTM-based mathematical model which focuses on kinesthetic data reduction without loss of transparency during...",
+    "date": "2023-04-28T20:08:50.950Z"
+  },
+  {
+    "articleNumber": "10110972",
+    "articleTitle": "A Novel Minimum Distance Constraint Method Enhanced Dual-Foot-Mounted Inertial Navigation System for Pedestrian Positioning",
+    "authors": [
+      "Tao Liu",
+      "Jian Kuang",
+      "You Li",
+      "Xiaoji Niu"
+    ],
+    "abstract": "Foot-mounted inertial navigation system (Foot-INS) with the zero velocity update (ZUPT) has become one of the indispensable technical means in professional pedestrian positioning fields due to the advantages of self-constraint and immune to environmental factors. The dual-Foot-INS can provide more excellent autonomous positioning performance than a single-Foot-INS because it utilizes more opportun...",
+    "date": "2023-04-28T20:08:50.950Z"
+  },
+  {
     "articleNumber": "10109761",
     "articleTitle": "FDPR: A Novel Fog Data Prediction and Recovery using Efficient DL in IoT Networks",
     "authors": [
