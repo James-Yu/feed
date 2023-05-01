@@ -1,5 +1,58 @@
 [
   {
+    "articleNumber": "10113208",
+    "articleTitle": "Collaborative Semantic Aggregation and Calibration for Federated Domain Generalization",
+    "authors": [
+      "Junkun Yuan",
+      "Xu Ma",
+      "Defang Chen",
+      "Fei Wu",
+      "Lanfen Lin",
+      "Kun Kuang"
+    ],
+    "abstract": "Domain generalization (DG) aims to learn from multiple known source domains a model that can generalize well to unknown target domains. The existing DG methods usually exploit the fusion of shared multi-source data to train a generalizable model. However, tremendous data is distributed across lots of places nowadays that can not be shared due to privacy policies. In this paper, we tackle the probl...",
+    "date": "2023-05-01T20:09:14.109Z"
+  },
+  {
+    "articleNumber": "10113198",
+    "articleTitle": "OMG: Towards Effective Graph Classification Against Label Noise",
+    "authors": [
+      "Nan Yin",
+      "Li Shen",
+      "Mengzhu Wang",
+      "Xiao Luo",
+      "Zhigang Luo",
+      "Dacheng Tao"
+    ],
+    "abstract": "Graph classification is a fundamental problem with diverse applications in bioinformatics and chemistry. Due to the intricate procedures of manual annotations in graphical domains, there may be abundant noisy labels of graphs in practice, resulting in poor performance for existing supervised methods. Thus, it is necessary and urgent to study the problem of graph classification with label noise. Ho...",
+    "date": "2023-05-01T20:09:14.109Z"
+  },
+  {
+    "articleNumber": "10113741",
+    "articleTitle": "Towards Adaptive Information Fusion in Graph Convolutional Networks",
+    "authors": [
+      "Meiqi Zhu",
+      "Xiao Wang",
+      "Chuan Shi",
+      "Yibo Li",
+      "Junping Du"
+    ],
+    "abstract": "Graph Convolutional Networks (GCNs) have gained great popularity in tackling various analytic tasks on graph and network data. However, some recent studies raise concerns about whether GCNs can optimally integrate node features and topological structures in a complex graph. In this paper, we first present an experimental investigation. Surprisingly, our experimental results clearly show that the c...",
+    "date": "2023-05-01T20:09:14.109Z"
+  },
+  {
+    "articleNumber": "10113193",
+    "articleTitle": "No DBA? No Regret! Multi-Armed Bandits for Index Tuning of Analytical and HTAP Workloads With Provable Guarantees",
+    "authors": [
+      "R. Malinga Perera",
+      "Bastian Oetomo",
+      "Benjamin I. P. Rubinstein",
+      "Renata Borovica-Gajic"
+    ],
+    "abstract": "Automating physical database design has remained a long-term interest in database research due to substantial performance gains afforded by optimised structures. Despite significant progress, a majority of today&#39;s commercial solutions are highly manual, requiring offline invocation by database administrators (DBAs). This status quo is untenable: identifying representative static workloads is no lo...",
+    "date": "2023-05-01T20:09:14.109Z"
+  },
+  {
     "articleNumber": "10111040",
     "articleTitle": "GSim: A Graph Neural Network Based Relevance Measure for Heterogeneous Graphs",
     "authors": [

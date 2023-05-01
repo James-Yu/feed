@@ -2,11 +2,126 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/TPAMI.rss</id>
     <title>IEEE Transactions on Pattern Analysis and Machine Intelligence</title>
-    <updated>2023-05-01T16:10:58.533Z</updated>
+    <updated>2023-05-01T20:09:18.615Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/TPAMI.rss"/>
     <subtitle>IEEE Transactions on Pattern Analysis and Machine Intelligence</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Recent Advances for Quantum Neural Networks in Generative Learning]]></title>
+        <id>https://ieeexplore.ieee.org/document/10113742</id>
+        <link href="https://ieeexplore.ieee.org/document/10113742"/>
+        <updated>2023-05-01T20:09:18.610Z</updated>
+        <summary type="html"><![CDATA[Quantum computers are next-generation devices that hold promise to perform calculations beyond the reach of classical computers. A leading method towards achieving this goal is through quantum machine learning, especially quantum generative learning. Due to the intrinsic probabilistic nature of quantum mechanics, it is reasonable to postulate that quantum generative learning models (QGLMs) may sur...]]></summary>
+        <author>
+            <name>Jinkai Tian</name>
+        </author>
+        <author>
+            <name>Xiaoyu Sun</name>
+        </author>
+        <author>
+            <name>Yuxuan Du</name>
+        </author>
+        <author>
+            <name>Shanshan Zhao</name>
+        </author>
+        <author>
+            <name>Qing Liu</name>
+        </author>
+        <author>
+            <name>Kaining Zhang</name>
+        </author>
+        <author>
+            <name>Wei Yi</name>
+        </author>
+        <author>
+            <name>Wanrong Huang</name>
+        </author>
+        <author>
+            <name>Chaoyue Wang</name>
+        </author>
+        <author>
+            <name>Xingyao Wu</name>
+        </author>
+        <author>
+            <name>Min-Hsiu Hsieh</name>
+        </author>
+        <author>
+            <name>Tongliang Liu</name>
+        </author>
+        <author>
+            <name>Wenjing Yang</name>
+        </author>
+        <author>
+            <name>Dacheng Tao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CMW-Net: Learning a Class-Aware Sample Weighting Mapping for Robust Deep Learning]]></title>
+        <id>https://ieeexplore.ieee.org/document/10113668</id>
+        <link href="https://ieeexplore.ieee.org/document/10113668"/>
+        <updated>2023-05-01T20:09:18.610Z</updated>
+        <summary type="html"><![CDATA[Modern deep neural networks (DNNs) can easily overfit to biased training data containing corrupted labels or class imbalance. Sample re-weighting methods are popularly used to alleviate this data bias issue. Most current methods, however, require manually pre-specifying the weighting schemes as well as their additional hyper-parameters relying on the characteristics of the investigated problem and...]]></summary>
+        <author>
+            <name>Jun Shu</name>
+        </author>
+        <author>
+            <name>Xiang Yuan</name>
+        </author>
+        <author>
+            <name>Deyu Meng</name>
+        </author>
+        <author>
+            <name>Zongben Xu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PyMAF-X: Towards Well-Aligned Full-Body Model Regression From Monocular Images]]></title>
+        <id>https://ieeexplore.ieee.org/document/10113183</id>
+        <link href="https://ieeexplore.ieee.org/document/10113183"/>
+        <updated>2023-05-01T20:09:18.610Z</updated>
+        <summary type="html"><![CDATA[We present PyMAF-X, a regression-based approach to recovering a parametric full-body model from a single image. This task is very challenging since minor parametric deviation may lead to noticeable misalignment between the estimated mesh and the input image. Moreover, when integrating part-specific estimations into the full-body model, existing solutions tend to either degrade the alignment or pro...]]></summary>
+        <author>
+            <name>Hongwen Zhang</name>
+        </author>
+        <author>
+            <name>Yating Tian</name>
+        </author>
+        <author>
+            <name>Yuxiang Zhang</name>
+        </author>
+        <author>
+            <name>Mengcheng Li</name>
+        </author>
+        <author>
+            <name>Liang An</name>
+        </author>
+        <author>
+            <name>Zhenan Sun</name>
+        </author>
+        <author>
+            <name>Yebin Liu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Variational Data-Free Knowledge Distillation for Continual Learning]]></title>
+        <id>https://ieeexplore.ieee.org/document/10113287</id>
+        <link href="https://ieeexplore.ieee.org/document/10113287"/>
+        <updated>2023-05-01T20:09:18.610Z</updated>
+        <summary type="html"><![CDATA[Deep neural networks suffer from catastrophic forgetting when trained on sequential tasks in continual learning. Various methods rely on storing data of previous tasks to mitigate catastrophic forgetting, which is prohibited in real-world applications considering privacy and security issues. In this paper, we consider a realistic setting of continual learning, where training data of previous tasks...]]></summary>
+        <author>
+            <name>Xiaorong Li</name>
+        </author>
+        <author>
+            <name>Shipeng Wang</name>
+        </author>
+        <author>
+            <name>Jian Sun</name>
+        </author>
+        <author>
+            <name>Zongben Xu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fast-SNARF: A Fast Deformer for Articulated Neural Fields]]></title>
         <id>https://ieeexplore.ieee.org/document/10112633</id>

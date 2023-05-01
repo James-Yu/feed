@@ -1,5 +1,66 @@
 [
   {
+    "articleNumber": "10113742",
+    "articleTitle": "Recent Advances for Quantum Neural Networks in Generative Learning",
+    "authors": [
+      "Jinkai Tian",
+      "Xiaoyu Sun",
+      "Yuxuan Du",
+      "Shanshan Zhao",
+      "Qing Liu",
+      "Kaining Zhang",
+      "Wei Yi",
+      "Wanrong Huang",
+      "Chaoyue Wang",
+      "Xingyao Wu",
+      "Min-Hsiu Hsieh",
+      "Tongliang Liu",
+      "Wenjing Yang",
+      "Dacheng Tao"
+    ],
+    "abstract": "Quantum computers are next-generation devices that hold promise to perform calculations beyond the reach of classical computers. A leading method towards achieving this goal is through quantum machine learning, especially quantum generative learning. Due to the intrinsic probabilistic nature of quantum mechanics, it is reasonable to postulate that quantum generative learning models (QGLMs) may sur...",
+    "date": "2023-05-01T20:09:18.610Z"
+  },
+  {
+    "articleNumber": "10113668",
+    "articleTitle": "CMW-Net: Learning a Class-Aware Sample Weighting Mapping for Robust Deep Learning",
+    "authors": [
+      "Jun Shu",
+      "Xiang Yuan",
+      "Deyu Meng",
+      "Zongben Xu"
+    ],
+    "abstract": "Modern deep neural networks (DNNs) can easily overfit to biased training data containing corrupted labels or class imbalance. Sample re-weighting methods are popularly used to alleviate this data bias issue. Most current methods, however, require manually pre-specifying the weighting schemes as well as their additional hyper-parameters relying on the characteristics of the investigated problem and...",
+    "date": "2023-05-01T20:09:18.610Z"
+  },
+  {
+    "articleNumber": "10113183",
+    "articleTitle": "PyMAF-X: Towards Well-Aligned Full-Body Model Regression From Monocular Images",
+    "authors": [
+      "Hongwen Zhang",
+      "Yating Tian",
+      "Yuxiang Zhang",
+      "Mengcheng Li",
+      "Liang An",
+      "Zhenan Sun",
+      "Yebin Liu"
+    ],
+    "abstract": "We present PyMAF-X, a regression-based approach to recovering a parametric full-body model from a single image. This task is very challenging since minor parametric deviation may lead to noticeable misalignment between the estimated mesh and the input image. Moreover, when integrating part-specific estimations into the full-body model, existing solutions tend to either degrade the alignment or pro...",
+    "date": "2023-05-01T20:09:18.610Z"
+  },
+  {
+    "articleNumber": "10113287",
+    "articleTitle": "Variational Data-Free Knowledge Distillation for Continual Learning",
+    "authors": [
+      "Xiaorong Li",
+      "Shipeng Wang",
+      "Jian Sun",
+      "Zongben Xu"
+    ],
+    "abstract": "Deep neural networks suffer from catastrophic forgetting when trained on sequential tasks in continual learning. Various methods rely on storing data of previous tasks to mitigate catastrophic forgetting, which is prohibited in real-world applications considering privacy and security issues. In this paper, we consider a realistic setting of continual learning, where training data of previous tasks...",
+    "date": "2023-05-01T20:09:18.610Z"
+  },
+  {
     "articleNumber": "10112633",
     "articleTitle": "Fast-SNARF: A Fast Deformer for Articulated Neural Fields",
     "authors": [

@@ -1,5 +1,134 @@
 [
   {
+    "articleNumber": "10113189",
+    "articleTitle": "Human-Robot Collaborative Scheduling in Energy-efficient Welding Shop",
+    "authors": [
+      "Chao Lu",
+      "Ren Gao",
+      "Lvjiang Yin",
+      "Biao Zhang"
+    ],
+    "abstract": "Human-robot collaborative scheduling has been widely applied in modern manufacturing industry. A rational scheduling of human-robot cooperation plays an important role in improving production efficiency. However, human-robot collaborative scheduling problem in welding production has not been studied so far. Thus, this paper addresses a human-robot collaborative welding shop scheduling problem (HCW...",
+    "date": "2023-05-01T20:09:27.795Z"
+  },
+  {
+    "articleNumber": "10113195",
+    "articleTitle": "Improving Performance of Disturbance Rejection for Nonlinear Systems Using Improved Equivalent-Input-Disturbance Approach",
+    "authors": [
+      "Youwu Du",
+      "Jinhua She",
+      "Weihua Cao"
+    ],
+    "abstract": "Disturbance rejection for industrial control systems with nonlinearities is a challenge. A disturbance-rejection control paradigm has been proposed to handle disturbances and nonlinearities by simply treating them as a total disturbance. However, this simplification has performance limitations as the characteristics of disturbances and nonlinearities are usually different. To this end, an extra de...",
+    "date": "2023-05-01T20:09:27.795Z"
+  },
+  {
+    "articleNumber": "10113750",
+    "articleTitle": "UAV Remotely-Powered Underground IoT for Soil Monitoring",
+    "authors": [
+      "Yu Luo",
+      "Lina Pu"
+    ],
+    "abstract": "This article introduces a practical approach to wirelessly charge underground Internet of things (UIoT) for soil monitoring using ultra high frequency (UHF) radio energy. In the proposed system, UIoT nodes do not require batteries or any aboveground attachments (e.g., solar panel). Instead, they harvest 915MHz radio energy emitted from an unmanned aerial vehicle (UAV) for semi-perpetual operation....",
+    "date": "2023-05-01T20:09:27.795Z"
+  },
+  {
+    "articleNumber": "10113650",
+    "articleTitle": "A Priori Knowledge-based Dual Hierarchical RNN for Spatial-Temporal Process Modeling: Using a Multi-Tubular Reactor as a Case Study",
+    "authors": [
+      "Pei Sun",
+      "Junghui Chen",
+      "Haoyi Que"
+    ],
+    "abstract": "Deep learning methods have been rapidly developed in recent decades. In this work, they are extended to model spatial-temporal industrial processes. Instead of pure black-box data-driven modeling approaches, the proposed model encodes the domain knowledge and physical rules governing the spatiotemporal system, called a dual-hierarchical recurrent neural network (DH-RNN). Both spatial and temporal ...",
+    "date": "2023-05-01T20:09:27.795Z"
+  },
+  {
+    "articleNumber": "10113184",
+    "articleTitle": "Adaptive Seamless Redundancy to Achieve Highly-Dependable MQTT Communication",
+    "authors": [
+      "Claudio Zunino",
+      "Gianluca Cena",
+      "Stefano Scanzio",
+      "Adriano Valenzano"
+    ],
+    "abstract": "Nowadays, large enterprises, critical infrastructures, and utilities are complex systems, and consist of a number of sub-systems, often located far away from each other, that coordinate their operations over geographic networks. Typically, they are interconnected through the Internet and communicate by means of TCP/IP-based protocols. When system-level resilience is required, extremely high depend...",
+    "date": "2023-05-01T20:09:27.795Z"
+  },
+  {
+    "articleNumber": "10113209",
+    "articleTitle": "Disturbance Rejection for Nonlinear Systems Using Nonlinear-State-Observer-Based Equivalent-Input-Disturbance Approach",
+    "authors": [
+      "Hantao Wang",
+      "Jinhua She",
+      "Feng Wang"
+    ],
+    "abstract": "This paper presents a nonlinear-state-observer-based equivalent-input-disturbance approach that rejects unknown exogenous disturbances while preserving intrinsic nonlinearities. First, a nonlinearity in a plant is decomposed into four parts in four subsystems based on controllability and observability. This system decomposition derives the intrinsic part of a nonlinearity. Second, the intrinsic no...",
+    "date": "2023-05-01T20:09:27.795Z"
+  },
+  {
+    "articleNumber": "10113227",
+    "articleTitle": "PerBlocks: A Reconfigurable Blockchain for Service Provisioning in Industrial Environment",
+    "authors": [
+      "Riya Tapwal",
+      "Sudip Misra",
+      "Surjya Kanta Pal"
+    ],
+    "abstract": "In this work, we propose a reconfigurable blockchain (BC) – “PerBlocks” – for handling data from heterogeneous activities and achieving scalability as well as throughput in the industrial environment. Typically, industries deal with pervasive deployment of various sensors, resulting in heterogeneous data with varying services. The adoption of conventional BC satisfies transparency, immutability, a...",
+    "date": "2023-05-01T20:09:27.795Z"
+  },
+  {
+    "articleNumber": "10113202",
+    "articleTitle": "Combined Electrical and Heat Load Restoration Based on Bi-Objective Distributionally Robust Optimization",
+    "authors": [
+      "Shuai Lu",
+      "Yuan Li",
+      "Shixing Ding",
+      "Wei Gu",
+      "Yijun Xu",
+      "Meng Song"
+    ],
+    "abstract": "As extreme events such as natural disasters and cyberattacks become more frequent, the resilience of energy systems has become increasingly important. However, due to the growing interdependence between natural gas, district heating, and power systems, the resilience of energy systems is becoming more and more complicated. Typical challenges include conflicts in the restoration of heterogeneous en...",
+    "date": "2023-05-01T20:09:27.795Z"
+  },
+  {
+    "articleNumber": "10113197",
+    "articleTitle": "Graph Mutual Mapping Transfer Networks for machine fault diagnosis",
+    "authors": [
+      "Zhaoqian Wu",
+      "Haolun Chen",
+      "Jie Han",
+      "Shaohui Zhang",
+      "Jinglun Liang",
+      "Fei Jiang"
+    ],
+    "abstract": "Graph neural network (GNN) as the mainstream method of graph processing in deep learning plays an important role in processing non-Euclidean spatial data. However, insufficient training samples weaken the model&#39;s transfer performance and feature generalization ability. What&#39;s more, the complicated calculations of the convolutional neural network (CNN) used in GNN lead to low convergence speed. The...",
+    "date": "2023-05-01T20:09:27.795Z"
+  },
+  {
+    "articleNumber": "10113200",
+    "articleTitle": "Vertices Packaging-based Interval Independent Component Analysis (VP-I2CA) for Fault Detection with Process Uncertainty",
+    "authors": [
+      "Shumei Zhang",
+      "Sijia Wang",
+      "Chunhui Zhao"
+    ],
+    "abstract": "The fault detection capability of traditional data-driven process monitoring methods is highly dependent on the quality of process data. However, affected by measurement noise, harsh operation scenarios and other factors, the process data are inevitably contaminated by uncertainty in real processes. In this paper, a vertices packaging-based interval independent component analysis (VP-I2CA) method ...",
+    "date": "2023-05-01T20:09:27.795Z"
+  },
+  {
+    "articleNumber": "10113185",
+    "articleTitle": "Continual deep residual reservoir computing for remaining useful life prediction",
+    "authors": [
+      "Tiancheng Wang",
+      "Huaping Liu",
+      "Di Guo",
+      "Xi-Ming Sun"
+    ],
+    "abstract": "In practical engineering applications, it is inevitable that the production is often faced with different working conditions. Therefore, it is necessary to have a continual learning system, which can adapt to a sequence of tasks and keep learning over the time. In this work, we propose a continual deep residual reservoir computing (DRRC) framework for the practical remaining useful life (RUL) pred...",
+    "date": "2023-05-01T20:09:27.795Z"
+  },
+  {
     "articleNumber": "10111021",
     "articleTitle": "Design and Implementation of a Mobile Experimental Application for Networked Control Systems",
     "authors": [

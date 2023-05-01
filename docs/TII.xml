@@ -2,11 +2,211 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/TII.rss</id>
     <title>IEEE Transactions on Industrial Informatics</title>
-    <updated>2023-05-01T16:11:10.042Z</updated>
+    <updated>2023-05-01T20:09:27.801Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/TII.rss"/>
     <subtitle>IEEE Transactions on Industrial Informatics</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Human-Robot Collaborative Scheduling in Energy-efficient Welding Shop]]></title>
+        <id>https://ieeexplore.ieee.org/document/10113189</id>
+        <link href="https://ieeexplore.ieee.org/document/10113189"/>
+        <updated>2023-05-01T20:09:27.795Z</updated>
+        <summary type="html"><![CDATA[Human-robot collaborative scheduling has been widely applied in modern manufacturing industry. A rational scheduling of human-robot cooperation plays an important role in improving production efficiency. However, human-robot collaborative scheduling problem in welding production has not been studied so far. Thus, this paper addresses a human-robot collaborative welding shop scheduling problem (HCW...]]></summary>
+        <author>
+            <name>Chao Lu</name>
+        </author>
+        <author>
+            <name>Ren Gao</name>
+        </author>
+        <author>
+            <name>Lvjiang Yin</name>
+        </author>
+        <author>
+            <name>Biao Zhang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improving Performance of Disturbance Rejection for Nonlinear Systems Using Improved Equivalent-Input-Disturbance Approach]]></title>
+        <id>https://ieeexplore.ieee.org/document/10113195</id>
+        <link href="https://ieeexplore.ieee.org/document/10113195"/>
+        <updated>2023-05-01T20:09:27.795Z</updated>
+        <summary type="html"><![CDATA[Disturbance rejection for industrial control systems with nonlinearities is a challenge. A disturbance-rejection control paradigm has been proposed to handle disturbances and nonlinearities by simply treating them as a total disturbance. However, this simplification has performance limitations as the characteristics of disturbances and nonlinearities are usually different. To this end, an extra de...]]></summary>
+        <author>
+            <name>Youwu Du</name>
+        </author>
+        <author>
+            <name>Jinhua She</name>
+        </author>
+        <author>
+            <name>Weihua Cao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UAV Remotely-Powered Underground IoT for Soil Monitoring]]></title>
+        <id>https://ieeexplore.ieee.org/document/10113750</id>
+        <link href="https://ieeexplore.ieee.org/document/10113750"/>
+        <updated>2023-05-01T20:09:27.795Z</updated>
+        <summary type="html"><![CDATA[This article introduces a practical approach to wirelessly charge underground Internet of things (UIoT) for soil monitoring using ultra high frequency (UHF) radio energy. In the proposed system, UIoT nodes do not require batteries or any aboveground attachments (e.g., solar panel). Instead, they harvest 915MHz radio energy emitted from an unmanned aerial vehicle (UAV) for semi-perpetual operation....]]></summary>
+        <author>
+            <name>Yu Luo</name>
+        </author>
+        <author>
+            <name>Lina Pu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Priori Knowledge-based Dual Hierarchical RNN for Spatial-Temporal Process Modeling: Using a Multi-Tubular Reactor as a Case Study]]></title>
+        <id>https://ieeexplore.ieee.org/document/10113650</id>
+        <link href="https://ieeexplore.ieee.org/document/10113650"/>
+        <updated>2023-05-01T20:09:27.795Z</updated>
+        <summary type="html"><![CDATA[Deep learning methods have been rapidly developed in recent decades. In this work, they are extended to model spatial-temporal industrial processes. Instead of pure black-box data-driven modeling approaches, the proposed model encodes the domain knowledge and physical rules governing the spatiotemporal system, called a dual-hierarchical recurrent neural network (DH-RNN). Both spatial and temporal ...]]></summary>
+        <author>
+            <name>Pei Sun</name>
+        </author>
+        <author>
+            <name>Junghui Chen</name>
+        </author>
+        <author>
+            <name>Haoyi Que</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adaptive Seamless Redundancy to Achieve Highly-Dependable MQTT Communication]]></title>
+        <id>https://ieeexplore.ieee.org/document/10113184</id>
+        <link href="https://ieeexplore.ieee.org/document/10113184"/>
+        <updated>2023-05-01T20:09:27.795Z</updated>
+        <summary type="html"><![CDATA[Nowadays, large enterprises, critical infrastructures, and utilities are complex systems, and consist of a number of sub-systems, often located far away from each other, that coordinate their operations over geographic networks. Typically, they are interconnected through the Internet and communicate by means of TCP/IP-based protocols. When system-level resilience is required, extremely high depend...]]></summary>
+        <author>
+            <name>Claudio Zunino</name>
+        </author>
+        <author>
+            <name>Gianluca Cena</name>
+        </author>
+        <author>
+            <name>Stefano Scanzio</name>
+        </author>
+        <author>
+            <name>Adriano Valenzano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Disturbance Rejection for Nonlinear Systems Using Nonlinear-State-Observer-Based Equivalent-Input-Disturbance Approach]]></title>
+        <id>https://ieeexplore.ieee.org/document/10113209</id>
+        <link href="https://ieeexplore.ieee.org/document/10113209"/>
+        <updated>2023-05-01T20:09:27.795Z</updated>
+        <summary type="html"><![CDATA[This paper presents a nonlinear-state-observer-based equivalent-input-disturbance approach that rejects unknown exogenous disturbances while preserving intrinsic nonlinearities. First, a nonlinearity in a plant is decomposed into four parts in four subsystems based on controllability and observability. This system decomposition derives the intrinsic part of a nonlinearity. Second, the intrinsic no...]]></summary>
+        <author>
+            <name>Hantao Wang</name>
+        </author>
+        <author>
+            <name>Jinhua She</name>
+        </author>
+        <author>
+            <name>Feng Wang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PerBlocks: A Reconfigurable Blockchain for Service Provisioning in Industrial Environment]]></title>
+        <id>https://ieeexplore.ieee.org/document/10113227</id>
+        <link href="https://ieeexplore.ieee.org/document/10113227"/>
+        <updated>2023-05-01T20:09:27.795Z</updated>
+        <summary type="html"><![CDATA[In this work, we propose a reconfigurable blockchain (BC) – “PerBlocks” – for handling data from heterogeneous activities and achieving scalability as well as throughput in the industrial environment. Typically, industries deal with pervasive deployment of various sensors, resulting in heterogeneous data with varying services. The adoption of conventional BC satisfies transparency, immutability, a...]]></summary>
+        <author>
+            <name>Riya Tapwal</name>
+        </author>
+        <author>
+            <name>Sudip Misra</name>
+        </author>
+        <author>
+            <name>Surjya Kanta Pal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Combined Electrical and Heat Load Restoration Based on Bi-Objective Distributionally Robust Optimization]]></title>
+        <id>https://ieeexplore.ieee.org/document/10113202</id>
+        <link href="https://ieeexplore.ieee.org/document/10113202"/>
+        <updated>2023-05-01T20:09:27.795Z</updated>
+        <summary type="html"><![CDATA[As extreme events such as natural disasters and cyberattacks become more frequent, the resilience of energy systems has become increasingly important. However, due to the growing interdependence between natural gas, district heating, and power systems, the resilience of energy systems is becoming more and more complicated. Typical challenges include conflicts in the restoration of heterogeneous en...]]></summary>
+        <author>
+            <name>Shuai Lu</name>
+        </author>
+        <author>
+            <name>Yuan Li</name>
+        </author>
+        <author>
+            <name>Shixing Ding</name>
+        </author>
+        <author>
+            <name>Wei Gu</name>
+        </author>
+        <author>
+            <name>Yijun Xu</name>
+        </author>
+        <author>
+            <name>Meng Song</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Graph Mutual Mapping Transfer Networks for machine fault diagnosis]]></title>
+        <id>https://ieeexplore.ieee.org/document/10113197</id>
+        <link href="https://ieeexplore.ieee.org/document/10113197"/>
+        <updated>2023-05-01T20:09:27.795Z</updated>
+        <summary type="html"><![CDATA[Graph neural network (GNN) as the mainstream method of graph processing in deep learning plays an important role in processing non-Euclidean spatial data. However, insufficient training samples weaken the model&#39;s transfer performance and feature generalization ability. What&#39;s more, the complicated calculations of the convolutional neural network (CNN) used in GNN lead to low convergence speed. The...]]></summary>
+        <author>
+            <name>Zhaoqian Wu</name>
+        </author>
+        <author>
+            <name>Haolun Chen</name>
+        </author>
+        <author>
+            <name>Jie Han</name>
+        </author>
+        <author>
+            <name>Shaohui Zhang</name>
+        </author>
+        <author>
+            <name>Jinglun Liang</name>
+        </author>
+        <author>
+            <name>Fei Jiang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vertices Packaging-based Interval Independent Component Analysis (VP-I2CA) for Fault Detection with Process Uncertainty]]></title>
+        <id>https://ieeexplore.ieee.org/document/10113200</id>
+        <link href="https://ieeexplore.ieee.org/document/10113200"/>
+        <updated>2023-05-01T20:09:27.795Z</updated>
+        <summary type="html"><![CDATA[The fault detection capability of traditional data-driven process monitoring methods is highly dependent on the quality of process data. However, affected by measurement noise, harsh operation scenarios and other factors, the process data are inevitably contaminated by uncertainty in real processes. In this paper, a vertices packaging-based interval independent component analysis (VP-I2CA) method ...]]></summary>
+        <author>
+            <name>Shumei Zhang</name>
+        </author>
+        <author>
+            <name>Sijia Wang</name>
+        </author>
+        <author>
+            <name>Chunhui Zhao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Continual deep residual reservoir computing for remaining useful life prediction]]></title>
+        <id>https://ieeexplore.ieee.org/document/10113185</id>
+        <link href="https://ieeexplore.ieee.org/document/10113185"/>
+        <updated>2023-05-01T20:09:27.795Z</updated>
+        <summary type="html"><![CDATA[In practical engineering applications, it is inevitable that the production is often faced with different working conditions. Therefore, it is necessary to have a continual learning system, which can adapt to a sequence of tasks and keep learning over the time. In this work, we propose a continual deep residual reservoir computing (DRRC) framework for the practical remaining useful life (RUL) pred...]]></summary>
+        <author>
+            <name>Tiancheng Wang</name>
+        </author>
+        <author>
+            <name>Huaping Liu</name>
+        </author>
+        <author>
+            <name>Di Guo</name>
+        </author>
+        <author>
+            <name>Xi-Ming Sun</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Design and Implementation of a Mobile Experimental Application for Networked Control Systems]]></title>
         <id>https://ieeexplore.ieee.org/document/10111021</id>

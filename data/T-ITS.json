@@ -1,5 +1,32 @@
 [
   {
+    "articleNumber": "10113478",
+    "articleTitle": "Treating Noise and Anomalies in Vehicle Trajectories From an Experiment With a Swarm of Drones",
+    "authors": [
+      "Vishal Mahajan",
+      "Emmanouil Barmpounakis",
+      "Md. Rakibul Alam",
+      "Nikolas Geroliminis",
+      "Constantinos Antoniou"
+    ],
+    "abstract": "Unmanned aerial systems, known as “drones”, are relatively new in collecting traffic data. Data from drone videography can have potential applications for traffic research. Drones can record the vehicles from their aerial point-of-view and provide their naturalistic driving behavior. Processing raw data from drones to remove noise and anomalies is crucial to ensure that the data are fit for subseq...",
+    "date": "2023-05-01T20:09:09.572Z"
+  },
+  {
+    "articleNumber": "10113302",
+    "articleTitle": "A Critical Scenario Search Method for Intelligent Vehicle Testing Based on the Social Cognitive Optimization Algorithm",
+    "authors": [
+      "Bing Zhu",
+      "Yuhang Sun",
+      "Jian Zhao",
+      "Jiayi Han",
+      "Peixing Zhang",
+      "Tianxin Fan"
+    ],
+    "abstract": "Intelligent vehicle testing has been a hotspot in the field of intelligent vehicles. Due to the multi-dimensional parameters and the continuity of testing scenarios, a complete test of all scenarios requires a large amount of manpower and several material resources. In critical scenarios, deficiencies in an intelligent vehicle’s performance and defects of an algorithm can be exposed. Therefore, in...",
+    "date": "2023-05-01T20:09:09.572Z"
+  },
+  {
     "articleNumber": "10111500",
     "articleTitle": "Deep Learning for Metro Short-Term Origin-Destination Passenger Flow Forecasting Considering Section Capacity Utilization Ratio",
     "authors": [

@@ -1,5 +1,133 @@
 [
   {
+    "articleNumber": "10113154",
+    "articleTitle": "AI for UAV-Assisted IoT Applications: A Comprehensive Review",
+    "authors": [
+      "Nan Cheng",
+      "Shen Wu",
+      "Xiucheng Wang",
+      "Zhisheng Yin",
+      "Changle Li",
+      "Wen Chen",
+      "Fangjiong Chen"
+    ],
+    "abstract": "With the rapid development of the Internet of Things (IoT), there are a dramatically increasing number of devices, leading to the fact that only using terrestrial infrastructure can hardly provide high-quality services to all devices. Due to their flexibility, maneuverability, and economy, unmanned aerial vehicles (UAVs) are widely used to improve the performance of IoT networks. UAVs can not only...",
+    "date": "2023-05-01T20:09:22.881Z"
+  },
+  {
+    "articleNumber": "10113685",
+    "articleTitle": "Load Balancing for Multi-Edge Collaboration in Wireless Metropolitan Area Networks: A Two-Stage Decision-Making Approach",
+    "authors": [
+      "Xing Chen",
+      "Zewei Yao",
+      "Zheyi Chen",
+      "Geyong Min",
+      "Xianghan Zheng",
+      "Chunming Rong"
+    ],
+    "abstract": "Mobile edge computing (MEC) relieves the latency and energy consumption of mobile applications by offloading computation-intensive tasks to nearby edges. In wireless metropolitan area networks (WMANs), edges can better provide computing services via advanced communication technologies. For improving the Quality-of-Service (QoS), edges need to be collaborated rather than working alone. However, the...",
+    "date": "2023-05-01T20:09:22.881Z"
+  },
+  {
+    "articleNumber": "10113678",
+    "articleTitle": "Towards Federated Learning Models Resistant to Adversarial Attacks",
+    "authors": [
+      "Fei Hu",
+      "Wuneng Zhou",
+      "Kaili Liao",
+      "Hongliang Li",
+      "Dongbing Tong"
+    ],
+    "abstract": "With the popularity of the internet of things (IoT) and crowdsensing, sample data are more detailed and diverse. Users tend to avoid uploading personal data for privacy protection. Federated Learning (FL) provides a new learning paradigm to complete training tasks without compromising user privacy. To deal with the challenge of malicious client attacks in FL systems, we present a Robust Framework ...",
+    "date": "2023-05-01T20:09:22.881Z"
+  },
+  {
+    "articleNumber": "10113731",
+    "articleTitle": "Semi-Autonomous In Vivo Computation in Internet of Bio-Nano Things",
+    "authors": [
+      "Muhammad Ali",
+      "Yifan Chen",
+      "Michael J. Cree"
+    ],
+    "abstract": "Magnetically assembled bioresorbable nanoswimmers can be used to highlight small tumors, thereby increasing the diagnostic capability of existing medical imaging techniques. Built upon our earlier work, this paper proposes a novel in vivo computational framework for early cancer detection. Engineered nanoswimmers experience a change in their physical properties under the influence of tumor-induced...",
+    "date": "2023-05-01T20:09:22.881Z"
+  },
+  {
+    "articleNumber": "10113171",
+    "articleTitle": "Pelican Gorilla Troop Optimization Based on Deep Feed Forward Neural Network for Human Activity Abnormality Detection in Smart Spaces",
+    "authors": [
+      "Chafik Berdjouh",
+      "Mohammed Charaf Eddine Meftah",
+      "Abdelkader Laouid",
+      "Mohammad Hammoudeh",
+      "Akshi Kumar"
+    ],
+    "abstract": "Healthcare management can be improved using artificial intelligence-powered Internet of Things (IoT) for remotely collecting and analyzing medical data. Home-based IoT healthcare proved its effectiveness in helping the elderly and people with special care needs enjoy safer and more independent living. Deep learning techniques improve the management of healthcare systems through intelligent analysi...",
+    "date": "2023-05-01T20:09:22.881Z"
+  },
+  {
+    "articleNumber": "10113720",
+    "articleTitle": "Secure Task Distribution with Verifiable Re-encryption in Mobile Crowdsensing Assisted Emergency IoT System",
+    "authors": [
+      "Liquan Jiang",
+      "Mamoun Alazab",
+      "Zhiguang Qin"
+    ],
+    "abstract": "Extreme events (such as earthquakes, hurricanes, etc.) pose a dual challenge to the reliability and serviceability of IoT systems. With regard to this challenge, by publishing some tasks and then encouraging the public to assist in real-time data collection through their mobile terminals (namely, the mobile crowdsourcing-assisted IoT systems), is expected to play an important role in secondary dis...",
+    "date": "2023-05-01T20:09:22.881Z"
+  },
+  {
+    "articleNumber": "10113618",
+    "articleTitle": "A Three Factor based Authentication Scheme of 5G Wireless Sensor Networks for IoT System",
+    "authors": [
+      "Shreeya Swagatika Sahoo",
+      "Sujata Mohanty",
+      "Kshira Sagar Sahoo",
+      "Mahmoud Daneshmand",
+      "Amir H. Gandomi"
+    ],
+    "abstract": "Internet of Things (IoT) is an expanding technology that facilitate physical devices to inter-connect each other over a public channel. Moreover, the security of the next-generation wireless mobile communication technology, namely 5G with IoT, has been a field of much interest among researchers in the last several years. Previously, Sharif et al. had suggested an IoTbased lightweight three-party a...",
+    "date": "2023-05-01T20:09:22.881Z"
+  },
+  {
+    "articleNumber": "10112646",
+    "articleTitle": "Autonomous Aerial-Ground Cooperative Navigation Based on Information-Seeking in GNSS-Denied Environments",
+    "authors": [
+      "Jian Li",
+      "Gongliu Yang",
+      "Qingzhong Cai"
+    ],
+    "abstract": "The cooperative aerial-ground robotic team attracts increasing attention for diverse Internet-of-Things (IoT) applications. A navigation system is essential for the team to collectively localize itself and execute missions. In this paper, we propose an autonomous information-seeking navigation method in global navigation satellite system (GNSS) denied environments. Specifically, we first provide a...",
+    "date": "2023-05-01T20:09:22.881Z"
+  },
+  {
+    "articleNumber": "10113166",
+    "articleTitle": "Optimal Resource Management for Hierarchical Federated Learning over HetNets with Wireless Energy Transfer",
+    "authors": [
+      "Rami Hamdi",
+      "Ahmed Ben Said",
+      "Emna Baccour",
+      "Aiman Erbad",
+      "Amr Mohamed",
+      "Mounir Hamdi",
+      "Mohsen Guizani"
+    ],
+    "abstract": "Remote monitoring systems analyze the environment dynamics in different smart industrial applications, such as occupational health and safety, and environmental monitoring. Specifically, in industrial Internet of Things (IoT) systems, the huge number of devices and the expected performance put pressure on resources, such as computational, network, and device energy. Distributed training of Machine...",
+    "date": "2023-05-01T20:09:22.881Z"
+  },
+  {
+    "articleNumber": "10113680",
+    "articleTitle": "A Comprehensive Physical Layer Security Mechanism for Mobile Edge Computing",
+    "authors": [
+      "Yichao Chen",
+      "Kai Zhao",
+      "Heng Zhang",
+      "Shibo He"
+    ],
+    "abstract": "Mobile edge computing (MEC) is becoming popular in many civilian applications. However, due to the broadcast nature of wireless connections, traditional MEC is open to eavesdropping attacks that endanger mobile users’ information confidentiality. Friendly jamming (FJ), as one of the physical layer security techniques, can efficiently protect users from such threats by degrading attackers’ wiretap ...",
+    "date": "2023-05-01T20:09:22.881Z"
+  },
+  {
     "articleNumber": "10110981",
     "articleTitle": "DMRA: Model Usability Detection Scheme against Model-Reuse Attacks in the Internet of Things",
     "authors": [

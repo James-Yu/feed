@@ -2,11 +2,102 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/TKDE.rss</id>
     <title>IEEE Transactions on Knowledge and Data Engineering</title>
-    <updated>2023-05-01T16:10:52.728Z</updated>
+    <updated>2023-05-01T20:09:14.113Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/TKDE.rss"/>
     <subtitle>IEEE Transactions on Knowledge and Data Engineering</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Collaborative Semantic Aggregation and Calibration for Federated Domain Generalization]]></title>
+        <id>https://ieeexplore.ieee.org/document/10113208</id>
+        <link href="https://ieeexplore.ieee.org/document/10113208"/>
+        <updated>2023-05-01T20:09:14.109Z</updated>
+        <summary type="html"><![CDATA[Domain generalization (DG) aims to learn from multiple known source domains a model that can generalize well to unknown target domains. The existing DG methods usually exploit the fusion of shared multi-source data to train a generalizable model. However, tremendous data is distributed across lots of places nowadays that can not be shared due to privacy policies. In this paper, we tackle the probl...]]></summary>
+        <author>
+            <name>Junkun Yuan</name>
+        </author>
+        <author>
+            <name>Xu Ma</name>
+        </author>
+        <author>
+            <name>Defang Chen</name>
+        </author>
+        <author>
+            <name>Fei Wu</name>
+        </author>
+        <author>
+            <name>Lanfen Lin</name>
+        </author>
+        <author>
+            <name>Kun Kuang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OMG: Towards Effective Graph Classification Against Label Noise]]></title>
+        <id>https://ieeexplore.ieee.org/document/10113198</id>
+        <link href="https://ieeexplore.ieee.org/document/10113198"/>
+        <updated>2023-05-01T20:09:14.109Z</updated>
+        <summary type="html"><![CDATA[Graph classification is a fundamental problem with diverse applications in bioinformatics and chemistry. Due to the intricate procedures of manual annotations in graphical domains, there may be abundant noisy labels of graphs in practice, resulting in poor performance for existing supervised methods. Thus, it is necessary and urgent to study the problem of graph classification with label noise. Ho...]]></summary>
+        <author>
+            <name>Nan Yin</name>
+        </author>
+        <author>
+            <name>Li Shen</name>
+        </author>
+        <author>
+            <name>Mengzhu Wang</name>
+        </author>
+        <author>
+            <name>Xiao Luo</name>
+        </author>
+        <author>
+            <name>Zhigang Luo</name>
+        </author>
+        <author>
+            <name>Dacheng Tao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Towards Adaptive Information Fusion in Graph Convolutional Networks]]></title>
+        <id>https://ieeexplore.ieee.org/document/10113741</id>
+        <link href="https://ieeexplore.ieee.org/document/10113741"/>
+        <updated>2023-05-01T20:09:14.109Z</updated>
+        <summary type="html"><![CDATA[Graph Convolutional Networks (GCNs) have gained great popularity in tackling various analytic tasks on graph and network data. However, some recent studies raise concerns about whether GCNs can optimally integrate node features and topological structures in a complex graph. In this paper, we first present an experimental investigation. Surprisingly, our experimental results clearly show that the c...]]></summary>
+        <author>
+            <name>Meiqi Zhu</name>
+        </author>
+        <author>
+            <name>Xiao Wang</name>
+        </author>
+        <author>
+            <name>Chuan Shi</name>
+        </author>
+        <author>
+            <name>Yibo Li</name>
+        </author>
+        <author>
+            <name>Junping Du</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[No DBA? No Regret! Multi-Armed Bandits for Index Tuning of Analytical and HTAP Workloads With Provable Guarantees]]></title>
+        <id>https://ieeexplore.ieee.org/document/10113193</id>
+        <link href="https://ieeexplore.ieee.org/document/10113193"/>
+        <updated>2023-05-01T20:09:14.109Z</updated>
+        <summary type="html"><![CDATA[Automating physical database design has remained a long-term interest in database research due to substantial performance gains afforded by optimised structures. Despite significant progress, a majority of today&#39;s commercial solutions are highly manual, requiring offline invocation by database administrators (DBAs). This status quo is untenable: identifying representative static workloads is no lo...]]></summary>
+        <author>
+            <name>R. Malinga Perera</name>
+        </author>
+        <author>
+            <name>Bastian Oetomo</name>
+        </author>
+        <author>
+            <name>Benjamin I. P. Rubinstein</name>
+        </author>
+        <author>
+            <name>Renata Borovica-Gajic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GSim: A Graph Neural Network Based Relevance Measure for Heterogeneous Graphs]]></title>
         <id>https://ieeexplore.ieee.org/document/10111040</id>

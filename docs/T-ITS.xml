@@ -2,11 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/T-ITS.rss</id>
     <title>IEEE Transactions on Intelligent Transportation Systems</title>
-    <updated>2023-05-01T16:10:46.556Z</updated>
+    <updated>2023-05-01T20:09:09.576Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/T-ITS.rss"/>
     <subtitle>IEEE Transactions on Intelligent Transportation Systems</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Treating Noise and Anomalies in Vehicle Trajectories From an Experiment With a Swarm of Drones]]></title>
+        <id>https://ieeexplore.ieee.org/document/10113478</id>
+        <link href="https://ieeexplore.ieee.org/document/10113478"/>
+        <updated>2023-05-01T20:09:09.572Z</updated>
+        <summary type="html"><![CDATA[Unmanned aerial systems, known as “drones”, are relatively new in collecting traffic data. Data from drone videography can have potential applications for traffic research. Drones can record the vehicles from their aerial point-of-view and provide their naturalistic driving behavior. Processing raw data from drones to remove noise and anomalies is crucial to ensure that the data are fit for subseq...]]></summary>
+        <author>
+            <name>Vishal Mahajan</name>
+        </author>
+        <author>
+            <name>Emmanouil Barmpounakis</name>
+        </author>
+        <author>
+            <name>Md. Rakibul Alam</name>
+        </author>
+        <author>
+            <name>Nikolas Geroliminis</name>
+        </author>
+        <author>
+            <name>Constantinos Antoniou</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Critical Scenario Search Method for Intelligent Vehicle Testing Based on the Social Cognitive Optimization Algorithm]]></title>
+        <id>https://ieeexplore.ieee.org/document/10113302</id>
+        <link href="https://ieeexplore.ieee.org/document/10113302"/>
+        <updated>2023-05-01T20:09:09.572Z</updated>
+        <summary type="html"><![CDATA[Intelligent vehicle testing has been a hotspot in the field of intelligent vehicles. Due to the multi-dimensional parameters and the continuity of testing scenarios, a complete test of all scenarios requires a large amount of manpower and several material resources. In critical scenarios, deficiencies in an intelligent vehicle’s performance and defects of an algorithm can be exposed. Therefore, in...]]></summary>
+        <author>
+            <name>Bing Zhu</name>
+        </author>
+        <author>
+            <name>Yuhang Sun</name>
+        </author>
+        <author>
+            <name>Jian Zhao</name>
+        </author>
+        <author>
+            <name>Jiayi Han</name>
+        </author>
+        <author>
+            <name>Peixing Zhang</name>
+        </author>
+        <author>
+            <name>Tianxin Fan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Deep Learning for Metro Short-Term Origin-Destination Passenger Flow Forecasting Considering Section Capacity Utilization Ratio]]></title>
         <id>https://ieeexplore.ieee.org/document/10111500</id>

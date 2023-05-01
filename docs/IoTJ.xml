@@ -2,11 +2,225 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/IoTJ.rss</id>
     <title>IEEE Internet of Things Journal</title>
-    <updated>2023-05-01T16:11:04.227Z</updated>
+    <updated>2023-05-01T20:09:22.887Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/IoTJ.rss"/>
     <subtitle>IEEE Internet of Things Journal</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[AI for UAV-Assisted IoT Applications: A Comprehensive Review]]></title>
+        <id>https://ieeexplore.ieee.org/document/10113154</id>
+        <link href="https://ieeexplore.ieee.org/document/10113154"/>
+        <updated>2023-05-01T20:09:22.881Z</updated>
+        <summary type="html"><![CDATA[With the rapid development of the Internet of Things (IoT), there are a dramatically increasing number of devices, leading to the fact that only using terrestrial infrastructure can hardly provide high-quality services to all devices. Due to their flexibility, maneuverability, and economy, unmanned aerial vehicles (UAVs) are widely used to improve the performance of IoT networks. UAVs can not only...]]></summary>
+        <author>
+            <name>Nan Cheng</name>
+        </author>
+        <author>
+            <name>Shen Wu</name>
+        </author>
+        <author>
+            <name>Xiucheng Wang</name>
+        </author>
+        <author>
+            <name>Zhisheng Yin</name>
+        </author>
+        <author>
+            <name>Changle Li</name>
+        </author>
+        <author>
+            <name>Wen Chen</name>
+        </author>
+        <author>
+            <name>Fangjiong Chen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Load Balancing for Multi-Edge Collaboration in Wireless Metropolitan Area Networks: A Two-Stage Decision-Making Approach]]></title>
+        <id>https://ieeexplore.ieee.org/document/10113685</id>
+        <link href="https://ieeexplore.ieee.org/document/10113685"/>
+        <updated>2023-05-01T20:09:22.881Z</updated>
+        <summary type="html"><![CDATA[Mobile edge computing (MEC) relieves the latency and energy consumption of mobile applications by offloading computation-intensive tasks to nearby edges. In wireless metropolitan area networks (WMANs), edges can better provide computing services via advanced communication technologies. For improving the Quality-of-Service (QoS), edges need to be collaborated rather than working alone. However, the...]]></summary>
+        <author>
+            <name>Xing Chen</name>
+        </author>
+        <author>
+            <name>Zewei Yao</name>
+        </author>
+        <author>
+            <name>Zheyi Chen</name>
+        </author>
+        <author>
+            <name>Geyong Min</name>
+        </author>
+        <author>
+            <name>Xianghan Zheng</name>
+        </author>
+        <author>
+            <name>Chunming Rong</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Towards Federated Learning Models Resistant to Adversarial Attacks]]></title>
+        <id>https://ieeexplore.ieee.org/document/10113678</id>
+        <link href="https://ieeexplore.ieee.org/document/10113678"/>
+        <updated>2023-05-01T20:09:22.881Z</updated>
+        <summary type="html"><![CDATA[With the popularity of the internet of things (IoT) and crowdsensing, sample data are more detailed and diverse. Users tend to avoid uploading personal data for privacy protection. Federated Learning (FL) provides a new learning paradigm to complete training tasks without compromising user privacy. To deal with the challenge of malicious client attacks in FL systems, we present a Robust Framework ...]]></summary>
+        <author>
+            <name>Fei Hu</name>
+        </author>
+        <author>
+            <name>Wuneng Zhou</name>
+        </author>
+        <author>
+            <name>Kaili Liao</name>
+        </author>
+        <author>
+            <name>Hongliang Li</name>
+        </author>
+        <author>
+            <name>Dongbing Tong</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Semi-Autonomous In Vivo Computation in Internet of Bio-Nano Things]]></title>
+        <id>https://ieeexplore.ieee.org/document/10113731</id>
+        <link href="https://ieeexplore.ieee.org/document/10113731"/>
+        <updated>2023-05-01T20:09:22.881Z</updated>
+        <summary type="html"><![CDATA[Magnetically assembled bioresorbable nanoswimmers can be used to highlight small tumors, thereby increasing the diagnostic capability of existing medical imaging techniques. Built upon our earlier work, this paper proposes a novel in vivo computational framework for early cancer detection. Engineered nanoswimmers experience a change in their physical properties under the influence of tumor-induced...]]></summary>
+        <author>
+            <name>Muhammad Ali</name>
+        </author>
+        <author>
+            <name>Yifan Chen</name>
+        </author>
+        <author>
+            <name>Michael J. Cree</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pelican Gorilla Troop Optimization Based on Deep Feed Forward Neural Network for Human Activity Abnormality Detection in Smart Spaces]]></title>
+        <id>https://ieeexplore.ieee.org/document/10113171</id>
+        <link href="https://ieeexplore.ieee.org/document/10113171"/>
+        <updated>2023-05-01T20:09:22.881Z</updated>
+        <summary type="html"><![CDATA[Healthcare management can be improved using artificial intelligence-powered Internet of Things (IoT) for remotely collecting and analyzing medical data. Home-based IoT healthcare proved its effectiveness in helping the elderly and people with special care needs enjoy safer and more independent living. Deep learning techniques improve the management of healthcare systems through intelligent analysi...]]></summary>
+        <author>
+            <name>Chafik Berdjouh</name>
+        </author>
+        <author>
+            <name>Mohammed Charaf Eddine Meftah</name>
+        </author>
+        <author>
+            <name>Abdelkader Laouid</name>
+        </author>
+        <author>
+            <name>Mohammad Hammoudeh</name>
+        </author>
+        <author>
+            <name>Akshi Kumar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Secure Task Distribution with Verifiable Re-encryption in Mobile Crowdsensing Assisted Emergency IoT System]]></title>
+        <id>https://ieeexplore.ieee.org/document/10113720</id>
+        <link href="https://ieeexplore.ieee.org/document/10113720"/>
+        <updated>2023-05-01T20:09:22.881Z</updated>
+        <summary type="html"><![CDATA[Extreme events (such as earthquakes, hurricanes, etc.) pose a dual challenge to the reliability and serviceability of IoT systems. With regard to this challenge, by publishing some tasks and then encouraging the public to assist in real-time data collection through their mobile terminals (namely, the mobile crowdsourcing-assisted IoT systems), is expected to play an important role in secondary dis...]]></summary>
+        <author>
+            <name>Liquan Jiang</name>
+        </author>
+        <author>
+            <name>Mamoun Alazab</name>
+        </author>
+        <author>
+            <name>Zhiguang Qin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Three Factor based Authentication Scheme of 5G Wireless Sensor Networks for IoT System]]></title>
+        <id>https://ieeexplore.ieee.org/document/10113618</id>
+        <link href="https://ieeexplore.ieee.org/document/10113618"/>
+        <updated>2023-05-01T20:09:22.881Z</updated>
+        <summary type="html"><![CDATA[Internet of Things (IoT) is an expanding technology that facilitate physical devices to inter-connect each other over a public channel. Moreover, the security of the next-generation wireless mobile communication technology, namely 5G with IoT, has been a field of much interest among researchers in the last several years. Previously, Sharif et al. had suggested an IoTbased lightweight three-party a...]]></summary>
+        <author>
+            <name>Shreeya Swagatika Sahoo</name>
+        </author>
+        <author>
+            <name>Sujata Mohanty</name>
+        </author>
+        <author>
+            <name>Kshira Sagar Sahoo</name>
+        </author>
+        <author>
+            <name>Mahmoud Daneshmand</name>
+        </author>
+        <author>
+            <name>Amir H. Gandomi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Autonomous Aerial-Ground Cooperative Navigation Based on Information-Seeking in GNSS-Denied Environments]]></title>
+        <id>https://ieeexplore.ieee.org/document/10112646</id>
+        <link href="https://ieeexplore.ieee.org/document/10112646"/>
+        <updated>2023-05-01T20:09:22.881Z</updated>
+        <summary type="html"><![CDATA[The cooperative aerial-ground robotic team attracts increasing attention for diverse Internet-of-Things (IoT) applications. A navigation system is essential for the team to collectively localize itself and execute missions. In this paper, we propose an autonomous information-seeking navigation method in global navigation satellite system (GNSS) denied environments. Specifically, we first provide a...]]></summary>
+        <author>
+            <name>Jian Li</name>
+        </author>
+        <author>
+            <name>Gongliu Yang</name>
+        </author>
+        <author>
+            <name>Qingzhong Cai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Optimal Resource Management for Hierarchical Federated Learning over HetNets with Wireless Energy Transfer]]></title>
+        <id>https://ieeexplore.ieee.org/document/10113166</id>
+        <link href="https://ieeexplore.ieee.org/document/10113166"/>
+        <updated>2023-05-01T20:09:22.881Z</updated>
+        <summary type="html"><![CDATA[Remote monitoring systems analyze the environment dynamics in different smart industrial applications, such as occupational health and safety, and environmental monitoring. Specifically, in industrial Internet of Things (IoT) systems, the huge number of devices and the expected performance put pressure on resources, such as computational, network, and device energy. Distributed training of Machine...]]></summary>
+        <author>
+            <name>Rami Hamdi</name>
+        </author>
+        <author>
+            <name>Ahmed Ben Said</name>
+        </author>
+        <author>
+            <name>Emna Baccour</name>
+        </author>
+        <author>
+            <name>Aiman Erbad</name>
+        </author>
+        <author>
+            <name>Amr Mohamed</name>
+        </author>
+        <author>
+            <name>Mounir Hamdi</name>
+        </author>
+        <author>
+            <name>Mohsen Guizani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Comprehensive Physical Layer Security Mechanism for Mobile Edge Computing]]></title>
+        <id>https://ieeexplore.ieee.org/document/10113680</id>
+        <link href="https://ieeexplore.ieee.org/document/10113680"/>
+        <updated>2023-05-01T20:09:22.881Z</updated>
+        <summary type="html"><![CDATA[Mobile edge computing (MEC) is becoming popular in many civilian applications. However, due to the broadcast nature of wireless connections, traditional MEC is open to eavesdropping attacks that endanger mobile users’ information confidentiality. Friendly jamming (FJ), as one of the physical layer security techniques, can efficiently protect users from such threats by degrading attackers’ wiretap ...]]></summary>
+        <author>
+            <name>Yichao Chen</name>
+        </author>
+        <author>
+            <name>Kai Zhao</name>
+        </author>
+        <author>
+            <name>Heng Zhang</name>
+        </author>
+        <author>
+            <name>Shibo He</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DMRA: Model Usability Detection Scheme against Model-Reuse Attacks in the Internet of Things]]></title>
         <id>https://ieeexplore.ieee.org/document/10110981</id>
