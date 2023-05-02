@@ -1,5 +1,58 @@
 [
   {
+    "articleNumber": "10114601",
+    "articleTitle": "FLUID: Towards Efficient Continuous Transaction Processing in DAG-based Blockchains",
+    "authors": [
+      "Junpei Ni",
+      "Jiang Xiao",
+      "Shijie Zhang",
+      "Bo Li",
+      "Baochun Li",
+      "Hai Jin"
+    ],
+    "abstract": "In most blockchain-based application scenarios, a complete application logic consists of multiple continuous transactions, in which the initiation of one transaction depends on the confirmation result of the previous one. This mandates that continuous transactions must be processed in the correct order. Unfortunately, existing chain-based blockchains fail to effectively support continuous transact...",
+    "date": "2023-05-02T20:09:03.231Z"
+  },
+  {
+    "articleNumber": "10114503",
+    "articleTitle": "Anti-Money Laundering by Group-Aware Deep Graph Learning",
+    "authors": [
+      "Dawei Cheng",
+      "Yujia Ye",
+      "Sheng Xiang",
+      "Zhenwei Ma",
+      "Ying Zhang",
+      "Changjun Jiang"
+    ],
+    "abstract": "Anti-money laundering (AML) is a classical data mining problem in finance applications. As well known, money laundering (ML) is critical to the effective operation of transnational and organized crime, which affects a country&#39;s economy, government, and social wellbeings. Financial services organizations facilitate the movement of money and have been enlisted by governments to assist with the detec...",
+    "date": "2023-05-02T20:09:03.231Z"
+  },
+  {
+    "articleNumber": "10114584",
+    "articleTitle": "Online Learning With Incremental Feature Space and Bandit Feedback",
+    "authors": [
+      "Shilin Gu",
+      "Tingjin Luo",
+      "Ming He",
+      "Chenping Hou"
+    ],
+    "abstract": "Online learning is a fundamental paradigm for learning from continuous data stream. Tradition online learning approaches usually assume that the feature space of data stream is fixed and the incoming instance can always get the true label after making its prediction. However, in many real-world applications, such as the personalized recommender systems, the feature space may keep expanding due to ...",
+    "date": "2023-05-02T20:09:03.231Z"
+  },
+  {
+    "articleNumber": "10114565",
+    "articleTitle": "TransCP: A Transformer Pointer Network for Generic Entity Description Generation with Explicit Content-Planning",
+    "authors": [
+      "Bayu Distiawan Trisedya",
+      "Jianzhong Qi",
+      "Haitao Zheng",
+      "Flora D. Salim",
+      "Rui Zhang"
+    ],
+    "abstract": "We study neural data-to-text generation to generate a sentence to describe a target entity based on its attributes. Specifically, we address two problems of the encoder-decoder framework for data-to-text generation: i) how to encode a non-linear input (e.g., a set of attributes); and ii) how to order the attributes in the generated description. Existing studies focus on the encoding problem but do...",
+    "date": "2023-05-02T20:09:03.231Z"
+  },
+  {
     "articleNumber": "10113208",
     "articleTitle": "Collaborative Semantic Aggregation and Calibration for Federated Domain Generalization",
     "authors": [

@@ -2,11 +2,102 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/TKDE.rss</id>
     <title>IEEE Transactions on Knowledge and Data Engineering</title>
-    <updated>2023-05-02T12:16:26.306Z</updated>
+    <updated>2023-05-02T20:09:03.236Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/TKDE.rss"/>
     <subtitle>IEEE Transactions on Knowledge and Data Engineering</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[FLUID: Towards Efficient Continuous Transaction Processing in DAG-based Blockchains]]></title>
+        <id>https://ieeexplore.ieee.org/document/10114601</id>
+        <link href="https://ieeexplore.ieee.org/document/10114601"/>
+        <updated>2023-05-02T20:09:03.231Z</updated>
+        <summary type="html"><![CDATA[In most blockchain-based application scenarios, a complete application logic consists of multiple continuous transactions, in which the initiation of one transaction depends on the confirmation result of the previous one. This mandates that continuous transactions must be processed in the correct order. Unfortunately, existing chain-based blockchains fail to effectively support continuous transact...]]></summary>
+        <author>
+            <name>Junpei Ni</name>
+        </author>
+        <author>
+            <name>Jiang Xiao</name>
+        </author>
+        <author>
+            <name>Shijie Zhang</name>
+        </author>
+        <author>
+            <name>Bo Li</name>
+        </author>
+        <author>
+            <name>Baochun Li</name>
+        </author>
+        <author>
+            <name>Hai Jin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anti-Money Laundering by Group-Aware Deep Graph Learning]]></title>
+        <id>https://ieeexplore.ieee.org/document/10114503</id>
+        <link href="https://ieeexplore.ieee.org/document/10114503"/>
+        <updated>2023-05-02T20:09:03.231Z</updated>
+        <summary type="html"><![CDATA[Anti-money laundering (AML) is a classical data mining problem in finance applications. As well known, money laundering (ML) is critical to the effective operation of transnational and organized crime, which affects a country&#39;s economy, government, and social wellbeings. Financial services organizations facilitate the movement of money and have been enlisted by governments to assist with the detec...]]></summary>
+        <author>
+            <name>Dawei Cheng</name>
+        </author>
+        <author>
+            <name>Yujia Ye</name>
+        </author>
+        <author>
+            <name>Sheng Xiang</name>
+        </author>
+        <author>
+            <name>Zhenwei Ma</name>
+        </author>
+        <author>
+            <name>Ying Zhang</name>
+        </author>
+        <author>
+            <name>Changjun Jiang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Online Learning With Incremental Feature Space and Bandit Feedback]]></title>
+        <id>https://ieeexplore.ieee.org/document/10114584</id>
+        <link href="https://ieeexplore.ieee.org/document/10114584"/>
+        <updated>2023-05-02T20:09:03.231Z</updated>
+        <summary type="html"><![CDATA[Online learning is a fundamental paradigm for learning from continuous data stream. Tradition online learning approaches usually assume that the feature space of data stream is fixed and the incoming instance can always get the true label after making its prediction. However, in many real-world applications, such as the personalized recommender systems, the feature space may keep expanding due to ...]]></summary>
+        <author>
+            <name>Shilin Gu</name>
+        </author>
+        <author>
+            <name>Tingjin Luo</name>
+        </author>
+        <author>
+            <name>Ming He</name>
+        </author>
+        <author>
+            <name>Chenping Hou</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TransCP: A Transformer Pointer Network for Generic Entity Description Generation with Explicit Content-Planning]]></title>
+        <id>https://ieeexplore.ieee.org/document/10114565</id>
+        <link href="https://ieeexplore.ieee.org/document/10114565"/>
+        <updated>2023-05-02T20:09:03.231Z</updated>
+        <summary type="html"><![CDATA[We study neural data-to-text generation to generate a sentence to describe a target entity based on its attributes. Specifically, we address two problems of the encoder-decoder framework for data-to-text generation: i) how to encode a non-linear input (e.g., a set of attributes); and ii) how to order the attributes in the generated description. Existing studies focus on the encoding problem but do...]]></summary>
+        <author>
+            <name>Bayu Distiawan Trisedya</name>
+        </author>
+        <author>
+            <name>Jianzhong Qi</name>
+        </author>
+        <author>
+            <name>Haitao Zheng</name>
+        </author>
+        <author>
+            <name>Flora D. Salim</name>
+        </author>
+        <author>
+            <name>Rui Zhang</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Collaborative Semantic Aggregation and Calibration for Federated Domain Generalization]]></title>
         <id>https://ieeexplore.ieee.org/document/10113208</id>

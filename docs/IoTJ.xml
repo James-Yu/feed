@@ -2,11 +2,74 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/IoTJ.rss</id>
     <title>IEEE Internet of Things Journal</title>
-    <updated>2023-05-02T12:16:35.400Z</updated>
+    <updated>2023-05-02T20:09:15.573Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/IoTJ.rss"/>
     <subtitle>IEEE Internet of Things Journal</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Coupling Projection Synchronization of Three Chaotic Systems and Its Multi-Level Secure Communication via DNA CRNs]]></title>
+        <id>https://ieeexplore.ieee.org/document/10113897</id>
+        <link href="https://ieeexplore.ieee.org/document/10113897"/>
+        <updated>2023-05-02T20:09:15.567Z</updated>
+        <summary type="html"><![CDATA[The complete synchronization of two chaotic systems and its secure communication have been considered based on DNA chemical reaction networks (DNA CRNs). There are concerns about the security of the single-level chaotic secure communication system. Thereby a multi-level secure communication scheme is put forward via DNA CRNs in this work. Firstly, a three-variable chaotic system that consists of c...]]></summary>
+        <author>
+            <name>Junwei Sun</name>
+        </author>
+        <author>
+            <name>Mengjie Zang</name>
+        </author>
+        <author>
+            <name>Zicheng Wang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multiple Aerial Base Station Deployment and User Association Based on Binary Radio Map]]></title>
+        <id>https://ieeexplore.ieee.org/document/10113896</id>
+        <link href="https://ieeexplore.ieee.org/document/10113896"/>
+        <updated>2023-05-02T20:09:15.567Z</updated>
+        <summary type="html"><![CDATA[The utilization of the aerial base station (ABS) has been treated as a promising solution to the coverage, deployment and cost savings problems in the wireless networks. Different from the terrestrial networks, in the ABS assisted air-to-ground network, the service positions of ABSs and user association should be jointly optimized, which is challenging due to the unknown propagation environment in...]]></summary>
+        <author>
+            <name>Xiaochen Xia</name>
+        </author>
+        <author>
+            <name>Kui Xu</name>
+        </author>
+        <author>
+            <name>Wei Xie</name>
+        </author>
+        <author>
+            <name>Youyun Xu</name>
+        </author>
+        <author>
+            <name>Nan Sha</name>
+        </author>
+        <author>
+            <name>Yurong Wang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Continuous Object Tracking Scheme based on Two-stage Prediction in Industrial Internet of Things]]></title>
+        <id>https://ieeexplore.ieee.org/document/10113855</id>
+        <link href="https://ieeexplore.ieee.org/document/10113855"/>
+        <updated>2023-05-02T20:09:15.567Z</updated>
+        <summary type="html"><![CDATA[Due to the poisonousness, explosiveness, and diffuseness of some continuous objects (e.g., toxic gas, nuclear radiation, industrial dust), continuous object tracking has a pivotal role in protecting the safety of the people, especially in hazardous industries. To improve production safety, the Industrial Internet of Things (IIoT) has become a promising technology for continuous object tracking. Ho...]]></summary>
+        <author>
+            <name>Rao Fu</name>
+        </author>
+        <author>
+            <name>Yuanguo Bi</name>
+        </author>
+        <author>
+            <name>Guangjie Han</name>
+        </author>
+        <author>
+            <name>Chuan Lin</name>
+        </author>
+        <author>
+            <name>Hai Zhao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI for UAV-Assisted IoT Applications: A Comprehensive Review]]></title>
         <id>https://ieeexplore.ieee.org/document/10113154</id>

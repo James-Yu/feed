@@ -2,11 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/TPAMI.rss</id>
     <title>IEEE Transactions on Pattern Analysis and Machine Intelligence</title>
-    <updated>2023-05-02T12:16:31.266Z</updated>
+    <updated>2023-05-02T20:09:10.044Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/TPAMI.rss"/>
     <subtitle>IEEE Transactions on Pattern Analysis and Machine Intelligence</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Diffusion Mechanism in Residual Neural Network: Theory and Applications]]></title>
+        <id>https://ieeexplore.ieee.org/document/10114599</id>
+        <link href="https://ieeexplore.ieee.org/document/10114599"/>
+        <updated>2023-05-02T20:09:10.040Z</updated>
+        <summary type="html"><![CDATA[Diffusion, a fundamental internal mechanism emerging in many physical processes, describes the interaction among different objects. In many learning tasks with limited training samples, the diffusion connects the labeled and unlabeled data points and is a critical component for achieving high classification accuracy. Many existing deep learning approaches directly impose the fusion loss when train...]]></summary>
+        <author>
+            <name>Tangjun Wang</name>
+        </author>
+        <author>
+            <name>Zehao Dou</name>
+        </author>
+        <author>
+            <name>Chenglong Bao</name>
+        </author>
+        <author>
+            <name>Zuoqiang Shi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Recent Advances for Quantum Neural Networks in Generative Learning]]></title>
         <id>https://ieeexplore.ieee.org/document/10113742</id>

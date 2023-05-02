@@ -1,5 +1,17 @@
 [
   {
+    "articleNumber": "10114599",
+    "articleTitle": "Diffusion Mechanism in Residual Neural Network: Theory and Applications",
+    "authors": [
+      "Tangjun Wang",
+      "Zehao Dou",
+      "Chenglong Bao",
+      "Zuoqiang Shi"
+    ],
+    "abstract": "Diffusion, a fundamental internal mechanism emerging in many physical processes, describes the interaction among different objects. In many learning tasks with limited training samples, the diffusion connects the labeled and unlabeled data points and is a critical component for achieving high classification accuracy. Many existing deep learning approaches directly impose the fusion loss when train...",
+    "date": "2023-05-02T20:09:10.040Z"
+  },
+  {
     "articleNumber": "10113742",
     "articleTitle": "Recent Advances for Quantum Neural Networks in Generative Learning",
     "authors": [
