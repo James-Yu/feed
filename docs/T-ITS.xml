@@ -2,11 +2,184 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/T-ITS.rss</id>
     <title>IEEE Transactions on Intelligent Transportation Systems</title>
-    <updated>2023-05-03T16:10:41.375Z</updated>
+    <updated>2023-05-03T20:08:38.675Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/T-ITS.rss"/>
     <subtitle>IEEE Transactions on Intelligent Transportation Systems</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[The Static Adjustment Method of Secondary Suspension Load for Six-Axle Locomotives via Modified Mayfly Optimization Algorithm]]></title>
+        <id>https://ieeexplore.ieee.org/document/10115059</id>
+        <link href="https://ieeexplore.ieee.org/document/10115059"/>
+        <updated>2023-05-03T20:08:38.669Z</updated>
+        <summary type="html"><![CDATA[The static distribution of the static secondary suspension load has a significant impact on the adhesion, rim wear and passenger comfort of the locomotive. At present, the locomotive secondary suspension load adjustment is mainly realized by artificial padding to adjust the height of the spring. This process is not predictable, so it is difficult to complete the adjustment at one time, and it is l...]]></summary>
+        <author>
+            <name>Yuqi Xiao</name>
+        </author>
+        <author>
+            <name>Yongjun Wu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Graph Relational Reinforcement Learning for Mobile Robot Navigation in Large-Scale Crowded Environments]]></title>
+        <id>https://ieeexplore.ieee.org/document/10115223</id>
+        <link href="https://ieeexplore.ieee.org/document/10115223"/>
+        <updated>2023-05-03T20:08:38.669Z</updated>
+        <summary type="html"><![CDATA[Mobile robot autonomous navigation in large-scale environments with crowded dynamic objects and static obstacles is still an essential yet challenging task. Recent works have demonstrated the potential of using deep reinforcement learning to enable autonomous navigation in crowds. However, only considering the human-robot interactions results in short-sighted and unsafe behaviors, and they typical...]]></summary>
+        <author>
+            <name>Zhe Liu</name>
+        </author>
+        <author>
+            <name>Yu Zhai</name>
+        </author>
+        <author>
+            <name>Jiaming Li</name>
+        </author>
+        <author>
+            <name>Guangming Wang</name>
+        </author>
+        <author>
+            <name>Yanzi Miao</name>
+        </author>
+        <author>
+            <name>Hesheng Wang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unprotected Left-Turn Behavior Model Capturing Path Variations at Intersections]]></title>
+        <id>https://ieeexplore.ieee.org/document/10115056</id>
+        <link href="https://ieeexplore.ieee.org/document/10115056"/>
+        <updated>2023-05-03T20:08:38.669Z</updated>
+        <summary type="html"><![CDATA[Path dispersion (the spatial distribution of vehicular paths) is an important feature of traffic flow inside intersections and differs from traffic flow running along traffic lanes at road segment, especially under conflicting movements. The path dispersion reflects the operational features of traffic flow and is related to driving behaviour, arrival flow patterns, layout design, and the traffic c...]]></summary>
+        <author>
+            <name>Jing Zhao</name>
+        </author>
+        <author>
+            <name>Victor L. Knoop</name>
+        </author>
+        <author>
+            <name>Jian Sun</name>
+        </author>
+        <author>
+            <name>Zian Ma</name>
+        </author>
+        <author>
+            <name>Meng Wang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adaptive Switching Event-Triggered Control for Active Suspension Systems With Acceleration Performance Constraint]]></title>
+        <id>https://ieeexplore.ieee.org/document/10115058</id>
+        <link href="https://ieeexplore.ieee.org/document/10115058"/>
+        <updated>2023-05-03T20:08:38.669Z</updated>
+        <summary type="html"><![CDATA[This work focuses on an adaptive control problem for active suspension systems (ASSs) with the acceleration performance constraint over the controller area network (CAN). We aim to develop an effective event-triggered control technique to significantly reduce the communication burden of the CAN. To this end, an event-triggered mechanism based on the switching threshold is developed to obtain satis...]]></summary>
+        <author>
+            <name>Qiang Zeng</name>
+        </author>
+        <author>
+            <name>Jun Zhao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coordinated Planning of Fixed and Mobile Charging Facilities for Electric Vehicles on Highways]]></title>
+        <id>https://ieeexplore.ieee.org/document/10115055</id>
+        <link href="https://ieeexplore.ieee.org/document/10115055"/>
+        <updated>2023-05-03T20:08:38.669Z</updated>
+        <summary type="html"><![CDATA[This paper presents a bilevel planning framework to coordinate truck mobile chargers (TMCs) and fixed chargers (FCs) on highways to promote charging flexibility and provide more choices for electric vehicle (EV) users. A collaborative location optimization (CLO) approach is developed at the upper level to optimize the location of charging stations. Furthermore, a collaborative capacity optimizatio...]]></summary>
+        <author>
+            <name>Kecheng He</name>
+        </author>
+        <author>
+            <name>Hongjie Jia</name>
+        </author>
+        <author>
+            <name>Yunfei Mu</name>
+        </author>
+        <author>
+            <name>Xiaodan Yu</name>
+        </author>
+        <author>
+            <name>Xiaohong Dong</name>
+        </author>
+        <author>
+            <name>Youjun Deng</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Probabilistic Approach for Road-Users Detection]]></title>
+        <id>https://ieeexplore.ieee.org/document/10115057</id>
+        <link href="https://ieeexplore.ieee.org/document/10115057"/>
+        <updated>2023-05-03T20:08:38.669Z</updated>
+        <summary type="html"><![CDATA[Object detection in autonomous driving applications implies the detection and tracking of semantic objects that are commonly native to urban driving environments, as pedestrians and vehicles. One of the major challenges in state-of-the-art deep-learning based object detection are false positives which occur with overconfident scores. This is highly undesirable in autonomous driving and other criti...]]></summary>
+        <author>
+            <name>Gledson Melotti</name>
+        </author>
+        <author>
+            <name>Weihao Lu</name>
+        </author>
+        <author>
+            <name>Pedro Conde</name>
+        </author>
+        <author>
+            <name>Dezong Zhao</name>
+        </author>
+        <author>
+            <name>Alireza Asvadi</name>
+        </author>
+        <author>
+            <name>Nuno Gonçalves</name>
+        </author>
+        <author>
+            <name>Cristiano Premebida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amalgamating Vehicular Networks With Vehicular Clouds, AI, and Big Data for Next-Generation ITS Services]]></title>
+        <id>https://ieeexplore.ieee.org/document/10115063</id>
+        <link href="https://ieeexplore.ieee.org/document/10115063"/>
+        <updated>2023-05-03T20:08:38.669Z</updated>
+        <summary type="html"><![CDATA[Advances in the connected vehicle and cloud computing technologies, Big data, and artificial intelligence techniques have opened new research opportunities. We can integrate them to work out the issues originating from transportation complexities and offer improved services. In this work, we present a seamless multi-module multi-layer vehicular cloud computing system developed using resources of p...]]></summary>
+        <author>
+            <name>Nitin Singh Rajput</name>
+        </author>
+        <author>
+            <name>Upendra Singh</name>
+        </author>
+        <author>
+            <name>Amit Dua</name>
+        </author>
+        <author>
+            <name>Neeraj Kumar</name>
+        </author>
+        <author>
+            <name>Joel J. P. C. Rodrigues</name>
+        </author>
+        <author>
+            <name>Sheetal Sisodia</name>
+        </author>
+        <author>
+            <name>Mohammed Elhoseny</name>
+        </author>
+        <author>
+            <name>Yahya Lakys</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Robust Sparse Recovery Based Vehicles Location Estimation in Intelligent Transportation System]]></title>
+        <id>https://ieeexplore.ieee.org/document/10115062</id>
+        <link href="https://ieeexplore.ieee.org/document/10115062"/>
+        <updated>2023-05-03T20:08:38.669Z</updated>
+        <summary type="html"><![CDATA[An architecture for vehicle position estimation is introduced in this paper to tackle the issue of vehicles positioning in traffic congestion of intelligent transportation system (ITS). The introduced architecture is related to three unmanned aerial vehicles (UAVs) equipped with uniform linear array (ULA), ITS center and the terminal of position estimation, in which the UAV collect data from the U...]]></summary>
+        <author>
+            <name>Dandan Meng</name>
+        </author>
+        <author>
+            <name>Xin Li</name>
+        </author>
+        <author>
+            <name>Wei Wang</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Treating Noise and Anomalies in Vehicle Trajectories From an Experiment With a Swarm of Drones]]></title>
         <id>https://ieeexplore.ieee.org/document/10113478</id>

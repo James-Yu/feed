@@ -2,11 +2,185 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/TII.rss</id>
     <title>IEEE Transactions on Industrial Informatics</title>
-    <updated>2023-05-03T16:11:03.102Z</updated>
+    <updated>2023-05-03T20:08:56.815Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/TII.rss"/>
     <subtitle>IEEE Transactions on Industrial Informatics</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Online and Modular Energy Consumption Optimization of Industrial Robots]]></title>
+        <id>https://ieeexplore.ieee.org/document/10114975</id>
+        <link href="https://ieeexplore.ieee.org/document/10114975"/>
+        <updated>2023-05-03T20:08:56.808Z</updated>
+        <summary type="html"><![CDATA[Industrial robots contribute to a considerable amount of energy consumption in manufacturing. However, modeling the energy consumption of industrial robots is a complex problem as it requires considering components such as the robot controller, fans for cooling, the motor, the friction of the joints, and confidential parameters, and it is difficult to consider them all in modeling. Many authors in...]]></summary>
+        <author>
+            <name>Agajan Torayev</name>
+        </author>
+        <author>
+            <name>Giovanna Martínez-Arellano</name>
+        </author>
+        <author>
+            <name>Jack C Chaplin</name>
+        </author>
+        <author>
+            <name>David Sanderson</name>
+        </author>
+        <author>
+            <name>Svetan Ratchev</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Deep Learning Framework to Identify Remedial Action Schemes Against False Data Injection Cyberattacks Targeting Smart Power Systems]]></title>
+        <id>https://ieeexplore.ieee.org/document/10114972</id>
+        <link href="https://ieeexplore.ieee.org/document/10114972"/>
+        <updated>2023-05-03T20:08:56.808Z</updated>
+        <summary type="html"><![CDATA[This article proposes aremedial actionscheme (RAS) based on the concept of deep learning to mitigate the impacts of false data injection (FDI) cyberattacks on smart power systems. As a prerequisite of such a RAS, power system operator is being in attacker&#39;s shoe to scrutinize different scenarios of cyberattacks. In design of the RAS, long short-term memory (LSTM) cells have been integrated into a ...]]></summary>
+        <author>
+            <name>Ehsan Naderi</name>
+        </author>
+        <author>
+            <name>Arash Asrari</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Distributed Leader Follower Formation Control of Mobile Robots based on Bioinspired Neural Dynamics and Adaptive Sliding Innovation Filter]]></title>
+        <id>https://ieeexplore.ieee.org/document/10114981</id>
+        <link href="https://ieeexplore.ieee.org/document/10114981"/>
+        <updated>2023-05-03T20:08:56.808Z</updated>
+        <summary type="html"><![CDATA[This paper investigated the distributed leader follower formation control problem for multiple differentially driven mobile robots. A distributed estimator is first introduced and it only requires the state information from each follower itself and its neighbors. Then, we propose a bioinspired neural dynamic based backstepping and sliding mode control hybrid formation control method with proof of ...]]></summary>
+        <author>
+            <name>Zhe Xu</name>
+        </author>
+        <author>
+            <name>Tao Yan</name>
+        </author>
+        <author>
+            <name>Simon X. Yang</name>
+        </author>
+        <author>
+            <name>S. Andrew Gadsden</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Review of the State of the Art of Torque Ripple Minimization Techniques for Permanent Magnet Synchronous Motors]]></title>
+        <id>https://ieeexplore.ieee.org/document/10115038</id>
+        <link href="https://ieeexplore.ieee.org/document/10115038"/>
+        <updated>2023-05-03T20:08:56.808Z</updated>
+        <summary type="html"><![CDATA[Industrial applications such as automation, robots, and electric vehicles are widely employing permanent magnet synchronous motors (PMSM) due to inherent characteristics such as high torque to power ratio, low maintenance, high efficiency, and wide operating range. However, PMSM drives can suffer from unwanted torque ripples caused by periodic disturbances of the electromagnetic effect. First, thi...]]></summary>
+        <author>
+            <name>Muhammad Saad Rafaq</name>
+        </author>
+        <author>
+            <name>Will Midgley</name>
+        </author>
+        <author>
+            <name>Thomas Steffen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Large-Scale Dynamic Scheduling for Flexible Job-Shop With Random Arrivals of New Jobs by Hierarchical Reinforcement Learning]]></title>
+        <id>https://ieeexplore.ieee.org/document/10114974</id>
+        <link href="https://ieeexplore.ieee.org/document/10114974"/>
+        <updated>2023-05-03T20:08:56.808Z</updated>
+        <summary type="html"><![CDATA[As the intelligent manufacturing paradigm evolves, it is urgent to design a near real-time decision-making framework for handling the uncertainty and complexity of production line control. The dynamic flexible job shop scheduling problem (DFJSP) is frequently encountered in the manufacturing industry. However, it is still challenging to obtain high-quality schedules for DFJSP with dynamic job arri...]]></summary>
+        <author>
+            <name>Kun Lei</name>
+        </author>
+        <author>
+            <name>Peng Guo</name>
+        </author>
+        <author>
+            <name>Yi Wang</name>
+        </author>
+        <author>
+            <name>Jian Zhang</name>
+        </author>
+        <author>
+            <name>Xiangyin Meng</name>
+        </author>
+        <author>
+            <name>Linmao Qian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quality Regularization based Semisupervised Adversarial Transfer Model with Unlabeled Data for Industrial Soft Sensing]]></title>
+        <id>https://ieeexplore.ieee.org/document/10115037</id>
+        <link href="https://ieeexplore.ieee.org/document/10115037"/>
+        <updated>2023-05-03T20:08:56.808Z</updated>
+        <summary type="html"><![CDATA[Traditional soft sensors typically rely only on labeled data to predict key variables, despite the significant amount of unlabeled data that could provide valuable information. To solve this problem, a quality regularization based semisupervised adversarial transfer model (QR-SATM) is proposed. The idea of transfer learning is used in QR-SATM. QR-SATM comprises a pre-training model and a regressio...]]></summary>
+        <author>
+            <name>Yan-Lin He</name>
+        </author>
+        <author>
+            <name>Lei Chen</name>
+        </author>
+        <author>
+            <name>Qun-Xiong Zhu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Causality-based PCA Methods for Condition Modeling of Mechatronic Systems]]></title>
+        <id>https://ieeexplore.ieee.org/document/10114967</id>
+        <link href="https://ieeexplore.ieee.org/document/10114967"/>
+        <updated>2023-05-03T20:08:56.808Z</updated>
+        <summary type="html"><![CDATA[This paper investigates the feature dimensionality reduction problem of high-dimensional data in condition modelling of complex mechatronic systems, aiming at improving performance, robustness and interpretability of classical principle component analysis (PCA) methods. First, the causal discovery algorithms are adopted to construct the corresponding causal network among monitoring variables. Then...]]></summary>
+        <author>
+            <name>Jie Liu</name>
+        </author>
+        <author>
+            <name>Yubo Xu</name>
+        </author>
+        <author>
+            <name>Yishu Chen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloud-Fog Automation: Vision, Enabling Technologies, and Future Research Directions]]></title>
+        <id>https://ieeexplore.ieee.org/document/10114989</id>
+        <link href="https://ieeexplore.ieee.org/document/10114989"/>
+        <updated>2023-05-03T20:08:56.808Z</updated>
+        <summary type="html"><![CDATA[The Industry 4.0 digital transformation envisages future industrial systems to be fully automated, including the control, upgrade, and configuration processes of a large number of heterogeneous wired/wireless interconnected devices in Industrial Internet of Things (IIoT) environments. Most of the industrial automation systems today are based on the traditional International Society of Automation (...]]></summary>
+        <author>
+            <name>Jiong Jin</name>
+        </author>
+        <author>
+            <name>Kan Yu</name>
+        </author>
+        <author>
+            <name>Jonathan Kua</name>
+        </author>
+        <author>
+            <name>Ning Zhang</name>
+        </author>
+        <author>
+            <name>Zhibo Pang</name>
+        </author>
+        <author>
+            <name>Qing-Long Han</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Distributed Energy Resources based Two-layer Delay-independent Voltage Coordinated Control in Active Distribution Network]]></title>
+        <id>https://ieeexplore.ieee.org/document/10115262</id>
+        <link href="https://ieeexplore.ieee.org/document/10115262"/>
+        <updated>2023-05-03T20:08:56.808Z</updated>
+        <summary type="html"><![CDATA[In order to solve serious voltage problem in active distribution networks and improve the utilization rate of renew-able energy resources, a distributed energy resources (DERs) based two-layer delay-independent voltage coordinated con-trol method is proposed. First, an upper-layer sensitivity-based voltage coordinated control strategy is designed by maximiz-ing the use of residual reactive power a...]]></summary>
+        <author>
+            <name>Sergey Gorbachev</name>
+        </author>
+        <author>
+            <name>Ashish Mani</name>
+        </author>
+        <author>
+            <name>Li Li</name>
+        </author>
+        <author>
+            <name>Long Li</name>
+        </author>
+        <author>
+            <name>Yudi Zhang</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Human-Robot Collaborative Scheduling in Energy-efficient Welding Shop]]></title>
         <id>https://ieeexplore.ieee.org/document/10113189</id>

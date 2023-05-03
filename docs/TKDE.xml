@@ -2,11 +2,130 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/TKDE.rss</id>
     <title>IEEE Transactions on Knowledge and Data Engineering</title>
-    <updated>2023-05-03T16:10:47.523Z</updated>
+    <updated>2023-05-03T20:08:43.547Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/TKDE.rss"/>
     <subtitle>IEEE Transactions on Knowledge and Data Engineering</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Adversarial Attacks for Black-Box Recommender Systems Via Copying Transferable Cross-Domain User Profiles]]></title>
+        <id>https://ieeexplore.ieee.org/document/10114977</id>
+        <link href="https://ieeexplore.ieee.org/document/10114977"/>
+        <updated>2023-05-03T20:08:43.541Z</updated>
+        <summary type="html"><![CDATA[As widely used in data-driven decision-making, recommender systems have been recognized for their capabilities to provide users with personalized services in many user-oriented online services, such as E-commerce (e.g., Amazon, Taobao, etc.) and Social Media sites (e.g., Facebook and Twitter). Recent works have shown that deep neural networks-based recommender systems are highly vulnerable to adve...]]></summary>
+        <author>
+            <name>Wenqi Fan</name>
+        </author>
+        <author>
+            <name>Xiangyu Zhao</name>
+        </author>
+        <author>
+            <name>Qing Li</name>
+        </author>
+        <author>
+            <name>Tyler Derr</name>
+        </author>
+        <author>
+            <name>Yao Ma</name>
+        </author>
+        <author>
+            <name>Hui Liu</name>
+        </author>
+        <author>
+            <name>Jianping Wang</name>
+        </author>
+        <author>
+            <name>Jiliang Tang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TDN: Triplet Distributor Network for Knowledge Graph Completion]]></title>
+        <id>https://ieeexplore.ieee.org/document/10115028</id>
+        <link href="https://ieeexplore.ieee.org/document/10115028"/>
+        <updated>2023-05-03T20:08:43.541Z</updated>
+        <summary type="html"><![CDATA[Conventional Knowledge Graph Completion (KGC) methods typically map entities and relations to a unified space through the shared mapping matrix, and then interact with entities and relations to infer the missing items in the knowledge graph. Although this shared mapping matrix considers the suitability of all triplets, it neglects the specificity of each triplet. To solve this problem, we dynamica...]]></summary>
+        <author>
+            <name>Jiapu Wang</name>
+        </author>
+        <author>
+            <name>Boyue Wang</name>
+        </author>
+        <author>
+            <name>Junbin Gao</name>
+        </author>
+        <author>
+            <name>Xiaoyan Li</name>
+        </author>
+        <author>
+            <name>Yongli Hu</name>
+        </author>
+        <author>
+            <name>Baocai Yin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Matching Knowledge Graphs in Entity Embedding Spaces: An Experimental Study]]></title>
+        <id>https://ieeexplore.ieee.org/document/10114983</id>
+        <link href="https://ieeexplore.ieee.org/document/10114983"/>
+        <updated>2023-05-03T20:08:43.541Z</updated>
+        <summary type="html"><![CDATA[Entity alignment (EA) identifies equivalent entities that locate in different knowledge graphs (KGs), and has attracted growing research interests over the last few years with the advancement of KG embedding techniques. Although a pile of embedding-based EA frameworks have been developed, they mainly focus on improving the performance of entity representation learning, while largely overlook the s...]]></summary>
+        <author>
+            <name>Weixin Zeng</name>
+        </author>
+        <author>
+            <name>Xiang Zhao</name>
+        </author>
+        <author>
+            <name>Zhen Tan</name>
+        </author>
+        <author>
+            <name>Jiuyang Tang</name>
+        </author>
+        <author>
+            <name>Xueqi Cheng</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clique Identification in Signed Graphs: A Balance Theory based Model]]></title>
+        <id>https://ieeexplore.ieee.org/document/10115041</id>
+        <link href="https://ieeexplore.ieee.org/document/10115041"/>
+        <updated>2023-05-03T20:08:43.541Z</updated>
+        <summary type="html"><![CDATA[Clique, as a fundamental model for graph analysis, is widely investigated in the literature. However, with the emergence of various graph data, such as signed graph, novel clique model is desired to better capture the cohesiveness within these graphs. Different from unsigned graphs, where only one type of edge exists, in signed graphs, nodes can be connected either positively or negatively (e.g., ...]]></summary>
+        <author>
+            <name>Renjie Sun</name>
+        </author>
+        <author>
+            <name>Yanping Wu</name>
+        </author>
+        <author>
+            <name>Xiaoyang Wang</name>
+        </author>
+        <author>
+            <name>Chen Chen</name>
+        </author>
+        <author>
+            <name>Wenjie Zhang</name>
+        </author>
+        <author>
+            <name>Xuemin Lin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Balanced and Unbalanced Triangle Count in Signed Networks]]></title>
+        <id>https://ieeexplore.ieee.org/document/10115002</id>
+        <link href="https://ieeexplore.ieee.org/document/10115002"/>
+        <updated>2023-05-03T20:08:43.541Z</updated>
+        <summary type="html"><![CDATA[Triangle count is a frequently used network statistic, possessing high computational cost. Moreover, this task gets even more complex in the case of signed networks which consist of unbalanced and balanced triangles. In this work, we propose a fast Incremental Triangle Counting (ITC) algorithm for counting all types of triangles, including balanced and unbalanced. The proposed algorithm updates th...]]></summary>
+        <author>
+            <name>Aikta Arya</name>
+        </author>
+        <author>
+            <name>Pradumn Kumar Pandey</name>
+        </author>
+        <author>
+            <name>Akrati Saxena</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FLUID: Towards Efficient Continuous Transaction Processing in DAG-based Blockchains]]></title>
         <id>https://ieeexplore.ieee.org/document/10114601</id>

@@ -2,11 +2,74 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/IoTJ.rss</id>
     <title>IEEE Internet of Things Journal</title>
-    <updated>2023-05-03T16:10:57.988Z</updated>
+    <updated>2023-05-03T20:08:52.180Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/IoTJ.rss"/>
     <subtitle>IEEE Internet of Things Journal</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Performance Analysis and Deep Learning Design of Short-Packet Communication in Multi-RIS Aided Multi-Antenna Wireless Systems]]></title>
+        <id>https://ieeexplore.ieee.org/document/10114680</id>
+        <link href="https://ieeexplore.ieee.org/document/10114680"/>
+        <updated>2023-05-03T20:08:52.173Z</updated>
+        <summary type="html"><![CDATA[This paper studies short-packet communication (SPC) in multi-reconfigurable intelligent surface (RIS)-assisted multi-antenna wireless systems. In this system, a sensor node communicates with another sensor node through the help of an access point (AP) and two sets of distributed RISs. Aiming to enhance system performance, we combine the best RIS selection strategies with maximum-ratio transmission...]]></summary>
+        <author>
+            <name>Khac-Tuan Nguyen</name>
+        </author>
+        <author>
+            <name>Thai-Hoc Vu</name>
+        </author>
+        <author>
+            <name>Sunghwan Kim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Supervised Contrastive Learning for RFF Identification with Limited Samples]]></title>
+        <id>https://ieeexplore.ieee.org/document/10114678</id>
+        <link href="https://ieeexplore.ieee.org/document/10114678"/>
+        <updated>2023-05-03T20:08:52.173Z</updated>
+        <summary type="html"><![CDATA[Radio frequency fingerprint (RFF), which comes from the imperfect hardware, is a potential feature to ensure the security of communication. With the development of deep learning (DL), DL-based RFF identification methods have made excellent and promising achievements. However, on one hand, existing DL-based methods require a large amount of samples for model training. On the other hand, the RFF ide...]]></summary>
+        <author>
+            <name>Yang Peng</name>
+        </author>
+        <author>
+            <name>Changbo Hou</name>
+        </author>
+        <author>
+            <name>Yibin Zhang</name>
+        </author>
+        <author>
+            <name>Yun Lin</name>
+        </author>
+        <author>
+            <name>Guan Gui</name>
+        </author>
+        <author>
+            <name>Haris Gacanin</name>
+        </author>
+        <author>
+            <name>Shiwen Mao</name>
+        </author>
+        <author>
+            <name>Fumiyuki Adachi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Decentralized Configuration of TSCH-Based IoT Networks for Distinctive QoS: A Deep Reinforcement Learning Approach]]></title>
+        <id>https://ieeexplore.ieee.org/document/10114919</id>
+        <link href="https://ieeexplore.ieee.org/document/10114919"/>
+        <updated>2023-05-03T20:08:52.173Z</updated>
+        <summary type="html"><![CDATA[The IEEE 802.15.4 Time-Slotted Channel Hopping (TSCH) is widely used as a reliable, low-power, and low-cost communication technology for many industrial Internet-of-Things (IoT) networks. In many applications, Quality-of-Service (QoS) requirements are different for heterogeneous nodes, necessitating non-equal parameter settings per node. This results in a very large configuration space making spac...]]></summary>
+        <author>
+            <name>Hamideh Hajizadeh</name>
+        </author>
+        <author>
+            <name>Majid Nabi</name>
+        </author>
+        <author>
+            <name>Kees Goossens</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Coupling Projection Synchronization of Three Chaotic Systems and Its Multi-Level Secure Communication via DNA CRNs]]></title>
         <id>https://ieeexplore.ieee.org/document/10113897</id>

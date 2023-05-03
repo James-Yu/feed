@@ -1,5 +1,43 @@
 [
   {
+    "articleNumber": "10114680",
+    "articleTitle": "Performance Analysis and Deep Learning Design of Short-Packet Communication in Multi-RIS Aided Multi-Antenna Wireless Systems",
+    "authors": [
+      "Khac-Tuan Nguyen",
+      "Thai-Hoc Vu",
+      "Sunghwan Kim"
+    ],
+    "abstract": "This paper studies short-packet communication (SPC) in multi-reconfigurable intelligent surface (RIS)-assisted multi-antenna wireless systems. In this system, a sensor node communicates with another sensor node through the help of an access point (AP) and two sets of distributed RISs. Aiming to enhance system performance, we combine the best RIS selection strategies with maximum-ratio transmission...",
+    "date": "2023-05-03T20:08:52.173Z"
+  },
+  {
+    "articleNumber": "10114678",
+    "articleTitle": "Supervised Contrastive Learning for RFF Identification with Limited Samples",
+    "authors": [
+      "Yang Peng",
+      "Changbo Hou",
+      "Yibin Zhang",
+      "Yun Lin",
+      "Guan Gui",
+      "Haris Gacanin",
+      "Shiwen Mao",
+      "Fumiyuki Adachi"
+    ],
+    "abstract": "Radio frequency fingerprint (RFF), which comes from the imperfect hardware, is a potential feature to ensure the security of communication. With the development of deep learning (DL), DL-based RFF identification methods have made excellent and promising achievements. However, on one hand, existing DL-based methods require a large amount of samples for model training. On the other hand, the RFF ide...",
+    "date": "2023-05-03T20:08:52.173Z"
+  },
+  {
+    "articleNumber": "10114919",
+    "articleTitle": "Decentralized Configuration of TSCH-Based IoT Networks for Distinctive QoS: A Deep Reinforcement Learning Approach",
+    "authors": [
+      "Hamideh Hajizadeh",
+      "Majid Nabi",
+      "Kees Goossens"
+    ],
+    "abstract": "The IEEE 802.15.4 Time-Slotted Channel Hopping (TSCH) is widely used as a reliable, low-power, and low-cost communication technology for many industrial Internet-of-Things (IoT) networks. In many applications, Quality-of-Service (QoS) requirements are different for heterogeneous nodes, necessitating non-equal parameter settings per node. This results in a very large configuration space making spac...",
+    "date": "2023-05-03T20:08:52.173Z"
+  },
+  {
     "articleNumber": "10113897",
     "articleTitle": "Coupling Projection Synchronization of Three Chaotic Systems and Its Multi-Level Secure Communication via DNA CRNs",
     "authors": [

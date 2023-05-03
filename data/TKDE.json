@@ -1,5 +1,73 @@
 [
   {
+    "articleNumber": "10114977",
+    "articleTitle": "Adversarial Attacks for Black-Box Recommender Systems Via Copying Transferable Cross-Domain User Profiles",
+    "authors": [
+      "Wenqi Fan",
+      "Xiangyu Zhao",
+      "Qing Li",
+      "Tyler Derr",
+      "Yao Ma",
+      "Hui Liu",
+      "Jianping Wang",
+      "Jiliang Tang"
+    ],
+    "abstract": "As widely used in data-driven decision-making, recommender systems have been recognized for their capabilities to provide users with personalized services in many user-oriented online services, such as E-commerce (e.g., Amazon, Taobao, etc.) and Social Media sites (e.g., Facebook and Twitter). Recent works have shown that deep neural networks-based recommender systems are highly vulnerable to adve...",
+    "date": "2023-05-03T20:08:43.541Z"
+  },
+  {
+    "articleNumber": "10115028",
+    "articleTitle": "TDN: Triplet Distributor Network for Knowledge Graph Completion",
+    "authors": [
+      "Jiapu Wang",
+      "Boyue Wang",
+      "Junbin Gao",
+      "Xiaoyan Li",
+      "Yongli Hu",
+      "Baocai Yin"
+    ],
+    "abstract": "Conventional Knowledge Graph Completion (KGC) methods typically map entities and relations to a unified space through the shared mapping matrix, and then interact with entities and relations to infer the missing items in the knowledge graph. Although this shared mapping matrix considers the suitability of all triplets, it neglects the specificity of each triplet. To solve this problem, we dynamica...",
+    "date": "2023-05-03T20:08:43.541Z"
+  },
+  {
+    "articleNumber": "10114983",
+    "articleTitle": "Matching Knowledge Graphs in Entity Embedding Spaces: An Experimental Study",
+    "authors": [
+      "Weixin Zeng",
+      "Xiang Zhao",
+      "Zhen Tan",
+      "Jiuyang Tang",
+      "Xueqi Cheng"
+    ],
+    "abstract": "Entity alignment (EA) identifies equivalent entities that locate in different knowledge graphs (KGs), and has attracted growing research interests over the last few years with the advancement of KG embedding techniques. Although a pile of embedding-based EA frameworks have been developed, they mainly focus on improving the performance of entity representation learning, while largely overlook the s...",
+    "date": "2023-05-03T20:08:43.541Z"
+  },
+  {
+    "articleNumber": "10115041",
+    "articleTitle": "Clique Identification in Signed Graphs: A Balance Theory based Model",
+    "authors": [
+      "Renjie Sun",
+      "Yanping Wu",
+      "Xiaoyang Wang",
+      "Chen Chen",
+      "Wenjie Zhang",
+      "Xuemin Lin"
+    ],
+    "abstract": "Clique, as a fundamental model for graph analysis, is widely investigated in the literature. However, with the emergence of various graph data, such as signed graph, novel clique model is desired to better capture the cohesiveness within these graphs. Different from unsigned graphs, where only one type of edge exists, in signed graphs, nodes can be connected either positively or negatively (e.g., ...",
+    "date": "2023-05-03T20:08:43.541Z"
+  },
+  {
+    "articleNumber": "10115002",
+    "articleTitle": "Balanced and Unbalanced Triangle Count in Signed Networks",
+    "authors": [
+      "Aikta Arya",
+      "Pradumn Kumar Pandey",
+      "Akrati Saxena"
+    ],
+    "abstract": "Triangle count is a frequently used network statistic, possessing high computational cost. Moreover, this task gets even more complex in the case of signed networks which consist of unbalanced and balanced triangles. In this work, we propose a fast Incremental Triangle Counting (ITC) algorithm for counting all types of triangles, including balanced and unbalanced. The proposed algorithm updates th...",
+    "date": "2023-05-03T20:08:43.541Z"
+  },
+  {
     "articleNumber": "10114601",
     "articleTitle": "FLUID: Towards Efficient Continuous Transaction Processing in DAG-based Blockchains",
     "authors": [

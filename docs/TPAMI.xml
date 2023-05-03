@@ -2,11 +2,96 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/TPAMI.rss</id>
     <title>IEEE Transactions on Pattern Analysis and Machine Intelligence</title>
-    <updated>2023-05-03T16:10:52.925Z</updated>
+    <updated>2023-05-03T20:08:48.092Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/TPAMI.rss"/>
     <subtitle>IEEE Transactions on Pattern Analysis and Machine Intelligence</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[SC$^{2}$-PCR++: Rethinking the Generation and Selection for Efficient and Robust Point Cloud Registration]]></title>
+        <id>https://ieeexplore.ieee.org/document/10115040</id>
+        <link href="https://ieeexplore.ieee.org/document/10115040"/>
+        <updated>2023-05-03T20:08:48.087Z</updated>
+        <summary type="html"><![CDATA[Outlier removal is a critical part of feature-based point cloud registration. In this paper, we revisit the model generation and selection of the classic RANSAC approach for fast and robust point cloud registration. For the model generation, we propose a second-order spatial compatibility (SC$^{2}$) measure to compute the similarity between correspondences. It takes into account global compatibili...]]></summary>
+        <author>
+            <name>Zhi Chen</name>
+        </author>
+        <author>
+            <name>Kun Sun</name>
+        </author>
+        <author>
+            <name>Fan Yang</name>
+        </author>
+        <author>
+            <name>Lin Guo</name>
+        </author>
+        <author>
+            <name>Wenbing Tao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dual Adaptive Representation Alignment for Cross-Domain Few-Shot Learning]]></title>
+        <id>https://ieeexplore.ieee.org/document/10115025</id>
+        <link href="https://ieeexplore.ieee.org/document/10115025"/>
+        <updated>2023-05-03T20:08:48.087Z</updated>
+        <summary type="html"><![CDATA[Few-shot learning aims to recognize novel queries with limited support samples by learning from base knowledge. Recent progress in this setting assumes that the base knowledge and novel query samples are distributed in the same domains, which are usually infeasible for realistic applications. Toward this issue, we propose to address the cross-domain few-shot learning problem where only extremely f...]]></summary>
+        <author>
+            <name>Yifan Zhao</name>
+        </author>
+        <author>
+            <name>Tong Zhang</name>
+        </author>
+        <author>
+            <name>Jia Li</name>
+        </author>
+        <author>
+            <name>Yonghong Tian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Leveraging Commonsense for Object Localisation in Partial Scenes]]></title>
+        <id>https://ieeexplore.ieee.org/document/10115261</id>
+        <link href="https://ieeexplore.ieee.org/document/10115261"/>
+        <updated>2023-05-03T20:08:48.087Z</updated>
+        <summary type="html"><![CDATA[We propose an end-to-end solution to address the problem of object localisation in partial scenes, where we aim to estimate the position of an object in an unknown area given only a partial 3D scan of the scene. We propose a novel scene representation to facilitate the geometric reasoning, Directed Spatial Commonsense Graph (D-SCG), a spatial scene graph that is enriched with additional concept no...]]></summary>
+        <author>
+            <name>Francesco Giuliari</name>
+        </author>
+        <author>
+            <name>Geri Skenderi</name>
+        </author>
+        <author>
+            <name>Marco Cristani</name>
+        </author>
+        <author>
+            <name>Alessio Del Bue</name>
+        </author>
+        <author>
+            <name>Yiming Wang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Toward Human-Like Grasp: Functional Grasp by Dexterous Robotic Hand Via Object-Hand Semantic Representation]]></title>
+        <id>https://ieeexplore.ieee.org/document/10115005</id>
+        <link href="https://ieeexplore.ieee.org/document/10115005"/>
+        <updated>2023-05-03T20:08:48.087Z</updated>
+        <summary type="html"><![CDATA[Intelligent robotic manipulation is a challenging study of machine intelligence. Although many dexterous robotic hands have been designed to assist or replace human hands in executing various tasks, how to teach them to perform dexterous operations like human hands is still a challenge. This motivates us to conduct an in-depth analysis of human behavior in manipulating objects and propose an objec...]]></summary>
+        <author>
+            <name>Tianqiang Zhu</name>
+        </author>
+        <author>
+            <name>Rina Wu</name>
+        </author>
+        <author>
+            <name>Jinglue Hang</name>
+        </author>
+        <author>
+            <name>Xiangbo Lin</name>
+        </author>
+        <author>
+            <name>Yi Sun</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Diffusion Mechanism in Residual Neural Network: Theory and Applications]]></title>
         <id>https://ieeexplore.ieee.org/document/10114599</id>

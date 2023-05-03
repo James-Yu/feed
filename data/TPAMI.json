@@ -1,5 +1,56 @@
 [
   {
+    "articleNumber": "10115040",
+    "articleTitle": "SC$^{2}$-PCR++: Rethinking the Generation and Selection for Efficient and Robust Point Cloud Registration",
+    "authors": [
+      "Zhi Chen",
+      "Kun Sun",
+      "Fan Yang",
+      "Lin Guo",
+      "Wenbing Tao"
+    ],
+    "abstract": "Outlier removal is a critical part of feature-based point cloud registration. In this paper, we revisit the model generation and selection of the classic RANSAC approach for fast and robust point cloud registration. For the model generation, we propose a second-order spatial compatibility (SC$^{2}$) measure to compute the similarity between correspondences. It takes into account global compatibili...",
+    "date": "2023-05-03T20:08:48.087Z"
+  },
+  {
+    "articleNumber": "10115025",
+    "articleTitle": "Dual Adaptive Representation Alignment for Cross-Domain Few-Shot Learning",
+    "authors": [
+      "Yifan Zhao",
+      "Tong Zhang",
+      "Jia Li",
+      "Yonghong Tian"
+    ],
+    "abstract": "Few-shot learning aims to recognize novel queries with limited support samples by learning from base knowledge. Recent progress in this setting assumes that the base knowledge and novel query samples are distributed in the same domains, which are usually infeasible for realistic applications. Toward this issue, we propose to address the cross-domain few-shot learning problem where only extremely f...",
+    "date": "2023-05-03T20:08:48.087Z"
+  },
+  {
+    "articleNumber": "10115261",
+    "articleTitle": "Leveraging Commonsense for Object Localisation in Partial Scenes",
+    "authors": [
+      "Francesco Giuliari",
+      "Geri Skenderi",
+      "Marco Cristani",
+      "Alessio Del Bue",
+      "Yiming Wang"
+    ],
+    "abstract": "We propose an end-to-end solution to address the problem of object localisation in partial scenes, where we aim to estimate the position of an object in an unknown area given only a partial 3D scan of the scene. We propose a novel scene representation to facilitate the geometric reasoning, Directed Spatial Commonsense Graph (D-SCG), a spatial scene graph that is enriched with additional concept no...",
+    "date": "2023-05-03T20:08:48.087Z"
+  },
+  {
+    "articleNumber": "10115005",
+    "articleTitle": "Toward Human-Like Grasp: Functional Grasp by Dexterous Robotic Hand Via Object-Hand Semantic Representation",
+    "authors": [
+      "Tianqiang Zhu",
+      "Rina Wu",
+      "Jinglue Hang",
+      "Xiangbo Lin",
+      "Yi Sun"
+    ],
+    "abstract": "Intelligent robotic manipulation is a challenging study of machine intelligence. Although many dexterous robotic hands have been designed to assist or replace human hands in executing various tasks, how to teach them to perform dexterous operations like human hands is still a challenge. This motivates us to conduct an in-depth analysis of human behavior in manipulating objects and propose an objec...",
+    "date": "2023-05-03T20:08:48.087Z"
+  },
+  {
     "articleNumber": "10114599",
     "articleTitle": "Diffusion Mechanism in Residual Neural Network: Theory and Applications",
     "authors": [

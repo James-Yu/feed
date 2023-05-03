@@ -1,5 +1,108 @@
 [
   {
+    "articleNumber": "10115059",
+    "articleTitle": "The Static Adjustment Method of Secondary Suspension Load for Six-Axle Locomotives via Modified Mayfly Optimization Algorithm",
+    "authors": [
+      "Yuqi Xiao",
+      "Yongjun Wu"
+    ],
+    "abstract": "The static distribution of the static secondary suspension load has a significant impact on the adhesion, rim wear and passenger comfort of the locomotive. At present, the locomotive secondary suspension load adjustment is mainly realized by artificial padding to adjust the height of the spring. This process is not predictable, so it is difficult to complete the adjustment at one time, and it is l...",
+    "date": "2023-05-03T20:08:38.669Z"
+  },
+  {
+    "articleNumber": "10115223",
+    "articleTitle": "Graph Relational Reinforcement Learning for Mobile Robot Navigation in Large-Scale Crowded Environments",
+    "authors": [
+      "Zhe Liu",
+      "Yu Zhai",
+      "Jiaming Li",
+      "Guangming Wang",
+      "Yanzi Miao",
+      "Hesheng Wang"
+    ],
+    "abstract": "Mobile robot autonomous navigation in large-scale environments with crowded dynamic objects and static obstacles is still an essential yet challenging task. Recent works have demonstrated the potential of using deep reinforcement learning to enable autonomous navigation in crowds. However, only considering the human-robot interactions results in short-sighted and unsafe behaviors, and they typical...",
+    "date": "2023-05-03T20:08:38.669Z"
+  },
+  {
+    "articleNumber": "10115056",
+    "articleTitle": "Unprotected Left-Turn Behavior Model Capturing Path Variations at Intersections",
+    "authors": [
+      "Jing Zhao",
+      "Victor L. Knoop",
+      "Jian Sun",
+      "Zian Ma",
+      "Meng Wang"
+    ],
+    "abstract": "Path dispersion (the spatial distribution of vehicular paths) is an important feature of traffic flow inside intersections and differs from traffic flow running along traffic lanes at road segment, especially under conflicting movements. The path dispersion reflects the operational features of traffic flow and is related to driving behaviour, arrival flow patterns, layout design, and the traffic c...",
+    "date": "2023-05-03T20:08:38.669Z"
+  },
+  {
+    "articleNumber": "10115058",
+    "articleTitle": "Adaptive Switching Event-Triggered Control for Active Suspension Systems With Acceleration Performance Constraint",
+    "authors": [
+      "Qiang Zeng",
+      "Jun Zhao"
+    ],
+    "abstract": "This work focuses on an adaptive control problem for active suspension systems (ASSs) with the acceleration performance constraint over the controller area network (CAN). We aim to develop an effective event-triggered control technique to significantly reduce the communication burden of the CAN. To this end, an event-triggered mechanism based on the switching threshold is developed to obtain satis...",
+    "date": "2023-05-03T20:08:38.669Z"
+  },
+  {
+    "articleNumber": "10115055",
+    "articleTitle": "Coordinated Planning of Fixed and Mobile Charging Facilities for Electric Vehicles on Highways",
+    "authors": [
+      "Kecheng He",
+      "Hongjie Jia",
+      "Yunfei Mu",
+      "Xiaodan Yu",
+      "Xiaohong Dong",
+      "Youjun Deng"
+    ],
+    "abstract": "This paper presents a bilevel planning framework to coordinate truck mobile chargers (TMCs) and fixed chargers (FCs) on highways to promote charging flexibility and provide more choices for electric vehicle (EV) users. A collaborative location optimization (CLO) approach is developed at the upper level to optimize the location of charging stations. Furthermore, a collaborative capacity optimizatio...",
+    "date": "2023-05-03T20:08:38.669Z"
+  },
+  {
+    "articleNumber": "10115057",
+    "articleTitle": "Probabilistic Approach for Road-Users Detection",
+    "authors": [
+      "Gledson Melotti",
+      "Weihao Lu",
+      "Pedro Conde",
+      "Dezong Zhao",
+      "Alireza Asvadi",
+      "Nuno Gonçalves",
+      "Cristiano Premebida"
+    ],
+    "abstract": "Object detection in autonomous driving applications implies the detection and tracking of semantic objects that are commonly native to urban driving environments, as pedestrians and vehicles. One of the major challenges in state-of-the-art deep-learning based object detection are false positives which occur with overconfident scores. This is highly undesirable in autonomous driving and other criti...",
+    "date": "2023-05-03T20:08:38.669Z"
+  },
+  {
+    "articleNumber": "10115063",
+    "articleTitle": "Amalgamating Vehicular Networks With Vehicular Clouds, AI, and Big Data for Next-Generation ITS Services",
+    "authors": [
+      "Nitin Singh Rajput",
+      "Upendra Singh",
+      "Amit Dua",
+      "Neeraj Kumar",
+      "Joel J. P. C. Rodrigues",
+      "Sheetal Sisodia",
+      "Mohammed Elhoseny",
+      "Yahya Lakys"
+    ],
+    "abstract": "Advances in the connected vehicle and cloud computing technologies, Big data, and artificial intelligence techniques have opened new research opportunities. We can integrate them to work out the issues originating from transportation complexities and offer improved services. In this work, we present a seamless multi-module multi-layer vehicular cloud computing system developed using resources of p...",
+    "date": "2023-05-03T20:08:38.669Z"
+  },
+  {
+    "articleNumber": "10115062",
+    "articleTitle": "Robust Sparse Recovery Based Vehicles Location Estimation in Intelligent Transportation System",
+    "authors": [
+      "Dandan Meng",
+      "Xin Li",
+      "Wei Wang"
+    ],
+    "abstract": "An architecture for vehicle position estimation is introduced in this paper to tackle the issue of vehicles positioning in traffic congestion of intelligent transportation system (ITS). The introduced architecture is related to three unmanned aerial vehicles (UAVs) equipped with uniform linear array (ULA), ITS center and the terminal of position estimation, in which the UAV collect data from the U...",
+    "date": "2023-05-03T20:08:38.669Z"
+  },
+  {
     "articleNumber": "10113478",
     "articleTitle": "Treating Noise and Anomalies in Vehicle Trajectories From an Experiment With a Swarm of Drones",
     "authors": [

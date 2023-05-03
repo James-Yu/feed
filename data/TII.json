@@ -1,5 +1,114 @@
 [
   {
+    "articleNumber": "10114975",
+    "articleTitle": "Online and Modular Energy Consumption Optimization of Industrial Robots",
+    "authors": [
+      "Agajan Torayev",
+      "Giovanna Martínez-Arellano",
+      "Jack C Chaplin",
+      "David Sanderson",
+      "Svetan Ratchev"
+    ],
+    "abstract": "Industrial robots contribute to a considerable amount of energy consumption in manufacturing. However, modeling the energy consumption of industrial robots is a complex problem as it requires considering components such as the robot controller, fans for cooling, the motor, the friction of the joints, and confidential parameters, and it is difficult to consider them all in modeling. Many authors in...",
+    "date": "2023-05-03T20:08:56.808Z"
+  },
+  {
+    "articleNumber": "10114972",
+    "articleTitle": "A Deep Learning Framework to Identify Remedial Action Schemes Against False Data Injection Cyberattacks Targeting Smart Power Systems",
+    "authors": [
+      "Ehsan Naderi",
+      "Arash Asrari"
+    ],
+    "abstract": "This article proposes aremedial actionscheme (RAS) based on the concept of deep learning to mitigate the impacts of false data injection (FDI) cyberattacks on smart power systems. As a prerequisite of such a RAS, power system operator is being in attacker&#39;s shoe to scrutinize different scenarios of cyberattacks. In design of the RAS, long short-term memory (LSTM) cells have been integrated into a ...",
+    "date": "2023-05-03T20:08:56.808Z"
+  },
+  {
+    "articleNumber": "10114981",
+    "articleTitle": "Distributed Leader Follower Formation Control of Mobile Robots based on Bioinspired Neural Dynamics and Adaptive Sliding Innovation Filter",
+    "authors": [
+      "Zhe Xu",
+      "Tao Yan",
+      "Simon X. Yang",
+      "S. Andrew Gadsden"
+    ],
+    "abstract": "This paper investigated the distributed leader follower formation control problem for multiple differentially driven mobile robots. A distributed estimator is first introduced and it only requires the state information from each follower itself and its neighbors. Then, we propose a bioinspired neural dynamic based backstepping and sliding mode control hybrid formation control method with proof of ...",
+    "date": "2023-05-03T20:08:56.808Z"
+  },
+  {
+    "articleNumber": "10115038",
+    "articleTitle": "A Review of the State of the Art of Torque Ripple Minimization Techniques for Permanent Magnet Synchronous Motors",
+    "authors": [
+      "Muhammad Saad Rafaq",
+      "Will Midgley",
+      "Thomas Steffen"
+    ],
+    "abstract": "Industrial applications such as automation, robots, and electric vehicles are widely employing permanent magnet synchronous motors (PMSM) due to inherent characteristics such as high torque to power ratio, low maintenance, high efficiency, and wide operating range. However, PMSM drives can suffer from unwanted torque ripples caused by periodic disturbances of the electromagnetic effect. First, thi...",
+    "date": "2023-05-03T20:08:56.808Z"
+  },
+  {
+    "articleNumber": "10114974",
+    "articleTitle": "Large-Scale Dynamic Scheduling for Flexible Job-Shop With Random Arrivals of New Jobs by Hierarchical Reinforcement Learning",
+    "authors": [
+      "Kun Lei",
+      "Peng Guo",
+      "Yi Wang",
+      "Jian Zhang",
+      "Xiangyin Meng",
+      "Linmao Qian"
+    ],
+    "abstract": "As the intelligent manufacturing paradigm evolves, it is urgent to design a near real-time decision-making framework for handling the uncertainty and complexity of production line control. The dynamic flexible job shop scheduling problem (DFJSP) is frequently encountered in the manufacturing industry. However, it is still challenging to obtain high-quality schedules for DFJSP with dynamic job arri...",
+    "date": "2023-05-03T20:08:56.808Z"
+  },
+  {
+    "articleNumber": "10115037",
+    "articleTitle": "Quality Regularization based Semisupervised Adversarial Transfer Model with Unlabeled Data for Industrial Soft Sensing",
+    "authors": [
+      "Yan-Lin He",
+      "Lei Chen",
+      "Qun-Xiong Zhu"
+    ],
+    "abstract": "Traditional soft sensors typically rely only on labeled data to predict key variables, despite the significant amount of unlabeled data that could provide valuable information. To solve this problem, a quality regularization based semisupervised adversarial transfer model (QR-SATM) is proposed. The idea of transfer learning is used in QR-SATM. QR-SATM comprises a pre-training model and a regressio...",
+    "date": "2023-05-03T20:08:56.808Z"
+  },
+  {
+    "articleNumber": "10114967",
+    "articleTitle": "Causality-based PCA Methods for Condition Modeling of Mechatronic Systems",
+    "authors": [
+      "Jie Liu",
+      "Yubo Xu",
+      "Yishu Chen"
+    ],
+    "abstract": "This paper investigates the feature dimensionality reduction problem of high-dimensional data in condition modelling of complex mechatronic systems, aiming at improving performance, robustness and interpretability of classical principle component analysis (PCA) methods. First, the causal discovery algorithms are adopted to construct the corresponding causal network among monitoring variables. Then...",
+    "date": "2023-05-03T20:08:56.808Z"
+  },
+  {
+    "articleNumber": "10114989",
+    "articleTitle": "Cloud-Fog Automation: Vision, Enabling Technologies, and Future Research Directions",
+    "authors": [
+      "Jiong Jin",
+      "Kan Yu",
+      "Jonathan Kua",
+      "Ning Zhang",
+      "Zhibo Pang",
+      "Qing-Long Han"
+    ],
+    "abstract": "The Industry 4.0 digital transformation envisages future industrial systems to be fully automated, including the control, upgrade, and configuration processes of a large number of heterogeneous wired/wireless interconnected devices in Industrial Internet of Things (IIoT) environments. Most of the industrial automation systems today are based on the traditional International Society of Automation (...",
+    "date": "2023-05-03T20:08:56.808Z"
+  },
+  {
+    "articleNumber": "10115262",
+    "articleTitle": "Distributed Energy Resources based Two-layer Delay-independent Voltage Coordinated Control in Active Distribution Network",
+    "authors": [
+      "Sergey Gorbachev",
+      "Ashish Mani",
+      "Li Li",
+      "Long Li",
+      "Yudi Zhang"
+    ],
+    "abstract": "In order to solve serious voltage problem in active distribution networks and improve the utilization rate of renew-able energy resources, a distributed energy resources (DERs) based two-layer delay-independent voltage coordinated con-trol method is proposed. First, an upper-layer sensitivity-based voltage coordinated control strategy is designed by maximiz-ing the use of residual reactive power a...",
+    "date": "2023-05-03T20:08:56.808Z"
+  },
+  {
     "articleNumber": "10113189",
     "articleTitle": "Human-Robot Collaborative Scheduling in Energy-efficient Welding Shop",
     "authors": [
