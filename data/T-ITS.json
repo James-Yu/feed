@@ -1,5 +1,19 @@
 [
   {
+    "articleNumber": "10115523",
+    "articleTitle": "A Game-Based Battery Swapping Station Recommendation Approach for Electric Vehicles",
+    "authors": [
+      "Lili Ran",
+      "Yanni Wan",
+      "Jiahu Qin",
+      "Weiming Fu",
+      "Dunfeng Zhang",
+      "Yu Kang"
+    ],
+    "abstract": "It is of great significance to develop a coordinated battery swapping station (BSS) recommendation method to reduce the cost of electric vehicles (EVs) and optimize the operation of BSS system. In this paper, the BSS recommendation problem is studied by comprehensively considering the battery swapping cost, diversity of BSS capacities, and differentiated demands of EVs, so as to be as close to the...",
+    "date": "2023-05-05T00:55:04.870Z"
+  },
+  {
     "articleNumber": "10115059",
     "articleTitle": "The Static Adjustment Method of Secondary Suspension Load for Six-Axle Locomotives via Modified Mayfly Optimization Algorithm",
     "authors": [

@@ -1,5 +1,17 @@
 [
   {
+    "articleNumber": "10115471",
+    "articleTitle": "Multi-Stream Concept Drift Self-Adaptation Using Graph Neural Network",
+    "authors": [
+      "Ming Zhou",
+      "Jie Lu",
+      "Yiliao Song",
+      "Guangquan Zhang"
+    ],
+    "abstract": "Concept drift is the phenomenon where the data distribution in a data stream changes over time. It is a ubiquitous problem in the real-world, for example, a traffic accident would cause a jam in a certain period, leading to a distribution change in traffic speed. Most research in the concept drift field focuses on single data stream, however, few of them consider multi-stream environments which ar...",
+    "date": "2023-05-05T00:55:09.294Z"
+  },
+  {
     "articleNumber": "10114977",
     "articleTitle": "Adversarial Attacks for Black-Box Recommender Systems Via Copying Transferable Cross-Domain User Profiles",
     "authors": [

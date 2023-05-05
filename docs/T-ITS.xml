@@ -2,11 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/T-ITS.rss</id>
     <title>IEEE Transactions on Intelligent Transportation Systems</title>
-    <updated>2023-05-04T16:24:30.691Z</updated>
+    <updated>2023-05-05T00:55:04.874Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/T-ITS.rss"/>
     <subtitle>IEEE Transactions on Intelligent Transportation Systems</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[A Game-Based Battery Swapping Station Recommendation Approach for Electric Vehicles]]></title>
+        <id>https://ieeexplore.ieee.org/document/10115523</id>
+        <link href="https://ieeexplore.ieee.org/document/10115523"/>
+        <updated>2023-05-05T00:55:04.870Z</updated>
+        <summary type="html"><![CDATA[It is of great significance to develop a coordinated battery swapping station (BSS) recommendation method to reduce the cost of electric vehicles (EVs) and optimize the operation of BSS system. In this paper, the BSS recommendation problem is studied by comprehensively considering the battery swapping cost, diversity of BSS capacities, and differentiated demands of EVs, so as to be as close to the...]]></summary>
+        <author>
+            <name>Lili Ran</name>
+        </author>
+        <author>
+            <name>Yanni Wan</name>
+        </author>
+        <author>
+            <name>Jiahu Qin</name>
+        </author>
+        <author>
+            <name>Weiming Fu</name>
+        </author>
+        <author>
+            <name>Dunfeng Zhang</name>
+        </author>
+        <author>
+            <name>Yu Kang</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Static Adjustment Method of Secondary Suspension Load for Six-Axle Locomotives via Modified Mayfly Optimization Algorithm]]></title>
         <id>https://ieeexplore.ieee.org/document/10115059</id>

@@ -1,5 +1,40 @@
 [
   {
+    "articleNumber": "10115272",
+    "articleTitle": "Lattice-Based Analog Mappings for Low Latency Wireless Sensor Networks",
+    "authors": [
+      "Pedro Suárez-Casal",
+      "Óscar Fresnedo",
+      "Darian Pérez-Adán",
+      "Luis Castedo"
+    ],
+    "abstract": "We consider the transmission of spatially correlated analog information in a WSN through fading SIMO MAC with low latency requirements. A lattice-based analog JSCC approach is considered where vectors of consecutive source symbols are encoded at each sensor using an n-dimensional lattice and then transmitted to a multi-antenna central node. We derive a MMSE decoder that accounts for both the multi...",
+    "date": "2023-05-05T00:55:17.957Z"
+  },
+  {
+    "articleNumber": "10115453",
+    "articleTitle": "UAV Target Detection for IoT via Enhancing ERP Component by Brain Computer Interface System",
+    "authors": [
+      "Yufeng Zhang",
+      "Hongxin Zhang",
+      "Xiaorong Gao",
+      "Shangen Zhang",
+      "Chen Yang"
+    ],
+    "abstract": "The increasing popularity of Internet of Things (IoT) devices provides a huge data source for intelligent identification. Images captured by unmanned aerial vehicle (UAV) are often exploited in target detection missions for search, rescue and fire prevention. However, without sufficient training samples, the machine learning method is usually difficult to meet application requirements. To solve th...",
+    "date": "2023-05-05T00:55:17.957Z"
+  },
+  {
+    "articleNumber": "10115286",
+    "articleTitle": "Interfacing of Molecular Communication System with Various Communication Systems over Internet of Every Nano Things",
+    "authors": [
+      "Lokendra Chouhan",
+      "Mohamed-Slim Alouini"
+    ],
+    "abstract": "The communication system for health-monitoring applications is a substantial research area considering its practical limitations. One of the potential suggested technologies is internet-of-every-nano-thing (IoENT). Through this work, we demonstrate the different aspects of interfacing of molecular communication (MC) with other nano-communication systems such as human body communication (HBC), acou...",
+    "date": "2023-05-05T00:55:17.957Z"
+  },
+  {
     "articleNumber": "10114680",
     "articleTitle": "Performance Analysis and Deep Learning Design of Short-Packet Communication in Multi-RIS Aided Multi-Antenna Wireless Systems",
     "authors": [

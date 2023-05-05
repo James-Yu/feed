@@ -2,11 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/TKDE.rss</id>
     <title>IEEE Transactions on Knowledge and Data Engineering</title>
-    <updated>2023-05-04T16:24:36.504Z</updated>
+    <updated>2023-05-05T00:55:09.299Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/TKDE.rss"/>
     <subtitle>IEEE Transactions on Knowledge and Data Engineering</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Multi-Stream Concept Drift Self-Adaptation Using Graph Neural Network]]></title>
+        <id>https://ieeexplore.ieee.org/document/10115471</id>
+        <link href="https://ieeexplore.ieee.org/document/10115471"/>
+        <updated>2023-05-05T00:55:09.294Z</updated>
+        <summary type="html"><![CDATA[Concept drift is the phenomenon where the data distribution in a data stream changes over time. It is a ubiquitous problem in the real-world, for example, a traffic accident would cause a jam in a certain period, leading to a distribution change in traffic speed. Most research in the concept drift field focuses on single data stream, however, few of them consider multi-stream environments which ar...]]></summary>
+        <author>
+            <name>Ming Zhou</name>
+        </author>
+        <author>
+            <name>Jie Lu</name>
+        </author>
+        <author>
+            <name>Yiliao Song</name>
+        </author>
+        <author>
+            <name>Guangquan Zhang</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Adversarial Attacks for Black-Box Recommender Systems Via Copying Transferable Cross-Domain User Profiles]]></title>
         <id>https://ieeexplore.ieee.org/document/10114977</id>

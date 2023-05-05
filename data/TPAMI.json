@@ -1,5 +1,32 @@
 [
   {
+    "articleNumber": "10115486",
+    "articleTitle": "Diverse Sample Generation: Pushing the Limit of Generative Data-Free Quantization",
+    "authors": [
+      "Haotong Qin",
+      "Yifu Ding",
+      "Xiangguo Zhang",
+      "Jiakai Wang",
+      "Xianglong Liu",
+      "Jiwen Lu"
+    ],
+    "abstract": "Generative data-free quantization emerges as a practical compression approach that quantizes deep neural networks to low bit-width without accessing the real data. This approach generates data utilizing batch normalization (BN) statistics of the full-precision networks to quantize the networks. However, it always faces the serious challenges of accuracy degradation in practice. We first give a the...",
+    "date": "2023-05-05T00:55:13.972Z"
+  },
+  {
+    "articleNumber": "10115484",
+    "articleTitle": "SPDET: Edge-Aware Self-Supervised Panoramic Depth Estimation Transformer With Spherical Geometry",
+    "authors": [
+      "Chuanqing Zhuang",
+      "Zhengda Lu",
+      "Yiqun Wang",
+      "Jun Xiao",
+      "Ying Wang"
+    ],
+    "abstract": "Panoramic depth estimation has become a hot topic in 3D reconstruction techniques with its omnidirectional spatial field of view. However, panoramic RGB-D datasets are difficult to obtain due to the lack of panoramic RGB-D cameras, thus limiting the practicality of supervised panoramic depth estimation. Self-supervised learning based on RGB stereo image pairs has the potential to overcome this lim...",
+    "date": "2023-05-05T00:55:13.972Z"
+  },
+  {
     "articleNumber": "10115040",
     "articleTitle": "SC$^{2}$-PCR++: Rethinking the Generation and Selection for Efficient and Robust Point Cloud Registration",
     "authors": [

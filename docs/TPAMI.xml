@@ -2,11 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/TPAMI.rss</id>
     <title>IEEE Transactions on Pattern Analysis and Machine Intelligence</title>
-    <updated>2023-05-04T16:24:42.678Z</updated>
+    <updated>2023-05-05T00:55:13.975Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/TPAMI.rss"/>
     <subtitle>IEEE Transactions on Pattern Analysis and Machine Intelligence</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Diverse Sample Generation: Pushing the Limit of Generative Data-Free Quantization]]></title>
+        <id>https://ieeexplore.ieee.org/document/10115486</id>
+        <link href="https://ieeexplore.ieee.org/document/10115486"/>
+        <updated>2023-05-05T00:55:13.972Z</updated>
+        <summary type="html"><![CDATA[Generative data-free quantization emerges as a practical compression approach that quantizes deep neural networks to low bit-width without accessing the real data. This approach generates data utilizing batch normalization (BN) statistics of the full-precision networks to quantize the networks. However, it always faces the serious challenges of accuracy degradation in practice. We first give a the...]]></summary>
+        <author>
+            <name>Haotong Qin</name>
+        </author>
+        <author>
+            <name>Yifu Ding</name>
+        </author>
+        <author>
+            <name>Xiangguo Zhang</name>
+        </author>
+        <author>
+            <name>Jiakai Wang</name>
+        </author>
+        <author>
+            <name>Xianglong Liu</name>
+        </author>
+        <author>
+            <name>Jiwen Lu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SPDET: Edge-Aware Self-Supervised Panoramic Depth Estimation Transformer With Spherical Geometry]]></title>
+        <id>https://ieeexplore.ieee.org/document/10115484</id>
+        <link href="https://ieeexplore.ieee.org/document/10115484"/>
+        <updated>2023-05-05T00:55:13.972Z</updated>
+        <summary type="html"><![CDATA[Panoramic depth estimation has become a hot topic in 3D reconstruction techniques with its omnidirectional spatial field of view. However, panoramic RGB-D datasets are difficult to obtain due to the lack of panoramic RGB-D cameras, thus limiting the practicality of supervised panoramic depth estimation. Self-supervised learning based on RGB stereo image pairs has the potential to overcome this lim...]]></summary>
+        <author>
+            <name>Chuanqing Zhuang</name>
+        </author>
+        <author>
+            <name>Zhengda Lu</name>
+        </author>
+        <author>
+            <name>Yiqun Wang</name>
+        </author>
+        <author>
+            <name>Jun Xiao</name>
+        </author>
+        <author>
+            <name>Ying Wang</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SC$^{2}$-PCR++: Rethinking the Generation and Selection for Efficient and Robust Point Cloud Registration]]></title>
         <id>https://ieeexplore.ieee.org/document/10115040</id>

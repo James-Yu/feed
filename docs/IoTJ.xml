@@ -2,11 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/IoTJ.rss</id>
     <title>IEEE Internet of Things Journal</title>
-    <updated>2023-05-04T16:24:48.292Z</updated>
+    <updated>2023-05-05T00:55:17.962Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/IoTJ.rss"/>
     <subtitle>IEEE Internet of Things Journal</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Lattice-Based Analog Mappings for Low Latency Wireless Sensor Networks]]></title>
+        <id>https://ieeexplore.ieee.org/document/10115272</id>
+        <link href="https://ieeexplore.ieee.org/document/10115272"/>
+        <updated>2023-05-05T00:55:17.957Z</updated>
+        <summary type="html"><![CDATA[We consider the transmission of spatially correlated analog information in a WSN through fading SIMO MAC with low latency requirements. A lattice-based analog JSCC approach is considered where vectors of consecutive source symbols are encoded at each sensor using an n-dimensional lattice and then transmitted to a multi-antenna central node. We derive a MMSE decoder that accounts for both the multi...]]></summary>
+        <author>
+            <name>Pedro Suárez-Casal</name>
+        </author>
+        <author>
+            <name>Óscar Fresnedo</name>
+        </author>
+        <author>
+            <name>Darian Pérez-Adán</name>
+        </author>
+        <author>
+            <name>Luis Castedo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UAV Target Detection for IoT via Enhancing ERP Component by Brain Computer Interface System]]></title>
+        <id>https://ieeexplore.ieee.org/document/10115453</id>
+        <link href="https://ieeexplore.ieee.org/document/10115453"/>
+        <updated>2023-05-05T00:55:17.957Z</updated>
+        <summary type="html"><![CDATA[The increasing popularity of Internet of Things (IoT) devices provides a huge data source for intelligent identification. Images captured by unmanned aerial vehicle (UAV) are often exploited in target detection missions for search, rescue and fire prevention. However, without sufficient training samples, the machine learning method is usually difficult to meet application requirements. To solve th...]]></summary>
+        <author>
+            <name>Yufeng Zhang</name>
+        </author>
+        <author>
+            <name>Hongxin Zhang</name>
+        </author>
+        <author>
+            <name>Xiaorong Gao</name>
+        </author>
+        <author>
+            <name>Shangen Zhang</name>
+        </author>
+        <author>
+            <name>Chen Yang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Interfacing of Molecular Communication System with Various Communication Systems over Internet of Every Nano Things]]></title>
+        <id>https://ieeexplore.ieee.org/document/10115286</id>
+        <link href="https://ieeexplore.ieee.org/document/10115286"/>
+        <updated>2023-05-05T00:55:17.957Z</updated>
+        <summary type="html"><![CDATA[The communication system for health-monitoring applications is a substantial research area considering its practical limitations. One of the potential suggested technologies is internet-of-every-nano-thing (IoENT). Through this work, we demonstrate the different aspects of interfacing of molecular communication (MC) with other nano-communication systems such as human body communication (HBC), acou...]]></summary>
+        <author>
+            <name>Lokendra Chouhan</name>
+        </author>
+        <author>
+            <name>Mohamed-Slim Alouini</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Performance Analysis and Deep Learning Design of Short-Packet Communication in Multi-RIS Aided Multi-Antenna Wireless Systems]]></title>
         <id>https://ieeexplore.ieee.org/document/10114680</id>
