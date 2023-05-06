@@ -1,5 +1,173 @@
 [
   {
+    "articleNumber": "10120634",
+    "articleTitle": "Secure Transmission Scheme Based on Joint Radar and Communication in Mobile Vehicular Networks",
+    "authors": [
+      "Yu Yao",
+      "Feng Shu",
+      "Zeqing Li",
+      "Xu Cheng",
+      "Lenan Wu"
+    ],
+    "abstract": "Vehicle-to-vehicle (V2V) communication applications face significant challenges to security and privacy since all types of possible breaches are common in connected and autonomous vehicles (CAVs) networks. As an inheritance from conventional wireless services, potential eavesdropping is one of the main threats to V2V communications. In our work, the anti-eavesdropping scheme in CAVs networks is de...",
+    "date": "2023-05-06T00:55:15.225Z"
+  },
+  {
+    "articleNumber": "10120605",
+    "articleTitle": "Sensing Accident-Prone Features in Urban Scenes for Proactive Driving and Accident Prevention",
+    "authors": [
+      "Sumit Mishra",
+      "Praveen Kumar Rajendran",
+      "Luiz Felipe Vecchietti",
+      "Dongsoo Har"
+    ],
+    "abstract": "In urban cities, visual information on and along roadways is likely to distract drivers and lead to missing traffic signs and other accident-prone (AP) features. To avoid accidents due to missing these visual cues, this paper proposes a visual notification of AP-features to drivers based on real-time images obtained via dashcam. For this purpose, Google Street View images around accident hotspots ...",
+    "date": "2023-05-06T00:55:15.225Z"
+  },
+  {
+    "articleNumber": "10120647",
+    "articleTitle": "Deep Reinforcement Learning Two-Way Transit Signal Priority Algorithm for Optimizing Headway Adherence and Speed",
+    "authors": [
+      "Wen Xun Hu",
+      "Hirotaka Ishihara",
+      "Chuhan Chen",
+      "Amer Shalaby",
+      "Baher Abdulhai"
+    ],
+    "abstract": "Transit Signal Priority (TSP) is a broadly used traffic signal control strategy designed for reducing transit delays at signalized intersections. Although recent TSP systems began to consider more objectives, TSPs that addressed transit reliability issues commonly focused on improving schedule adherence and were only able to reduce schedule delays by expediting buses. Buses running ahead of the sc...",
+    "date": "2023-05-06T00:55:15.225Z"
+  },
+  {
+    "articleNumber": "10120651",
+    "articleTitle": "Safe-State Enhancement Method for Autonomous Driving via Direct Hierarchical Reinforcement Learning",
+    "authors": [
+      "Ziqing Gu",
+      "Lingping Gao",
+      "Haitong Ma",
+      "Shengbo Eben Li",
+      "Sifa Zheng",
+      "Wei Jing",
+      "Junbo Chen"
+    ],
+    "abstract": "Reinforcement learning (RL) has shown excellent performance in the sequential decision-making problem, where safety in the form of state constraints is of great significance in the design and application of RL. Simple constrained end-to-end RL methods might lead to significant failure in a complex system like autonomous vehicles. In contrast, some hierarchical RL (HRL) methods generate driving goa...",
+    "date": "2023-05-06T00:55:15.225Z"
+  },
+  {
+    "articleNumber": "10120631",
+    "articleTitle": "The Interacting Multiple Model Smooth Variable Structure Filter for Trajectory Prediction",
+    "authors": [
+      "Salman Akhtar",
+      "Saeid Habibi"
+    ],
+    "abstract": "An autonomous vehicle would benefit from being able to predict trajectories of other vehicles in its vicinity for improved safety. In order for the self-driving car to plan safe trajectories, paths of nearby vehicles are required to be predicted for risk assessment, decision making, and motion planning. In this study, a trajectory prediction algorithm based on the Interacting Multiple Model (IMM) ...",
+    "date": "2023-05-06T00:55:15.225Z"
+  },
+  {
+    "articleNumber": "10120672",
+    "articleTitle": "Neural Network-Based Subway Regenerative Energy Optimization With Variable Headway Constraints",
+    "authors": [
+      "Xiang Li",
+      "Zhaohua Pan",
+      "Hongguang Ma",
+      "Bowen Zhang"
+    ],
+    "abstract": "For subway regenerative energy optimization, the essential idea is to maximize the amount of regenerative energy absorption (AREA) between accelerating trains and braking trains by adjusting train timetable. The bottlenecks preventing the theoretical research from being used to industrial practice lie in the time-consuming simulation of AREA and the constant setting of headway threshold, which ser...",
+    "date": "2023-05-06T00:55:15.225Z"
+  },
+  {
+    "articleNumber": "10120606",
+    "articleTitle": "Blockchain Empowered Secure Video Sharing With Access Control for Vehicular Edge Computing",
+    "authors": [
+      "Bingcheng Jiang",
+      "Qian He",
+      "Peng Liu",
+      "Sabita Maharjan",
+      "Yan Zhang"
+    ],
+    "abstract": "The dramatically growing trend of vehicles equipped with driving camera recorders has allowed realizing real-time crowdsourced video sharing in vehicular edge computing (VEC). Such cameras can assist in monitoring objects directly in front of and behind the vehicles, enabling them to provide important visual information through real-time video streaming in case of possible accidents. Exploiting th...",
+    "date": "2023-05-06T00:55:15.225Z"
+  },
+  {
+    "articleNumber": "10120640",
+    "articleTitle": "A Real-Time Adaptive Energy Optimization Method for Urban Rail Flexible Traction Power Supply System",
+    "authors": [
+      "Hong Yu",
+      "Gang Zhang",
+      "Renyu Wang",
+      "Wei Xiong"
+    ],
+    "abstract": "In urban rail traction power supply systems, the optimal power flow method is mostly utilized for energy optimization. Conventional power flow optimization adopts offline calculation methods to obtain the optimal strategy under given scenarios. However, this method cannot continuously realize the ideal optimization effect for the time-varying flexible traction power supply system. For this reason,...",
+    "date": "2023-05-06T00:55:15.225Z"
+  },
+  {
+    "articleNumber": "10120633",
+    "articleTitle": "VoxelScape: Large Scale Simulated 3D Point Cloud Dataset of Urban Traffic Environments",
+    "authors": [
+      "Khaled Saleh",
+      "Mohammed Hossny",
+      "Ahmed Abobakr",
+      "Mohammed Attia",
+      "Julie Iskander"
+    ],
+    "abstract": "Having a profound understanding of the surrounding environment is considered one of the crucial tasks for the reliable operation of future self-driving cars. Light Detection and Ranging (LiDAR) sensor plays a critical role in achieving such understanding due to its capability to perceive the world in 3D. Similar to 2D perception tasks, current state-of-the-art methods in 3D perception tasks rely o...",
+    "date": "2023-05-06T00:55:15.225Z"
+  },
+  {
+    "articleNumber": "10120643",
+    "articleTitle": "Toward Intelligent Sensing: Optimizing Beam Distribution for Autonomous Driving",
+    "authors": [
+      "Genghang Zhuang",
+      "Zhenshan Bing",
+      "Xiangtong Yao",
+      "Yuhong Huang",
+      "Kai Huang",
+      "Alois Knoll"
+    ],
+    "abstract": "(Light Detection And Ranging) sensors have been widely used in autonomous vehicles as the main sensors. According to the specification details of the widely used 3D products in the market, the distribution of vertical beam channels is set according to a uniform angular resolution, which is not ideally efficient for specific autonomous tasks. In this paper, we propose a novel approach to find the o...",
+    "date": "2023-05-06T00:55:15.225Z"
+  },
+  {
+    "articleNumber": "10120649",
+    "articleTitle": "Unlinkable Signcryption Scheme for Multi-Receiver in VANETs",
+    "authors": [
+      "Yangfan Liang",
+      "Hongyang Yan",
+      "Yining Liu"
+    ],
+    "abstract": "An increasing number of researchers are turning their attention to signcryption, particularly in the context of multi-receiver communication scenarios, due to its ability to simultaneously provide authentication, integrity, and confidentiality of messages. However, existing signcryption schemes have not been able to fully implement sender unlinkability. Specifically, when a sender signcrypts a sec...",
+    "date": "2023-05-06T00:55:15.225Z"
+  },
+  {
+    "articleNumber": "10120632",
+    "articleTitle": "Cyber Mobility Mirror: A Deep Learning-Based Real-World Object Perception Platform Using Roadside LiDAR",
+    "authors": [
+      "Zhengwei Bai",
+      "Saswat P. Nayak",
+      "Xuanpeng Zhao",
+      "Guoyuan Wu",
+      "Matthew J. Barth",
+      "Xuewei Qi",
+      "Yongkang Liu",
+      "Emrah Akin Sisbot",
+      "Kentaro Oguchi"
+    ],
+    "abstract": "Object perception plays a fundamental role in Cooperative Driving Automation (CDA) which is regarded as a revolutionary promoter for next-generation transportation systems. However, the vehicle-based perception may suffer from the limited sensing range and occlusion as well as low penetration rates in connectivity. In this paper, we propose Cyber Mobility Mirror (CMM), a next-generation real-world...",
+    "date": "2023-05-06T00:55:15.225Z"
+  },
+  {
+    "articleNumber": "10120648",
+    "articleTitle": "FRNet: DCNN for Real-Time Distracted Driving Detection Toward Embedded Deployment",
+    "authors": [
+      "Cong Duan",
+      "Yipeng Gong",
+      "Jiacai Liao",
+      "Minghai Zhang",
+      "Libo Cao"
+    ],
+    "abstract": "Real-time running deep convolutional neural networks on embedded electronics is one recent focus for distracted driving detection. In this work, we proposed  $\\textit{FRNet}$ , which is a unique, efficient, and real-time architecture. The  $\\textit{FRNet}$  converts spatially distributed features into depth distribution by a feature reorganization block. This block compresses the volume of backbon...",
+    "date": "2023-05-06T00:55:15.225Z"
+  },
+  {
     "articleNumber": "10115523",
     "articleTitle": "A Game-Based Battery Swapping Station Recommendation Approach for Electric Vehicles",
     "authors": [

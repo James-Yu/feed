@@ -1,5 +1,17 @@
 [
   {
+    "articleNumber": "10119170",
+    "articleTitle": "System Level Performance Degradation Prediction for Power Converters Based on SSA Elman NN and Empirical Knowledge",
+    "authors": [
+      "Ying Zeng",
+      "Tudi Huang",
+      "Tingyu Zhang",
+      "Hong-Zhong Huang"
+    ],
+    "abstract": "The degradation of power converter perfor-mance is one of the most critical issues of complex system with the improvement of power capacity and density. Power converter bears severe electrical and thermal stress, resulting in an increase in the probability of failure and significant economic losses. Most research addresses performance evaluation either through reliability theory without physical u...",
+    "date": "2023-05-06T00:55:33.521Z"
+  },
+  {
     "articleNumber": "10116047",
     "articleTitle": "Editorial CFP: IEEE Transactions on Industrial Informatics—Special Section on Digital Twin for Industrial Internet of Things",
     "authors": [

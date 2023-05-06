@@ -1,5 +1,93 @@
 [
   {
+    "articleNumber": "10117563",
+    "articleTitle": "Device Access, Sub-Channel Division, and Transmission Power Allocation for NOMA-Enabled IoT Systems",
+    "authors": [
+      "Jianshan Zhang",
+      "Hongqiang Zheng",
+      "Zheyi Chen",
+      "Xing Chen",
+      "Geyong Min"
+    ],
+    "abstract": "In the era of the Internet of Things (IoT), it is a promising way to improve system energy utility and better meet users’ requirements for quality of service (QoS) via integrating non-orthogonal multiple access (NOMA) and mobile edge computing (MEC) technologies. In light of this idea, we investigate device access, sub-channel division, and transmission power allocation for NOMA-enabled IoT system...",
+    "date": "2023-05-06T00:55:28.558Z"
+  },
+  {
+    "articleNumber": "10117556",
+    "articleTitle": "A Digital Twin Empowered Lightweight Model Sharing Scheme for Multi-Robot Systems",
+    "authors": [
+      "Kai Xiong",
+      "Zhihong Wang",
+      "Supeng Leng",
+      "Jianhua He"
+    ],
+    "abstract": "Multi-robot system for manufacturing is an Industry Internet of Things (IIoT) paradigm with significant operational cost savings and productivity improvement, where Unmanned Aerial Vehicles (UAVs) are employed to control and implement collaborative productions without human intervention. This mission-critical system relies on 3-Dimension (3-D) scene recognition to improve operation accuracy in the...",
+    "date": "2023-05-06T00:55:28.558Z"
+  },
+  {
+    "articleNumber": "10117501",
+    "articleTitle": "Joint Slot Scheduling and Power Allocation for Throughput Maximization of Clustered UASNs",
+    "authors": [
+      "Xiaocao Jin",
+      "Zhixin Liu",
+      "Kai Ma"
+    ],
+    "abstract": "In the last decades, independent consideration of underwater acoustic medium access control (MAC) layer has received much attention for designing a reliable data transmission protocol. Although it can simplify the system design, it is often insufficient for the enhancement of overall system performance. The focus of this paper is on the cross-layer optimization to maximize the network throughput (...",
+    "date": "2023-05-06T00:55:28.558Z"
+  },
+  {
+    "articleNumber": "10119146",
+    "articleTitle": "Enabling Grant-Free URLLC for AoI Minimization in RAN-Coordinated 5G Health Monitoring System",
+    "authors": [
+      "Beom-Su Kim",
+      "Byung Hyun Lim",
+      "Beomkyu Suh",
+      "Sangtae Ha",
+      "Ting He",
+      "Babar Shah",
+      "Ki-Il Kim"
+    ],
+    "abstract": "Age of information (AoI) is used to evaluate the performance of 5G health monitoring systems because stale data can be fatal for patients with serious illness. Recently, grant-free ultra-reliable and low latency communications (URLLC) have shown greater potential of minimizing AoI than conventional grant-based approaches; however, existing grant-free schedulers cannot provide guaranteed performanc...",
+    "date": "2023-05-06T00:55:28.558Z"
+  },
+  {
+    "articleNumber": "10117560",
+    "articleTitle": "Energy Efficient Joint Collaborative and Passive Beamforming for Intelligent Reflecting Surface Assisted Wireless Sensor Networks",
+    "authors": [
+      "Tao Liu",
+      "Xiaomei Qu",
+      "Wenrong Tan",
+      "Ruihan Wen",
+      "Lijun Yang"
+    ],
+    "abstract": "Intelligent reflecting surface (IRS) provides a promising technology that can improve the energy efficiency of wireless communications, by building the controllable wireless propagation environment with the utilization of massive passive reflecting elements. Motivated by this, we apply the IRS to assist the data collection based on collaborative beamforming in Wireless Sensor Networks (WSNs). With...",
+    "date": "2023-05-06T00:55:28.558Z"
+  },
+  {
+    "articleNumber": "10117500",
+    "articleTitle": "Towards Extra Large-Scale MIMO: New Channel Properties and Low-Cost Designs",
+    "authors": [
+      "Yu Han",
+      "Shi Jin",
+      "Michail Matthaiou",
+      "Tony Q. S. Quek",
+      "Chao-Kai Wen"
+    ],
+    "abstract": "Extra large-scale multiple-input multiple-output (MIMO) has been recognized as one of the potential development directions of massive MIMO. By employing even more antennas than massive MIMO in the fifth-generation era, extra large-scale MIMO can further exploit the spatial domain resources and enable ultra high data rates, low latency communications as well as emerging applications, such as sensin...",
+    "date": "2023-05-06T00:55:28.558Z"
+  },
+  {
+    "articleNumber": "10120621",
+    "articleTitle": "Guest Editorial Special Issue on Intrusion Detection for the Internet of Things",
+    "authors": [
+      "Antonino Rullo",
+      "Elisa Bertino",
+      "Kui Ren"
+    ],
+    "abstract": "The proliferation of IoT devices in everyday life has made their security a critical requirement. Currently, those devices are not secure enough because of several reasons. First, manufacturers do not account much for security, releasing products that are vulnerable to attacks, thus leaving security issues that are unlikely to be resolved. Second, many IoT devices lack the processing power to run ...",
+    "date": "2023-05-06T00:55:28.558Z"
+  },
+  {
     "articleNumber": "10115272",
     "articleTitle": "Lattice-Based Analog Mappings for Low Latency Wireless Sensor Networks",
     "authors": [

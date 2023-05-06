@@ -2,11 +2,156 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/TPAMI.rss</id>
     <title>IEEE Transactions on Pattern Analysis and Machine Intelligence</title>
-    <updated>2023-05-05T16:14:53.627Z</updated>
+    <updated>2023-05-06T00:55:24.604Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/TPAMI.rss"/>
     <subtitle>IEEE Transactions on Pattern Analysis and Machine Intelligence</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Earning Extra Performance from Restrictive Feedbacks]]></title>
+        <id>https://ieeexplore.ieee.org/document/10119201</id>
+        <link href="https://ieeexplore.ieee.org/document/10119201"/>
+        <updated>2023-05-06T00:55:24.600Z</updated>
+        <summary type="html"><![CDATA[Many machine learning applications encounter situations where model providers are required to further refine the previously trained model so as to gratify the specific need of local users. This problem is reduced to the standard model tuning paradigm if the target data is permissibly fed to the model. However, it is rather difficult in a wide range of practical cases where target data is not share...]]></summary>
+        <author>
+            <name>Jing Li</name>
+        </author>
+        <author>
+            <name>Yuangang Pan</name>
+        </author>
+        <author>
+            <name>Yueming Lyu</name>
+        </author>
+        <author>
+            <name>Yinghua Yao</name>
+        </author>
+        <author>
+            <name>Yulei Sui</name>
+        </author>
+        <author>
+            <name>Ivor W. Tsang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learnable Distribution Calibration for Few-Shot Class-Incremental Learning]]></title>
+        <id>https://ieeexplore.ieee.org/document/10119176</id>
+        <link href="https://ieeexplore.ieee.org/document/10119176"/>
+        <updated>2023-05-06T00:55:24.600Z</updated>
+        <summary type="html"><![CDATA[Few-shot class-incremental learning (FSCIL) faces the challenges of memorizing old class distributions and estimating new class distributions given few training samples. In this study, we propose a learnable distribution calibration (LDC) approach, to systematically solve these two challenges using a unified framework. LDC is built upon a parameterized calibration unit (PCU), which initializes bia...]]></summary>
+        <author>
+            <name>Binghao Liu</name>
+        </author>
+        <author>
+            <name>Boyu Yang</name>
+        </author>
+        <author>
+            <name>Lingxi Xie</name>
+        </author>
+        <author>
+            <name>Ren Wang</name>
+        </author>
+        <author>
+            <name>Qi Tian</name>
+        </author>
+        <author>
+            <name>Qixiang Ye</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Confluence: A Robust Non-IoU Alternative to Non-Maxima Suppression in Object Detection]]></title>
+        <id>https://ieeexplore.ieee.org/document/10119209</id>
+        <link href="https://ieeexplore.ieee.org/document/10119209"/>
+        <updated>2023-05-06T00:55:24.600Z</updated>
+        <summary type="html"><![CDATA[Confluence is a novel non-Intersection over Union (IoU) alternative to Non-Maxima Suppression (NMS) in bounding box post-processing in object detection. It overcomes the inherent limitations of IoU-based NMS variants to provide a more stable, consistent predictor of bounding box clustering by using a normalized Manhattan Distance inspired proximity metric to represent bounding box clustering. Unli...]]></summary>
+        <author>
+            <name>Andrew J. Shepley</name>
+        </author>
+        <author>
+            <name>Greg Falzon</name>
+        </author>
+        <author>
+            <name>Paul Kwan</name>
+        </author>
+        <author>
+            <name>Ljiljana Brankovic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Self-Supervised Learning from Untrimmed Videos via Hierarchical Consistency]]></title>
+        <id>https://ieeexplore.ieee.org/document/10119224</id>
+        <link href="https://ieeexplore.ieee.org/document/10119224"/>
+        <updated>2023-05-06T00:55:24.600Z</updated>
+        <summary type="html"><![CDATA[Natural untrimmed videos provide rich visual content for self-supervised learning. Yet most previous efforts to learn spatiotemporal representations rely on manually trimmed videos, such as Kinetics dataset [1], resulting in limited diversity in visual patterns and limited performance gains. In this work, we aim to improve video representations by leveraging the rich information in natural untrimm...]]></summary>
+        <author>
+            <name>Zhiwu Qing</name>
+        </author>
+        <author>
+            <name>Shiwei Zhang</name>
+        </author>
+        <author>
+            <name>Ziyuan Huang</name>
+        </author>
+        <author>
+            <name>Yi Xu</name>
+        </author>
+        <author>
+            <name>Xiang Wang</name>
+        </author>
+        <author>
+            <name>Changxin Gao</name>
+        </author>
+        <author>
+            <name>Rong Jin</name>
+        </author>
+        <author>
+            <name>Nong Sang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Editorial: Special Section on Egocentric Perception]]></title>
+        <id>https://ieeexplore.ieee.org/document/10120668</id>
+        <link href="https://ieeexplore.ieee.org/document/10120668"/>
+        <updated>2023-05-06T00:55:24.600Z</updated>
+        <author>
+            <name>Antonino Furnari</name>
+        </author>
+        <author>
+            <name>David Crandall</name>
+        </author>
+        <author>
+            <name>Dima Damen</name>
+        </author>
+        <author>
+            <name>Kristen Grauman</name>
+        </author>
+        <author>
+            <name>Giovanni Maria Farinella</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guest Editorial: Introduction to the Special Section on Graphs in Vision and Pattern Analysis]]></title>
+        <id>https://ieeexplore.ieee.org/document/10120667</id>
+        <link href="https://ieeexplore.ieee.org/document/10120667"/>
+        <updated>2023-05-06T00:55:24.600Z</updated>
+        <author>
+            <name>Song Bai</name>
+        </author>
+        <author>
+            <name>Philip H.S. Torr</name>
+        </author>
+        <author>
+            <name>Ranjay Krishna</name>
+        </author>
+        <author>
+            <name>Fei-Fei Li</name>
+        </author>
+        <author>
+            <name>Abhinav Gupta</name>
+        </author>
+        <author>
+            <name>Song-Chun Zhu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Diverse Sample Generation: Pushing the Limit of Generative Data-Free Quantization]]></title>
         <id>https://ieeexplore.ieee.org/document/10115486</id>

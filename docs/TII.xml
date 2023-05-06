@@ -2,11 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/TII.rss</id>
     <title>IEEE Transactions on Industrial Informatics</title>
-    <updated>2023-05-05T16:15:05.754Z</updated>
+    <updated>2023-05-06T00:55:33.527Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/TII.rss"/>
     <subtitle>IEEE Transactions on Industrial Informatics</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[System Level Performance Degradation Prediction for Power Converters Based on SSA Elman NN and Empirical Knowledge]]></title>
+        <id>https://ieeexplore.ieee.org/document/10119170</id>
+        <link href="https://ieeexplore.ieee.org/document/10119170"/>
+        <updated>2023-05-06T00:55:33.521Z</updated>
+        <summary type="html"><![CDATA[The degradation of power converter perfor-mance is one of the most critical issues of complex system with the improvement of power capacity and density. Power converter bears severe electrical and thermal stress, resulting in an increase in the probability of failure and significant economic losses. Most research addresses performance evaluation either through reliability theory without physical u...]]></summary>
+        <author>
+            <name>Ying Zeng</name>
+        </author>
+        <author>
+            <name>Tudi Huang</name>
+        </author>
+        <author>
+            <name>Tingyu Zhang</name>
+        </author>
+        <author>
+            <name>Hong-Zhong Huang</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Editorial CFP: IEEE Transactions on Industrial Informatics—Special Section on Digital Twin for Industrial Internet of Things]]></title>
         <id>https://ieeexplore.ieee.org/document/10116047</id>

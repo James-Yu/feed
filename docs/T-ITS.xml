@@ -2,11 +2,294 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/T-ITS.rss</id>
     <title>IEEE Transactions on Intelligent Transportation Systems</title>
-    <updated>2023-05-05T16:14:41.536Z</updated>
+    <updated>2023-05-06T00:55:15.230Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/T-ITS.rss"/>
     <subtitle>IEEE Transactions on Intelligent Transportation Systems</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Secure Transmission Scheme Based on Joint Radar and Communication in Mobile Vehicular Networks]]></title>
+        <id>https://ieeexplore.ieee.org/document/10120634</id>
+        <link href="https://ieeexplore.ieee.org/document/10120634"/>
+        <updated>2023-05-06T00:55:15.225Z</updated>
+        <summary type="html"><![CDATA[Vehicle-to-vehicle (V2V) communication applications face significant challenges to security and privacy since all types of possible breaches are common in connected and autonomous vehicles (CAVs) networks. As an inheritance from conventional wireless services, potential eavesdropping is one of the main threats to V2V communications. In our work, the anti-eavesdropping scheme in CAVs networks is de...]]></summary>
+        <author>
+            <name>Yu Yao</name>
+        </author>
+        <author>
+            <name>Feng Shu</name>
+        </author>
+        <author>
+            <name>Zeqing Li</name>
+        </author>
+        <author>
+            <name>Xu Cheng</name>
+        </author>
+        <author>
+            <name>Lenan Wu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sensing Accident-Prone Features in Urban Scenes for Proactive Driving and Accident Prevention]]></title>
+        <id>https://ieeexplore.ieee.org/document/10120605</id>
+        <link href="https://ieeexplore.ieee.org/document/10120605"/>
+        <updated>2023-05-06T00:55:15.225Z</updated>
+        <summary type="html"><![CDATA[In urban cities, visual information on and along roadways is likely to distract drivers and lead to missing traffic signs and other accident-prone (AP) features. To avoid accidents due to missing these visual cues, this paper proposes a visual notification of AP-features to drivers based on real-time images obtained via dashcam. For this purpose, Google Street View images around accident hotspots ...]]></summary>
+        <author>
+            <name>Sumit Mishra</name>
+        </author>
+        <author>
+            <name>Praveen Kumar Rajendran</name>
+        </author>
+        <author>
+            <name>Luiz Felipe Vecchietti</name>
+        </author>
+        <author>
+            <name>Dongsoo Har</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deep Reinforcement Learning Two-Way Transit Signal Priority Algorithm for Optimizing Headway Adherence and Speed]]></title>
+        <id>https://ieeexplore.ieee.org/document/10120647</id>
+        <link href="https://ieeexplore.ieee.org/document/10120647"/>
+        <updated>2023-05-06T00:55:15.225Z</updated>
+        <summary type="html"><![CDATA[Transit Signal Priority (TSP) is a broadly used traffic signal control strategy designed for reducing transit delays at signalized intersections. Although recent TSP systems began to consider more objectives, TSPs that addressed transit reliability issues commonly focused on improving schedule adherence and were only able to reduce schedule delays by expediting buses. Buses running ahead of the sc...]]></summary>
+        <author>
+            <name>Wen Xun Hu</name>
+        </author>
+        <author>
+            <name>Hirotaka Ishihara</name>
+        </author>
+        <author>
+            <name>Chuhan Chen</name>
+        </author>
+        <author>
+            <name>Amer Shalaby</name>
+        </author>
+        <author>
+            <name>Baher Abdulhai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Safe-State Enhancement Method for Autonomous Driving via Direct Hierarchical Reinforcement Learning]]></title>
+        <id>https://ieeexplore.ieee.org/document/10120651</id>
+        <link href="https://ieeexplore.ieee.org/document/10120651"/>
+        <updated>2023-05-06T00:55:15.225Z</updated>
+        <summary type="html"><![CDATA[Reinforcement learning (RL) has shown excellent performance in the sequential decision-making problem, where safety in the form of state constraints is of great significance in the design and application of RL. Simple constrained end-to-end RL methods might lead to significant failure in a complex system like autonomous vehicles. In contrast, some hierarchical RL (HRL) methods generate driving goa...]]></summary>
+        <author>
+            <name>Ziqing Gu</name>
+        </author>
+        <author>
+            <name>Lingping Gao</name>
+        </author>
+        <author>
+            <name>Haitong Ma</name>
+        </author>
+        <author>
+            <name>Shengbo Eben Li</name>
+        </author>
+        <author>
+            <name>Sifa Zheng</name>
+        </author>
+        <author>
+            <name>Wei Jing</name>
+        </author>
+        <author>
+            <name>Junbo Chen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Interacting Multiple Model Smooth Variable Structure Filter for Trajectory Prediction]]></title>
+        <id>https://ieeexplore.ieee.org/document/10120631</id>
+        <link href="https://ieeexplore.ieee.org/document/10120631"/>
+        <updated>2023-05-06T00:55:15.225Z</updated>
+        <summary type="html"><![CDATA[An autonomous vehicle would benefit from being able to predict trajectories of other vehicles in its vicinity for improved safety. In order for the self-driving car to plan safe trajectories, paths of nearby vehicles are required to be predicted for risk assessment, decision making, and motion planning. In this study, a trajectory prediction algorithm based on the Interacting Multiple Model (IMM) ...]]></summary>
+        <author>
+            <name>Salman Akhtar</name>
+        </author>
+        <author>
+            <name>Saeid Habibi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neural Network-Based Subway Regenerative Energy Optimization With Variable Headway Constraints]]></title>
+        <id>https://ieeexplore.ieee.org/document/10120672</id>
+        <link href="https://ieeexplore.ieee.org/document/10120672"/>
+        <updated>2023-05-06T00:55:15.225Z</updated>
+        <summary type="html"><![CDATA[For subway regenerative energy optimization, the essential idea is to maximize the amount of regenerative energy absorption (AREA) between accelerating trains and braking trains by adjusting train timetable. The bottlenecks preventing the theoretical research from being used to industrial practice lie in the time-consuming simulation of AREA and the constant setting of headway threshold, which ser...]]></summary>
+        <author>
+            <name>Xiang Li</name>
+        </author>
+        <author>
+            <name>Zhaohua Pan</name>
+        </author>
+        <author>
+            <name>Hongguang Ma</name>
+        </author>
+        <author>
+            <name>Bowen Zhang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blockchain Empowered Secure Video Sharing With Access Control for Vehicular Edge Computing]]></title>
+        <id>https://ieeexplore.ieee.org/document/10120606</id>
+        <link href="https://ieeexplore.ieee.org/document/10120606"/>
+        <updated>2023-05-06T00:55:15.225Z</updated>
+        <summary type="html"><![CDATA[The dramatically growing trend of vehicles equipped with driving camera recorders has allowed realizing real-time crowdsourced video sharing in vehicular edge computing (VEC). Such cameras can assist in monitoring objects directly in front of and behind the vehicles, enabling them to provide important visual information through real-time video streaming in case of possible accidents. Exploiting th...]]></summary>
+        <author>
+            <name>Bingcheng Jiang</name>
+        </author>
+        <author>
+            <name>Qian He</name>
+        </author>
+        <author>
+            <name>Peng Liu</name>
+        </author>
+        <author>
+            <name>Sabita Maharjan</name>
+        </author>
+        <author>
+            <name>Yan Zhang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Real-Time Adaptive Energy Optimization Method for Urban Rail Flexible Traction Power Supply System]]></title>
+        <id>https://ieeexplore.ieee.org/document/10120640</id>
+        <link href="https://ieeexplore.ieee.org/document/10120640"/>
+        <updated>2023-05-06T00:55:15.225Z</updated>
+        <summary type="html"><![CDATA[In urban rail traction power supply systems, the optimal power flow method is mostly utilized for energy optimization. Conventional power flow optimization adopts offline calculation methods to obtain the optimal strategy under given scenarios. However, this method cannot continuously realize the ideal optimization effect for the time-varying flexible traction power supply system. For this reason,...]]></summary>
+        <author>
+            <name>Hong Yu</name>
+        </author>
+        <author>
+            <name>Gang Zhang</name>
+        </author>
+        <author>
+            <name>Renyu Wang</name>
+        </author>
+        <author>
+            <name>Wei Xiong</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VoxelScape: Large Scale Simulated 3D Point Cloud Dataset of Urban Traffic Environments]]></title>
+        <id>https://ieeexplore.ieee.org/document/10120633</id>
+        <link href="https://ieeexplore.ieee.org/document/10120633"/>
+        <updated>2023-05-06T00:55:15.225Z</updated>
+        <summary type="html"><![CDATA[Having a profound understanding of the surrounding environment is considered one of the crucial tasks for the reliable operation of future self-driving cars. Light Detection and Ranging (LiDAR) sensor plays a critical role in achieving such understanding due to its capability to perceive the world in 3D. Similar to 2D perception tasks, current state-of-the-art methods in 3D perception tasks rely o...]]></summary>
+        <author>
+            <name>Khaled Saleh</name>
+        </author>
+        <author>
+            <name>Mohammed Hossny</name>
+        </author>
+        <author>
+            <name>Ahmed Abobakr</name>
+        </author>
+        <author>
+            <name>Mohammed Attia</name>
+        </author>
+        <author>
+            <name>Julie Iskander</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Toward Intelligent Sensing: Optimizing Beam Distribution for Autonomous Driving]]></title>
+        <id>https://ieeexplore.ieee.org/document/10120643</id>
+        <link href="https://ieeexplore.ieee.org/document/10120643"/>
+        <updated>2023-05-06T00:55:15.225Z</updated>
+        <summary type="html"><![CDATA[(Light Detection And Ranging) sensors have been widely used in autonomous vehicles as the main sensors. According to the specification details of the widely used 3D products in the market, the distribution of vertical beam channels is set according to a uniform angular resolution, which is not ideally efficient for specific autonomous tasks. In this paper, we propose a novel approach to find the o...]]></summary>
+        <author>
+            <name>Genghang Zhuang</name>
+        </author>
+        <author>
+            <name>Zhenshan Bing</name>
+        </author>
+        <author>
+            <name>Xiangtong Yao</name>
+        </author>
+        <author>
+            <name>Yuhong Huang</name>
+        </author>
+        <author>
+            <name>Kai Huang</name>
+        </author>
+        <author>
+            <name>Alois Knoll</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unlinkable Signcryption Scheme for Multi-Receiver in VANETs]]></title>
+        <id>https://ieeexplore.ieee.org/document/10120649</id>
+        <link href="https://ieeexplore.ieee.org/document/10120649"/>
+        <updated>2023-05-06T00:55:15.225Z</updated>
+        <summary type="html"><![CDATA[An increasing number of researchers are turning their attention to signcryption, particularly in the context of multi-receiver communication scenarios, due to its ability to simultaneously provide authentication, integrity, and confidentiality of messages. However, existing signcryption schemes have not been able to fully implement sender unlinkability. Specifically, when a sender signcrypts a sec...]]></summary>
+        <author>
+            <name>Yangfan Liang</name>
+        </author>
+        <author>
+            <name>Hongyang Yan</name>
+        </author>
+        <author>
+            <name>Yining Liu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cyber Mobility Mirror: A Deep Learning-Based Real-World Object Perception Platform Using Roadside LiDAR]]></title>
+        <id>https://ieeexplore.ieee.org/document/10120632</id>
+        <link href="https://ieeexplore.ieee.org/document/10120632"/>
+        <updated>2023-05-06T00:55:15.225Z</updated>
+        <summary type="html"><![CDATA[Object perception plays a fundamental role in Cooperative Driving Automation (CDA) which is regarded as a revolutionary promoter for next-generation transportation systems. However, the vehicle-based perception may suffer from the limited sensing range and occlusion as well as low penetration rates in connectivity. In this paper, we propose Cyber Mobility Mirror (CMM), a next-generation real-world...]]></summary>
+        <author>
+            <name>Zhengwei Bai</name>
+        </author>
+        <author>
+            <name>Saswat P. Nayak</name>
+        </author>
+        <author>
+            <name>Xuanpeng Zhao</name>
+        </author>
+        <author>
+            <name>Guoyuan Wu</name>
+        </author>
+        <author>
+            <name>Matthew J. Barth</name>
+        </author>
+        <author>
+            <name>Xuewei Qi</name>
+        </author>
+        <author>
+            <name>Yongkang Liu</name>
+        </author>
+        <author>
+            <name>Emrah Akin Sisbot</name>
+        </author>
+        <author>
+            <name>Kentaro Oguchi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FRNet: DCNN for Real-Time Distracted Driving Detection Toward Embedded Deployment]]></title>
+        <id>https://ieeexplore.ieee.org/document/10120648</id>
+        <link href="https://ieeexplore.ieee.org/document/10120648"/>
+        <updated>2023-05-06T00:55:15.225Z</updated>
+        <summary type="html"><![CDATA[Real-time running deep convolutional neural networks on embedded electronics is one recent focus for distracted driving detection. In this work, we proposed  $\textit{FRNet}$ , which is a unique, efficient, and real-time architecture. The  $\textit{FRNet}$  converts spatially distributed features into depth distribution by a feature reorganization block. This block compresses the volume of backbon...]]></summary>
+        <author>
+            <name>Cong Duan</name>
+        </author>
+        <author>
+            <name>Yipeng Gong</name>
+        </author>
+        <author>
+            <name>Jiacai Liao</name>
+        </author>
+        <author>
+            <name>Minghai Zhang</name>
+        </author>
+        <author>
+            <name>Libo Cao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Game-Based Battery Swapping Station Recommendation Approach for Electric Vehicles]]></title>
         <id>https://ieeexplore.ieee.org/document/10115523</id>

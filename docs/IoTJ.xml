@@ -2,11 +2,156 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/IoTJ.rss</id>
     <title>IEEE Internet of Things Journal</title>
-    <updated>2023-05-05T16:14:59.305Z</updated>
+    <updated>2023-05-06T00:55:28.564Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/IoTJ.rss"/>
     <subtitle>IEEE Internet of Things Journal</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Device Access, Sub-Channel Division, and Transmission Power Allocation for NOMA-Enabled IoT Systems]]></title>
+        <id>https://ieeexplore.ieee.org/document/10117563</id>
+        <link href="https://ieeexplore.ieee.org/document/10117563"/>
+        <updated>2023-05-06T00:55:28.558Z</updated>
+        <summary type="html"><![CDATA[In the era of the Internet of Things (IoT), it is a promising way to improve system energy utility and better meet users’ requirements for quality of service (QoS) via integrating non-orthogonal multiple access (NOMA) and mobile edge computing (MEC) technologies. In light of this idea, we investigate device access, sub-channel division, and transmission power allocation for NOMA-enabled IoT system...]]></summary>
+        <author>
+            <name>Jianshan Zhang</name>
+        </author>
+        <author>
+            <name>Hongqiang Zheng</name>
+        </author>
+        <author>
+            <name>Zheyi Chen</name>
+        </author>
+        <author>
+            <name>Xing Chen</name>
+        </author>
+        <author>
+            <name>Geyong Min</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Digital Twin Empowered Lightweight Model Sharing Scheme for Multi-Robot Systems]]></title>
+        <id>https://ieeexplore.ieee.org/document/10117556</id>
+        <link href="https://ieeexplore.ieee.org/document/10117556"/>
+        <updated>2023-05-06T00:55:28.558Z</updated>
+        <summary type="html"><![CDATA[Multi-robot system for manufacturing is an Industry Internet of Things (IIoT) paradigm with significant operational cost savings and productivity improvement, where Unmanned Aerial Vehicles (UAVs) are employed to control and implement collaborative productions without human intervention. This mission-critical system relies on 3-Dimension (3-D) scene recognition to improve operation accuracy in the...]]></summary>
+        <author>
+            <name>Kai Xiong</name>
+        </author>
+        <author>
+            <name>Zhihong Wang</name>
+        </author>
+        <author>
+            <name>Supeng Leng</name>
+        </author>
+        <author>
+            <name>Jianhua He</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Joint Slot Scheduling and Power Allocation for Throughput Maximization of Clustered UASNs]]></title>
+        <id>https://ieeexplore.ieee.org/document/10117501</id>
+        <link href="https://ieeexplore.ieee.org/document/10117501"/>
+        <updated>2023-05-06T00:55:28.558Z</updated>
+        <summary type="html"><![CDATA[In the last decades, independent consideration of underwater acoustic medium access control (MAC) layer has received much attention for designing a reliable data transmission protocol. Although it can simplify the system design, it is often insufficient for the enhancement of overall system performance. The focus of this paper is on the cross-layer optimization to maximize the network throughput (...]]></summary>
+        <author>
+            <name>Xiaocao Jin</name>
+        </author>
+        <author>
+            <name>Zhixin Liu</name>
+        </author>
+        <author>
+            <name>Kai Ma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enabling Grant-Free URLLC for AoI Minimization in RAN-Coordinated 5G Health Monitoring System]]></title>
+        <id>https://ieeexplore.ieee.org/document/10119146</id>
+        <link href="https://ieeexplore.ieee.org/document/10119146"/>
+        <updated>2023-05-06T00:55:28.558Z</updated>
+        <summary type="html"><![CDATA[Age of information (AoI) is used to evaluate the performance of 5G health monitoring systems because stale data can be fatal for patients with serious illness. Recently, grant-free ultra-reliable and low latency communications (URLLC) have shown greater potential of minimizing AoI than conventional grant-based approaches; however, existing grant-free schedulers cannot provide guaranteed performanc...]]></summary>
+        <author>
+            <name>Beom-Su Kim</name>
+        </author>
+        <author>
+            <name>Byung Hyun Lim</name>
+        </author>
+        <author>
+            <name>Beomkyu Suh</name>
+        </author>
+        <author>
+            <name>Sangtae Ha</name>
+        </author>
+        <author>
+            <name>Ting He</name>
+        </author>
+        <author>
+            <name>Babar Shah</name>
+        </author>
+        <author>
+            <name>Ki-Il Kim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Energy Efficient Joint Collaborative and Passive Beamforming for Intelligent Reflecting Surface Assisted Wireless Sensor Networks]]></title>
+        <id>https://ieeexplore.ieee.org/document/10117560</id>
+        <link href="https://ieeexplore.ieee.org/document/10117560"/>
+        <updated>2023-05-06T00:55:28.558Z</updated>
+        <summary type="html"><![CDATA[Intelligent reflecting surface (IRS) provides a promising technology that can improve the energy efficiency of wireless communications, by building the controllable wireless propagation environment with the utilization of massive passive reflecting elements. Motivated by this, we apply the IRS to assist the data collection based on collaborative beamforming in Wireless Sensor Networks (WSNs). With...]]></summary>
+        <author>
+            <name>Tao Liu</name>
+        </author>
+        <author>
+            <name>Xiaomei Qu</name>
+        </author>
+        <author>
+            <name>Wenrong Tan</name>
+        </author>
+        <author>
+            <name>Ruihan Wen</name>
+        </author>
+        <author>
+            <name>Lijun Yang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Towards Extra Large-Scale MIMO: New Channel Properties and Low-Cost Designs]]></title>
+        <id>https://ieeexplore.ieee.org/document/10117500</id>
+        <link href="https://ieeexplore.ieee.org/document/10117500"/>
+        <updated>2023-05-06T00:55:28.558Z</updated>
+        <summary type="html"><![CDATA[Extra large-scale multiple-input multiple-output (MIMO) has been recognized as one of the potential development directions of massive MIMO. By employing even more antennas than massive MIMO in the fifth-generation era, extra large-scale MIMO can further exploit the spatial domain resources and enable ultra high data rates, low latency communications as well as emerging applications, such as sensin...]]></summary>
+        <author>
+            <name>Yu Han</name>
+        </author>
+        <author>
+            <name>Shi Jin</name>
+        </author>
+        <author>
+            <name>Michail Matthaiou</name>
+        </author>
+        <author>
+            <name>Tony Q. S. Quek</name>
+        </author>
+        <author>
+            <name>Chao-Kai Wen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guest Editorial Special Issue on Intrusion Detection for the Internet of Things]]></title>
+        <id>https://ieeexplore.ieee.org/document/10120621</id>
+        <link href="https://ieeexplore.ieee.org/document/10120621"/>
+        <updated>2023-05-06T00:55:28.558Z</updated>
+        <summary type="html"><![CDATA[The proliferation of IoT devices in everyday life has made their security a critical requirement. Currently, those devices are not secure enough because of several reasons. First, manufacturers do not account much for security, releasing products that are vulnerable to attacks, thus leaving security issues that are unlikely to be resolved. Second, many IoT devices lack the processing power to run ...]]></summary>
+        <author>
+            <name>Antonino Rullo</name>
+        </author>
+        <author>
+            <name>Elisa Bertino</name>
+        </author>
+        <author>
+            <name>Kui Ren</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lattice-Based Analog Mappings for Low Latency Wireless Sensor Networks]]></title>
         <id>https://ieeexplore.ieee.org/document/10115272</id>

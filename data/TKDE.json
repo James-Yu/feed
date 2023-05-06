@@ -1,5 +1,19 @@
 [
   {
+    "articleNumber": "10119211",
+    "articleTitle": "Improving Generalizability of Graph Anomaly Detection Models Via Data Augmentation",
+    "authors": [
+      "Shuang Zhou",
+      "Xiao Huang",
+      "Ninghao Liu",
+      "Huachi Zhou",
+      "Fu-Lai Chung",
+      "Long-Kai Huang"
+    ],
+    "abstract": "Graph anomaly detection (GAD) has wide applications in real-world networked systems. In many scenarios, people need to identify anomalies on new (sub)graphs, but they may lack labels to train an effective detection model. Since recent semi-supervised GAD methods, which can leverage the available labels as prior knowledge, have achieved superior performance than unsupervised methods, one natural id...",
+    "date": "2023-05-06T00:55:19.932Z"
+  },
+  {
     "articleNumber": "10115471",
     "articleTitle": "Multi-Stream Concept Drift Self-Adaptation Using Graph Neural Network",
     "authors": [

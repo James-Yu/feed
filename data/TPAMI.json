@@ -1,5 +1,86 @@
 [
   {
+    "articleNumber": "10119201",
+    "articleTitle": "Earning Extra Performance from Restrictive Feedbacks",
+    "authors": [
+      "Jing Li",
+      "Yuangang Pan",
+      "Yueming Lyu",
+      "Yinghua Yao",
+      "Yulei Sui",
+      "Ivor W. Tsang"
+    ],
+    "abstract": "Many machine learning applications encounter situations where model providers are required to further refine the previously trained model so as to gratify the specific need of local users. This problem is reduced to the standard model tuning paradigm if the target data is permissibly fed to the model. However, it is rather difficult in a wide range of practical cases where target data is not share...",
+    "date": "2023-05-06T00:55:24.600Z"
+  },
+  {
+    "articleNumber": "10119176",
+    "articleTitle": "Learnable Distribution Calibration for Few-Shot Class-Incremental Learning",
+    "authors": [
+      "Binghao Liu",
+      "Boyu Yang",
+      "Lingxi Xie",
+      "Ren Wang",
+      "Qi Tian",
+      "Qixiang Ye"
+    ],
+    "abstract": "Few-shot class-incremental learning (FSCIL) faces the challenges of memorizing old class distributions and estimating new class distributions given few training samples. In this study, we propose a learnable distribution calibration (LDC) approach, to systematically solve these two challenges using a unified framework. LDC is built upon a parameterized calibration unit (PCU), which initializes bia...",
+    "date": "2023-05-06T00:55:24.600Z"
+  },
+  {
+    "articleNumber": "10119209",
+    "articleTitle": "Confluence: A Robust Non-IoU Alternative to Non-Maxima Suppression in Object Detection",
+    "authors": [
+      "Andrew J. Shepley",
+      "Greg Falzon",
+      "Paul Kwan",
+      "Ljiljana Brankovic"
+    ],
+    "abstract": "Confluence is a novel non-Intersection over Union (IoU) alternative to Non-Maxima Suppression (NMS) in bounding box post-processing in object detection. It overcomes the inherent limitations of IoU-based NMS variants to provide a more stable, consistent predictor of bounding box clustering by using a normalized Manhattan Distance inspired proximity metric to represent bounding box clustering. Unli...",
+    "date": "2023-05-06T00:55:24.600Z"
+  },
+  {
+    "articleNumber": "10119224",
+    "articleTitle": "Self-Supervised Learning from Untrimmed Videos via Hierarchical Consistency",
+    "authors": [
+      "Zhiwu Qing",
+      "Shiwei Zhang",
+      "Ziyuan Huang",
+      "Yi Xu",
+      "Xiang Wang",
+      "Changxin Gao",
+      "Rong Jin",
+      "Nong Sang"
+    ],
+    "abstract": "Natural untrimmed videos provide rich visual content for self-supervised learning. Yet most previous efforts to learn spatiotemporal representations rely on manually trimmed videos, such as Kinetics dataset [1], resulting in limited diversity in visual patterns and limited performance gains. In this work, we aim to improve video representations by leveraging the rich information in natural untrimm...",
+    "date": "2023-05-06T00:55:24.600Z"
+  },
+  {
+    "articleNumber": "10120668",
+    "articleTitle": "Editorial: Special Section on Egocentric Perception",
+    "authors": [
+      "Antonino Furnari",
+      "David Crandall",
+      "Dima Damen",
+      "Kristen Grauman",
+      "Giovanni Maria Farinella"
+    ],
+    "date": "2023-05-06T00:55:24.600Z"
+  },
+  {
+    "articleNumber": "10120667",
+    "articleTitle": "Guest Editorial: Introduction to the Special Section on Graphs in Vision and Pattern Analysis",
+    "authors": [
+      "Song Bai",
+      "Philip H.S. Torr",
+      "Ranjay Krishna",
+      "Fei-Fei Li",
+      "Abhinav Gupta",
+      "Song-Chun Zhu"
+    ],
+    "date": "2023-05-06T00:55:24.600Z"
+  },
+  {
     "articleNumber": "10115486",
     "articleTitle": "Diverse Sample Generation: Pushing the Limit of Generative Data-Free Quantization",
     "authors": [

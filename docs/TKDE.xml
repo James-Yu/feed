@@ -2,11 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/TKDE.rss</id>
     <title>IEEE Transactions on Knowledge and Data Engineering</title>
-    <updated>2023-05-05T16:14:47.664Z</updated>
+    <updated>2023-05-06T00:55:19.937Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/TKDE.rss"/>
     <subtitle>IEEE Transactions on Knowledge and Data Engineering</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Improving Generalizability of Graph Anomaly Detection Models Via Data Augmentation]]></title>
+        <id>https://ieeexplore.ieee.org/document/10119211</id>
+        <link href="https://ieeexplore.ieee.org/document/10119211"/>
+        <updated>2023-05-06T00:55:19.932Z</updated>
+        <summary type="html"><![CDATA[Graph anomaly detection (GAD) has wide applications in real-world networked systems. In many scenarios, people need to identify anomalies on new (sub)graphs, but they may lack labels to train an effective detection model. Since recent semi-supervised GAD methods, which can leverage the available labels as prior knowledge, have achieved superior performance than unsupervised methods, one natural id...]]></summary>
+        <author>
+            <name>Shuang Zhou</name>
+        </author>
+        <author>
+            <name>Xiao Huang</name>
+        </author>
+        <author>
+            <name>Ninghao Liu</name>
+        </author>
+        <author>
+            <name>Huachi Zhou</name>
+        </author>
+        <author>
+            <name>Fu-Lai Chung</name>
+        </author>
+        <author>
+            <name>Long-Kai Huang</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Multi-Stream Concept Drift Self-Adaptation Using Graph Neural Network]]></title>
         <id>https://ieeexplore.ieee.org/document/10115471</id>
