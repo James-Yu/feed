@@ -2,11 +2,147 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/IoTJ.rss</id>
     <title>IEEE Internet of Things Journal</title>
-    <updated>2023-05-08T16:15:17.590Z</updated>
+    <updated>2023-05-09T01:00:50.372Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/IoTJ.rss"/>
     <subtitle>IEEE Internet of Things Journal</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Robust LoRa Modulation Scheme in the Presence of Residual Carrier Frequency Offset]]></title>
+        <id>https://ieeexplore.ieee.org/document/10120932</id>
+        <link href="https://ieeexplore.ieee.org/document/10120932"/>
+        <updated>2023-05-09T01:00:50.365Z</updated>
+        <summary type="html"><![CDATA[In this study, we propose a robust LoRa modulation scheme optimized to mitigate demodulation errors occurring from residual carrier frequency offset (CFO). Furthermore, we analyze its asymptotic performance to obtain useful insights. The performance analysis and advantages of the proposed scheme are confirmed by numerical results.]]></summary>
+        <author>
+            <name>Dong-Woo Lim</name>
+        </author>
+        <author>
+            <name>Kyu-Min Kang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Data-Driven Monitoring and Predictive Maintenance for Engineering Structures: Technologies, Implementation Challenges, and Future Directions]]></title>
+        <id>https://ieeexplore.ieee.org/document/10121599</id>
+        <link href="https://ieeexplore.ieee.org/document/10121599"/>
+        <updated>2023-05-09T01:00:50.365Z</updated>
+        <summary type="html"><![CDATA[Estimating engineering structures’ health conditions and predicting their future behaviors are fundamental problems for a city’s safe and efficient operations. Data-driven solutions estimate the health conditions using statistical models generated from measurement data. They have attracted growing interest recently because advances in information and communication technologies (ICT) have enabled n...]]></summary>
+        <author>
+            <name>Qianyi Chen</name>
+        </author>
+        <author>
+            <name>Jiannong Cao</name>
+        </author>
+        <author>
+            <name>Songye Zhu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Constellation Diagram Learning-based Adaptive Sparse Non-orthogonal Wavelet Division Multiplexing for Sonar Image Underwater Acoustic Transmission]]></title>
+        <id>https://ieeexplore.ieee.org/document/10120752</id>
+        <link href="https://ieeexplore.ieee.org/document/10120752"/>
+        <updated>2023-05-09T01:00:50.365Z</updated>
+        <summary type="html"><![CDATA[In underwater Internet of Things (IoT) applications, efficient and reliable transmission is demanding. Recently, the non-orthogonal multicarrier (MC) modulation is utilized as a promising spectrum-efficient solution in the UWA channel, where generally, the constellation mapping (CM) methods (such as 8-PSK and 16-QAM) are utilized to further increase the transmission rate. In this paper, we focus o...]]></summary>
+        <author>
+            <name>Guangyao Han</name>
+        </author>
+        <author>
+            <name>Yu Cao</name>
+        </author>
+        <author>
+            <name>Yishan Su</name>
+        </author>
+        <author>
+            <name>Xiaomei Fu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PT-SSIM: A Proactive, Trustworthy Self-Sovereign Identity Management System.]]></title>
+        <id>https://ieeexplore.ieee.org/document/10120762</id>
+        <link href="https://ieeexplore.ieee.org/document/10120762"/>
+        <updated>2023-05-09T01:00:50.365Z</updated>
+        <summary type="html"><![CDATA[Digital Identity Management (DIM) systems have become challenging, especially given the current progression in ubiquitous environments enclosing cooperative Internet of Things (IoT) devices, individuals, and organizations. Self-Sovereign Identity (SSI) has recently surfaced to manifest the notion of decentralized DIMs enlivened by users autonomy. This paper presents a proactive, trustworthy soluti...]]></summary>
+        <author>
+            <name>Efat Samir Fathalla</name>
+        </author>
+        <author>
+            <name>Mohamed Azab</name>
+        </author>
+        <author>
+            <name>ChunSheng Xin</name>
+        </author>
+        <author>
+            <name>Hongyi Wu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Accurate Anomaly Detection with Energy-Efficiency in IoT-Edge-Cloud Collaborative Networks]]></title>
+        <id>https://ieeexplore.ieee.org/document/10120907</id>
+        <link href="https://ieeexplore.ieee.org/document/10120907"/>
+        <updated>2023-05-09T01:00:50.365Z</updated>
+        <summary type="html"><![CDATA[With the applicability of edge intelligence in various domains, anomaly detection, which aims to identify unusual and infrequent circumstances, is regarded as a regularly performed task to guarantee the health of the Internet of Things (IoT) applications. Generally, sensory data are gathered at the network edge and completely transmitted to the cloud, where computational-heavy algorithms are mostl...]]></summary>
+        <author>
+            <name>Yi Li</name>
+        </author>
+        <author>
+            <name>Zhangbing Zhou</name>
+        </author>
+        <author>
+            <name>Xiao Xue</name>
+        </author>
+        <author>
+            <name>Deng Zhao</name>
+        </author>
+        <author>
+            <name>Patrick C. K. Hung</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A wireless gunshot recognition system based on tri-axis accelerometer and lightweight deep learning]]></title>
+        <id>https://ieeexplore.ieee.org/document/10120928</id>
+        <link href="https://ieeexplore.ieee.org/document/10120928"/>
+        <updated>2023-05-09T01:00:50.365Z</updated>
+        <summary type="html"><![CDATA[Gun violence and misuse pose great threat to the public safety. Real time monitoring of guns usage and gunshot events are very promising for effective gun control. However, most available monitoring systems are installed in fixed location instead of the guns, which greatly limits the flexibility and coverage. In this study, we propose a wireless gun monitoring and gunshot recognition system based ...]]></summary>
+        <author>
+            <name>Zhicong Chen</name>
+        </author>
+        <author>
+            <name>Haoxin Zheng</name>
+        </author>
+        <author>
+            <name>Jingchang Huang</name>
+        </author>
+        <author>
+            <name>Lijun Wu</name>
+        </author>
+        <author>
+            <name>Shuying Cheng</name>
+        </author>
+        <author>
+            <name>Qianwei Zhou</name>
+        </author>
+        <author>
+            <name>Yang Yang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Energy-Efficient Federated Learning Over Cell-Free IoT Networks: Modeling and Optimization]]></title>
+        <id>https://ieeexplore.ieee.org/document/10120750</id>
+        <link href="https://ieeexplore.ieee.org/document/10120750"/>
+        <updated>2023-05-09T01:00:50.365Z</updated>
+        <summary type="html"><![CDATA[To leverage massive distributed data and computation resources in the Internet-of-Things (IoT) networks, federated learning (FL) is considered to be a promising technique with benefits of improved data privacy and communication efficiency. Meanwhile, cell-free massive multiple-input multiple-output (cell-free massive MIMO) is a promising technology to enable the IoT networks to support FL. By depl...]]></summary>
+        <author>
+            <name>Taotao Zhao</name>
+        </author>
+        <author>
+            <name>Xiaomin Chen</name>
+        </author>
+        <author>
+            <name>Qiang Sun</name>
+        </author>
+        <author>
+            <name>Jiayi Zhang</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Device Access, Sub-Channel Division, and Transmission Power Allocation for NOMA-Enabled IoT Systems]]></title>
         <id>https://ieeexplore.ieee.org/document/10117563</id>

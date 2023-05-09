@@ -2,11 +2,89 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/TKDE.rss</id>
     <title>IEEE Transactions on Knowledge and Data Engineering</title>
-    <updated>2023-05-08T16:15:07.454Z</updated>
+    <updated>2023-05-09T01:00:40.983Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/TKDE.rss"/>
     <subtitle>IEEE Transactions on Knowledge and Data Engineering</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Seesaw Counting Filter: A Dynamic Filtering Framework for Vulnerable Negative Keys]]></title>
+        <id>https://ieeexplore.ieee.org/document/10120975</id>
+        <link href="https://ieeexplore.ieee.org/document/10120975"/>
+        <updated>2023-05-09T01:00:40.978Z</updated>
+        <summary type="html"><![CDATA[Bloom filter is an efficient data structure for filtering negative keys (keys not in a given set) with substantially small space. However, in real-world applications, there widely exist vulnerable negative keys, which will bring high costs if not being properly filtered, especially when positive keys are added/deleted dynamically. Such problem gets more severe when keys within one set are dynamica...]]></summary>
+        <author>
+            <name>Meng Li</name>
+        </author>
+        <author>
+            <name>Deyi Chen</name>
+        </author>
+        <author>
+            <name>Haipeng Dai</name>
+        </author>
+        <author>
+            <name>Rongbiao Xie</name>
+        </author>
+        <author>
+            <name>Siqiang Luo</name>
+        </author>
+        <author>
+            <name>Rong Gu</name>
+        </author>
+        <author>
+            <name>Tong Yang</name>
+        </author>
+        <author>
+            <name>Guihai ChenFellow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MINING: Multi-Granularity Network Alignment Based on Contrastive Learning]]></title>
+        <id>https://ieeexplore.ieee.org/document/10120956</id>
+        <link href="https://ieeexplore.ieee.org/document/10120956"/>
+        <updated>2023-05-09T01:00:40.978Z</updated>
+        <summary type="html"><![CDATA[Network alignment aims to discover nodes in different networks belonging to the same identity. In recent years, the network alignment problem has aroused significant attentions in both industry and academia. However, the continuous exploding of network data brings two challenges in solving the network alignment problem, i.e., large network scale and scarce labeled data. To bridge this gap, in this...]]></summary>
+        <author>
+            <name>Zhongbao Zhang</name>
+        </author>
+        <author>
+            <name>Shuai Gao</name>
+        </author>
+        <author>
+            <name>Sen Su</name>
+        </author>
+        <author>
+            <name>Li Sun</name>
+        </author>
+        <author>
+            <name>Ruiyang Chen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Efficient Maximal Biclique Enumeration on Large Uncertain Bipartite Graphs]]></title>
+        <id>https://ieeexplore.ieee.org/document/10121476</id>
+        <link href="https://ieeexplore.ieee.org/document/10121476"/>
+        <updated>2023-05-09T01:00:40.978Z</updated>
+        <summary type="html"><![CDATA[In this paper, we study the problem of maximal biclique enumeration on large uncertain bipartite graphs. Given an uncertain bipartite graph $\mathcal{G}=(U,V,E,p)$, a probability threshold $\tau$, and two size constraints $\alpha$ and $\beta$, we aim to efficiently enumerate all maximal $\tau$-bicliques in $\mathcal{G}$, where a maximal $\tau$-biclique $B(L,R)$ is a complete subgraph of $\mathcal{...]]></summary>
+        <author>
+            <name>Jianhua Wang</name>
+        </author>
+        <author>
+            <name>Jianye Yang</name>
+        </author>
+        <author>
+            <name>Ziyi Ma</name>
+        </author>
+        <author>
+            <name>Chengyuan Zhang</name>
+        </author>
+        <author>
+            <name>Shiyu Yang</name>
+        </author>
+        <author>
+            <name>Wenjie Zhang</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Improving Generalizability of Graph Anomaly Detection Models Via Data Augmentation]]></title>
         <id>https://ieeexplore.ieee.org/document/10119211</id>

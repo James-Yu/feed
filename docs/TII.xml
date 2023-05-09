@@ -2,11 +2,112 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/TII.rss</id>
     <title>IEEE Transactions on Industrial Informatics</title>
-    <updated>2023-05-08T16:15:22.635Z</updated>
+    <updated>2023-05-09T01:00:55.201Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/TII.rss"/>
     <subtitle>IEEE Transactions on Industrial Informatics</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Operational Status Evaluation of Smart Electricity Meters Using Gaussian Process Regression With Optimized-ARD Kernel]]></title>
+        <id>https://ieeexplore.ieee.org/document/10121656</id>
+        <link href="https://ieeexplore.ieee.org/document/10121656"/>
+        <updated>2023-05-09T01:00:55.194Z</updated>
+        <summary type="html"><![CDATA[Operational Status Evaluation (OSE) is essential for the health management of Smart Electricity Meters (SEM). This paper develops a machine learning-enabled OSE method for SEM. Specifically, the Gaussian Process Regression (GPR) is developed for modeling analysis, where an Optimized Automatic Relevance Determination (OARD) kernel is first used. Though the conventional ARD kernel structure can capt...]]></summary>
+        <author>
+            <name>Junfeng Duan</name>
+        </author>
+        <author>
+            <name>Qiu Tang</name>
+        </author>
+        <author>
+            <name>Jun Ma</name>
+        </author>
+        <author>
+            <name>Wenxuan Yao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Probabilistic Model-Based Reinforcement Learning Unmanned Surface Vehicles Using Local Update Sparse Spectrum Approximation]]></title>
+        <id>https://ieeexplore.ieee.org/document/10121658</id>
+        <link href="https://ieeexplore.ieee.org/document/10121658"/>
+        <updated>2023-05-09T01:00:55.194Z</updated>
+        <summary type="html"><![CDATA[This article focuses on the computational efficiency of probabilistic model-based reinforcement learning (MBRL) in unmanned surface vehicles (USV) under unforeseeable and unobservable external disturbances. A novel MBRL approach, local update spectrum probabilistic model predictive control (LUSPMPC) is proposed to fully release the superiority of the probabilistic model approximated in the frequen...]]></summary>
+        <author>
+            <name>Yunduan Cui</name>
+        </author>
+        <author>
+            <name>Wenbo Shi</name>
+        </author>
+        <author>
+            <name>Huan Yang</name>
+        </author>
+        <author>
+            <name>Cuiping Shao</name>
+        </author>
+        <author>
+            <name>Lei Peng</name>
+        </author>
+        <author>
+            <name>Huiyun Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Iterative Robust $H_\infty$-FIR Filtering Algorithm for Disturbed Systems under Harsh Conditions]]></title>
+        <id>https://ieeexplore.ieee.org/document/10121670</id>
+        <link href="https://ieeexplore.ieee.org/document/10121670"/>
+        <updated>2023-05-09T01:00:55.194Z</updated>
+        <summary type="html"><![CDATA[State estimation of industrial processes is often carried out under harsh conditions in uncertain environments. Therefore, robust state estimators are required. To address this demand, in this paper a batch $H_\infty$ finite impulse response ($H_\infty$-FIR) filter is developed for disturbed systems under measurement and initial errors. The gain for the batch $H_\infty$-FIR filter is numerically c...]]></summary>
+        <author>
+            <name>Juan J. López-Solórzano</name>
+        </author>
+        <author>
+            <name>Oscar Ibarra-Manzano</name>
+        </author>
+        <author>
+            <name>Yuriy S. Shmaliy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advanced Manufacturing in Industry 5.0: A Survey of Key Enabling Technologies and Future Trends]]></title>
+        <id>https://ieeexplore.ieee.org/document/10121632</id>
+        <link href="https://ieeexplore.ieee.org/document/10121632"/>
+        <updated>2023-05-09T01:00:55.194Z</updated>
+        <summary type="html"><![CDATA[A revolution in advanced manufacturing has been driven by digital technology in the fourth industrial revolution, also known as Industry 4.0, and has resulted in a substantial increase in profits for the industry. In a new paradigm of Industry 5.0, advanced manufacturing will step further and be capable of offering customized products and a better user experience. A number of key enabling technolo...]]></summary>
+        <author>
+            <name>Wei Xian</name>
+        </author>
+        <author>
+            <name>Kan Yu</name>
+        </author>
+        <author>
+            <name>Fengling Han</name>
+        </author>
+        <author>
+            <name>Le Fang</name>
+        </author>
+        <author>
+            <name>Dehua He</name>
+        </author>
+        <author>
+            <name>Qing-Long Han</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dual Timescales Voltages Regulation in Distribution Systems Using Data-driven and Physics-based Optimization]]></title>
+        <id>https://ieeexplore.ieee.org/document/10121646</id>
+        <link href="https://ieeexplore.ieee.org/document/10121646"/>
+        <updated>2023-05-09T01:00:55.194Z</updated>
+        <summary type="html"><![CDATA[A large number of electric vehicles (EVs), distributed solar and/or wind turbine generators (WTGs) connected to distribution systems lead to frequent and sharp voltages fluctuations. The action rates of conventional adjustable devices and smart inverters are very different. In this context, a novel dual-timescale voltage control scheme is proposed by organically combining data-driven with physics-...]]></summary>
+        <author>
+            <name>Jian Zhang</name>
+        </author>
+        <author>
+            <name>Mingjian Cui</name>
+        </author>
+        <author>
+            <name>Yigang He</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[System Level Performance Degradation Prediction for Power Converters Based on SSA Elman NN and Empirical Knowledge]]></title>
         <id>https://ieeexplore.ieee.org/document/10119170</id>

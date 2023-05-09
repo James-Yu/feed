@@ -1,5 +1,90 @@
 [
   {
+    "articleNumber": "10120932",
+    "articleTitle": "Robust LoRa Modulation Scheme in the Presence of Residual Carrier Frequency Offset",
+    "authors": [
+      "Dong-Woo Lim",
+      "Kyu-Min Kang"
+    ],
+    "abstract": "In this study, we propose a robust LoRa modulation scheme optimized to mitigate demodulation errors occurring from residual carrier frequency offset (CFO). Furthermore, we analyze its asymptotic performance to obtain useful insights. The performance analysis and advantages of the proposed scheme are confirmed by numerical results.",
+    "date": "2023-05-09T01:00:50.365Z"
+  },
+  {
+    "articleNumber": "10121599",
+    "articleTitle": "Data-Driven Monitoring and Predictive Maintenance for Engineering Structures: Technologies, Implementation Challenges, and Future Directions",
+    "authors": [
+      "Qianyi Chen",
+      "Jiannong Cao",
+      "Songye Zhu"
+    ],
+    "abstract": "Estimating engineering structures’ health conditions and predicting their future behaviors are fundamental problems for a city’s safe and efficient operations. Data-driven solutions estimate the health conditions using statistical models generated from measurement data. They have attracted growing interest recently because advances in information and communication technologies (ICT) have enabled n...",
+    "date": "2023-05-09T01:00:50.365Z"
+  },
+  {
+    "articleNumber": "10120752",
+    "articleTitle": "A Constellation Diagram Learning-based Adaptive Sparse Non-orthogonal Wavelet Division Multiplexing for Sonar Image Underwater Acoustic Transmission",
+    "authors": [
+      "Guangyao Han",
+      "Yu Cao",
+      "Yishan Su",
+      "Xiaomei Fu"
+    ],
+    "abstract": "In underwater Internet of Things (IoT) applications, efficient and reliable transmission is demanding. Recently, the non-orthogonal multicarrier (MC) modulation is utilized as a promising spectrum-efficient solution in the UWA channel, where generally, the constellation mapping (CM) methods (such as 8-PSK and 16-QAM) are utilized to further increase the transmission rate. In this paper, we focus o...",
+    "date": "2023-05-09T01:00:50.365Z"
+  },
+  {
+    "articleNumber": "10120762",
+    "articleTitle": "PT-SSIM: A Proactive, Trustworthy Self-Sovereign Identity Management System.",
+    "authors": [
+      "Efat Samir Fathalla",
+      "Mohamed Azab",
+      "ChunSheng Xin",
+      "Hongyi Wu"
+    ],
+    "abstract": "Digital Identity Management (DIM) systems have become challenging, especially given the current progression in ubiquitous environments enclosing cooperative Internet of Things (IoT) devices, individuals, and organizations. Self-Sovereign Identity (SSI) has recently surfaced to manifest the notion of decentralized DIMs enlivened by users autonomy. This paper presents a proactive, trustworthy soluti...",
+    "date": "2023-05-09T01:00:50.365Z"
+  },
+  {
+    "articleNumber": "10120907",
+    "articleTitle": "Accurate Anomaly Detection with Energy-Efficiency in IoT-Edge-Cloud Collaborative Networks",
+    "authors": [
+      "Yi Li",
+      "Zhangbing Zhou",
+      "Xiao Xue",
+      "Deng Zhao",
+      "Patrick C. K. Hung"
+    ],
+    "abstract": "With the applicability of edge intelligence in various domains, anomaly detection, which aims to identify unusual and infrequent circumstances, is regarded as a regularly performed task to guarantee the health of the Internet of Things (IoT) applications. Generally, sensory data are gathered at the network edge and completely transmitted to the cloud, where computational-heavy algorithms are mostl...",
+    "date": "2023-05-09T01:00:50.365Z"
+  },
+  {
+    "articleNumber": "10120928",
+    "articleTitle": "A wireless gunshot recognition system based on tri-axis accelerometer and lightweight deep learning",
+    "authors": [
+      "Zhicong Chen",
+      "Haoxin Zheng",
+      "Jingchang Huang",
+      "Lijun Wu",
+      "Shuying Cheng",
+      "Qianwei Zhou",
+      "Yang Yang"
+    ],
+    "abstract": "Gun violence and misuse pose great threat to the public safety. Real time monitoring of guns usage and gunshot events are very promising for effective gun control. However, most available monitoring systems are installed in fixed location instead of the guns, which greatly limits the flexibility and coverage. In this study, we propose a wireless gun monitoring and gunshot recognition system based ...",
+    "date": "2023-05-09T01:00:50.365Z"
+  },
+  {
+    "articleNumber": "10120750",
+    "articleTitle": "Energy-Efficient Federated Learning Over Cell-Free IoT Networks: Modeling and Optimization",
+    "authors": [
+      "Taotao Zhao",
+      "Xiaomin Chen",
+      "Qiang Sun",
+      "Jiayi Zhang"
+    ],
+    "abstract": "To leverage massive distributed data and computation resources in the Internet-of-Things (IoT) networks, federated learning (FL) is considered to be a promising technique with benefits of improved data privacy and communication efficiency. Meanwhile, cell-free massive multiple-input multiple-output (cell-free massive MIMO) is a promising technology to enable the IoT networks to support FL. By depl...",
+    "date": "2023-05-09T01:00:50.365Z"
+  },
+  {
     "articleNumber": "10117563",
     "articleTitle": "Device Access, Sub-Channel Division, and Transmission Power Allocation for NOMA-Enabled IoT Systems",
     "authors": [

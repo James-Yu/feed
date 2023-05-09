@@ -2,11 +2,131 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/TPAMI.rss</id>
     <title>IEEE Transactions on Pattern Analysis and Machine Intelligence</title>
-    <updated>2023-05-08T16:15:13.019Z</updated>
+    <updated>2023-05-09T01:00:45.933Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/TPAMI.rss"/>
     <subtitle>IEEE Transactions on Pattern Analysis and Machine Intelligence</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Inherit With Distillation and Evolve With Contrast: Exploring Class Incremental Semantic Segmentation Without Exemplar Memory]]></title>
+        <id>https://ieeexplore.ieee.org/document/10120962</id>
+        <link href="https://ieeexplore.ieee.org/document/10120962"/>
+        <updated>2023-05-09T01:00:45.929Z</updated>
+        <summary type="html"><![CDATA[As a front-burner problem in incremental learning, class incremental semantic segmentation (CISS) is plagued by catastrophic forgetting and semantic drift. Although recent methods have utilized knowledge distillation to transfer knowledge from the old model, they are still unable to avoid pixel confusion, which results in severe misclassification after incremental steps due to the lack of annotati...]]></summary>
+        <author>
+            <name>Danpei Zhao</name>
+        </author>
+        <author>
+            <name>Bo Yuan</name>
+        </author>
+        <author>
+            <name>Zhenwei Shi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Towards Deviation-Robust Agent Navigation Via Perturbation-Aware Contrastive Learning]]></title>
+        <id>https://ieeexplore.ieee.org/document/10120966</id>
+        <link href="https://ieeexplore.ieee.org/document/10120966"/>
+        <updated>2023-05-09T01:00:45.929Z</updated>
+        <summary type="html"><![CDATA[Vision-and-language navigation (VLN) asks an agent to follow a given language instruction to navigate through a real 3D environment. Despite significant advances, conventional VLN agents are trained typically under disturbance-free environments and may easily fail in real-world navigation scenarios, since they are unaware of how to deal with various possible disturbances, such as sudden obstacles ...]]></summary>
+        <author>
+            <name>Bingqian Lin</name>
+        </author>
+        <author>
+            <name>Yanxin Long</name>
+        </author>
+        <author>
+            <name>Yi Zhu</name>
+        </author>
+        <author>
+            <name>Fengda Zhu</name>
+        </author>
+        <author>
+            <name>Xiaodan Liang</name>
+        </author>
+        <author>
+            <name>Qixiang Ye</name>
+        </author>
+        <author>
+            <name>Liang Lin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Saliency as Pseudo-Pixel Supervision for Weakly and Semi-Supervised Semantic Segmentation]]></title>
+        <id>https://ieeexplore.ieee.org/document/10120949</id>
+        <link href="https://ieeexplore.ieee.org/document/10120949"/>
+        <updated>2023-05-09T01:00:45.929Z</updated>
+        <summary type="html"><![CDATA[Existing studies on semantic segmentation using image-level weak supervision have several limitations, including sparse object coverage, inaccurate object boundaries, and co-occurring pixels from non-target objects. To overcome these challenges, we propose a novel framework, an improved version of Explicit Pseudo-pixel Supervision (EPS++), which learns from pixel-level feedback by combining two ty...]]></summary>
+        <author>
+            <name>Minhyun Lee</name>
+        </author>
+        <author>
+            <name>Seungho Lee</name>
+        </author>
+        <author>
+            <name>Jongwuk Lee</name>
+        </author>
+        <author>
+            <name>Hyunjung Shim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Variational Cross-Graph Reasoning and Adaptive Structured Semantics Learning for Compositional Temporal Grounding]]></title>
+        <id>https://ieeexplore.ieee.org/document/10121664</id>
+        <link href="https://ieeexplore.ieee.org/document/10121664"/>
+        <updated>2023-05-09T01:00:45.929Z</updated>
+        <summary type="html"><![CDATA[Temporal grounding is the task of locating a specific segment from an untrimmed video according to a query sentence. This task has achieved significant momentum in the computer vision community as it enables activity grounding beyond pre-defined activity classes by utilizing the semantic diversity of natural language descriptions. The semantic diversity is rooted in the principle of compositionali...]]></summary>
+        <author>
+            <name>Juncheng Li</name>
+        </author>
+        <author>
+            <name>Siliang Tang</name>
+        </author>
+        <author>
+            <name>Linchao Zhu</name>
+        </author>
+        <author>
+            <name>Wenqiao Zhang</name>
+        </author>
+        <author>
+            <name>Yi Yang</name>
+        </author>
+        <author>
+            <name>Tat-Seng Chua</name>
+        </author>
+        <author>
+            <name>Fei Wu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learning to Infer Unseen Single-/Multi-Attribute-Object Compositions With Graph Networks]]></title>
+        <id>https://ieeexplore.ieee.org/document/10120982</id>
+        <link href="https://ieeexplore.ieee.org/document/10120982"/>
+        <updated>2023-05-09T01:00:45.929Z</updated>
+        <summary type="html"><![CDATA[Inferring the unseen attribute-object composition is critical to make machines learn to decompose and compose complex concepts like people. Most existing methods are limited to the composition recognition of single-attribute-object, and can hardly learn relations between the attributes and objects. In this paper, we propose an attribute-object semantic association graph model to learn the complex ...]]></summary>
+        <author>
+            <name>Hui Chen</name>
+        </author>
+        <author>
+            <name>Jingjing Jiang</name>
+        </author>
+        <author>
+            <name>Nanning Zheng</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Conformal Prediction for Time Series]]></title>
+        <id>https://ieeexplore.ieee.org/document/10121511</id>
+        <link href="https://ieeexplore.ieee.org/document/10121511"/>
+        <updated>2023-05-09T01:00:45.929Z</updated>
+        <summary type="html"><![CDATA[We present a general framework for constructing distribution-free prediction intervals for time series. We establish explicit bounds on the conditional and marginal coverage gaps of estimated prediction intervals, which asymptotically converge to zero under additional assumptions. We also provide similar bounds on the size of set differences between oracle and estimated prediction intervals. To im...]]></summary>
+        <author>
+            <name>Chen Xu</name>
+        </author>
+        <author>
+            <name>Yao Xie</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Earning Extra Performance from Restrictive Feedbacks]]></title>
         <id>https://ieeexplore.ieee.org/document/10119201</id>

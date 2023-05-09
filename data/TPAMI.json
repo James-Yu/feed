@@ -1,5 +1,79 @@
 [
   {
+    "articleNumber": "10120962",
+    "articleTitle": "Inherit With Distillation and Evolve With Contrast: Exploring Class Incremental Semantic Segmentation Without Exemplar Memory",
+    "authors": [
+      "Danpei Zhao",
+      "Bo Yuan",
+      "Zhenwei Shi"
+    ],
+    "abstract": "As a front-burner problem in incremental learning, class incremental semantic segmentation (CISS) is plagued by catastrophic forgetting and semantic drift. Although recent methods have utilized knowledge distillation to transfer knowledge from the old model, they are still unable to avoid pixel confusion, which results in severe misclassification after incremental steps due to the lack of annotati...",
+    "date": "2023-05-09T01:00:45.929Z"
+  },
+  {
+    "articleNumber": "10120966",
+    "articleTitle": "Towards Deviation-Robust Agent Navigation Via Perturbation-Aware Contrastive Learning",
+    "authors": [
+      "Bingqian Lin",
+      "Yanxin Long",
+      "Yi Zhu",
+      "Fengda Zhu",
+      "Xiaodan Liang",
+      "Qixiang Ye",
+      "Liang Lin"
+    ],
+    "abstract": "Vision-and-language navigation (VLN) asks an agent to follow a given language instruction to navigate through a real 3D environment. Despite significant advances, conventional VLN agents are trained typically under disturbance-free environments and may easily fail in real-world navigation scenarios, since they are unaware of how to deal with various possible disturbances, such as sudden obstacles ...",
+    "date": "2023-05-09T01:00:45.929Z"
+  },
+  {
+    "articleNumber": "10120949",
+    "articleTitle": "Saliency as Pseudo-Pixel Supervision for Weakly and Semi-Supervised Semantic Segmentation",
+    "authors": [
+      "Minhyun Lee",
+      "Seungho Lee",
+      "Jongwuk Lee",
+      "Hyunjung Shim"
+    ],
+    "abstract": "Existing studies on semantic segmentation using image-level weak supervision have several limitations, including sparse object coverage, inaccurate object boundaries, and co-occurring pixels from non-target objects. To overcome these challenges, we propose a novel framework, an improved version of Explicit Pseudo-pixel Supervision (EPS++), which learns from pixel-level feedback by combining two ty...",
+    "date": "2023-05-09T01:00:45.929Z"
+  },
+  {
+    "articleNumber": "10121664",
+    "articleTitle": "Variational Cross-Graph Reasoning and Adaptive Structured Semantics Learning for Compositional Temporal Grounding",
+    "authors": [
+      "Juncheng Li",
+      "Siliang Tang",
+      "Linchao Zhu",
+      "Wenqiao Zhang",
+      "Yi Yang",
+      "Tat-Seng Chua",
+      "Fei Wu"
+    ],
+    "abstract": "Temporal grounding is the task of locating a specific segment from an untrimmed video according to a query sentence. This task has achieved significant momentum in the computer vision community as it enables activity grounding beyond pre-defined activity classes by utilizing the semantic diversity of natural language descriptions. The semantic diversity is rooted in the principle of compositionali...",
+    "date": "2023-05-09T01:00:45.929Z"
+  },
+  {
+    "articleNumber": "10120982",
+    "articleTitle": "Learning to Infer Unseen Single-/Multi-Attribute-Object Compositions With Graph Networks",
+    "authors": [
+      "Hui Chen",
+      "Jingjing Jiang",
+      "Nanning Zheng"
+    ],
+    "abstract": "Inferring the unseen attribute-object composition is critical to make machines learn to decompose and compose complex concepts like people. Most existing methods are limited to the composition recognition of single-attribute-object, and can hardly learn relations between the attributes and objects. In this paper, we propose an attribute-object semantic association graph model to learn the complex ...",
+    "date": "2023-05-09T01:00:45.929Z"
+  },
+  {
+    "articleNumber": "10121511",
+    "articleTitle": "Conformal Prediction for Time Series",
+    "authors": [
+      "Chen Xu",
+      "Yao Xie"
+    ],
+    "abstract": "We present a general framework for constructing distribution-free prediction intervals for time series. We establish explicit bounds on the conditional and marginal coverage gaps of estimated prediction intervals, which asymptotically converge to zero under additional assumptions. We also provide similar bounds on the size of set differences between oracle and estimated prediction intervals. To im...",
+    "date": "2023-05-09T01:00:45.929Z"
+  },
+  {
     "articleNumber": "10119201",
     "articleTitle": "Earning Extra Performance from Restrictive Feedbacks",
     "authors": [
