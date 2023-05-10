@@ -1,5 +1,35 @@
 [
   {
+    "articleNumber": "10122126",
+    "articleTitle": "Towards Trajectory Forecasting from Detection",
+    "authors": [
+      "Pu Zhang",
+      "Lei Bai",
+      "Yuning Wang",
+      "Jianwu Fang",
+      "Jianru Xue",
+      "Nanning Zheng",
+      "Wanli Ouyang"
+    ],
+    "abstract": "Trajectory forecasting for traffic participants (e.g., vehicles) is critical for autonomous platforms to make safe plans. Currently, most trajectory forecasting methods assume that object trajectories have been extracted and directly develop trajectory predictors based on the ground truth trajectories. However, this assumption does not hold in practical situations. Trajectories obtained from objec...",
+    "date": "2023-05-10T00:58:40.464Z"
+  },
+  {
+    "articleNumber": "10122150",
+    "articleTitle": "Making a Bird AI Expert Work for You and Me",
+    "authors": [
+      "Dongliang Chang",
+      "Kaiyue Pang",
+      "Ruoyi Du",
+      "Yujun Tong",
+      "Yi-Zhe Song",
+      "Zhanyu Ma",
+      "Jun Guo"
+    ],
+    "abstract": "As powerful as fine-grained visual classification (FGVC) is, responding your query with a bird name of “Whip-poor-will” or “Mallard” probably does not make much sense. This however commonly accepted in the literature, underlines a fundamental question interfacing AI and human – what constitutes transferable knowledge for human to learn from AI? This paper sets out to answer this very question usin...",
+    "date": "2023-05-10T00:58:40.464Z"
+  },
+  {
     "articleNumber": "10120962",
     "articleTitle": "Inherit With Distillation and Evolve With Contrast: Exploring Class Incremental Semantic Segmentation Without Exemplar Memory",
     "authors": [

@@ -2,11 +2,358 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/T-ITS.rss</id>
     <title>IEEE Transactions on Intelligent Transportation Systems</title>
-    <updated>2023-05-09T16:14:45.286Z</updated>
+    <updated>2023-05-10T00:58:29.953Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/T-ITS.rss"/>
     <subtitle>IEEE Transactions on Intelligent Transportation Systems</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[A Flow Feedback Traffic Prediction Based on Visual Quantified Features]]></title>
+        <id>https://ieeexplore.ieee.org/document/10122471</id>
+        <link href="https://ieeexplore.ieee.org/document/10122471"/>
+        <updated>2023-05-10T00:58:29.947Z</updated>
+        <summary type="html"><![CDATA[Traffic flow prediction methods commonly rely on historical traffic data, such as traffic volume and speed, but may not be suitable for high-capacity expressways or during peak traffic hours. Furthermore, downstream flow can have significant impacts on traffic flow. To address these challenges, our study proposes a novel traffic flow prediction model, V-STF, which integrates visual methods to quan...]]></summary>
+        <author>
+            <name>Jing Chen</name>
+        </author>
+        <author>
+            <name>Mengqi Xu</name>
+        </author>
+        <author>
+            <name>Wenqiang Xu</name>
+        </author>
+        <author>
+            <name>Daping Li</name>
+        </author>
+        <author>
+            <name>Weimin Peng</name>
+        </author>
+        <author>
+            <name>Haitao Xu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Intersection-Based QoS Routing for Vehicular Ad Hoc Networks With Reinforcement Learning]]></title>
+        <id>https://ieeexplore.ieee.org/document/10122469</id>
+        <link href="https://ieeexplore.ieee.org/document/10122469"/>
+        <updated>2023-05-10T00:58:29.947Z</updated>
+        <summary type="html"><![CDATA[Vehicular ad hoc networks (VANETs) have the characteristics of high mobility, frequently changing topology and uneven distribution, which made it a challenge to design an efficient and robust routing protocol with low latency and high packet delivery rate. Currently, intersection-based routing method and full-path based routing method are two popular solutions for the packet routing in VANETs. Alt...]]></summary>
+        <author>
+            <name>Lanlan Rui</name>
+        </author>
+        <author>
+            <name>Zhibo Yan</name>
+        </author>
+        <author>
+            <name>Zuoyan Tan</name>
+        </author>
+        <author>
+            <name>Zhipeng Gao</name>
+        </author>
+        <author>
+            <name>Yang Yang</name>
+        </author>
+        <author>
+            <name>Xingyu Chen</name>
+        </author>
+        <author>
+            <name>Huiyong Liu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Modular Autonomous Electric Vehicle Scheduling for Customized On-Demand Bus Services]]></title>
+        <id>https://ieeexplore.ieee.org/document/10122470</id>
+        <link href="https://ieeexplore.ieee.org/document/10122470"/>
+        <updated>2023-05-10T00:58:29.947Z</updated>
+        <summary type="html"><![CDATA[The emerging customized bus system based on modular autonomous electric vehicles (MAEVs) shows tremendous potential to improve the mobility, accessibility and environmental friendliness of a public transport system. However, the existing studies in this area almost focus on human-driven vehicles which face some striking limitations (e.g., restricted crew scheduling and fixed vehicle capacity) and ...]]></summary>
+        <author>
+            <name>Rongge Guo</name>
+        </author>
+        <author>
+            <name>Wei Guan</name>
+        </author>
+        <author>
+            <name>Mauro Vallati</name>
+        </author>
+        <author>
+            <name>Wenyi Zhang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Collaborative 3D Object Detection for Autonomous Vehicles via Learnable Communications]]></title>
+        <id>https://ieeexplore.ieee.org/document/10122468</id>
+        <link href="https://ieeexplore.ieee.org/document/10122468"/>
+        <updated>2023-05-10T00:58:29.947Z</updated>
+        <summary type="html"><![CDATA[3D object detection from LiDAR point cloud is a challenging task in autonomous driving systems. Collaborative perception can incorporate information from spatially diverse sensors and provide significant benefits for accurate 3D object detection from point clouds. In this work, we consider that the autonomous vehicle uses local point cloud data and combines information from neighboring infrastruct...]]></summary>
+        <author>
+            <name>J. Wang</name>
+        </author>
+        <author>
+            <name>Y. Zeng</name>
+        </author>
+        <author>
+            <name>Y. Gong</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Human-Like Shared Driving Strategy in Lane-Changing Scenario Using Cooperative LPV/MPC]]></title>
+        <id>https://ieeexplore.ieee.org/document/10122463</id>
+        <link href="https://ieeexplore.ieee.org/document/10122463"/>
+        <updated>2023-05-10T00:58:29.947Z</updated>
+        <summary type="html"><![CDATA[Linear quadratic (LQ) game has been widely used in shared driving to resolve conflicts between drivers and driving automation systems (DAS). However, the system model in LQ game is assumed to be linear time-invariant, which does not consider the effect of changing longitudinal speed on the lateral control. A novel cooperative LPV/MPC approach is proposed, which characterizes the longitudinal and l...]]></summary>
+        <author>
+            <name>Rui Liu</name>
+        </author>
+        <author>
+            <name>Xuan Zhao</name>
+        </author>
+        <author>
+            <name>Xichan Zhu</name>
+        </author>
+        <author>
+            <name>Jian Ma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multi-UAV Navigation for Optimized Video Surveillance of Ground Vehicles on Uneven Terrains]]></title>
+        <id>https://ieeexplore.ieee.org/document/10122163</id>
+        <link href="https://ieeexplore.ieee.org/document/10122163"/>
+        <updated>2023-05-10T00:58:29.947Z</updated>
+        <summary type="html"><![CDATA[This paper addresses a trajectory planning problem for a team of UAVs following several ground vehicles on uneven terrain for video surveillance. A model predictive control-based multi-UAV path planning algorithm is designed. A theoretical justification of the path planning algorithm is provided. Extensive simulation studies demonstrate the performance of the proposed method.]]></summary>
+        <author>
+            <name>Andrey V. Savkin</name>
+        </author>
+        <author>
+            <name>Hailong Huang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Loop-Wise Route Representation and Its Optimization Formulation for Symmetric Traveling Salesman Problems]]></title>
+        <id>https://ieeexplore.ieee.org/document/10122489</id>
+        <link href="https://ieeexplore.ieee.org/document/10122489"/>
+        <updated>2023-05-10T00:58:29.947Z</updated>
+        <summary type="html"><![CDATA[This study proposes a new loop-wise route representation in which a vehicle route is represented in terms of continuous loop variables and a base route. The proposed loop-wise representation can guarantee a local route connectivity at each node with no constraint function, thereby simplifying the optimization formulation. Based on the proposed loop-wise route representation, optimization formulati...]]></summary>
+        <author>
+            <name>Geunu Kim</name>
+        </author>
+        <author>
+            <name>Hyunwoo Jin</name>
+        </author>
+        <author>
+            <name>Mingi Kim</name>
+        </author>
+        <author>
+            <name>Kitae Jang</name>
+        </author>
+        <author>
+            <name>In Gwun Jang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reservation-Based Cooperative Ecodriving Model for Mixed Autonomous and Manual Vehicles at Intersections]]></title>
+        <id>https://ieeexplore.ieee.org/document/10122486</id>
+        <link href="https://ieeexplore.ieee.org/document/10122486"/>
+        <updated>2023-05-10T00:58:29.947Z</updated>
+        <summary type="html"><![CDATA[Oversaturation has become a serious issue for urban intersections worldwide due to the rapid increase in population and traffic demands. The emergence of connected and automated vehicle (CAV) technologies demonstrates the potential to improve oversaturated arterial traffic. Integrating vehicular control and intersection controller optimization into a single process based on CAV technologies can op...]]></summary>
+        <author>
+            <name>Xin Huang</name>
+        </author>
+        <author>
+            <name>Peiqun Lin</name>
+        </author>
+        <author>
+            <name>Mingyang Pei</name>
+        </author>
+        <author>
+            <name>Bin Ran</name>
+        </author>
+        <author>
+            <name>Manchun Tan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Data-Driven Methodology for the Investigation of Riding Dynamics: A Motorcycle Case Study]]></title>
+        <id>https://ieeexplore.ieee.org/document/10122165</id>
+        <link href="https://ieeexplore.ieee.org/document/10122165"/>
+        <updated>2023-05-10T00:58:29.947Z</updated>
+        <summary type="html"><![CDATA[Powered-Two-Wheelers (PTW) riders’ fatalities are prevalent on bends outside built-up areas due to the complexity and instability of their vehicles: countermeasures require a better understanding of the rider-PTW interaction. Analysing riding data is effective but becomes challenging when using extensive datasets; segmenting the riding data would help identify events of interest, isolate specific ...]]></summary>
+        <author>
+            <name>Mirco Bartolozzi</name>
+        </author>
+        <author>
+            <name>Abderrahmane Boubezoul</name>
+        </author>
+        <author>
+            <name>Samir Bouaziz</name>
+        </author>
+        <author>
+            <name>Giovanni Savino</name>
+        </author>
+        <author>
+            <name>Stéphane Espié</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Multi-Period Charging Service Pricing Game for Public Charging Network Operators Considering the Dynamics of Coupled Traffic-Power Systems]]></title>
+        <id>https://ieeexplore.ieee.org/document/10122466</id>
+        <link href="https://ieeexplore.ieee.org/document/10122466"/>
+        <updated>2023-05-10T00:58:29.947Z</updated>
+        <summary type="html"><![CDATA[The proliferation of electric vehicles (EVs) couples the operations of traffic systems and power systems, necessitating the interdependent traffic-power modeling to optimize the on-road EV charging decisions. In this paper, the multi-period charging service pricing interactions between multiple charging network operators (CNOs) are discussed considering the dynamics of traffic-power systems. A mul...]]></summary>
+        <author>
+            <name>Yan Cui</name>
+        </author>
+        <author>
+            <name>Zechun Hu</name>
+        </author>
+        <author>
+            <name>Xiaoyu Duan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transportation Internet: A Sustainable Solution for Intelligent Transportation Systems]]></title>
+        <id>https://ieeexplore.ieee.org/document/10122162</id>
+        <link href="https://ieeexplore.ieee.org/document/10122162"/>
+        <updated>2023-05-10T00:58:29.947Z</updated>
+        <summary type="html"><![CDATA[New challenges such as automation, connection, electrification, and sharing (ACES) have brought disruptive changes to vehicles, transportation, and mobility services, which urgently requires an ideal solution for sustainable transportation. This paper introduces the Internet as a paradigm and, for the first time, proposes the Transportation Internet (TI), inspired by the similarity between the Int...]]></summary>
+        <author>
+            <name>Hui Li</name>
+        </author>
+        <author>
+            <name>Yongquan Chen</name>
+        </author>
+        <author>
+            <name>Keqiang Li</name>
+        </author>
+        <author>
+            <name>Chong Wang</name>
+        </author>
+        <author>
+            <name>Bokui Chen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Logistics in the Sky: A Two-Phase Optimization Approach for the Drone Package Pickup and Delivery System]]></title>
+        <id>https://ieeexplore.ieee.org/document/10122166</id>
+        <link href="https://ieeexplore.ieee.org/document/10122166"/>
+        <updated>2023-05-10T00:58:29.947Z</updated>
+        <summary type="html"><![CDATA[The application of drones in last-mile distribution has been a contentious research topic in recent years. Existing urban distribution modes mostly depend on trucks. This paper proposes a novel package pickup and delivery mode and system wherein multiple drones collaborate with automatic devices. The proposed mode uses free areas on top of residential buildings to set automatic devices as delivery...]]></summary>
+        <author>
+            <name>Fangyu Hong</name>
+        </author>
+        <author>
+            <name>Guohua Wu</name>
+        </author>
+        <author>
+            <name>Qizhang Luo</name>
+        </author>
+        <author>
+            <name>Huan Liu</name>
+        </author>
+        <author>
+            <name>Xiaoping Fang</name>
+        </author>
+        <author>
+            <name>Witold Pedrycz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tracking Occupant Activities in Autonomous Vehicles Using Capacitive Sensing]]></title>
+        <id>https://ieeexplore.ieee.org/document/10122467</id>
+        <link href="https://ieeexplore.ieee.org/document/10122467"/>
+        <updated>2023-05-10T00:58:29.947Z</updated>
+        <summary type="html"><![CDATA[Autonomous vehicles (AV) are a promising contemporary engineering innovation. Since they have no human drivers, their vehicle controllers must be fully informed of the activities of their occupants in vehicle seats so that occupant safety and comfort can be guaranteed. This paper introduces a system that employs capacitive sensing and machine learning to inform the controller of occupant activitie...]]></summary>
+        <author>
+            <name>Rahul Prasanna Kumar</name>
+        </author>
+        <author>
+            <name>David Melcher</name>
+        </author>
+        <author>
+            <name>Pietro Buttolo</name>
+        </author>
+        <author>
+            <name>Yunyi Jia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Robust Dynamic Game-Based Control Framework for Integrated Torque Vectoring and Active Front-Wheel Steering System]]></title>
+        <id>https://ieeexplore.ieee.org/document/10122465</id>
+        <link href="https://ieeexplore.ieee.org/document/10122465"/>
+        <updated>2023-05-10T00:58:29.947Z</updated>
+        <summary type="html"><![CDATA[Distributed drive electric vehicles (DDEVs) eliminate the complex drivetrain. The independently driven in-wheel motors also endow the vehicle with more ability for improving maneuverability. To this end, this paper proposes an integrated control framework of torque vectoring (TV) and active front-wheel steering system (AFS) to ensure the vehicle lateral motion stability performance. First, the pol...]]></summary>
+        <author>
+            <name>Jinhao Liang</name>
+        </author>
+        <author>
+            <name>Yanbo Lu</name>
+        </author>
+        <author>
+            <name>Faan Wang</name>
+        </author>
+        <author>
+            <name>Guodong Yin</name>
+        </author>
+        <author>
+            <name>Xiaoyuan Zhu</name>
+        </author>
+        <author>
+            <name>Yanjun Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Decentralized, Privacy-Preserving Routing of Cellular-Connected Unmanned Aerial Vehicles for Joint Goods Delivery and Sensing]]></title>
+        <id>https://ieeexplore.ieee.org/document/10122487</id>
+        <link href="https://ieeexplore.ieee.org/document/10122487"/>
+        <updated>2023-05-10T00:58:29.947Z</updated>
+        <summary type="html"><![CDATA[Unmanned aerial vehicles (UAVs) have been extensively applied to goods delivery and in-situ sensing. It becomes increasingly probable that multiple UAVs are delivering goods and carrying out sensing tasks at the same time. The destinations of the UAVs are usually required to jointly design their trajectories and sensing selections, leading to privacy concerns for the UAVs. This paper presents a ne...]]></summary>
+        <author>
+            <name>Bin Liu</name>
+        </author>
+        <author>
+            <name>Wei Ni</name>
+        </author>
+        <author>
+            <name>Ren Ping Liu</name>
+        </author>
+        <author>
+            <name>Y. Jay Guo</name>
+        </author>
+        <author>
+            <name>Hongbo Zhu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BIP-Tree: Tree Variant With Behavioral Intention Perception for Heterogeneous Trajectory Prediction]]></title>
+        <id>https://ieeexplore.ieee.org/document/10122464</id>
+        <link href="https://ieeexplore.ieee.org/document/10122464"/>
+        <updated>2023-05-10T00:58:29.947Z</updated>
+        <summary type="html"><![CDATA[An insightful understanding and relational reasoning of motion behavior are typical components for trajectory prediction to achieve safe planning when navigating in complex scenarios. Due to the differences in behavioral responses of heterogeneous agents and the existence of chain effect in message passing, an effective prediction method is desired to better acquire potential behavioral intention ...]]></summary>
+        <author>
+            <name>Yuzhen Zhang</name>
+        </author>
+        <author>
+            <name>Weizhi Guo</name>
+        </author>
+        <author>
+            <name>Junning Su</name>
+        </author>
+        <author>
+            <name>Pei Lv</name>
+        </author>
+        <author>
+            <name>Mingliang Xu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scanning the Issue]]></title>
+        <id>https://ieeexplore.ieee.org/document/10121188</id>
+        <link href="https://ieeexplore.ieee.org/document/10121188"/>
+        <updated>2023-05-10T00:58:29.947Z</updated>
+        <summary type="html"><![CDATA[This article reviews graph-based hazardous event detection methods for automated and autonomous vehicles. Traditional methods have often fallen short due to the complexity of events that involve a multitude of variables with intricate relationships. Therefore, this research explores the opportunity presented by graph-based methods for relational reasoning. Reasoning uses graph structures that can ...]]></summary>
+        <author>
+            <name>Azim Eskandarian</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Secure Transmission Scheme Based on Joint Radar and Communication in Mobile Vehicular Networks]]></title>
         <id>https://ieeexplore.ieee.org/document/10120634</id>

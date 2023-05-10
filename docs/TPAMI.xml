@@ -2,11 +2,67 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/TPAMI.rss</id>
     <title>IEEE Transactions on Pattern Analysis and Machine Intelligence</title>
-    <updated>2023-05-09T16:14:57.688Z</updated>
+    <updated>2023-05-10T00:58:40.471Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/TPAMI.rss"/>
     <subtitle>IEEE Transactions on Pattern Analysis and Machine Intelligence</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Towards Trajectory Forecasting from Detection]]></title>
+        <id>https://ieeexplore.ieee.org/document/10122126</id>
+        <link href="https://ieeexplore.ieee.org/document/10122126"/>
+        <updated>2023-05-10T00:58:40.464Z</updated>
+        <summary type="html"><![CDATA[Trajectory forecasting for traffic participants (e.g., vehicles) is critical for autonomous platforms to make safe plans. Currently, most trajectory forecasting methods assume that object trajectories have been extracted and directly develop trajectory predictors based on the ground truth trajectories. However, this assumption does not hold in practical situations. Trajectories obtained from objec...]]></summary>
+        <author>
+            <name>Pu Zhang</name>
+        </author>
+        <author>
+            <name>Lei Bai</name>
+        </author>
+        <author>
+            <name>Yuning Wang</name>
+        </author>
+        <author>
+            <name>Jianwu Fang</name>
+        </author>
+        <author>
+            <name>Jianru Xue</name>
+        </author>
+        <author>
+            <name>Nanning Zheng</name>
+        </author>
+        <author>
+            <name>Wanli Ouyang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Making a Bird AI Expert Work for You and Me]]></title>
+        <id>https://ieeexplore.ieee.org/document/10122150</id>
+        <link href="https://ieeexplore.ieee.org/document/10122150"/>
+        <updated>2023-05-10T00:58:40.464Z</updated>
+        <summary type="html"><![CDATA[As powerful as fine-grained visual classification (FGVC) is, responding your query with a bird name of “Whip-poor-will” or “Mallard” probably does not make much sense. This however commonly accepted in the literature, underlines a fundamental question interfacing AI and human – what constitutes transferable knowledge for human to learn from AI? This paper sets out to answer this very question usin...]]></summary>
+        <author>
+            <name>Dongliang Chang</name>
+        </author>
+        <author>
+            <name>Kaiyue Pang</name>
+        </author>
+        <author>
+            <name>Ruoyi Du</name>
+        </author>
+        <author>
+            <name>Yujun Tong</name>
+        </author>
+        <author>
+            <name>Yi-Zhe Song</name>
+        </author>
+        <author>
+            <name>Zhanyu Ma</name>
+        </author>
+        <author>
+            <name>Jun Guo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Inherit With Distillation and Evolve With Contrast: Exploring Class Incremental Semantic Segmentation Without Exemplar Memory]]></title>
         <id>https://ieeexplore.ieee.org/document/10120962</id>

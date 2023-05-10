@@ -1,5 +1,16 @@
 [
   {
+    "articleNumber": "10121905",
+    "articleTitle": "A New Approach for Semi-External Topological Sorting on Big Graphs",
+    "authors": [
+      "Tianpeng Gao",
+      "Jianzhong Li",
+      "Hengzhao Ma"
+    ],
+    "abstract": "This paper presents a new approach for semi-external topological sorting algorithm on big directed acyclic graph(DAG). Topological sorting aims to find an ordering of each node in DAG, which satisfies $u$ precedes $v$ in the ordering for each edge $(u,v)$ in DAG. Topological sorting is an important subroutine for scheduling and other external graph algorithms. But, the internal topological sorting...",
+    "date": "2023-05-10T00:58:35.198Z"
+  },
+  {
     "articleNumber": "10120975",
     "articleTitle": "Seesaw Counting Filter: A Dynamic Filtering Framework for Vulnerable Negative Keys",
     "authors": [
