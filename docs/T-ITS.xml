@@ -2,11 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/T-ITS.rss</id>
     <title>IEEE Transactions on Intelligent Transportation Systems</title>
-    <updated>2023-05-10T16:16:50.525Z</updated>
+    <updated>2023-05-11T00:59:33.313Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/T-ITS.rss"/>
     <subtitle>IEEE Transactions on Intelligent Transportation Systems</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Aggregated Zero-Knowledge Proof and Blockchain-Empowered Authentication for Autonomous Truck Platooning]]></title>
+        <id>https://ieeexplore.ieee.org/document/10122772</id>
+        <link href="https://ieeexplore.ieee.org/document/10122772"/>
+        <updated>2023-05-11T00:59:33.309Z</updated>
+        <summary type="html"><![CDATA[Platooning technologies enable trucks to drive cooperatively and automatically, providing benefits including less fuel consumption, greater road capacity, and safety. To establish trust during dynamic platooning formation, ensure vehicular data integrity, and guard platoons against potential attackers in mixed fleet environments, verifying any given vehicle’s identity information before granting i...]]></summary>
+        <author>
+            <name>Wanxin Li</name>
+        </author>
+        <author>
+            <name>Collin Meese</name>
+        </author>
+        <author>
+            <name>Hao Guo</name>
+        </author>
+        <author>
+            <name>Mark Nejad</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uncertainties in Onboard Algorithms for Autonomous Vehicles: Challenges, Mitigation, and Perspectives]]></title>
+        <id>https://ieeexplore.ieee.org/document/10122777</id>
+        <link href="https://ieeexplore.ieee.org/document/10122777"/>
+        <updated>2023-05-11T00:59:33.309Z</updated>
+        <summary type="html"><![CDATA[Autonomous driving is considered one of the revolutionary technologies shaping humanity’s future mobility and quality of life. However, safety remains a critical hurdle in the way of commercialization and widespread deployment of autonomous vehicles on public roads. Safety concerns require the autonomous driving system to handle uncertainties from multiple sources that are either preexisting, e.g....]]></summary>
+        <author>
+            <name>Kai Yang</name>
+        </author>
+        <author>
+            <name>Xiaolin Tang</name>
+        </author>
+        <author>
+            <name>Jun Li</name>
+        </author>
+        <author>
+            <name>Hong Wang</name>
+        </author>
+        <author>
+            <name>Guichuan Zhong</name>
+        </author>
+        <author>
+            <name>Jiaxin Chen</name>
+        </author>
+        <author>
+            <name>Dongpu Cao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crowd Management Through Optimal Layout of Fences: An Ant Colony Approach Based on Crowd Simulation]]></title>
+        <id>https://ieeexplore.ieee.org/document/10122771</id>
+        <link href="https://ieeexplore.ieee.org/document/10122771"/>
+        <updated>2023-05-11T00:59:33.309Z</updated>
+        <summary type="html"><![CDATA[The increasing population density in public places necessitates urgent attention to address safety concerns via effective crowd management. In many congested scenarios such as peak-hour subway stations, the utilization of fences to guide crowd movement has become a widely adopted approach to alleviate congestion. This work presents a method that combines crowd simulation and management, focusing o...]]></summary>
+        <author>
+            <name>Xiao-Cheng Liao</name>
+        </author>
+        <author>
+            <name>Wei-Neng Chen</name>
+        </author>
+        <author>
+            <name>Xiao-Qi Guo</name>
+        </author>
+        <author>
+            <name>Jinghui Zhong</name>
+        </author>
+        <author>
+            <name>Xiao-Min Hu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Flow Feedback Traffic Prediction Based on Visual Quantified Features]]></title>
         <id>https://ieeexplore.ieee.org/document/10122471</id>

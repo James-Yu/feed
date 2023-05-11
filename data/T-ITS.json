@@ -1,5 +1,45 @@
 [
   {
+    "articleNumber": "10122772",
+    "articleTitle": "Aggregated Zero-Knowledge Proof and Blockchain-Empowered Authentication for Autonomous Truck Platooning",
+    "authors": [
+      "Wanxin Li",
+      "Collin Meese",
+      "Hao Guo",
+      "Mark Nejad"
+    ],
+    "abstract": "Platooning technologies enable trucks to drive cooperatively and automatically, providing benefits including less fuel consumption, greater road capacity, and safety. To establish trust during dynamic platooning formation, ensure vehicular data integrity, and guard platoons against potential attackers in mixed fleet environments, verifying any given vehicle’s identity information before granting i...",
+    "date": "2023-05-11T00:59:33.309Z"
+  },
+  {
+    "articleNumber": "10122777",
+    "articleTitle": "Uncertainties in Onboard Algorithms for Autonomous Vehicles: Challenges, Mitigation, and Perspectives",
+    "authors": [
+      "Kai Yang",
+      "Xiaolin Tang",
+      "Jun Li",
+      "Hong Wang",
+      "Guichuan Zhong",
+      "Jiaxin Chen",
+      "Dongpu Cao"
+    ],
+    "abstract": "Autonomous driving is considered one of the revolutionary technologies shaping humanity’s future mobility and quality of life. However, safety remains a critical hurdle in the way of commercialization and widespread deployment of autonomous vehicles on public roads. Safety concerns require the autonomous driving system to handle uncertainties from multiple sources that are either preexisting, e.g....",
+    "date": "2023-05-11T00:59:33.309Z"
+  },
+  {
+    "articleNumber": "10122771",
+    "articleTitle": "Crowd Management Through Optimal Layout of Fences: An Ant Colony Approach Based on Crowd Simulation",
+    "authors": [
+      "Xiao-Cheng Liao",
+      "Wei-Neng Chen",
+      "Xiao-Qi Guo",
+      "Jinghui Zhong",
+      "Xiao-Min Hu"
+    ],
+    "abstract": "The increasing population density in public places necessitates urgent attention to address safety concerns via effective crowd management. In many congested scenarios such as peak-hour subway stations, the utilization of fences to guide crowd movement has become a widely adopted approach to alleviate congestion. This work presents a method that combines crowd simulation and management, focusing o...",
+    "date": "2023-05-11T00:59:33.309Z"
+  },
+  {
     "articleNumber": "10122471",
     "articleTitle": "A Flow Feedback Traffic Prediction Based on Visual Quantified Features",
     "authors": [

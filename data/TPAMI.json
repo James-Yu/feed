@@ -1,5 +1,41 @@
 [
   {
+    "articleNumber": "10122709",
+    "articleTitle": "Fixed Pattern Noise Removal Based on a Semi-Calibration Method",
+    "authors": [
+      "Lingfei Song",
+      "Hua Huang"
+    ],
+    "abstract": "Due to the manufacturing imperfections, nonuniformities are ubiquitous in digital sensors, causing the notorious Fixed Pattern Noise (FPN). The ability of modern digital cameras to take images under low-light environments is severely limited by the FPN. This paper proposes a novel semi-calibration-based method for the FPN removal that utilizes a pre-calibrated Noise Pattern. The key observation of...",
+    "date": "2023-05-11T00:59:42.855Z"
+  },
+  {
+    "articleNumber": "10122715",
+    "articleTitle": "Influence-Driven Data Poisoning for Robust Recommender Systems",
+    "authors": [
+      "Chenwang Wu",
+      "Defu Lian",
+      "Yong Ge",
+      "Zhihao Zhu",
+      "Enhong Chen"
+    ],
+    "abstract": "Recent studies have shown that recommender systems are vulnerable, and it is easy for attackers to inject well-designed malicious profiles into the system, resulting in biased recommendations. We cannot deprive these data&#39;s injection right and deny their existence&#39;s rationality, making it imperative to study recommendation robustness. Despite impressive emerging work, threat assessment of the bi-l...",
+    "date": "2023-05-11T00:59:42.855Z"
+  },
+  {
+    "articleNumber": "10122710",
+    "articleTitle": "A Unified Multimodal De- and Re-Coupling Framework for RGB-D Motion Recognition",
+    "authors": [
+      "Benjia Zhou",
+      "Pichao Wang",
+      "Jun Wan",
+      "Yanyan Liang",
+      "Fan Wang"
+    ],
+    "abstract": "Motion recognition is a promising direction in computer vision, but the training of video classification models is much harder than images due to insufficient data and considerable parameters. To get around this, some works strive to explore multimodal cues from RGB-D data. Although improving motion recognition to some extent, these methods still face sub-optimal situations in the following aspect...",
+    "date": "2023-05-11T00:59:42.855Z"
+  },
+  {
     "articleNumber": "10122126",
     "articleTitle": "Towards Trajectory Forecasting from Detection",
     "authors": [

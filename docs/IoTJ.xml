@@ -2,11 +2,68 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/IoTJ.rss</id>
     <title>IEEE Internet of Things Journal</title>
-    <updated>2023-05-10T16:17:07.409Z</updated>
+    <updated>2023-05-11T00:59:46.924Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/IoTJ.rss"/>
     <subtitle>IEEE Internet of Things Journal</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Decentralized Task Assignment for Mobile Crowdsensing with Multi-Agent Deep Reinforcement Learning]]></title>
+        <id>https://ieeexplore.ieee.org/document/10122773</id>
+        <link href="https://ieeexplore.ieee.org/document/10122773"/>
+        <updated>2023-05-11T00:59:46.918Z</updated>
+        <summary type="html"><![CDATA[Task assignment is a fundamental research problem in mobile crowdsensing (MCS) since it directly determines an MCS system’s practicality and economic value. Due to the complex dynamics of tasks and workers, task assignment problems are usually NP-hard, and approximation-based methods are preferred to impractical optimal methods. In the literature, a graph neural network-based deep reinforcement le...]]></summary>
+        <author>
+            <name>Chenghao Xu</name>
+        </author>
+        <author>
+            <name>Wei Song</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WMS: Wearables-Based Multi-Sensor System for In-home Fitness Guidance]]></title>
+        <id>https://ieeexplore.ieee.org/document/10122605</id>
+        <link href="https://ieeexplore.ieee.org/document/10122605"/>
+        <updated>2023-05-11T00:59:46.918Z</updated>
+        <summary type="html"><![CDATA[Human activity recognition (HAR) is now a powerful in-home fitness assistive technology. This article presents a wearables-based multi-sensor system (WMS), which not only supports conventional functionalities such as motion evaluation based on multi-dimensional information about the users body (movement speed, angle, muscle states, etc.), but also provides advanced services, including assessing tr...]]></summary>
+        <author>
+            <name>Liwen Liang</name>
+        </author>
+        <author>
+            <name>Yuxuan Duan</name>
+        </author>
+        <author>
+            <name>Jincheng Che</name>
+        </author>
+        <author>
+            <name>Chenyu Tang</name>
+        </author>
+        <author>
+            <name>Wensi Dai</name>
+        </author>
+        <author>
+            <name>Shuo Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Multi-Platform Cooperation based Task Assignment Mechanism for Mobile Crowdsensing]]></title>
+        <id>https://ieeexplore.ieee.org/document/10122558</id>
+        <link href="https://ieeexplore.ieee.org/document/10122558"/>
+        <updated>2023-05-11T00:59:46.918Z</updated>
+        <summary type="html"><![CDATA[Mobile crowdsensing (MCS) has been an effective sensing paradigm by utilizing the smart devices carried by mobile users to complete sensing tasks at different locations. An important problem in MCS is how to achieve effective task assignment in the context of opportunistic sensing, where mobile users are selectively recruited to perform tasks in an opportunistic way. However, most existing work in...]]></summary>
+        <author>
+            <name>Shuo Peng</name>
+        </author>
+        <author>
+            <name>Baoxian Zhang</name>
+        </author>
+        <author>
+            <name>Yan Yan</name>
+        </author>
+        <author>
+            <name>Cheng Li</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ResNet-WGAN Based End-to-End Learning for IoV Communication with Unknown Channels]]></title>
         <id>https://ieeexplore.ieee.org/document/10121735</id>

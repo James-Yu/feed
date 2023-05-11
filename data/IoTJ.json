@@ -1,5 +1,41 @@
 [
   {
+    "articleNumber": "10122773",
+    "articleTitle": "Decentralized Task Assignment for Mobile Crowdsensing with Multi-Agent Deep Reinforcement Learning",
+    "authors": [
+      "Chenghao Xu",
+      "Wei Song"
+    ],
+    "abstract": "Task assignment is a fundamental research problem in mobile crowdsensing (MCS) since it directly determines an MCS system’s practicality and economic value. Due to the complex dynamics of tasks and workers, task assignment problems are usually NP-hard, and approximation-based methods are preferred to impractical optimal methods. In the literature, a graph neural network-based deep reinforcement le...",
+    "date": "2023-05-11T00:59:46.918Z"
+  },
+  {
+    "articleNumber": "10122605",
+    "articleTitle": "WMS: Wearables-Based Multi-Sensor System for In-home Fitness Guidance",
+    "authors": [
+      "Liwen Liang",
+      "Yuxuan Duan",
+      "Jincheng Che",
+      "Chenyu Tang",
+      "Wensi Dai",
+      "Shuo Gao"
+    ],
+    "abstract": "Human activity recognition (HAR) is now a powerful in-home fitness assistive technology. This article presents a wearables-based multi-sensor system (WMS), which not only supports conventional functionalities such as motion evaluation based on multi-dimensional information about the users body (movement speed, angle, muscle states, etc.), but also provides advanced services, including assessing tr...",
+    "date": "2023-05-11T00:59:46.918Z"
+  },
+  {
+    "articleNumber": "10122558",
+    "articleTitle": "A Multi-Platform Cooperation based Task Assignment Mechanism for Mobile Crowdsensing",
+    "authors": [
+      "Shuo Peng",
+      "Baoxian Zhang",
+      "Yan Yan",
+      "Cheng Li"
+    ],
+    "abstract": "Mobile crowdsensing (MCS) has been an effective sensing paradigm by utilizing the smart devices carried by mobile users to complete sensing tasks at different locations. An important problem in MCS is how to achieve effective task assignment in the context of opportunistic sensing, where mobile users are selectively recruited to perform tasks in an opportunistic way. However, most existing work in...",
+    "date": "2023-05-11T00:59:46.918Z"
+  },
+  {
     "articleNumber": "10121735",
     "articleTitle": "ResNet-WGAN Based End-to-End Learning for IoV Communication with Unknown Channels",
     "authors": [
