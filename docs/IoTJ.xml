@@ -2,11 +2,125 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/IoTJ.rss</id>
     <title>IEEE Internet of Things Journal</title>
-    <updated>2023-05-11T16:14:46.726Z</updated>
+    <updated>2023-05-12T00:59:12.832Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/IoTJ.rss"/>
     <subtitle>IEEE Internet of Things Journal</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Practical Feature Inference Attack in Vertical Federated Learning During Prediction in Artificial Internet of Things]]></title>
+        <id>https://ieeexplore.ieee.org/document/10122963</id>
+        <link href="https://ieeexplore.ieee.org/document/10122963"/>
+        <updated>2023-05-12T00:59:12.826Z</updated>
+        <summary type="html"><![CDATA[The emergence of edge computing guarantees the combination of the Internet of Things (IoT) and artificial intelligence (AI). The vertical federated learning (VFL) framework, usually deployed by split learning, can analyze and integrate information on different features collected by different terminals in the IoT. The complete model is divided into a top model and multiple bottom models in a specif...]]></summary>
+        <author>
+            <name>Ruikang Yang</name>
+        </author>
+        <author>
+            <name>Jianfeng Ma</name>
+        </author>
+        <author>
+            <name>Junying Zhang</name>
+        </author>
+        <author>
+            <name>Saru Kumari</name>
+        </author>
+        <author>
+            <name>Sachin Kumar</name>
+        </author>
+        <author>
+            <name>Joel J. P. C. Rodrigues</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Joint Optimization of Secure Over-the-Air Computation and Reliable Multicasting Assisted by a MIMO Untrusted Two-Way Relay]]></title>
+        <id>https://ieeexplore.ieee.org/document/10122940</id>
+        <link href="https://ieeexplore.ieee.org/document/10122940"/>
+        <updated>2023-05-12T00:59:12.826Z</updated>
+        <summary type="html"><![CDATA[In this paper, we investigate joint optimization of secure AirComp and reliable multicasting assisted by a multiple-input multiple-output untrusted two-way relay, where artificial noise is employed at the access point (AP) to interfere the relay for ensuring secure AirComp. We aim to minimize the computation distortion at the AP by jointly designing the transmit variables of all the nodes and the ...]]></summary>
+        <author>
+            <name>Quanzhong Li</name>
+        </author>
+        <author>
+            <name>Hualiang Luo</name>
+        </author>
+        <author>
+            <name>Liang Yang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Find a Bitcoin Mixer: A Dual Ensemble Model for Bitcoin Mixing Service Detection]]></title>
+        <id>https://ieeexplore.ieee.org/document/10122913</id>
+        <link href="https://ieeexplore.ieee.org/document/10122913"/>
+        <updated>2023-05-12T00:59:12.826Z</updated>
+        <summary type="html"><![CDATA[Bitcoin is the first decentralized peer-to-peer cryptocurrency that has gained popularity by providing users with transaction anonymity. With the development of Bitcoin and the higher privacy requirements of users, mixing services have emerged to enhance Bitcoin anonymity by obfuscating the flow of funds. However, they are also widely used for illegal activities due to its strong anonymity, especi...]]></summary>
+        <author>
+            <name>Chang Xu</name>
+        </author>
+        <author>
+            <name>Ruting Xiong</name>
+        </author>
+        <author>
+            <name>Xiaodong Shen</name>
+        </author>
+        <author>
+            <name>Liehuang Zhu</name>
+        </author>
+        <author>
+            <name>Xiaoming Zhang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Secure Equality Test Technique using Identity Based Signcryption for Telemedicine Systems]]></title>
+        <id>https://ieeexplore.ieee.org/document/10123394</id>
+        <link href="https://ieeexplore.ieee.org/document/10123394"/>
+        <updated>2023-05-12T00:59:12.826Z</updated>
+        <summary type="html"><![CDATA[For telemedicine, Wireless Body Area Network (WBAN) offers enormous benefits where a patient can be remotely monitored without compromising the mobility of remote treatments. With the advent of high capacity and reliable wireless networks, WBANs are used in several remote monitoring systems, limiting the COVID-19 spread. The sensitivity of telemedicine applications mandates confidentiality and pri...]]></summary>
+        <author>
+            <name>Mohammed Ramadan</name>
+        </author>
+        <author>
+            <name>Shahid Raza</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ECE: Exactly Once Computation for Collaborative Edge in IoT using Information Centric Networking]]></title>
+        <id>https://ieeexplore.ieee.org/document/10122950</id>
+        <link href="https://ieeexplore.ieee.org/document/10122950"/>
+        <updated>2023-05-12T00:59:12.826Z</updated>
+        <summary type="html"><![CDATA[Exactly-once data processing/delivery can be guaranteed in traditional big data processing systems, e.g. Apache Flink. Checkpoint is commonly used as the solution. Each operator in these systems can restart from the last successfully saved state whenever a failure happens. It is not necessary to restore the logical job graph onto the same device(s) in traditional datacentre scenarios with powerful...]]></summary>
+        <author>
+            <name>Qian Wang</name>
+        </author>
+        <author>
+            <name>Brian Lee</name>
+        </author>
+        <author>
+            <name>Niall Murray</name>
+        </author>
+        <author>
+            <name>Yuansong Qiao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An RSUs-Assisted Hybrid Emergency Messages Broadcasting Protocol for VANETs]]></title>
+        <id>https://ieeexplore.ieee.org/document/10122954</id>
+        <link href="https://ieeexplore.ieee.org/document/10122954"/>
+        <updated>2023-05-12T00:59:12.826Z</updated>
+        <summary type="html"><![CDATA[In vehicular ad hoc networks (VANETs), emergency messages broadcasting has been considered as one of the important parts for safety related applications. The efficiency and reliability of the emergency message broadcasting are severely affected by the network structure, message redundancy, channel contention, etc. To address this problem, in this paper, we propose an RSUs-assisted hybrid emergency...]]></summary>
+        <author>
+            <name>Daozhen Xi</name>
+        </author>
+        <author>
+            <name>Haixia Zhang</name>
+        </author>
+        <author>
+            <name>Yi Cao</name>
+        </author>
+        <author>
+            <name>Dongfeng Yuan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Decentralized Task Assignment for Mobile Crowdsensing with Multi-Agent Deep Reinforcement Learning]]></title>
         <id>https://ieeexplore.ieee.org/document/10122773</id>

@@ -1,5 +1,48 @@
 [
   {
+    "articleNumber": "10123097",
+    "articleTitle": "Interoperability in Blockchain: A Survey",
+    "authors": [
+      "Kunpeng Ren",
+      "Nhut-Minh Ho",
+      "Dumitrel Loghin",
+      "Thanh-Toan Nguyen",
+      "Beng Chin Ooi",
+      "Quang-Trung Ta",
+      "Feida Zhu"
+    ],
+    "abstract": "This paper presents a systematic and comprehensive survey on blockchain interoperability, where interoperability is defined as the ability of blockchains to flexibly transfer assets, share data, and invoke smart contracts across a mix of public, private, and consortium blockchains without any changes to the underlying blockchain systems. Analyzing the vast landscape of both research papers and ind...",
+    "date": "2023-05-12T00:59:03.184Z"
+  },
+  {
+    "articleNumber": "10122990",
+    "articleTitle": "Automatic Context Pattern Generation for Entity Set Expansion",
+    "authors": [
+      "Yinghui Li",
+      "Shulin Huang",
+      "Xinwei Zhang",
+      "Qingyu Zhou",
+      "Yangning Li",
+      "Ruiyang Liu",
+      "Yunbo Cao",
+      "Hai-Tao Zheng",
+      "Ying Shen"
+    ],
+    "abstract": "Entity Set Expansion (ESE) is a valuable task that aims to find entities of the target semantic class described by given seed entities. Various Natural Language Processing (NLP) and Information Retrieval (IR) downstream applications have benefited from ESE due to its ability to discover knowledge. Although existing corpus-based ESE methods have achieved great progress, they still rely on corpora w...",
+    "date": "2023-05-12T00:59:03.184Z"
+  },
+  {
+    "articleNumber": "10122981",
+    "articleTitle": "Accelerated Fuzzy C-Means Clustering Based on New Affinity Filtering and Membership Scaling",
+    "authors": [
+      "Dong Li",
+      "Shuisheng Zhou",
+      "Witold Pedrycz"
+    ],
+    "abstract": "Fuzzy C-Means (FCM) is a widely used clustering method. However, FCM and its many accelerated variants have low efficiency in the mid-to-late stage of the clustering process. In this stage, all samples are involved in updating their non-affinity centers, and the fuzzy membership grades of most samples, whose assignments remain unchanged, are still updated by calculating the sample-center distances...",
+    "date": "2023-05-12T00:59:03.184Z"
+  },
+  {
     "articleNumber": "10121905",
     "articleTitle": "A New Approach for Semi-External Topological Sorting on Big Graphs",
     "authors": [

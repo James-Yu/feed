@@ -1,5 +1,77 @@
 [
   {
+    "articleNumber": "10122963",
+    "articleTitle": "Practical Feature Inference Attack in Vertical Federated Learning During Prediction in Artificial Internet of Things",
+    "authors": [
+      "Ruikang Yang",
+      "Jianfeng Ma",
+      "Junying Zhang",
+      "Saru Kumari",
+      "Sachin Kumar",
+      "Joel J. P. C. Rodrigues"
+    ],
+    "abstract": "The emergence of edge computing guarantees the combination of the Internet of Things (IoT) and artificial intelligence (AI). The vertical federated learning (VFL) framework, usually deployed by split learning, can analyze and integrate information on different features collected by different terminals in the IoT. The complete model is divided into a top model and multiple bottom models in a specif...",
+    "date": "2023-05-12T00:59:12.826Z"
+  },
+  {
+    "articleNumber": "10122940",
+    "articleTitle": "Joint Optimization of Secure Over-the-Air Computation and Reliable Multicasting Assisted by a MIMO Untrusted Two-Way Relay",
+    "authors": [
+      "Quanzhong Li",
+      "Hualiang Luo",
+      "Liang Yang"
+    ],
+    "abstract": "In this paper, we investigate joint optimization of secure AirComp and reliable multicasting assisted by a multiple-input multiple-output untrusted two-way relay, where artificial noise is employed at the access point (AP) to interfere the relay for ensuring secure AirComp. We aim to minimize the computation distortion at the AP by jointly designing the transmit variables of all the nodes and the ...",
+    "date": "2023-05-12T00:59:12.826Z"
+  },
+  {
+    "articleNumber": "10122913",
+    "articleTitle": "How to Find a Bitcoin Mixer: A Dual Ensemble Model for Bitcoin Mixing Service Detection",
+    "authors": [
+      "Chang Xu",
+      "Ruting Xiong",
+      "Xiaodong Shen",
+      "Liehuang Zhu",
+      "Xiaoming Zhang"
+    ],
+    "abstract": "Bitcoin is the first decentralized peer-to-peer cryptocurrency that has gained popularity by providing users with transaction anonymity. With the development of Bitcoin and the higher privacy requirements of users, mixing services have emerged to enhance Bitcoin anonymity by obfuscating the flow of funds. However, they are also widely used for illegal activities due to its strong anonymity, especi...",
+    "date": "2023-05-12T00:59:12.826Z"
+  },
+  {
+    "articleNumber": "10123394",
+    "articleTitle": "Secure Equality Test Technique using Identity Based Signcryption for Telemedicine Systems",
+    "authors": [
+      "Mohammed Ramadan",
+      "Shahid Raza"
+    ],
+    "abstract": "For telemedicine, Wireless Body Area Network (WBAN) offers enormous benefits where a patient can be remotely monitored without compromising the mobility of remote treatments. With the advent of high capacity and reliable wireless networks, WBANs are used in several remote monitoring systems, limiting the COVID-19 spread. The sensitivity of telemedicine applications mandates confidentiality and pri...",
+    "date": "2023-05-12T00:59:12.826Z"
+  },
+  {
+    "articleNumber": "10122950",
+    "articleTitle": "ECE: Exactly Once Computation for Collaborative Edge in IoT using Information Centric Networking",
+    "authors": [
+      "Qian Wang",
+      "Brian Lee",
+      "Niall Murray",
+      "Yuansong Qiao"
+    ],
+    "abstract": "Exactly-once data processing/delivery can be guaranteed in traditional big data processing systems, e.g. Apache Flink. Checkpoint is commonly used as the solution. Each operator in these systems can restart from the last successfully saved state whenever a failure happens. It is not necessary to restore the logical job graph onto the same device(s) in traditional datacentre scenarios with powerful...",
+    "date": "2023-05-12T00:59:12.826Z"
+  },
+  {
+    "articleNumber": "10122954",
+    "articleTitle": "An RSUs-Assisted Hybrid Emergency Messages Broadcasting Protocol for VANETs",
+    "authors": [
+      "Daozhen Xi",
+      "Haixia Zhang",
+      "Yi Cao",
+      "Dongfeng Yuan"
+    ],
+    "abstract": "In vehicular ad hoc networks (VANETs), emergency messages broadcasting has been considered as one of the important parts for safety related applications. The efficiency and reliability of the emergency message broadcasting are severely affected by the network structure, message redundancy, channel contention, etc. To address this problem, in this paper, we propose an RSUs-assisted hybrid emergency...",
+    "date": "2023-05-12T00:59:12.826Z"
+  },
+  {
     "articleNumber": "10122773",
     "articleTitle": "Decentralized Task Assignment for Mobile Crowdsensing with Multi-Agent Deep Reinforcement Learning",
     "authors": [

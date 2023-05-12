@@ -2,11 +2,89 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/TKDE.rss</id>
     <title>IEEE Transactions on Knowledge and Data Engineering</title>
-    <updated>2023-05-11T16:14:36.136Z</updated>
+    <updated>2023-05-12T00:59:03.188Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/TKDE.rss"/>
     <subtitle>IEEE Transactions on Knowledge and Data Engineering</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Interoperability in Blockchain: A Survey]]></title>
+        <id>https://ieeexplore.ieee.org/document/10123097</id>
+        <link href="https://ieeexplore.ieee.org/document/10123097"/>
+        <updated>2023-05-12T00:59:03.184Z</updated>
+        <summary type="html"><![CDATA[This paper presents a systematic and comprehensive survey on blockchain interoperability, where interoperability is defined as the ability of blockchains to flexibly transfer assets, share data, and invoke smart contracts across a mix of public, private, and consortium blockchains without any changes to the underlying blockchain systems. Analyzing the vast landscape of both research papers and ind...]]></summary>
+        <author>
+            <name>Kunpeng Ren</name>
+        </author>
+        <author>
+            <name>Nhut-Minh Ho</name>
+        </author>
+        <author>
+            <name>Dumitrel Loghin</name>
+        </author>
+        <author>
+            <name>Thanh-Toan Nguyen</name>
+        </author>
+        <author>
+            <name>Beng Chin Ooi</name>
+        </author>
+        <author>
+            <name>Quang-Trung Ta</name>
+        </author>
+        <author>
+            <name>Feida Zhu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automatic Context Pattern Generation for Entity Set Expansion]]></title>
+        <id>https://ieeexplore.ieee.org/document/10122990</id>
+        <link href="https://ieeexplore.ieee.org/document/10122990"/>
+        <updated>2023-05-12T00:59:03.184Z</updated>
+        <summary type="html"><![CDATA[Entity Set Expansion (ESE) is a valuable task that aims to find entities of the target semantic class described by given seed entities. Various Natural Language Processing (NLP) and Information Retrieval (IR) downstream applications have benefited from ESE due to its ability to discover knowledge. Although existing corpus-based ESE methods have achieved great progress, they still rely on corpora w...]]></summary>
+        <author>
+            <name>Yinghui Li</name>
+        </author>
+        <author>
+            <name>Shulin Huang</name>
+        </author>
+        <author>
+            <name>Xinwei Zhang</name>
+        </author>
+        <author>
+            <name>Qingyu Zhou</name>
+        </author>
+        <author>
+            <name>Yangning Li</name>
+        </author>
+        <author>
+            <name>Ruiyang Liu</name>
+        </author>
+        <author>
+            <name>Yunbo Cao</name>
+        </author>
+        <author>
+            <name>Hai-Tao Zheng</name>
+        </author>
+        <author>
+            <name>Ying Shen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Accelerated Fuzzy C-Means Clustering Based on New Affinity Filtering and Membership Scaling]]></title>
+        <id>https://ieeexplore.ieee.org/document/10122981</id>
+        <link href="https://ieeexplore.ieee.org/document/10122981"/>
+        <updated>2023-05-12T00:59:03.184Z</updated>
+        <summary type="html"><![CDATA[Fuzzy C-Means (FCM) is a widely used clustering method. However, FCM and its many accelerated variants have low efficiency in the mid-to-late stage of the clustering process. In this stage, all samples are involved in updating their non-affinity centers, and the fuzzy membership grades of most samples, whose assignments remain unchanged, are still updated by calculating the sample-center distances...]]></summary>
+        <author>
+            <name>Dong Li</name>
+        </author>
+        <author>
+            <name>Shuisheng Zhou</name>
+        </author>
+        <author>
+            <name>Witold Pedrycz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A New Approach for Semi-External Topological Sorting on Big Graphs]]></title>
         <id>https://ieeexplore.ieee.org/document/10121905</id>
