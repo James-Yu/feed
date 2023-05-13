@@ -2,11 +2,205 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/TII.rss</id>
     <title>IEEE Transactions on Industrial Informatics</title>
-    <updated>2023-05-12T16:14:23.242Z</updated>
+    <updated>2023-05-13T00:57:41.108Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/TII.rss"/>
     <subtitle>IEEE Transactions on Industrial Informatics</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[A New Thermal Management Strategy of IGBT in DFIG for Economic Benefit Maximization]]></title>
+        <id>https://ieeexplore.ieee.org/document/10124039</id>
+        <link href="https://ieeexplore.ieee.org/document/10124039"/>
+        <updated>2023-05-13T00:57:41.098Z</updated>
+        <summary type="html"><![CDATA[Wind speed fluctuation generally shortens the lifetime of the insulated gate bipolar transistor (IGBT) module in the doubly fed induction generator (DFIG), which leads to frequent component replacement and cost increase of wind power generation. Conventional power control strategies consider solely the wind turbine output power maximization, and existing junction temperature thermal management str...]]></summary>
+        <author>
+            <name>Haoyang Cui</name>
+        </author>
+        <author>
+            <name>Tianzhu Guo</name>
+        </author>
+        <author>
+            <name>Cheng Yang</name>
+        </author>
+        <author>
+            <name>Yingying Dai</name>
+        </author>
+        <author>
+            <name>Chong Wang</name>
+        </author>
+        <author>
+            <name>Hongwei Du</name>
+        </author>
+        <author>
+            <name>Lunming Qin</name>
+        </author>
+        <author>
+            <name>Hengwen Yu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Novel Deep Learning-Based Robust Dual-Rate Dynamic Data Modeling for Quality Prediction]]></title>
+        <id>https://ieeexplore.ieee.org/document/10124049</id>
+        <link href="https://ieeexplore.ieee.org/document/10124049"/>
+        <updated>2023-05-13T00:57:41.098Z</updated>
+        <summary type="html"><![CDATA[Traditional data-driven quality prediction methods are mainly built from static models using clean data with a slow sampling rate, leaving the process dynamics unused. To make full use of dynamic process data collected at a fast sampling rate, this paper proposes a novel deep learning-based robust dual-rate dynamic data modeling method for quality prediction of dynamic nonlinear processes. A new d...]]></summary>
+        <author>
+            <name>Xiangan Meng</name>
+        </author>
+        <author>
+            <name>Qiang Liu</name>
+        </author>
+        <author>
+            <name>Chao Yang</name>
+        </author>
+        <author>
+            <name>Le Zhou</name>
+        </author>
+        <author>
+            <name>Yiu-Ming Cheung</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unsupervised Fault Detection With Deep One-Class Classification and Manifold Distribution Alignment]]></title>
+        <id>https://ieeexplore.ieee.org/document/10123967</id>
+        <link href="https://ieeexplore.ieee.org/document/10123967"/>
+        <updated>2023-05-13T00:57:41.098Z</updated>
+        <summary type="html"><![CDATA[Fault detection or anomaly detection relies heavily on learning from datasets where only normal samples are available, resulting in the emergence of numerous one-class classification (OCC) methods. However, learning discriminative deep representatives with good generalization from cross-domain positive samples remains challenging. Therefore, this work proposes an end-to-end framework, deep transfe...]]></summary>
+        <author>
+            <name>Yifei Ding</name>
+        </author>
+        <author>
+            <name>Minping Jia</name>
+        </author>
+        <author>
+            <name>Yudong Cao</name>
+        </author>
+        <author>
+            <name>Xiaoan Yan</name>
+        </author>
+        <author>
+            <name>Xiaoli Zhao</name>
+        </author>
+        <author>
+            <name>Chi-Guhn Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dependability Evaluation of a Smart Poultry House: Addressing Availability Issues Through the Edge, Fog, and Cloud Computing]]></title>
+        <id>https://ieeexplore.ieee.org/document/10123963</id>
+        <link href="https://ieeexplore.ieee.org/document/10123963"/>
+        <updated>2023-05-13T00:57:41.098Z</updated>
+        <summary type="html"><![CDATA[Internet of Things (IoT) applications equip rural producers with decision support tools and automated solutions that boost agribusiness productivity, quality, and profit. However, most poultry farmers still use conventional methods of operation in which human workers carry out all routines for monitoring and controlling their farms at the expense of greater productivity. One of these human activit...]]></summary>
+        <author>
+            <name>Felipe Oliveira</name>
+        </author>
+        <author>
+            <name>Paulo Pereira</name>
+        </author>
+        <author>
+            <name>Jamilson Dantas</name>
+        </author>
+        <author>
+            <name>Jean Araujo</name>
+        </author>
+        <author>
+            <name>Paulo Maciel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Subdomain-Alignment Data Augmentation for Pipeline Fault Diagnosis: An Adversarial Self-Attention Network]]></title>
+        <id>https://ieeexplore.ieee.org/document/10123949</id>
+        <link href="https://ieeexplore.ieee.org/document/10123949"/>
+        <updated>2023-05-13T00:57:41.098Z</updated>
+        <summary type="html"><![CDATA[Data augmentation (DA) has the potential to address the issue of imbalanced and insufficient datasets (I&ID) in pipeline fault diagnosis. However, the majority of existing DA methods for time series are inspired by computer vision techniques, ignoring the temporal dynamic properties and fine-grained fault features, which leads to limited performance of the augmentation. To tackle this problem, we ...]]></summary>
+        <author>
+            <name>Chuang Wang</name>
+        </author>
+        <author>
+            <name>Zidong Wang</name>
+        </author>
+        <author>
+            <name>Lifeng Ma</name>
+        </author>
+        <author>
+            <name>Hongli Dong</name>
+        </author>
+        <author>
+            <name>Weiguo Sheng</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Collaborative Parameter Estimation of Multiple Unmanned Surface Vessels: A Robust Distributed Estimator-Based Approach]]></title>
+        <id>https://ieeexplore.ieee.org/document/10123955</id>
+        <link href="https://ieeexplore.ieee.org/document/10123955"/>
+        <updated>2023-05-13T00:57:41.098Z</updated>
+        <summary type="html"><![CDATA[In this paper, the collaborative parameter estimation of multiple unmanned surface vessels (USVs) with model structure uncertainties is studied. The considered parameter estimation problem is first converted into a distributed state and parameter joint estimation problem. Then, the robust distributed estimator is constructed to handle the inevitable model structure uncertainties, and the upper bou...]]></summary>
+        <author>
+            <name>Han Shen</name>
+        </author>
+        <author>
+            <name>Guanghui Wen</name>
+        </author>
+        <author>
+            <name>Yuezu Lv</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Operational Reliability of Integrated Energy Systems Considering Gas Flow Dynamics and Demand-Side Flexibilities]]></title>
+        <id>https://ieeexplore.ieee.org/document/10123959</id>
+        <link href="https://ieeexplore.ieee.org/document/10123959"/>
+        <updated>2023-05-13T00:57:41.098Z</updated>
+        <summary type="html"><![CDATA[The interdependency among the electricity, gas, heat, and cooling energy systems is ever-increasing. The flexible energy utilization patterns on the demand side and gas flow dynamics in the transmission system bring both opportunities and challenges to the reliable operation of integrated energy systems (IES). For example, if the electricity supply is interrupted, the gas system can ramp up the ga...]]></summary>
+        <author>
+            <name>Sheng Wang</name>
+        </author>
+        <author>
+            <name>Junyi Zhai</name>
+        </author>
+        <author>
+            <name>Hongxun Hui</name>
+        </author>
+        <author>
+            <name>Yi Ding</name>
+        </author>
+        <author>
+            <name>Yonghua Song</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Three-Types-of-Graph-Relational Guided Domain Adaptation Approach for Fault Diagnosis of Nuclear Power Circulating Water Pump]]></title>
+        <id>https://ieeexplore.ieee.org/document/10124042</id>
+        <link href="https://ieeexplore.ieee.org/document/10124042"/>
+        <updated>2023-05-13T00:57:41.098Z</updated>
+        <summary type="html"><![CDATA[Existing domain adaptation methods strive to align all domains equally under a single domain shift dimension, which poses two problems. On the one hand, multi-aspect domain transferring factors and homogenous alignment may lead to sub-optimal results in more distant domains. On the other hand, such a global alignment ignores local discriminatory information, making class boundary samples susceptib...]]></summary>
+        <author>
+            <name>Wei Cheng</name>
+        </author>
+        <author>
+            <name>Le Zhang</name>
+        </author>
+        <author>
+            <name>Ji Xing</name>
+        </author>
+        <author>
+            <name>Xuefeng Chen</name>
+        </author>
+        <author>
+            <name>Zelin Nie</name>
+        </author>
+        <author>
+            <name>Shuo Zhang</name>
+        </author>
+        <author>
+            <name>Song Wang</name>
+        </author>
+        <author>
+            <name>Rongyong Zhang</name>
+        </author>
+        <author>
+            <name>Qian Huang</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Operational Status Evaluation of Smart Electricity Meters Using Gaussian Process Regression With Optimized-ARD Kernel]]></title>
         <id>https://ieeexplore.ieee.org/document/10121656</id>

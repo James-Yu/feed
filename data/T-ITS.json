@@ -1,5 +1,115 @@
 [
   {
+    "articleNumber": "10124083",
+    "articleTitle": "Antenna Combiner for Periodic Broadcast V2V Communication Under Relaxed Worst-Case Propagation",
+    "authors": [
+      "Chouaib Bencheikh Lehocine",
+      "Erik G. Ström",
+      "Fredrik Brännström"
+    ],
+    "abstract": "The performance of a previously developed analog combining network (ACN) of phase shifters for periodic broadcast vehicle-to-vehicle (V2V) communication is investigated. The original ACN was designed to maximize the sum of signal-to-noise ratios (SNRs) for  $K$  consecutive cooperative awareness messages (CAMs). The design was based on the assumption of a dominant propagation path with an angle of...",
+    "date": "2023-05-13T00:57:18.536Z"
+  },
+  {
+    "articleNumber": "10124091",
+    "articleTitle": "An Environmental Energy Harvesting-Driven Wireless Parking Detection Method: Analysis and Implementation",
+    "authors": [
+      "Liangliang Lou",
+      "Miao Zhou",
+      "Biao Chen",
+      "Mingan Lu",
+      "Chunlei Zheng",
+      "Shiqing Zhang"
+    ],
+    "abstract": "The Smart Parking System (SPS) has played an important role in solving the parking problem in urban areas recently, resulting in that the battery-powered Wireless Parking Detectors (WPDs) based on Internet of Things (IoT) technology have been widely used in SPS to collect basic data sets. However, the daily turnover rates of parking spaces are generally less than 10 vehicles in Shanghai, China, so...",
+    "date": "2023-05-13T00:57:18.536Z"
+  },
+  {
+    "articleNumber": "10124080",
+    "articleTitle": "Blockage Effects of Road Bridge on mmWave Channels for Intelligent Autonomous Vehicles",
+    "authors": [
+      "Dong Yan",
+      "Ke Guan",
+      "Danping He",
+      "Junhyeong Kim",
+      "Heesang Chung",
+      "Dao Tian",
+      "Zhangdui Zhong"
+    ],
+    "abstract": "Vehicular communication and sensing technologies are key to enabling 6G Intelligent Autonomous Transportation Systems (IATS). With the introduction of massive sensors and artificial intelligence (AI) fusion applications, IATS is needed to support data transmission rates up to 10 Gb/s. Millimeter-wave (mmWave) technology has attracted extensive attention owing to abundant spectrum resources, which ...",
+    "date": "2023-05-13T00:57:18.536Z"
+  },
+  {
+    "articleNumber": "10124077",
+    "articleTitle": "Sparse U-PDP: A Unified Multi-Task Framework for Panoptic Driving Perception",
+    "authors": [
+      "Hai Wang",
+      "Meng Qiu",
+      "Yingfeng Cai",
+      "Long Chen",
+      "Yicheng Li"
+    ],
+    "abstract": "This paper proposes a multi-task unified decoding framework for the panoptic driving perception, Sparse U-PDP. This framework’s primary objective is to combine vehicle object detection, lane detection and drivable area segmentation tasks. This paper mainly builds a multi-task unified decoder and further explores whether the potential connection between multi-tasks can improve the robustness of the...",
+    "date": "2023-05-13T00:57:18.536Z"
+  },
+  {
+    "articleNumber": "10124085",
+    "articleTitle": "RPP-Net: Rigid Constrained Point Cloud Prediction Network",
+    "authors": [
+      "Tianpei Zou",
+      "Guang Chen",
+      "Fan Lu",
+      "Zhijun Li",
+      "Sanqing Qu",
+      "Alois Knoll",
+      "Changjun Jiang"
+    ],
+    "abstract": "Forecasting the future environment is an essential and fundamental capability of autonomous driving systems. In contrast to the widely studied video prediction, only a few literatures have explored LiDAR point cloud prediction. To achieve future point cloud generation, most existing methods are based on free-form 3D scene flow prediction. However, these simple scene flow prediction-based methods m...",
+    "date": "2023-05-13T00:57:18.536Z"
+  },
+  {
+    "articleNumber": "10124078",
+    "articleTitle": "CAVSim: A Microscopic Traffic Simulator for Evaluation of Connected and Automated Vehicles",
+    "authors": [
+      "Jiawei Zhang",
+      "Cheng Chang",
+      "Zimin He",
+      "Wenqin Zhong",
+      "Danya Yao",
+      "Shen Li",
+      "Li Li"
+    ],
+    "abstract": "Connected and automated vehicles (CAVs) are expected to play a vital role in the emerging intelligent transportation system. In recent years, researchers have proposed various cooperative driving methods for CAVs, and there is an urgent need for a generic and unified traffic simulator to simulate and evaluate these methods. However, traditional traffic simulators have two critical deficiencies for...",
+    "date": "2023-05-13T00:57:18.536Z"
+  },
+  {
+    "articleNumber": "10124082",
+    "articleTitle": "Emission Analysis of Electric Motorcycles and Assessment of Emission Reduction With Fleet Electrification",
+    "authors": [
+      "Yu-Hsuan Ho",
+      "Ta-Chih Hsiao",
+      "Albert Y. Chen"
+    ],
+    "abstract": "The motorcycle is a common mode of transport in many countries. Although there exist abundant studies on emissions from internal combustion engine motorcycles, little is known regarding the emissions from electric motorcycles (EMs). Methods commonly used in emissions analysis for internal combustion engine motorcycles are not suitable for non-exhaust emissions produced from EMs. Computer vision co...",
+    "date": "2023-05-13T00:57:18.536Z"
+  },
+  {
+    "articleNumber": "10124079",
+    "articleTitle": "An Optimal Nonlinear Model Predictive Control-Based Motion Cueing Algorithm Using Cascade Optimization and Human Interaction",
+    "authors": [
+      "Mohammad Reza Chalak Qazani",
+      "Houshyar Asadi",
+      "Yutao Chen",
+      "Moloud Abdar",
+      "Mansour Karkoub",
+      "Shady Mohamed",
+      "Chee Peng Lim",
+      "Saeid Nahavandi"
+    ],
+    "abstract": "Nonlinear model predictive control has been used in motion cueing algorithms recently to consider the nonlinear dynamics model of the system. The entire motion cueing algorithm indexes, including the physical and dynamical constraints of the actuators and physical constraints of passive joints, can be controlled with precision using nonlinear model predictive control. However, several weighting pa...",
+    "date": "2023-05-13T00:57:18.536Z"
+  },
+  {
     "articleNumber": "10122772",
     "articleTitle": "Aggregated Zero-Knowledge Proof and Blockchain-Empowered Authentication for Autonomous Truck Platooning",
     "authors": [

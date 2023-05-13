@@ -1,5 +1,115 @@
 [
   {
+    "articleNumber": "10124039",
+    "articleTitle": "A New Thermal Management Strategy of IGBT in DFIG for Economic Benefit Maximization",
+    "authors": [
+      "Haoyang Cui",
+      "Tianzhu Guo",
+      "Cheng Yang",
+      "Yingying Dai",
+      "Chong Wang",
+      "Hongwei Du",
+      "Lunming Qin",
+      "Hengwen Yu"
+    ],
+    "abstract": "Wind speed fluctuation generally shortens the lifetime of the insulated gate bipolar transistor (IGBT) module in the doubly fed induction generator (DFIG), which leads to frequent component replacement and cost increase of wind power generation. Conventional power control strategies consider solely the wind turbine output power maximization, and existing junction temperature thermal management str...",
+    "date": "2023-05-13T00:57:41.098Z"
+  },
+  {
+    "articleNumber": "10124049",
+    "articleTitle": "A Novel Deep Learning-Based Robust Dual-Rate Dynamic Data Modeling for Quality Prediction",
+    "authors": [
+      "Xiangan Meng",
+      "Qiang Liu",
+      "Chao Yang",
+      "Le Zhou",
+      "Yiu-Ming Cheung"
+    ],
+    "abstract": "Traditional data-driven quality prediction methods are mainly built from static models using clean data with a slow sampling rate, leaving the process dynamics unused. To make full use of dynamic process data collected at a fast sampling rate, this paper proposes a novel deep learning-based robust dual-rate dynamic data modeling method for quality prediction of dynamic nonlinear processes. A new d...",
+    "date": "2023-05-13T00:57:41.098Z"
+  },
+  {
+    "articleNumber": "10123967",
+    "articleTitle": "Unsupervised Fault Detection With Deep One-Class Classification and Manifold Distribution Alignment",
+    "authors": [
+      "Yifei Ding",
+      "Minping Jia",
+      "Yudong Cao",
+      "Xiaoan Yan",
+      "Xiaoli Zhao",
+      "Chi-Guhn Lee"
+    ],
+    "abstract": "Fault detection or anomaly detection relies heavily on learning from datasets where only normal samples are available, resulting in the emergence of numerous one-class classification (OCC) methods. However, learning discriminative deep representatives with good generalization from cross-domain positive samples remains challenging. Therefore, this work proposes an end-to-end framework, deep transfe...",
+    "date": "2023-05-13T00:57:41.098Z"
+  },
+  {
+    "articleNumber": "10123963",
+    "articleTitle": "Dependability Evaluation of a Smart Poultry House: Addressing Availability Issues Through the Edge, Fog, and Cloud Computing",
+    "authors": [
+      "Felipe Oliveira",
+      "Paulo Pereira",
+      "Jamilson Dantas",
+      "Jean Araujo",
+      "Paulo Maciel"
+    ],
+    "abstract": "Internet of Things (IoT) applications equip rural producers with decision support tools and automated solutions that boost agribusiness productivity, quality, and profit. However, most poultry farmers still use conventional methods of operation in which human workers carry out all routines for monitoring and controlling their farms at the expense of greater productivity. One of these human activit...",
+    "date": "2023-05-13T00:57:41.098Z"
+  },
+  {
+    "articleNumber": "10123949",
+    "articleTitle": "Subdomain-Alignment Data Augmentation for Pipeline Fault Diagnosis: An Adversarial Self-Attention Network",
+    "authors": [
+      "Chuang Wang",
+      "Zidong Wang",
+      "Lifeng Ma",
+      "Hongli Dong",
+      "Weiguo Sheng"
+    ],
+    "abstract": "Data augmentation (DA) has the potential to address the issue of imbalanced and insufficient datasets (I&ID) in pipeline fault diagnosis. However, the majority of existing DA methods for time series are inspired by computer vision techniques, ignoring the temporal dynamic properties and fine-grained fault features, which leads to limited performance of the augmentation. To tackle this problem, we ...",
+    "date": "2023-05-13T00:57:41.098Z"
+  },
+  {
+    "articleNumber": "10123955",
+    "articleTitle": "Collaborative Parameter Estimation of Multiple Unmanned Surface Vessels: A Robust Distributed Estimator-Based Approach",
+    "authors": [
+      "Han Shen",
+      "Guanghui Wen",
+      "Yuezu Lv"
+    ],
+    "abstract": "In this paper, the collaborative parameter estimation of multiple unmanned surface vessels (USVs) with model structure uncertainties is studied. The considered parameter estimation problem is first converted into a distributed state and parameter joint estimation problem. Then, the robust distributed estimator is constructed to handle the inevitable model structure uncertainties, and the upper bou...",
+    "date": "2023-05-13T00:57:41.098Z"
+  },
+  {
+    "articleNumber": "10123959",
+    "articleTitle": "Operational Reliability of Integrated Energy Systems Considering Gas Flow Dynamics and Demand-Side Flexibilities",
+    "authors": [
+      "Sheng Wang",
+      "Junyi Zhai",
+      "Hongxun Hui",
+      "Yi Ding",
+      "Yonghua Song"
+    ],
+    "abstract": "The interdependency among the electricity, gas, heat, and cooling energy systems is ever-increasing. The flexible energy utilization patterns on the demand side and gas flow dynamics in the transmission system bring both opportunities and challenges to the reliable operation of integrated energy systems (IES). For example, if the electricity supply is interrupted, the gas system can ramp up the ga...",
+    "date": "2023-05-13T00:57:41.098Z"
+  },
+  {
+    "articleNumber": "10124042",
+    "articleTitle": "Three-Types-of-Graph-Relational Guided Domain Adaptation Approach for Fault Diagnosis of Nuclear Power Circulating Water Pump",
+    "authors": [
+      "Wei Cheng",
+      "Le Zhang",
+      "Ji Xing",
+      "Xuefeng Chen",
+      "Zelin Nie",
+      "Shuo Zhang",
+      "Song Wang",
+      "Rongyong Zhang",
+      "Qian Huang"
+    ],
+    "abstract": "Existing domain adaptation methods strive to align all domains equally under a single domain shift dimension, which poses two problems. On the one hand, multi-aspect domain transferring factors and homogenous alignment may lead to sub-optimal results in more distant domains. On the other hand, such a global alignment ignores local discriminatory information, making class boundary samples susceptib...",
+    "date": "2023-05-13T00:57:41.098Z"
+  },
+  {
     "articleNumber": "10121656",
     "articleTitle": "Operational Status Evaluation of Smart Electricity Meters Using Gaussian Process Regression With Optimized-ARD Kernel",
     "authors": [

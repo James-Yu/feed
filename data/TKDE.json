@@ -1,5 +1,19 @@
 [
   {
+    "articleNumber": "10123962",
+    "articleTitle": "Inconsistent Matters: A Knowledge-guided Dual-consistency Network for Multi-modal Rumor Detection",
+    "authors": [
+      "Mengzhu Sun",
+      "Xi Zhang",
+      "Jianqiang Ma",
+      "Sihong Xie",
+      "Yazheng Liu",
+      "Philip S. Yu"
+    ],
+    "abstract": "Rumor spreaders are increasingly utilizing multimedia content to attract the attention and trust of news consumers. Though quite a few rumor detection models have exploited the multi-modal data, they seldom consider the inconsistent semantics between images and texts, and rarely spot the inconsistency among the post contents and background knowledge. In addition, they commonly assume the completen...",
+    "date": "2023-05-13T00:57:24.066Z"
+  },
+  {
     "articleNumber": "10123097",
     "articleTitle": "Interoperability in Blockchain: A Survey",
     "authors": [

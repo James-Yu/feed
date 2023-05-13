@@ -1,5 +1,18 @@
 [
   {
+    "articleNumber": "10124024",
+    "articleTitle": "Dual Compensation Residual Networks for Class Imbalanced Learning",
+    "authors": [
+      "Ruibing Hou",
+      "Hong Chang",
+      "Bingpeng Ma",
+      "Shiguang Shan",
+      "Xilin Chen"
+    ],
+    "abstract": "Learning generalizable representation and classifier for class-imbalanced data is challenging for data-driven deep models. Most studies attempt to re-balance the data distribution, which is prone to overfitting on tail classes and underfitting on head classes. In this work, we propose Dual Compensation Residual Networks to better fit both tail and head classes. Firstly, we propose dual Feature Com...",
+    "date": "2023-05-13T00:57:30.061Z"
+  },
+  {
     "articleNumber": "10123080",
     "articleTitle": "Learning an Invariant and Equivariant Network for Weakly Supervised Object Detection",
     "authors": [

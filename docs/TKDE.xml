@@ -2,11 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/TKDE.rss</id>
     <title>IEEE Transactions on Knowledge and Data Engineering</title>
-    <updated>2023-05-12T16:14:06.456Z</updated>
+    <updated>2023-05-13T00:57:24.072Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/TKDE.rss"/>
     <subtitle>IEEE Transactions on Knowledge and Data Engineering</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Inconsistent Matters: A Knowledge-guided Dual-consistency Network for Multi-modal Rumor Detection]]></title>
+        <id>https://ieeexplore.ieee.org/document/10123962</id>
+        <link href="https://ieeexplore.ieee.org/document/10123962"/>
+        <updated>2023-05-13T00:57:24.066Z</updated>
+        <summary type="html"><![CDATA[Rumor spreaders are increasingly utilizing multimedia content to attract the attention and trust of news consumers. Though quite a few rumor detection models have exploited the multi-modal data, they seldom consider the inconsistent semantics between images and texts, and rarely spot the inconsistency among the post contents and background knowledge. In addition, they commonly assume the completen...]]></summary>
+        <author>
+            <name>Mengzhu Sun</name>
+        </author>
+        <author>
+            <name>Xi Zhang</name>
+        </author>
+        <author>
+            <name>Jianqiang Ma</name>
+        </author>
+        <author>
+            <name>Sihong Xie</name>
+        </author>
+        <author>
+            <name>Yazheng Liu</name>
+        </author>
+        <author>
+            <name>Philip S. Yu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Interoperability in Blockchain: A Survey]]></title>
         <id>https://ieeexplore.ieee.org/document/10123097</id>

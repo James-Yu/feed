@@ -1,5 +1,59 @@
 [
   {
+    "articleNumber": "10123930",
+    "articleTitle": "A Robust CSI-based Wi-Fi Passive Sensing Method Using Attention Mechanism Deep Learning",
+    "authors": [
+      "Zhengran He",
+      "Xixi Zhang",
+      "Yu Wang",
+      "Yun Lin",
+      "Guan Gui",
+      "Haris Gacanin"
+    ],
+    "abstract": "Wi-Fi based passive sensing is considered as one of the promising sensing techniques in advanced wireless communication systems due to its wide applications and low deployment cost. However, existing methods are faced with the challenges of low sensing accuracy, high computational complexity, and weak model robustness. To solve these problems, we firstly propose a robust channel state information ...",
+    "date": "2023-05-13T00:57:35.275Z"
+  },
+  {
+    "articleNumber": "10123709",
+    "articleTitle": "Piecewise-DRL: Joint Beamforming Optimization for RIS-assisted MU-MISO Communication System",
+    "authors": [
+      "Jianzheng Li",
+      "Weijiang Wang",
+      "Rongkun Jiang",
+      "Xinyi Wang",
+      "Zesong Fei",
+      "Shihan Huang",
+      "Xiangnan Li"
+    ],
+    "abstract": "With the widespread connectivity of everyday devices realized by the advent of the Internet of Things (IoT), communication between users of different devices has become increasingly close. In practical scenarios, obstacles present between the transceiver may cause a deterioration in the quality of the received signals. Therefore, the reconfigurable intelligent surface (RIS) is employed to create v...",
+    "date": "2023-05-13T00:57:35.275Z"
+  },
+  {
+    "articleNumber": "10123943",
+    "articleTitle": "OTOP: Optimized Transmission Power Controlled OBSS PD based Spatial Reuse for High Throughput in IEEE 802.11be WLANs",
+    "authors": [
+      "Jaewook Jung",
+      "Jungsuk Baik",
+      "Youngwook Kim",
+      "Hea-Sook Park",
+      "Jong-Moon Chung"
+    ],
+    "abstract": "As wireless local area network (WLAN) devices become more prevalent in various environments, the IEEE 802.11ax standard (Wi-Fi 6), released in 2021, aims to improve the spectral efficiency. The overlapping basic service set (OBSS) packet detection (PD) based spatial reuse (SR) scheme is a main technology for this purpose which can increase channel access opportunities by adjusting parameters. Howe...",
+    "date": "2023-05-13T00:57:35.275Z"
+  },
+  {
+    "articleNumber": "10123942",
+    "articleTitle": "A Lidar-assisted Self-localization Technology for Indoor Wireless Sensor Networks",
+    "authors": [
+      "Zizheng Dou",
+      "Zheng Yao",
+      "Zhuo Zhang",
+      "Mingquan Lu"
+    ],
+    "abstract": "The self-localization of wireless sensor networks (WSNs) is facing the problem of insufficient positioning accuracy in indoor environment due to multipath and interference issues. At the same time, without external references, through mutual measurement nodes can calculate only a set of relative coordinates. Therefore, it is difficult to achieve the mapping of coordinate values to the physical wor...",
+    "date": "2023-05-13T00:57:35.275Z"
+  },
+  {
     "articleNumber": "10122963",
     "articleTitle": "Practical Feature Inference Attack in Vertical Federated Learning During Prediction in Artificial Internet of Things",
     "authors": [
