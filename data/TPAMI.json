@@ -1,5 +1,20 @@
 [
   {
+    "articleNumber": "10124374",
+    "articleTitle": "Hong Kong World: Leveraging Structural Regularity for Line-based SLAM",
+    "authors": [
+      "Haoang Li",
+      "Ji Zhao",
+      "Jean-Charles Bazin",
+      "Pyojin Kim",
+      "Kyungdon Joo",
+      "Zhenjun Zhao",
+      "Yun-Hui Liu"
+    ],
+    "abstract": "Manhattan and Atlanta worlds hold for the structured scenes with only vertical and horizontal dominant directions (DDs). To describe the scenes with additional sloping DDs, a mixture of independent Manhattan worlds seems plausible, but may lead to unaligned and unrelated DDs. By contrast, we propose a novel structural model called Hong Kong world. It is more general than Manhattan and Atlanta worl...",
+    "date": "2023-05-16T01:00:40.659Z"
+  },
+  {
     "articleNumber": "10124024",
     "articleTitle": "Dual Compensation Residual Networks for Class Imbalanced Learning",
     "authors": [

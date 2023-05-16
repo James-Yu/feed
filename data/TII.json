@@ -1,5 +1,30 @@
 [
   {
+    "articleNumber": "10124718",
+    "articleTitle": "Degradation Analysis: Modeling and Evaluating for Electric Energy Meters under Multi-stress",
+    "authors": [
+      "Yuhong Qin",
+      "Wei Qiu",
+      "Yun Luo",
+      "Renbo Tang",
+      "Kaiqi Sun",
+      "He Yin"
+    ],
+    "abstract": "The measurement accuracy of electric energy meters (EEMs) is crucial for respecting the fairness of the electricity market and the justice of electric energy settlement. However, the basic error (BE) of the measurement suffers from external stress, especially under extreme environments. It is challenging to evaluate the degradation trend of EEMs under multi-stress. To address this issue, this pape...",
+    "date": "2023-05-16T01:00:53.525Z"
+  },
+  {
+    "articleNumber": "10124663",
+    "articleTitle": "SmokeSeger: A Transformer-CNN coupled model for urban scene smoke segmentation",
+    "authors": [
+      "Tao Jing",
+      "Qing-Hao Meng",
+      "Hui-Rang Hou"
+    ],
+    "abstract": "Smoke is an informative indicator of early fire and gas leakage. Segmenting the smoke from images can provide detailed information about the smoke volume, dispersion direction, and source location, which has significant implications considering the proliferation of video surveillance systems in cities. Focusing on smoke segmentation in the urban scene, we designed a dual-branch segmentation model,...",
+    "date": "2023-05-16T01:00:53.525Z"
+  },
+  {
     "articleNumber": "10124039",
     "articleTitle": "A New Thermal Management Strategy of IGBT in DFIG for Economic Benefit Maximization",
     "authors": [

@@ -1,5 +1,19 @@
 [
   {
+    "articleNumber": "10124716",
+    "articleTitle": "Multi-keyword Ranked Search Scheme Supporting Extreme Environments for the Internet of Vehicles",
+    "authors": [
+      "Dequan Xu",
+      "Changgen Peng",
+      "Weizheng Wang",
+      "Kapal Dev",
+      "Sunder Ali Khowaja",
+      "Youliang Tian"
+    ],
+    "abstract": "In recent years, the cloud infrastructure has been developed as a promising sharing system for the Internet of Vehicles (IoV) communication. During the information exchange, search service over ciphertext called searchable encryption (SE) is an extraordinary method to prevent data breaches. However, two open problems still need to be solved for ranked search, which hinders the application practica...",
+    "date": "2023-05-16T01:00:47.130Z"
+  },
+  {
     "articleNumber": "10123930",
     "articleTitle": "A Robust CSI-based Wi-Fi Passive Sensing Method Using Attention Mechanism Deep Learning",
     "authors": [

@@ -2,11 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/TII.rss</id>
     <title>IEEE Transactions on Industrial Informatics</title>
-    <updated>2023-05-15T16:14:33.753Z</updated>
+    <updated>2023-05-16T01:00:53.532Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/TII.rss"/>
     <subtitle>IEEE Transactions on Industrial Informatics</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Degradation Analysis: Modeling and Evaluating for Electric Energy Meters under Multi-stress]]></title>
+        <id>https://ieeexplore.ieee.org/document/10124718</id>
+        <link href="https://ieeexplore.ieee.org/document/10124718"/>
+        <updated>2023-05-16T01:00:53.525Z</updated>
+        <summary type="html"><![CDATA[The measurement accuracy of electric energy meters (EEMs) is crucial for respecting the fairness of the electricity market and the justice of electric energy settlement. However, the basic error (BE) of the measurement suffers from external stress, especially under extreme environments. It is challenging to evaluate the degradation trend of EEMs under multi-stress. To address this issue, this pape...]]></summary>
+        <author>
+            <name>Yuhong Qin</name>
+        </author>
+        <author>
+            <name>Wei Qiu</name>
+        </author>
+        <author>
+            <name>Yun Luo</name>
+        </author>
+        <author>
+            <name>Renbo Tang</name>
+        </author>
+        <author>
+            <name>Kaiqi Sun</name>
+        </author>
+        <author>
+            <name>He Yin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SmokeSeger: A Transformer-CNN coupled model for urban scene smoke segmentation]]></title>
+        <id>https://ieeexplore.ieee.org/document/10124663</id>
+        <link href="https://ieeexplore.ieee.org/document/10124663"/>
+        <updated>2023-05-16T01:00:53.525Z</updated>
+        <summary type="html"><![CDATA[Smoke is an informative indicator of early fire and gas leakage. Segmenting the smoke from images can provide detailed information about the smoke volume, dispersion direction, and source location, which has significant implications considering the proliferation of video surveillance systems in cities. Focusing on smoke segmentation in the urban scene, we designed a dual-branch segmentation model,...]]></summary>
+        <author>
+            <name>Tao Jing</name>
+        </author>
+        <author>
+            <name>Qing-Hao Meng</name>
+        </author>
+        <author>
+            <name>Hui-Rang Hou</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A New Thermal Management Strategy of IGBT in DFIG for Economic Benefit Maximization]]></title>
         <id>https://ieeexplore.ieee.org/document/10124039</id>
