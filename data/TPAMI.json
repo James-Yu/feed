@@ -1,5 +1,33 @@
 [
   {
+    "articleNumber": "10126096",
+    "articleTitle": "Adaptive Part Mining for Robust Visual Tracking",
+    "authors": [
+      "Yinchao Ma",
+      "Jianfeng He",
+      "Dawei Yang",
+      "Tianzhu Zhang",
+      "Feng Wu"
+    ],
+    "abstract": "Visual tracking aims to estimate object state in a video sequence, which is challenging when facing drastic appearance changes. Most existing trackers conduct tracking with divided parts to handle appearance variations. However, these trackers commonly divide target objects into regular patches by a hand-designed splitting way, which is too coarse to align object parts well. Besides, a fixed part ...",
+    "date": "2023-05-17T01:02:18.256Z"
+  },
+  {
+    "articleNumber": "10125046",
+    "articleTitle": "GAIA-Universe: Everything is Super-Netify",
+    "authors": [
+      "Junran Peng",
+      "Qing Chang",
+      "Haoran Yin",
+      "Xingyuan Bu",
+      "Jiajun Sun",
+      "Lingxi Xie",
+      "Xiaopeng Zhang"
+    ],
+    "abstract": "Pre-training on large-scale datasets has played an increasingly significant role in computer vision and natural language processing recently. However, as there exist numerous application scenarios that have distinctive demands such as certain latency constraints and specialized data distributions, it is prohibitively expensive to take advantage of large-scale pre-training for per-task requirements...",
+    "date": "2023-05-17T01:02:18.256Z"
+  },
+  {
     "articleNumber": "10124374",
     "articleTitle": "Hong Kong World: Leveraging Structural Regularity for Line-based SLAM",
     "authors": [

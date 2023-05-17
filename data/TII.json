@@ -1,5 +1,29 @@
 [
   {
+    "articleNumber": "10125062",
+    "articleTitle": "Self-Calibrating Gaze Estimation with Optical Axes Projection for Head-Mounted Eye Tracking",
+    "authors": [
+      "Hanyuan Zhang",
+      "Shiqian Wu",
+      "Wenbin Chen",
+      "Zheng Gao",
+      "Zhonghua Wan"
+    ],
+    "abstract": "Gaze estimation suffers from burdensome personal calibration or complex all-device calibration. Self-calibrating methods can meet this challenge but depend on scenes and sacrifice accuracy. We propose a flexible and accurate gaze estimation approach calibrated implicitly with potential gaze patterns. By constructing an optical axis projection (OAP) plane and a visual axis projection (VAP) plane si...",
+    "date": "2023-05-17T01:02:28.408Z"
+  },
+  {
+    "articleNumber": "10125018",
+    "articleTitle": "RERN: Rich Edge Features Refinement Detection Network for Polycrystalline Solar Cell Defect Segmentation",
+    "authors": [
+      "Chuhan Wang",
+      "Haiyong Chen",
+      "Shenshen Zhao"
+    ],
+    "abstract": "High-performance defect segmentation techniques are essential for the high-quality manufacturing of polycrystalline solar cells. Edge detection is an effective technique to accurately locate the edge of defects. However, the existing methods ignore global channel information and the representation gap between multiscale features, inhibiting the ability of the network to aggregate discriminative fe...",
+    "date": "2023-05-17T01:02:28.408Z"
+  },
+  {
     "articleNumber": "10124718",
     "articleTitle": "Degradation Analysis: Modeling and Evaluating for Electric Energy Meters under Multi-stress",
     "authors": [

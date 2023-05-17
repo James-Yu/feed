@@ -1,5 +1,197 @@
 [
   {
+    "articleNumber": "10127613",
+    "articleTitle": "Longitudinal Velocity Regulation of UGVs: A Composite Control Approach for Acceleration and Deceleration",
+    "authors": [
+      "Haoyu Wang",
+      "Zhiqiang Zuo",
+      "Yijing Wang",
+      "Hongjiu Yang",
+      "Chuan Hu"
+    ],
+    "abstract": "In this paper, a composite longitudinal controller for velocity regulation of unmanned ground vehicles (UGVs) is proposed. First, both the empirical model and mixed logical dynamic model are developed in terms of the experimental data processing method. Second, a composite longitudinal control strategy incorporating steady-state controller and active disturbance rejection state feedback controller...",
+    "date": "2023-05-17T01:02:08.019Z"
+  },
+  {
+    "articleNumber": "10127580",
+    "articleTitle": "Coordinated Control Strategy of Railway Multisource Traction System With Energy Storage and Renewable Energy",
+    "authors": [
+      "Hongzhi Dong",
+      "Zhongbei Tian",
+      "Joseph W. Spencer",
+      "David Fletcher",
+      "Siavash Hajiabady"
+    ],
+    "abstract": "Influenced by the growing daily travel demand of citizens and extension of urban land, the construction of the urban railway transit (URT) system is gradually increasing nowadays. This situation implies more electricity consumption in URT and more challenges to URT operation stability. Therefore, based on the existing traction substation, this research proposes a configuration of multi-source trac...",
+    "date": "2023-05-17T01:02:08.019Z"
+  },
+  {
+    "articleNumber": "10127582",
+    "articleTitle": "Online Set-Point Estimation for Feedback-Based Traffic Control Applications",
+    "authors": [
+      "Farzam Tajdari",
+      "Claudio Roncoli"
+    ],
+    "abstract": "This paper deals with traffic control at motorway bottlenecks assuming the existence of an unknown, time-varying, Fundamental Diagram (FD). The FD may change over time due to different traffic compositions, e.g., light and heavy vehicles, as well as in the presence of connected and automated vehicles equipped with different technologies at varying penetration rates, leading to inconstant and uncer...",
+    "date": "2023-05-17T01:02:08.019Z"
+  },
+  {
+    "articleNumber": "10125047",
+    "articleTitle": "Asphalt Pavement Compaction and Vehicle Speed Monitoring Using Intelligent Aggregate",
+    "authors": [
+      "Zundong Liang",
+      "Chao Xing",
+      "Huining Xu",
+      "Yiqiu Tan",
+      "Tairui Qiu",
+      "Bo Chai",
+      "Jilu Li",
+      "Tianci Liu"
+    ],
+    "abstract": "The stable skeletal structure formed by the interlocking mechanism of the spatial movement of aggregate particles during compaction is the mechanism by which asphalt pavements are compacted and shaped. A major problem facing conventional compaction monitoring is that lacking the ability to monitor particle movement and a real-time evaluation method for pavement compaction, which can easily lead to...",
+    "date": "2023-05-17T01:02:08.019Z"
+  },
+  {
+    "articleNumber": "10127581",
+    "articleTitle": "Frequent Itemset-Driven Search for Finding Minimal Node Separators and Its Application to Air Transportation Network Analysis",
+    "authors": [
+      "Yangming Zhou",
+      "Xiaze Zhang",
+      "Na Geng",
+      "Zhibin Jiang",
+      "Shouguang Wang",
+      "MengChu Zhou"
+    ],
+    "abstract": "The  $\\alpha$ -separator problem ( $\\alpha$ -SP) consists of finding the minimum set of vertices whose removal separates the network into multiple different connected components with fewer than a limited number of vertices in each component, which belongs to the family of critical node detection problems. The  $\\alpha$ -SP problem is an important NP-hard problem with various real-world application...",
+    "date": "2023-05-17T01:02:08.019Z"
+  },
+  {
+    "articleNumber": "10127615",
+    "articleTitle": "Multi-Sensor and Analytical Constraints Tightly Augmented BDS-3 RTK for Vehicle-Borne Positioning",
+    "authors": [
+      "Qiaozhuang Xu",
+      "Zhouzheng Gao",
+      "Jie Lv",
+      "Cheng Yang",
+      "You Li"
+    ],
+    "abstract": "The third generation BeiDou Navigation Satellite System (BDS-3) can provide high-accuracy service for vehicle-borne positioning and navigation. The performance of BDS-3 in terms of accuracy, continuity, and reliability, however, are significantly degraded in environments with weak satellite observability. To improve the positioning performance of BDS-3 around the partial and complete signal-blocke...",
+    "date": "2023-05-17T01:02:08.019Z"
+  },
+  {
+    "articleNumber": "10127583",
+    "articleTitle": "Brain-Inspired Modeling and Decision-Making for Human-Like Autonomous Driving in Mixed Traffic Environment",
+    "authors": [
+      "Peng Hang",
+      "Yiran Zhang",
+      "Chen Lv"
+    ],
+    "abstract": "In this paper, a human-like driving system is designed for autonomous vehicles (AVs), which aims to make AVs better integrate into the human transportation systems and mitigate misunderstanding and conflicts when interacting with human-driven vehicles. Based on the analysis of the real world INTERACTION dataset, a driving aggressiveness estimation model is established with the fuzzy inference appr...",
+    "date": "2023-05-17T01:02:08.019Z"
+  },
+  {
+    "articleNumber": "10127610",
+    "articleTitle": "Manifold-Contrastive Broad Learning System for Wheelset Bearing Fault Diagnosis",
+    "authors": [
+      "Ning Wang",
+      "Limin Jia",
+      "Huiyue Zhang",
+      "Yong Qin",
+      "Xuejun Zhao",
+      "Zhipeng Wang"
+    ],
+    "abstract": "Newly deployed trains have massive normal data and scarce faulty data for training, which limits the diagnosis accuracy with class imbalance problem of small samples. Considering that there are a lot unutilized information hidden in the abundant unlabeled monitoring data, this paper proposes a novel method named manifold-contrastive broad learning system, which utilizes the online updating approac...",
+    "date": "2023-05-17T01:02:08.019Z"
+  },
+  {
+    "articleNumber": "10127611",
+    "articleTitle": "Adaptive Dynamic Path Planning Method for Autonomous Vehicle Under Various Road Friction and Speeds",
+    "authors": [
+      "Jinlei Wang",
+      "Xiaofang Yuan",
+      "Zhixian Liu",
+      "Weihua Tan",
+      "Xizheng Zhang",
+      "Yaonan Wang"
+    ],
+    "abstract": "Path planning is a crucial technology for autonomous vehicle (AV). However, it is difficult to adapt to dynamic driving environment, and AV may lose lateral dynamic stability due to high speed and various friction. This paper presents an adaptive dynamic path planning method (ADPPM) for AV to address the challenges. The ADPPM is comprised of three components: 1) A dynamic state-fused steering deci...",
+    "date": "2023-05-17T01:02:08.019Z"
+  },
+  {
+    "articleNumber": "10127585",
+    "articleTitle": "Cooperative On-Ramp Merging Control Model for Mixed Traffic on Multi-Lane Freeways",
+    "authors": [
+      "Kangning Hou",
+      "Fangfang Zheng",
+      "Xiaobo Liu",
+      "Ge Guo"
+    ],
+    "abstract": "This paper proposes a hierarchical model for cooperative on-ramp merging control (CORMC) in mixed traffic with both connected automated vehicles (CAVs) and connected human-driven vehicles (CHVs). The upper-layer of the CORMC model employs an anticipatory position searching (APS) algorithm to determine the anticipatory positions at which merging vehicles (MVs) should merge from the on-ramp lane to ...",
+    "date": "2023-05-17T01:02:08.019Z"
+  },
+  {
+    "articleNumber": "10127612",
+    "articleTitle": "A Hierarchical Framework for Passenger Inflow Control in Metro System With Reinforcement Learning",
+    "authors": [
+      "Jiaming Zhong",
+      "Zhaocheng He",
+      "Jiawei Wang",
+      "Jiemin Xie"
+    ],
+    "abstract": "Since mobility needs grow rapidly, the metro system of modern cities is suffering from the oversaturated situation in the rush hour, which makes the metro system vulnerable and inefficient. Thus, passenger inflow control is proposed and implemented. This paper investigates the station-based passenger inflow control problem with the objective of maximizing overall transport efficiency and fairness....",
+    "date": "2023-05-17T01:02:08.019Z"
+  },
+  {
+    "articleNumber": "10127586",
+    "articleTitle": "Learning-Aided Inertial Odometry With Nonlinear State Estimator on Manifold",
+    "authors": [
+      "Yuqiang Jin",
+      "Wen-An Zhang",
+      "Hu Sun",
+      "Li Yu"
+    ],
+    "abstract": "Relying only on inertial measurement units (IMUs) for robust state estimation is critical to vehicle safety when imaging sensors abruptly fail. In this paper, we propose to consider learning-based method as a complement to the kinematic model, and obtain ego-motion based on the nonlinear filter pipeline. To be specific, we first model the state of the IMU on the manifold such that the beliefs of p...",
+    "date": "2023-05-17T01:02:08.019Z"
+  },
+  {
+    "articleNumber": "10127607",
+    "articleTitle": "A Network Traffic Model for the Control of Autonomous Vehicles Acting as Moving Bottlenecks",
+    "authors": [
+      "Zhexian Li",
+      "Michael W. Levin",
+      "Xu Qu",
+      "Raphael Stern"
+    ],
+    "abstract": "In this work we present a traffic model to simulate network-level traffic evolution under the impact of controlled autonomous vehicles acting as moving bottlenecks. We first extend the Newell-Daganzo method to track the trajectories of moving bottlenecks and calculate the cumulative number of vehicles passing each moving bottleneck. By integrating the solutions to the cumulative number of vehicles...",
+    "date": "2023-05-17T01:02:08.019Z"
+  },
+  {
+    "articleNumber": "10127579",
+    "articleTitle": "UAV-Assisted RSUs for V2X Connectivity Using Voronoi Diagrams in 6G $^{+}$  Infrastructures",
+    "authors": [
+      "Andreas Andreou",
+      "Constandinos X. Mavromoustakis",
+      "Jordi Mongay Batalla",
+      "Evangelos K. Markakis",
+      "George Mastorakis"
+    ],
+    "abstract": "Sixth-generation networks and vehicular Ad hoc networks advancement brought us to the cusp of a new era. Autonomous Vehicles with a plethora of advanced applications require a substantially enhanced vehicle-to-everything communication network. The infrastructure should efficiently support hyper-fast, ultra-reliable, and low-latency massive data exchange. Roadside units were initially exploited as ...",
+    "date": "2023-05-17T01:02:08.019Z"
+  },
+  {
+    "articleNumber": "10127608",
+    "articleTitle": "Cooperative Merging Strategy in Mixed Traffic Based on Optimal Final-State Phase Diagram With Flexible Highway Merging Points",
+    "authors": [
+      "Jia Shi",
+      "Keqiang Li",
+      "Chaoyi Chen",
+      "Weiwei Kong",
+      "Yugong Luo"
+    ],
+    "abstract": "The cooperation between connected and automated vehicles (CAVs) has emerged as a promising way to improve traffic efficiency and safety for ramp merging on highways. Existing research mostly focused on the collaboration of individual CAVs, while the cooperative merging strategy in mixed traffic considering vehicle platoons has been less explored. To address the above problem, this study aims to bu...",
+    "date": "2023-05-17T01:02:08.019Z"
+  },
+  {
     "articleNumber": "10124083",
     "articleTitle": "Antenna Combiner for Periodic Broadcast V2V Communication Under Relaxed Worst-Case Propagation",
     "authors": [

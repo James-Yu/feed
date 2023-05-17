@@ -2,11 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/TPAMI.rss</id>
     <title>IEEE Transactions on Pattern Analysis and Machine Intelligence</title>
-    <updated>2023-05-16T16:14:57.578Z</updated>
+    <updated>2023-05-17T01:02:18.260Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/TPAMI.rss"/>
     <subtitle>IEEE Transactions on Pattern Analysis and Machine Intelligence</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Adaptive Part Mining for Robust Visual Tracking]]></title>
+        <id>https://ieeexplore.ieee.org/document/10126096</id>
+        <link href="https://ieeexplore.ieee.org/document/10126096"/>
+        <updated>2023-05-17T01:02:18.256Z</updated>
+        <summary type="html"><![CDATA[Visual tracking aims to estimate object state in a video sequence, which is challenging when facing drastic appearance changes. Most existing trackers conduct tracking with divided parts to handle appearance variations. However, these trackers commonly divide target objects into regular patches by a hand-designed splitting way, which is too coarse to align object parts well. Besides, a fixed part ...]]></summary>
+        <author>
+            <name>Yinchao Ma</name>
+        </author>
+        <author>
+            <name>Jianfeng He</name>
+        </author>
+        <author>
+            <name>Dawei Yang</name>
+        </author>
+        <author>
+            <name>Tianzhu Zhang</name>
+        </author>
+        <author>
+            <name>Feng Wu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GAIA-Universe: Everything is Super-Netify]]></title>
+        <id>https://ieeexplore.ieee.org/document/10125046</id>
+        <link href="https://ieeexplore.ieee.org/document/10125046"/>
+        <updated>2023-05-17T01:02:18.256Z</updated>
+        <summary type="html"><![CDATA[Pre-training on large-scale datasets has played an increasingly significant role in computer vision and natural language processing recently. However, as there exist numerous application scenarios that have distinctive demands such as certain latency constraints and specialized data distributions, it is prohibitively expensive to take advantage of large-scale pre-training for per-task requirements...]]></summary>
+        <author>
+            <name>Junran Peng</name>
+        </author>
+        <author>
+            <name>Qing Chang</name>
+        </author>
+        <author>
+            <name>Haoran Yin</name>
+        </author>
+        <author>
+            <name>Xingyuan Bu</name>
+        </author>
+        <author>
+            <name>Jiajun Sun</name>
+        </author>
+        <author>
+            <name>Lingxi Xie</name>
+        </author>
+        <author>
+            <name>Xiaopeng Zhang</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hong Kong World: Leveraging Structural Regularity for Line-based SLAM]]></title>
         <id>https://ieeexplore.ieee.org/document/10124374</id>

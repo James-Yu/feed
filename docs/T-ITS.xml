@@ -2,11 +2,332 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/T-ITS.rss</id>
     <title>IEEE Transactions on Intelligent Transportation Systems</title>
-    <updated>2023-05-16T16:14:45.991Z</updated>
+    <updated>2023-05-17T01:02:08.025Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/T-ITS.rss"/>
     <subtitle>IEEE Transactions on Intelligent Transportation Systems</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Longitudinal Velocity Regulation of UGVs: A Composite Control Approach for Acceleration and Deceleration]]></title>
+        <id>https://ieeexplore.ieee.org/document/10127613</id>
+        <link href="https://ieeexplore.ieee.org/document/10127613"/>
+        <updated>2023-05-17T01:02:08.019Z</updated>
+        <summary type="html"><![CDATA[In this paper, a composite longitudinal controller for velocity regulation of unmanned ground vehicles (UGVs) is proposed. First, both the empirical model and mixed logical dynamic model are developed in terms of the experimental data processing method. Second, a composite longitudinal control strategy incorporating steady-state controller and active disturbance rejection state feedback controller...]]></summary>
+        <author>
+            <name>Haoyu Wang</name>
+        </author>
+        <author>
+            <name>Zhiqiang Zuo</name>
+        </author>
+        <author>
+            <name>Yijing Wang</name>
+        </author>
+        <author>
+            <name>Hongjiu Yang</name>
+        </author>
+        <author>
+            <name>Chuan Hu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coordinated Control Strategy of Railway Multisource Traction System With Energy Storage and Renewable Energy]]></title>
+        <id>https://ieeexplore.ieee.org/document/10127580</id>
+        <link href="https://ieeexplore.ieee.org/document/10127580"/>
+        <updated>2023-05-17T01:02:08.019Z</updated>
+        <summary type="html"><![CDATA[Influenced by the growing daily travel demand of citizens and extension of urban land, the construction of the urban railway transit (URT) system is gradually increasing nowadays. This situation implies more electricity consumption in URT and more challenges to URT operation stability. Therefore, based on the existing traction substation, this research proposes a configuration of multi-source trac...]]></summary>
+        <author>
+            <name>Hongzhi Dong</name>
+        </author>
+        <author>
+            <name>Zhongbei Tian</name>
+        </author>
+        <author>
+            <name>Joseph W. Spencer</name>
+        </author>
+        <author>
+            <name>David Fletcher</name>
+        </author>
+        <author>
+            <name>Siavash Hajiabady</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Online Set-Point Estimation for Feedback-Based Traffic Control Applications]]></title>
+        <id>https://ieeexplore.ieee.org/document/10127582</id>
+        <link href="https://ieeexplore.ieee.org/document/10127582"/>
+        <updated>2023-05-17T01:02:08.019Z</updated>
+        <summary type="html"><![CDATA[This paper deals with traffic control at motorway bottlenecks assuming the existence of an unknown, time-varying, Fundamental Diagram (FD). The FD may change over time due to different traffic compositions, e.g., light and heavy vehicles, as well as in the presence of connected and automated vehicles equipped with different technologies at varying penetration rates, leading to inconstant and uncer...]]></summary>
+        <author>
+            <name>Farzam Tajdari</name>
+        </author>
+        <author>
+            <name>Claudio Roncoli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Asphalt Pavement Compaction and Vehicle Speed Monitoring Using Intelligent Aggregate]]></title>
+        <id>https://ieeexplore.ieee.org/document/10125047</id>
+        <link href="https://ieeexplore.ieee.org/document/10125047"/>
+        <updated>2023-05-17T01:02:08.019Z</updated>
+        <summary type="html"><![CDATA[The stable skeletal structure formed by the interlocking mechanism of the spatial movement of aggregate particles during compaction is the mechanism by which asphalt pavements are compacted and shaped. A major problem facing conventional compaction monitoring is that lacking the ability to monitor particle movement and a real-time evaluation method for pavement compaction, which can easily lead to...]]></summary>
+        <author>
+            <name>Zundong Liang</name>
+        </author>
+        <author>
+            <name>Chao Xing</name>
+        </author>
+        <author>
+            <name>Huining Xu</name>
+        </author>
+        <author>
+            <name>Yiqiu Tan</name>
+        </author>
+        <author>
+            <name>Tairui Qiu</name>
+        </author>
+        <author>
+            <name>Bo Chai</name>
+        </author>
+        <author>
+            <name>Jilu Li</name>
+        </author>
+        <author>
+            <name>Tianci Liu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Frequent Itemset-Driven Search for Finding Minimal Node Separators and Its Application to Air Transportation Network Analysis]]></title>
+        <id>https://ieeexplore.ieee.org/document/10127581</id>
+        <link href="https://ieeexplore.ieee.org/document/10127581"/>
+        <updated>2023-05-17T01:02:08.019Z</updated>
+        <summary type="html"><![CDATA[The  $\alpha$ -separator problem ( $\alpha$ -SP) consists of finding the minimum set of vertices whose removal separates the network into multiple different connected components with fewer than a limited number of vertices in each component, which belongs to the family of critical node detection problems. The  $\alpha$ -SP problem is an important NP-hard problem with various real-world application...]]></summary>
+        <author>
+            <name>Yangming Zhou</name>
+        </author>
+        <author>
+            <name>Xiaze Zhang</name>
+        </author>
+        <author>
+            <name>Na Geng</name>
+        </author>
+        <author>
+            <name>Zhibin Jiang</name>
+        </author>
+        <author>
+            <name>Shouguang Wang</name>
+        </author>
+        <author>
+            <name>MengChu Zhou</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multi-Sensor and Analytical Constraints Tightly Augmented BDS-3 RTK for Vehicle-Borne Positioning]]></title>
+        <id>https://ieeexplore.ieee.org/document/10127615</id>
+        <link href="https://ieeexplore.ieee.org/document/10127615"/>
+        <updated>2023-05-17T01:02:08.019Z</updated>
+        <summary type="html"><![CDATA[The third generation BeiDou Navigation Satellite System (BDS-3) can provide high-accuracy service for vehicle-borne positioning and navigation. The performance of BDS-3 in terms of accuracy, continuity, and reliability, however, are significantly degraded in environments with weak satellite observability. To improve the positioning performance of BDS-3 around the partial and complete signal-blocke...]]></summary>
+        <author>
+            <name>Qiaozhuang Xu</name>
+        </author>
+        <author>
+            <name>Zhouzheng Gao</name>
+        </author>
+        <author>
+            <name>Jie Lv</name>
+        </author>
+        <author>
+            <name>Cheng Yang</name>
+        </author>
+        <author>
+            <name>You Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brain-Inspired Modeling and Decision-Making for Human-Like Autonomous Driving in Mixed Traffic Environment]]></title>
+        <id>https://ieeexplore.ieee.org/document/10127583</id>
+        <link href="https://ieeexplore.ieee.org/document/10127583"/>
+        <updated>2023-05-17T01:02:08.019Z</updated>
+        <summary type="html"><![CDATA[In this paper, a human-like driving system is designed for autonomous vehicles (AVs), which aims to make AVs better integrate into the human transportation systems and mitigate misunderstanding and conflicts when interacting with human-driven vehicles. Based on the analysis of the real world INTERACTION dataset, a driving aggressiveness estimation model is established with the fuzzy inference appr...]]></summary>
+        <author>
+            <name>Peng Hang</name>
+        </author>
+        <author>
+            <name>Yiran Zhang</name>
+        </author>
+        <author>
+            <name>Chen Lv</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manifold-Contrastive Broad Learning System for Wheelset Bearing Fault Diagnosis]]></title>
+        <id>https://ieeexplore.ieee.org/document/10127610</id>
+        <link href="https://ieeexplore.ieee.org/document/10127610"/>
+        <updated>2023-05-17T01:02:08.019Z</updated>
+        <summary type="html"><![CDATA[Newly deployed trains have massive normal data and scarce faulty data for training, which limits the diagnosis accuracy with class imbalance problem of small samples. Considering that there are a lot unutilized information hidden in the abundant unlabeled monitoring data, this paper proposes a novel method named manifold-contrastive broad learning system, which utilizes the online updating approac...]]></summary>
+        <author>
+            <name>Ning Wang</name>
+        </author>
+        <author>
+            <name>Limin Jia</name>
+        </author>
+        <author>
+            <name>Huiyue Zhang</name>
+        </author>
+        <author>
+            <name>Yong Qin</name>
+        </author>
+        <author>
+            <name>Xuejun Zhao</name>
+        </author>
+        <author>
+            <name>Zhipeng Wang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adaptive Dynamic Path Planning Method for Autonomous Vehicle Under Various Road Friction and Speeds]]></title>
+        <id>https://ieeexplore.ieee.org/document/10127611</id>
+        <link href="https://ieeexplore.ieee.org/document/10127611"/>
+        <updated>2023-05-17T01:02:08.019Z</updated>
+        <summary type="html"><![CDATA[Path planning is a crucial technology for autonomous vehicle (AV). However, it is difficult to adapt to dynamic driving environment, and AV may lose lateral dynamic stability due to high speed and various friction. This paper presents an adaptive dynamic path planning method (ADPPM) for AV to address the challenges. The ADPPM is comprised of three components: 1) A dynamic state-fused steering deci...]]></summary>
+        <author>
+            <name>Jinlei Wang</name>
+        </author>
+        <author>
+            <name>Xiaofang Yuan</name>
+        </author>
+        <author>
+            <name>Zhixian Liu</name>
+        </author>
+        <author>
+            <name>Weihua Tan</name>
+        </author>
+        <author>
+            <name>Xizheng Zhang</name>
+        </author>
+        <author>
+            <name>Yaonan Wang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cooperative On-Ramp Merging Control Model for Mixed Traffic on Multi-Lane Freeways]]></title>
+        <id>https://ieeexplore.ieee.org/document/10127585</id>
+        <link href="https://ieeexplore.ieee.org/document/10127585"/>
+        <updated>2023-05-17T01:02:08.019Z</updated>
+        <summary type="html"><![CDATA[This paper proposes a hierarchical model for cooperative on-ramp merging control (CORMC) in mixed traffic with both connected automated vehicles (CAVs) and connected human-driven vehicles (CHVs). The upper-layer of the CORMC model employs an anticipatory position searching (APS) algorithm to determine the anticipatory positions at which merging vehicles (MVs) should merge from the on-ramp lane to ...]]></summary>
+        <author>
+            <name>Kangning Hou</name>
+        </author>
+        <author>
+            <name>Fangfang Zheng</name>
+        </author>
+        <author>
+            <name>Xiaobo Liu</name>
+        </author>
+        <author>
+            <name>Ge Guo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Hierarchical Framework for Passenger Inflow Control in Metro System With Reinforcement Learning]]></title>
+        <id>https://ieeexplore.ieee.org/document/10127612</id>
+        <link href="https://ieeexplore.ieee.org/document/10127612"/>
+        <updated>2023-05-17T01:02:08.019Z</updated>
+        <summary type="html"><![CDATA[Since mobility needs grow rapidly, the metro system of modern cities is suffering from the oversaturated situation in the rush hour, which makes the metro system vulnerable and inefficient. Thus, passenger inflow control is proposed and implemented. This paper investigates the station-based passenger inflow control problem with the objective of maximizing overall transport efficiency and fairness....]]></summary>
+        <author>
+            <name>Jiaming Zhong</name>
+        </author>
+        <author>
+            <name>Zhaocheng He</name>
+        </author>
+        <author>
+            <name>Jiawei Wang</name>
+        </author>
+        <author>
+            <name>Jiemin Xie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learning-Aided Inertial Odometry With Nonlinear State Estimator on Manifold]]></title>
+        <id>https://ieeexplore.ieee.org/document/10127586</id>
+        <link href="https://ieeexplore.ieee.org/document/10127586"/>
+        <updated>2023-05-17T01:02:08.019Z</updated>
+        <summary type="html"><![CDATA[Relying only on inertial measurement units (IMUs) for robust state estimation is critical to vehicle safety when imaging sensors abruptly fail. In this paper, we propose to consider learning-based method as a complement to the kinematic model, and obtain ego-motion based on the nonlinear filter pipeline. To be specific, we first model the state of the IMU on the manifold such that the beliefs of p...]]></summary>
+        <author>
+            <name>Yuqiang Jin</name>
+        </author>
+        <author>
+            <name>Wen-An Zhang</name>
+        </author>
+        <author>
+            <name>Hu Sun</name>
+        </author>
+        <author>
+            <name>Li Yu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Network Traffic Model for the Control of Autonomous Vehicles Acting as Moving Bottlenecks]]></title>
+        <id>https://ieeexplore.ieee.org/document/10127607</id>
+        <link href="https://ieeexplore.ieee.org/document/10127607"/>
+        <updated>2023-05-17T01:02:08.019Z</updated>
+        <summary type="html"><![CDATA[In this work we present a traffic model to simulate network-level traffic evolution under the impact of controlled autonomous vehicles acting as moving bottlenecks. We first extend the Newell-Daganzo method to track the trajectories of moving bottlenecks and calculate the cumulative number of vehicles passing each moving bottleneck. By integrating the solutions to the cumulative number of vehicles...]]></summary>
+        <author>
+            <name>Zhexian Li</name>
+        </author>
+        <author>
+            <name>Michael W. Levin</name>
+        </author>
+        <author>
+            <name>Xu Qu</name>
+        </author>
+        <author>
+            <name>Raphael Stern</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UAV-Assisted RSUs for V2X Connectivity Using Voronoi Diagrams in 6G $^{+}$  Infrastructures]]></title>
+        <id>https://ieeexplore.ieee.org/document/10127579</id>
+        <link href="https://ieeexplore.ieee.org/document/10127579"/>
+        <updated>2023-05-17T01:02:08.019Z</updated>
+        <summary type="html"><![CDATA[Sixth-generation networks and vehicular Ad hoc networks advancement brought us to the cusp of a new era. Autonomous Vehicles with a plethora of advanced applications require a substantially enhanced vehicle-to-everything communication network. The infrastructure should efficiently support hyper-fast, ultra-reliable, and low-latency massive data exchange. Roadside units were initially exploited as ...]]></summary>
+        <author>
+            <name>Andreas Andreou</name>
+        </author>
+        <author>
+            <name>Constandinos X. Mavromoustakis</name>
+        </author>
+        <author>
+            <name>Jordi Mongay Batalla</name>
+        </author>
+        <author>
+            <name>Evangelos K. Markakis</name>
+        </author>
+        <author>
+            <name>George Mastorakis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cooperative Merging Strategy in Mixed Traffic Based on Optimal Final-State Phase Diagram With Flexible Highway Merging Points]]></title>
+        <id>https://ieeexplore.ieee.org/document/10127608</id>
+        <link href="https://ieeexplore.ieee.org/document/10127608"/>
+        <updated>2023-05-17T01:02:08.019Z</updated>
+        <summary type="html"><![CDATA[The cooperation between connected and automated vehicles (CAVs) has emerged as a promising way to improve traffic efficiency and safety for ramp merging on highways. Existing research mostly focused on the collaboration of individual CAVs, while the cooperative merging strategy in mixed traffic considering vehicle platoons has been less explored. To address the above problem, this study aims to bu...]]></summary>
+        <author>
+            <name>Jia Shi</name>
+        </author>
+        <author>
+            <name>Keqiang Li</name>
+        </author>
+        <author>
+            <name>Chaoyi Chen</name>
+        </author>
+        <author>
+            <name>Weiwei Kong</name>
+        </author>
+        <author>
+            <name>Yugong Luo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Antenna Combiner for Periodic Broadcast V2V Communication Under Relaxed Worst-Case Propagation]]></title>
         <id>https://ieeexplore.ieee.org/document/10124083</id>
