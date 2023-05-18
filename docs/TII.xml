@@ -2,11 +2,74 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/TII.rss</id>
     <title>IEEE Transactions on Industrial Informatics</title>
-    <updated>2023-05-17T16:14:49.182Z</updated>
+    <updated>2023-05-18T00:59:28.325Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/TII.rss"/>
     <subtitle>IEEE Transactions on Industrial Informatics</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[An Optimized Model Predictive Control Method With Fixed Switching Frequency for Eliminating Common-Mode Voltage of Five-Level Converters]]></title>
+        <id>https://ieeexplore.ieee.org/document/10128726</id>
+        <link href="https://ieeexplore.ieee.org/document/10128726"/>
+        <updated>2023-05-18T00:59:28.318Z</updated>
+        <summary type="html"><![CDATA[In this paper, an optimized model predictive control (MPC) method with fixed switching frequency (FSF) is proposed to eliminate the common-mode voltage (CMV) and balance the capacitor voltage. Firstly, the zero CMV vector diagram is divided by finite control set MPC (FCS-MPC) to obtain the candidate vectors effectively. Then, in order to control the capacitor voltage and avoid the great computatio...]]></summary>
+        <author>
+            <name>Chenghui Zhang</name>
+        </author>
+        <author>
+            <name>Chang Liu</name>
+        </author>
+        <author>
+            <name>Xiangyang Xing</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trusted Edge Computing System Based on Intelligent Risk Detection for Smart IoT]]></title>
+        <id>https://ieeexplore.ieee.org/document/10128754</id>
+        <link href="https://ieeexplore.ieee.org/document/10128754"/>
+        <updated>2023-05-18T00:59:28.318Z</updated>
+        <summary type="html"><![CDATA[The Internet of Things (IoT) mainly consists of a large number of Internet-connected devices. The proliferation of untrusted third-party IoT applications has led to an increase in IoT-based malware attacks. In addition, it is infeasible for the IoT devices to support the sophisticated detection systems due to the restricted resources. Edge computing is considered to be promising. It provides solut...]]></summary>
+        <author>
+            <name>Xiaoheng Deng</name>
+        </author>
+        <author>
+            <name>Bin Chen</name>
+        </author>
+        <author>
+            <name>Xuechen Chen</name>
+        </author>
+        <author>
+            <name>Xinjun Pei</name>
+        </author>
+        <author>
+            <name>Shaohua Wan</name>
+        </author>
+        <author>
+            <name>Sotirios K. Goudos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An IoT Based Novel Hybrid Seizure Detection Approach for Epileptic Monitoring]]></title>
+        <id>https://ieeexplore.ieee.org/document/10128719</id>
+        <link href="https://ieeexplore.ieee.org/document/10128719"/>
+        <updated>2023-05-18T00:59:28.318Z</updated>
+        <summary type="html"><![CDATA[This research focuses on a new Electroencephalogram (EEG)-based system for the early detection of epileptic episodes that is made possible by the Internet of Things (IoT). The system is made up of two important units, namely, 1) the multichannel EEG recording unit; and 2) the seizure detection unit. Since epileptic information is more useful when included in multichannel EEG data from many brain r...]]></summary>
+        <author>
+            <name>Dhanalekshmi Prasad Yedurkar</name>
+        </author>
+        <author>
+            <name>Shilpa Metkar</name>
+        </author>
+        <author>
+            <name>Fadi Al-Turjman</name>
+        </author>
+        <author>
+            <name>Nandan Yardi</name>
+        </author>
+        <author>
+            <name>Thompson Stephan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Self-Calibrating Gaze Estimation with Optical Axes Projection for Head-Mounted Eye Tracking]]></title>
         <id>https://ieeexplore.ieee.org/document/10125062</id>

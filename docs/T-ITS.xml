@@ -2,11 +2,199 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/T-ITS.rss</id>
     <title>IEEE Transactions on Intelligent Transportation Systems</title>
-    <updated>2023-05-17T16:14:28.745Z</updated>
+    <updated>2023-05-18T00:59:05.024Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/T-ITS.rss"/>
     <subtitle>IEEE Transactions on Intelligent Transportation Systems</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Microservice-Oriented Service Placement for Mobile Edge Computing in Sustainable Internet of Vehicles]]></title>
+        <id>https://ieeexplore.ieee.org/document/10128791</id>
+        <link href="https://ieeexplore.ieee.org/document/10128791"/>
+        <updated>2023-05-18T00:59:05.017Z</updated>
+        <summary type="html"><![CDATA[The integration of Mobile Edge Computing (MEC) and microservice architecture drives the implementation of the sustainable Internet of Vehicles (IoV). The microservice architecture enables the decomposition of a service into multiple independent, fine-grained microservices working independently. With MEC, microservices can be placed on Edge Service Providers (ESPs) dynamically, responding quickly a...]]></summary>
+        <author>
+            <name>Leilei Wang</name>
+        </author>
+        <author>
+            <name>Xiaoheng Deng</name>
+        </author>
+        <author>
+            <name>Jinsong Gui</name>
+        </author>
+        <author>
+            <name>Xuechen Chen</name>
+        </author>
+        <author>
+            <name>Shaohua Wan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Are Reactions to Ego Vehicles Predictable Without Data?: A Semi-Supervised Approach]]></title>
+        <id>https://ieeexplore.ieee.org/document/10128802</id>
+        <link href="https://ieeexplore.ieee.org/document/10128802"/>
+        <updated>2023-05-18T00:59:05.017Z</updated>
+        <summary type="html"><![CDATA[To make intelligent decisions in an autonomous vehicle, the system must predict the future reactions of surrounding vehicles for any given action plan of the ego vehicle. However, learning reactive trajectories is challenging due to scant action-reaction pair data. That is, building a dataset with multiple action-reaction pairs for an identical scene history is impossible in reality. Here, we prop...]]></summary>
+        <author>
+            <name>Hyeongseok Jeon</name>
+        </author>
+        <author>
+            <name>Sanmin Kim</name>
+        </author>
+        <author>
+            <name>Kibeom Lee</name>
+        </author>
+        <author>
+            <name>Daejun Kang</name>
+        </author>
+        <author>
+            <name>Junwon Choi</name>
+        </author>
+        <author>
+            <name>Dongsuk Kum</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Saliency-Induced Moving Object Detection for Robust RGB-D Vision Navigation Under Complex Dynamic Environments]]></title>
+        <id>https://ieeexplore.ieee.org/document/10128804</id>
+        <link href="https://ieeexplore.ieee.org/document/10128804"/>
+        <updated>2023-05-18T00:59:05.017Z</updated>
+        <summary type="html"><![CDATA[Localization in unknown environments is an essential requirement for vision navigation of robotic vehicles in intelligent transportation systems. However, moving objects in dynamic scenarios usually bring about great difficulty for robot localization, because motion estimation of robotic vehicles is disturbed by increasing feature outliers caused by moving objects. In order to improve the accuracy...]]></summary>
+        <author>
+            <name>Chao Sun</name>
+        </author>
+        <author>
+            <name>Xing Wu</name>
+        </author>
+        <author>
+            <name>Jia Sun</name>
+        </author>
+        <author>
+            <name>Changyin Sun</name>
+        </author>
+        <author>
+            <name>Mingzhu Xu</name>
+        </author>
+        <author>
+            <name>Quanbo Ge</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reassignment Algorithm of the Ride-Sourcing Market Based on Reinforcement Learning]]></title>
+        <id>https://ieeexplore.ieee.org/document/10128792</id>
+        <link href="https://ieeexplore.ieee.org/document/10128792"/>
+        <updated>2023-05-18T00:59:05.017Z</updated>
+        <summary type="html"><![CDATA[Reassignment strategies are of great significance to improve the dispatching efficiency of the ride-sourcing market by reassigning drivers and passengers. However, due to the focus on the feasibility of the reassignment strategy in the short period, previous studies ignore possible reassignment opportunities in the future and inevitably make short-sighted reassignment decisions. To fully exploit t...]]></summary>
+        <author>
+            <name>Yinquan Wang</name>
+        </author>
+        <author>
+            <name>Jianjun Wu</name>
+        </author>
+        <author>
+            <name>Huijun Sun</name>
+        </author>
+        <author>
+            <name>Ying Lv</name>
+        </author>
+        <author>
+            <name>Guangtong Xu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Energetic Impacts of Autonomous Vehicles in Real-World Traffic Conditions From Nine Open-Source Datasets]]></title>
+        <id>https://ieeexplore.ieee.org/document/10128800</id>
+        <link href="https://ieeexplore.ieee.org/document/10128800"/>
+        <updated>2023-05-18T00:59:05.017Z</updated>
+        <summary type="html"><![CDATA[Potential increases or decreases in energy consumption for various traffic operation modes is a research focus in light-duty autonomous vehicle (AV) studies. However, AVs have unclear energy consumption patterns compared with human-driving vehicles (HV), especially under diverse real-world traffic conditions. Considering nine open-source AV activity datasets from six nations, three nontrivial char...]]></summary>
+        <author>
+            <name>Jianchang Huang</name>
+        </author>
+        <author>
+            <name>Guohua Song</name>
+        </author>
+        <author>
+            <name>Feng He</name>
+        </author>
+        <author>
+            <name>Zhe Tan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Driver Head Pose Detection From Naturalistic Driving Data]]></title>
+        <id>https://ieeexplore.ieee.org/document/10128799</id>
+        <link href="https://ieeexplore.ieee.org/document/10128799"/>
+        <updated>2023-05-18T00:59:05.017Z</updated>
+        <summary type="html"><![CDATA[Driver behavior analysis plays an important role in driver assistance systems. A driver’s face and head pose hold the key towards understanding whether the driver’s attention and concentration are on the road while driving. Naturalistic driving studies (NDS) allow observing drivers in real-time under naturalistic traffic conditions. Yet, data collected in NDS often comprise low-resolution videos u...]]></summary>
+        <author>
+            <name>Weiheng Chai</name>
+        </author>
+        <author>
+            <name>Jiajing Chen</name>
+        </author>
+        <author>
+            <name>Jiyang Wang</name>
+        </author>
+        <author>
+            <name>Senem Velipasalar</name>
+        </author>
+        <author>
+            <name>Archana Venkatachalapathy</name>
+        </author>
+        <author>
+            <name>Yaw Adu-Gyamfi</name>
+        </author>
+        <author>
+            <name>Jennifer Merickel</name>
+        </author>
+        <author>
+            <name>Anuj Sharma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CenterPoint-SE: A Single-Stage Anchor-Free 3-D Object Detection Algorithm With Spatial Awareness Enhancement]]></title>
+        <id>https://ieeexplore.ieee.org/document/10128795</id>
+        <link href="https://ieeexplore.ieee.org/document/10128795"/>
+        <updated>2023-05-18T00:59:05.017Z</updated>
+        <summary type="html"><![CDATA[Real-time and accurate 3-D object detection is one of the foundational technologies for environmental perception in autonomous vehicles. However, the existing second-stage anchor-based 3-D object detection algorithms have high accuracy, but they are challenging in terms of computation complexity and latency. Due to poor perception of spatial features, the accuracy of the existing single-stage anch...]]></summary>
+        <author>
+            <name>Hai Wang</name>
+        </author>
+        <author>
+            <name>Le Tao</name>
+        </author>
+        <author>
+            <name>Yingfeng Cai</name>
+        </author>
+        <author>
+            <name>Long Chen</name>
+        </author>
+        <author>
+            <name>Yicheng Li</name>
+        </author>
+        <author>
+            <name>Miguel Angel Sotelo</name>
+        </author>
+        <author>
+            <name>Zhixiong Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vehicle/Employee Rebalancing and Charging Scheduling in One-Way Car Sharing Systems]]></title>
+        <id>https://ieeexplore.ieee.org/document/10128803</id>
+        <link href="https://ieeexplore.ieee.org/document/10128803"/>
+        <updated>2023-05-18T00:59:05.017Z</updated>
+        <summary type="html"><![CDATA[This paper studies the joint charging scheduling and rebalancing of employees and electric vehicles in one-way car sharing systems (OCS). Consider an OCS consisting of a fleet of vehicles and a team of employees responsible for charging low-battery level vehicles and rebalancing the idle vehicles in the system. The employees need also to rebalance themselves by service vehicles or by sharing a car...]]></summary>
+        <author>
+            <name>Ge Guo</name>
+        </author>
+        <author>
+            <name>Ming Kang</name>
+        </author>
+        <author>
+            <name>Tianyu Sun</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Longitudinal Velocity Regulation of UGVs: A Composite Control Approach for Acceleration and Deceleration]]></title>
         <id>https://ieeexplore.ieee.org/document/10127613</id>

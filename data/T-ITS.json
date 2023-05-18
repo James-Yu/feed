@@ -1,5 +1,113 @@
 [
   {
+    "articleNumber": "10128791",
+    "articleTitle": "Microservice-Oriented Service Placement for Mobile Edge Computing in Sustainable Internet of Vehicles",
+    "authors": [
+      "Leilei Wang",
+      "Xiaoheng Deng",
+      "Jinsong Gui",
+      "Xuechen Chen",
+      "Shaohua Wan"
+    ],
+    "abstract": "The integration of Mobile Edge Computing (MEC) and microservice architecture drives the implementation of the sustainable Internet of Vehicles (IoV). The microservice architecture enables the decomposition of a service into multiple independent, fine-grained microservices working independently. With MEC, microservices can be placed on Edge Service Providers (ESPs) dynamically, responding quickly a...",
+    "date": "2023-05-18T00:59:05.017Z"
+  },
+  {
+    "articleNumber": "10128802",
+    "articleTitle": "Are Reactions to Ego Vehicles Predictable Without Data?: A Semi-Supervised Approach",
+    "authors": [
+      "Hyeongseok Jeon",
+      "Sanmin Kim",
+      "Kibeom Lee",
+      "Daejun Kang",
+      "Junwon Choi",
+      "Dongsuk Kum"
+    ],
+    "abstract": "To make intelligent decisions in an autonomous vehicle, the system must predict the future reactions of surrounding vehicles for any given action plan of the ego vehicle. However, learning reactive trajectories is challenging due to scant action-reaction pair data. That is, building a dataset with multiple action-reaction pairs for an identical scene history is impossible in reality. Here, we prop...",
+    "date": "2023-05-18T00:59:05.017Z"
+  },
+  {
+    "articleNumber": "10128804",
+    "articleTitle": "Saliency-Induced Moving Object Detection for Robust RGB-D Vision Navigation Under Complex Dynamic Environments",
+    "authors": [
+      "Chao Sun",
+      "Xing Wu",
+      "Jia Sun",
+      "Changyin Sun",
+      "Mingzhu Xu",
+      "Quanbo Ge"
+    ],
+    "abstract": "Localization in unknown environments is an essential requirement for vision navigation of robotic vehicles in intelligent transportation systems. However, moving objects in dynamic scenarios usually bring about great difficulty for robot localization, because motion estimation of robotic vehicles is disturbed by increasing feature outliers caused by moving objects. In order to improve the accuracy...",
+    "date": "2023-05-18T00:59:05.017Z"
+  },
+  {
+    "articleNumber": "10128792",
+    "articleTitle": "Reassignment Algorithm of the Ride-Sourcing Market Based on Reinforcement Learning",
+    "authors": [
+      "Yinquan Wang",
+      "Jianjun Wu",
+      "Huijun Sun",
+      "Ying Lv",
+      "Guangtong Xu"
+    ],
+    "abstract": "Reassignment strategies are of great significance to improve the dispatching efficiency of the ride-sourcing market by reassigning drivers and passengers. However, due to the focus on the feasibility of the reassignment strategy in the short period, previous studies ignore possible reassignment opportunities in the future and inevitably make short-sighted reassignment decisions. To fully exploit t...",
+    "date": "2023-05-18T00:59:05.017Z"
+  },
+  {
+    "articleNumber": "10128800",
+    "articleTitle": "Energetic Impacts of Autonomous Vehicles in Real-World Traffic Conditions From Nine Open-Source Datasets",
+    "authors": [
+      "Jianchang Huang",
+      "Guohua Song",
+      "Feng He",
+      "Zhe Tan"
+    ],
+    "abstract": "Potential increases or decreases in energy consumption for various traffic operation modes is a research focus in light-duty autonomous vehicle (AV) studies. However, AVs have unclear energy consumption patterns compared with human-driving vehicles (HV), especially under diverse real-world traffic conditions. Considering nine open-source AV activity datasets from six nations, three nontrivial char...",
+    "date": "2023-05-18T00:59:05.017Z"
+  },
+  {
+    "articleNumber": "10128799",
+    "articleTitle": "Driver Head Pose Detection From Naturalistic Driving Data",
+    "authors": [
+      "Weiheng Chai",
+      "Jiajing Chen",
+      "Jiyang Wang",
+      "Senem Velipasalar",
+      "Archana Venkatachalapathy",
+      "Yaw Adu-Gyamfi",
+      "Jennifer Merickel",
+      "Anuj Sharma"
+    ],
+    "abstract": "Driver behavior analysis plays an important role in driver assistance systems. A driver’s face and head pose hold the key towards understanding whether the driver’s attention and concentration are on the road while driving. Naturalistic driving studies (NDS) allow observing drivers in real-time under naturalistic traffic conditions. Yet, data collected in NDS often comprise low-resolution videos u...",
+    "date": "2023-05-18T00:59:05.017Z"
+  },
+  {
+    "articleNumber": "10128795",
+    "articleTitle": "CenterPoint-SE: A Single-Stage Anchor-Free 3-D Object Detection Algorithm With Spatial Awareness Enhancement",
+    "authors": [
+      "Hai Wang",
+      "Le Tao",
+      "Yingfeng Cai",
+      "Long Chen",
+      "Yicheng Li",
+      "Miguel Angel Sotelo",
+      "Zhixiong Li"
+    ],
+    "abstract": "Real-time and accurate 3-D object detection is one of the foundational technologies for environmental perception in autonomous vehicles. However, the existing second-stage anchor-based 3-D object detection algorithms have high accuracy, but they are challenging in terms of computation complexity and latency. Due to poor perception of spatial features, the accuracy of the existing single-stage anch...",
+    "date": "2023-05-18T00:59:05.017Z"
+  },
+  {
+    "articleNumber": "10128803",
+    "articleTitle": "Vehicle/Employee Rebalancing and Charging Scheduling in One-Way Car Sharing Systems",
+    "authors": [
+      "Ge Guo",
+      "Ming Kang",
+      "Tianyu Sun"
+    ],
+    "abstract": "This paper studies the joint charging scheduling and rebalancing of employees and electric vehicles in one-way car sharing systems (OCS). Consider an OCS consisting of a fleet of vehicles and a team of employees responsible for charging low-battery level vehicles and rebalancing the idle vehicles in the system. The employees need also to rebalance themselves by service vehicles or by sharing a car...",
+    "date": "2023-05-18T00:59:05.017Z"
+  },
+  {
     "articleNumber": "10127613",
     "articleTitle": "Longitudinal Velocity Regulation of UGVs: A Composite Control Approach for Acceleration and Deceleration",
     "authors": [

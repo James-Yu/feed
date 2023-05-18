@@ -1,5 +1,43 @@
 [
   {
+    "articleNumber": "10128726",
+    "articleTitle": "An Optimized Model Predictive Control Method With Fixed Switching Frequency for Eliminating Common-Mode Voltage of Five-Level Converters",
+    "authors": [
+      "Chenghui Zhang",
+      "Chang Liu",
+      "Xiangyang Xing"
+    ],
+    "abstract": "In this paper, an optimized model predictive control (MPC) method with fixed switching frequency (FSF) is proposed to eliminate the common-mode voltage (CMV) and balance the capacitor voltage. Firstly, the zero CMV vector diagram is divided by finite control set MPC (FCS-MPC) to obtain the candidate vectors effectively. Then, in order to control the capacitor voltage and avoid the great computatio...",
+    "date": "2023-05-18T00:59:28.318Z"
+  },
+  {
+    "articleNumber": "10128754",
+    "articleTitle": "Trusted Edge Computing System Based on Intelligent Risk Detection for Smart IoT",
+    "authors": [
+      "Xiaoheng Deng",
+      "Bin Chen",
+      "Xuechen Chen",
+      "Xinjun Pei",
+      "Shaohua Wan",
+      "Sotirios K. Goudos"
+    ],
+    "abstract": "The Internet of Things (IoT) mainly consists of a large number of Internet-connected devices. The proliferation of untrusted third-party IoT applications has led to an increase in IoT-based malware attacks. In addition, it is infeasible for the IoT devices to support the sophisticated detection systems due to the restricted resources. Edge computing is considered to be promising. It provides solut...",
+    "date": "2023-05-18T00:59:28.318Z"
+  },
+  {
+    "articleNumber": "10128719",
+    "articleTitle": "An IoT Based Novel Hybrid Seizure Detection Approach for Epileptic Monitoring",
+    "authors": [
+      "Dhanalekshmi Prasad Yedurkar",
+      "Shilpa Metkar",
+      "Fadi Al-Turjman",
+      "Nandan Yardi",
+      "Thompson Stephan"
+    ],
+    "abstract": "This research focuses on a new Electroencephalogram (EEG)-based system for the early detection of epileptic episodes that is made possible by the Internet of Things (IoT). The system is made up of two important units, namely, 1) the multichannel EEG recording unit; and 2) the seizure detection unit. Since epileptic information is more useful when included in multichannel EEG data from many brain r...",
+    "date": "2023-05-18T00:59:28.318Z"
+  },
+  {
     "articleNumber": "10125062",
     "articleTitle": "Self-Calibrating Gaze Estimation with Optical Axes Projection for Head-Mounted Eye Tracking",
     "authors": [

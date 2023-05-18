@@ -1,5 +1,42 @@
 [
   {
+    "articleNumber": "10128718",
+    "articleTitle": "A Perceptual Measure for Deep Single Image Camera and Lens Calibration",
+    "authors": [
+      "Yannick Hold-Geoffroy",
+      "Dominique Piché-Meunier",
+      "Kalyan Sunkavalli",
+      "Jean-Charles Bazin",
+      "François Rameau",
+      "Jean-François Lalonde"
+    ],
+    "abstract": "Image editing and compositing have become ubiquitous in entertainment, from digital art to AR and VR experiences. To produce beautiful composites, the camera needs to be geometrically calibrated, which can be tedious and requires a physical calibration target. In place of the traditional multi-image calibration process, we propose to infer the camera calibration parameters such as pitch, roll, fie...",
+    "date": "2023-05-18T00:59:17.326Z"
+  },
+  {
+    "articleNumber": "10128736",
+    "articleTitle": "Cross Domain Lifelong Learning Based on Task Similarity",
+    "authors": [
+      "Shuojin Yang",
+      "Zhanchuan Cai"
+    ],
+    "abstract": "Humans gradually learn a sequence of cross-domain tasks and seldom experience catastrophic forgetting. In contrast, deep neural networks achieve good performance only in specific tasks within a single domain. To equip the network with lifelong learning capabilities, we propose a Cross-Domain Lifelong Learning (CDLL) framework that fully explores task similarities. Specifically, we employ a Dual Si...",
+    "date": "2023-05-18T00:59:17.326Z"
+  },
+  {
+    "articleNumber": "10128752",
+    "articleTitle": "Knowledge-based Embodied Question Answering",
+    "authors": [
+      "Sinan Tan",
+      "Mengmeng Ge",
+      "Di Guo",
+      "Huaping Liu",
+      "Fuchun Sun"
+    ],
+    "abstract": "In this paper, we propose a novel Knowledge-based Embodied Question Answering (K-EQA) task, in which the agent intelligently explores the environment to answer various questions with the knowledge. Different from explicitly specifying the target object in the question as existing EQA work, the agent can resort to external knowledge to understand more complicated question such as “Please tell me wh...",
+    "date": "2023-05-18T00:59:17.326Z"
+  },
+  {
     "articleNumber": "10126096",
     "articleTitle": "Adaptive Part Mining for Robust Visual Tracking",
     "authors": [

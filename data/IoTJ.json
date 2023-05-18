@@ -1,5 +1,32 @@
 [
   {
+    "articleNumber": "10128967",
+    "articleTitle": "Trustworthy Sensor Fusion against Inaudible Command Attacks in Advanced Driver-Assistance Systems",
+    "authors": [
+      "Jiwei Guan",
+      "Lei Pan",
+      "Chen Wang",
+      "Shui Yu",
+      "Longxiang Gao",
+      "Xi Zheng"
+    ],
+    "abstract": "There are increasing concerns about malicious attacks on autonomous vehicles. In particular, inaudible voice command attacks pose a significant threat as voice commands become available in autonomous driving systems. How to empirically defend against these inaudible attacks remains an open question. Previous research investigates utilizing deep learning-based multimodal fusion for defense, without...",
+    "date": "2023-05-18T00:59:22.596Z"
+  },
+  {
+    "articleNumber": "10128812",
+    "articleTitle": "Special Issue on Green IoT for Future Space–Air–Ground–Ocean-Integrated Networks and Applications",
+    "authors": [
+      "Bo Rong",
+      "Mohamed Cheriet",
+      "Jon Montalban",
+      "Lei Shu",
+      "Yi Qian"
+    ],
+    "abstract": "The Internet of Things (IoT) plays a critical role in enabling the seamless integration of disparate devices. Future IoT will rapidly expand its coverage to offer future worldwide omnipresent applications and services by merging communications in diverse spatial domains to build the space–air–ground–ocean-integrated network (SAGOI-Net). SAGOI-Net will include a significant number of battery-powere...",
+    "date": "2023-05-18T00:59:22.596Z"
+  },
+  {
     "articleNumber": "10124716",
     "articleTitle": "Multi-keyword Ranked Search Scheme Supporting Extreme Environments for the Internet of Vehicles",
     "authors": [
