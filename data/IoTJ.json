@@ -1,5 +1,219 @@
 [
   {
+    "articleNumber": "10129152",
+    "articleTitle": "Soft Actor-Critic-Based Computation Offloading in Multi-User MEC-Enabled IoT—A Lifetime Maximization Perspective",
+    "authors": [
+      "Ali Reza Heidarpour",
+      "Mohammad Reza Heidarpour",
+      "Masoud Ardakani",
+      "Chintha Tellambura",
+      "Murat Uysal"
+    ],
+    "abstract": "This paper studies the network lifetime optimization problem in a multi-user mobile edge computing (MEC)-enabled Internet of things (IoT) system comprising an access point (AP), a MEC server, and a set of K mobile devices (MDs) with limited battery capacity. Considering the residual battery energy at the MDs, stochastic task arrivals, and time-varying wireless fading channels, a soft actor-critic ...",
+    "date": "2023-05-19T01:00:23.634Z"
+  },
+  {
+    "articleNumber": "10129025",
+    "articleTitle": "Communication-Efficient Federated Learning on Non-IID Data using Two-Step Knowledge Distillation",
+    "authors": [
+      "Hui Wen",
+      "Yue Wu",
+      "Jia Hu",
+      "Zi Wang",
+      "Hancong Duan",
+      "Geyong Min"
+    ],
+    "abstract": "Federated learning (FL) has shown its great potential for achieving distributed intelligence in privacy-sensitive IoT. However, popular FL approaches such as FedAvg and its variants share model parameters among clients during the training process and thus cause significant communication overhead in IoT. Moreover, non-independent and identically distributed (non-IID) data across learning devices se...",
+    "date": "2023-05-19T01:00:23.634Z"
+  },
+  {
+    "articleNumber": "10129116",
+    "articleTitle": "Computation Offloading Method Using Stochastic Games for Software Defined Network-based Multi-Agent Mobile Edge Computing",
+    "authors": [
+      "Guowen Wu",
+      "Hui Wang",
+      "Hong Zhang",
+      "Yuhan Zhao",
+      "Shui Yu",
+      "Shigen Shen"
+    ],
+    "abstract": "In the scenario of Industry 4.0, mobile smart devices (SDs) on production lines have to process massive amounts of data. These computing tasks sometimes far exceed the computing capability of SDs and require lots of energy and time to process. How to effectively reduce energy consumption and latency is necessary to be solved. To this end, we first propose an SDN (Software Defined Network)-based ME...",
+    "date": "2023-05-19T01:00:23.634Z"
+  },
+  {
+    "articleNumber": "10129085",
+    "articleTitle": "PupilHeart: Heart Rate Variability Monitoring via Pupillary Fluctuations on Mobile Devices",
+    "authors": [
+      "Xiangyu Shen",
+      "Hongbo Jiang",
+      "Daibo Liu",
+      "Kehua Yang",
+      "Feiyang Deng",
+      "Taiyuan Zhang",
+      "Zhu Xiao",
+      "John C. S. Lui",
+      "Jiangchuan Liu",
+      "Schahram Dustdar",
+      "Jun Luo"
+    ],
+    "abstract": "Heart disease has now become a very common and impactful disease, which can actually be easily avoided if treatment is intervened at an early stage. Thus, daily monitoring of heart health has become increasingly important. Existing mobile heart monitoring systems are mainly based on seismocardiography (SCG) or photoplethysmography (PPG). However, these methods suffer from inconvenience and additio...",
+    "date": "2023-05-19T01:00:23.634Z"
+  },
+  {
+    "articleNumber": "10129123",
+    "articleTitle": "Cyber-Physical-Social Model of Community Resilience by Considering Critical Infrastructure Interdependencies",
+    "authors": [
+      "Jaber Valinejad",
+      "Lamine Mili"
+    ],
+    "abstract": "Each year, several disasters occur, resulting in enormous human, infrastructural, and economic losses. To minimize losses and ensure an adequate emergency response, it is vital to prepare the community for greater shock absorption and recovery after an occurrence. This raises the concept of community resilience and also demands appropriate metrics and prediction models for improved preparedness an...",
+    "date": "2023-05-19T01:00:23.634Z"
+  },
+  {
+    "articleNumber": "10129162",
+    "articleTitle": "MMFNet: Forest Fire Smoke Detection Using Multiscale Convergence Coordinated Pyramid Network with Mixed Attention and Fast-robust NMS",
+    "authors": [
+      "Liangji Zhang",
+      "Chao Lu",
+      "Haiwen Xu",
+      "Aibin Chen",
+      "Liujun Li",
+      "Guoxiong Zhou"
+    ],
+    "abstract": "There is a problem in the field of early automatic detection of forest fire smoke that due to low concentration or tiny size, some smoke is difficult to capture. This paper proposes a multiscale convergence coordinated pyramid network with mixed attention and Fast-robust NMS (MMFNet) for fast detection of forest fire smoke. First, a multiscale convergence coordinated pyramid network is designed, w...",
+    "date": "2023-05-19T01:00:23.634Z"
+  },
+  {
+    "articleNumber": "10129153",
+    "articleTitle": "HealthFaaS: AI based Smart Healthcare System for Heart Patients using Serverless Computing",
+    "authors": [
+      "Muhammed Golec",
+      "Sukhpal Singh Gill",
+      "Ajith Kumar Parlikad",
+      "Steve Uhlig"
+    ],
+    "abstract": "Heart disease is one of the leading causes of death worldwide, and with early detection, mortality rates can be reduced. Well-known studies have shown that the latest Artificial Intelligence (AI) can be used to determine the risk of heart disease. However, existing studies did not consider dynamic scalability to get the best performance from these AI models in case of an increasing number of users...",
+    "date": "2023-05-19T01:00:23.634Z"
+  },
+  {
+    "articleNumber": "10129124",
+    "articleTitle": "Deep Reinforcement Learning Based Joint 3D Navigation and Phase Shift Control for Mobile Internet of Vehicles Assisted by RIS-equipped UAVs",
+    "authors": [
+      "Mohsen Eskandari",
+      "Andrey V. Savkin"
+    ],
+    "abstract": "Unmanned aerial vehicles (UAVs) are utilized to improve the performance of wireless communication networks (WCNs), notably, in the context of Internet-of-things (IoT). However, the application of UAVs, as active aerial base stations (BSs)/relays, is questionable in the fifth-generation (5G) WCNs with quasi-optic millimeter wave (mmWave) and beyond in 6G (visible light) WCNs. Because path loss is h...",
+    "date": "2023-05-19T01:00:23.634Z"
+  },
+  {
+    "articleNumber": "10129159",
+    "articleTitle": "On CSI-Free Multi-Antenna Schemes for Massive Wireless-Powered Underground Sensor Networks",
+    "authors": [
+      "Kaiqiang Lin",
+      "Onel Luis Alcaraz López",
+      "Hirley Alves",
+      "Tong Hao"
+    ],
+    "abstract": "Radio-frequency wireless energy transfer (WET) is a promising technology to realize wireless-powered underground sensor networks (WPUSNs) and enable sustainable underground monitoring. However, due to the severe attenuation in harsh underground soil and the tight energy budget of the underground sensors, traditional WPUSNs relying on the channel state information (CSI) are highly inefficient, espe...",
+    "date": "2023-05-19T01:00:23.634Z"
+  },
+  {
+    "articleNumber": "10129233",
+    "articleTitle": "A Blockchain-based Trust-Value Management Approach for Secure Information Sharing in Internet of Vehicles",
+    "authors": [
+      "Gangxin Du",
+      "Yangjie Cao",
+      "Jie Li",
+      "Yan Zhuang",
+      "Xianfu Chen",
+      "Yibing Li",
+      "Jianhuan Chen"
+    ],
+    "abstract": "Information sharing among vehicles plays a critical role in improving driving safety and traffic loads in Internet of Vehicles (IoV). However, due to the existence of malicious vehicles, information sharing among vehicles lacks a trustworthy environment. It is challenging for a vehicle to assess the credibility of the received information. Blockchain has attracted extensive attention because of th...",
+    "date": "2023-05-19T01:00:23.634Z"
+  },
+  {
+    "articleNumber": "10129149",
+    "articleTitle": "Bandwidth-Delay Product Based ACK Optimization Strategy for QUIC in Wi-Fi Networks",
+    "authors": [
+      "Yang Liu",
+      "Zhaoxian Yang",
+      "Yuxiang Peng",
+      "Ting Bi",
+      "Tao Jiang"
+    ],
+    "abstract": "QUIC has drawn extensive attention in supporting low latency and secure Internet of Things (IoT) communications due to its efficient handshake and default end-to-end encryption. However, in Wi-Fi enabled IoT communications with contentions for shared media, QUIC’s inherent acknowledgment (ACK) policy may induce non-negligible control overhead and limited data throughput. To address the problem, th...",
+    "date": "2023-05-19T01:00:23.634Z"
+  },
+  {
+    "articleNumber": "10129163",
+    "articleTitle": "DRL-Based Secure Aggregation and Resource Orchestration in MEC-Enabled Hierarchical Federated Learning",
+    "authors": [
+      "Tantan Zhao",
+      "Fan Li",
+      "Lijun He"
+    ],
+    "abstract": "Federated learning (FL) provides a new paradigm for protecting data privacy by enabling model training at devices and model aggregation at servers. However, data information may be leaked to honest-but-curious aggregation servers by updated model parameters. The existing secure methods do not fully exploit the potentiality of data characteristics in enhancing security, which makes it impossible to...",
+    "date": "2023-05-19T01:00:23.634Z"
+  },
+  {
+    "articleNumber": "10129193",
+    "articleTitle": "Attention-based Multihead Deep Learning Framework for online activity monitoring with Smartwatch Sensors",
+    "authors": [
+      "Dipanwita Thakur",
+      "Antonella Guzzo",
+      "Giancarlo Fortino"
+    ],
+    "abstract": "The expeditious propagation of Internet of Things (IoT) technologies implanted in different smart devices such as smartphones and smartwatches have a ubiquitous consequence on the modern population. These devices are employed to collect data and to aid in tracking and analyzing the users’ daily activities using various human activity monitoring and recognition (HAR) techniques. However, most curre...",
+    "date": "2023-05-19T01:00:23.634Z"
+  },
+  {
+    "articleNumber": "10129156",
+    "articleTitle": "A Novel Blockchain-Assisted Aggregation Scheme for Federated Learning in IoT Networks",
+    "authors": [
+      "Zhiming Liu",
+      "Kan Zheng",
+      "Lu Hou",
+      "Haojun Yang",
+      "Kan Yang"
+    ],
+    "abstract": "With the wide range of Internet of things (IoT) applications, Federated Learning (FL) is commonly adopted to protect the privacy of IoT data. FL enables privacy-preserving model training while keeping the data locally available. To alleviate the additional load caused by FL, an improved hierarchical aggregation framework is presented in this paper to decentralize the model aggregation tasks based ...",
+    "date": "2023-05-19T01:00:23.634Z"
+  },
+  {
+    "articleNumber": "10129125",
+    "articleTitle": "Intelligent Network Maintenance Modeling for Fixed Broadband Networks in Sustainable Smart Homes",
+    "authors": [
+      "Melchizedek Alipio",
+      "Miroslav Bures"
+    ],
+    "abstract": "Due to the emergence of sustainable smart homes, each smart device requires more bandwidth putting pressure on the existing home networks. A very good solution to ensure high-bandwidth home networks is the Fiber-to-the-Home (FTTH) technology. FTTH delivers high-speed Internet from a central point directly to the home through fiber optic cables. This fixed broadband network can transmit information...",
+    "date": "2023-05-19T01:00:23.634Z"
+  },
+  {
+    "articleNumber": "10129127",
+    "articleTitle": "Accuracy-Security Tradeoff with Balanced Aggregation and Artificial Noise for Wireless Federated Learning",
+    "authors": [
+      "Zhigang Yan",
+      "Dong Li",
+      "Zhichao Zhang",
+      "Jiguang He"
+    ],
+    "abstract": "In federated learning (FL), a number of devices train their local models and upload the corresponding parameters or gradients to the base station (BS) for global model updates. However, the eavesdropper can recover data from parameters or gradients, resulting in data leakage. To defend against eavesdropping attacks, in this paper, we propose an algorithm that divides the transmit power proportiona...",
+    "date": "2023-05-19T01:00:23.634Z"
+  },
+  {
+    "articleNumber": "10129129",
+    "articleTitle": "Towards Resilient Network Slicing for Satellite-Terrestrial Edge Computing IoT",
+    "authors": [
+      "Haitham H. Esmat",
+      "Beatriz Lorenzo",
+      "Weisong Shi"
+    ],
+    "abstract": "Satellite-Terrestrial Edge Computing Networks (STECNs) emerged as a global solution to support multiple Internet of Things (IoT) applications in 6G networks. The enabling technologies to slice STECNs such as Software-Defined Networking (SDN), satellite edge computing, and Network Function Virtualization (NFV) are key to realizing this vision. In this paper, we survey and analyze network slicing so...",
+    "date": "2023-05-19T01:00:23.634Z"
+  },
+  {
     "articleNumber": "10128967",
     "articleTitle": "Trustworthy Sensor Fusion against Inaudible Command Attacks in Advanced Driver-Assistance Systems",
     "authors": [

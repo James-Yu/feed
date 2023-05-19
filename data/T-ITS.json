@@ -1,5 +1,24 @@
 [
   {
+    "articleNumber": "10129128",
+    "articleTitle": "Enhancing the Efficiency of Electric Vehicles Charging Stations Based on Novel Fuzzy Integer Linear Programming",
+    "authors": [
+      "Shahid Hussain",
+      "Reyazur Rashid Irshad",
+      "Fabiano Pallonetto",
+      "Qasim Jan",
+      "Saurabh Shukla",
+      "Subhasis Thakur",
+      "John G. Breslin",
+      "Mousa Marzband",
+      "Yun-Su Kim",
+      "Muhammad Ahmad Rathore",
+      "Hesham El-Sayed"
+    ],
+    "abstract": "The electric vehicles (EVs) charging stations (CSs) at public premises have higher installation and power consumption costs. The potential benefits of public CSs rely on their efficient utilization. However, the conventional charging methods obligate a long waiting time and thereby deteriorate their efficiency with low utilization. This paper suggests a novel fuzzy integer linear programming and a...",
+    "date": "2023-05-19T01:00:10.490Z"
+  },
+  {
     "articleNumber": "10128791",
     "articleTitle": "Microservice-Oriented Service Placement for Mobile Edge Computing in Sustainable Internet of Vehicles",
     "authors": [

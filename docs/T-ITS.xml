@@ -2,11 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/T-ITS.rss</id>
     <title>IEEE Transactions on Intelligent Transportation Systems</title>
-    <updated>2023-05-18T16:14:20.296Z</updated>
+    <updated>2023-05-19T01:00:10.495Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/T-ITS.rss"/>
     <subtitle>IEEE Transactions on Intelligent Transportation Systems</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Enhancing the Efficiency of Electric Vehicles Charging Stations Based on Novel Fuzzy Integer Linear Programming]]></title>
+        <id>https://ieeexplore.ieee.org/document/10129128</id>
+        <link href="https://ieeexplore.ieee.org/document/10129128"/>
+        <updated>2023-05-19T01:00:10.490Z</updated>
+        <summary type="html"><![CDATA[The electric vehicles (EVs) charging stations (CSs) at public premises have higher installation and power consumption costs. The potential benefits of public CSs rely on their efficient utilization. However, the conventional charging methods obligate a long waiting time and thereby deteriorate their efficiency with low utilization. This paper suggests a novel fuzzy integer linear programming and a...]]></summary>
+        <author>
+            <name>Shahid Hussain</name>
+        </author>
+        <author>
+            <name>Reyazur Rashid Irshad</name>
+        </author>
+        <author>
+            <name>Fabiano Pallonetto</name>
+        </author>
+        <author>
+            <name>Qasim Jan</name>
+        </author>
+        <author>
+            <name>Saurabh Shukla</name>
+        </author>
+        <author>
+            <name>Subhasis Thakur</name>
+        </author>
+        <author>
+            <name>John G. Breslin</name>
+        </author>
+        <author>
+            <name>Mousa Marzband</name>
+        </author>
+        <author>
+            <name>Yun-Su Kim</name>
+        </author>
+        <author>
+            <name>Muhammad Ahmad Rathore</name>
+        </author>
+        <author>
+            <name>Hesham El-Sayed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microservice-Oriented Service Placement for Mobile Edge Computing in Sustainable Internet of Vehicles]]></title>
         <id>https://ieeexplore.ieee.org/document/10128791</id>

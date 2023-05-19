@@ -1,5 +1,29 @@
 [
   {
+    "articleNumber": "10129063",
+    "articleTitle": "Extended Morlet Wavelet-Based FIR Phasor Estimation Using Fake Samples",
+    "authors": [
+      "Xin Liu",
+      "Kevin I-Kai Wang",
+      "Nirmal Kumar C Nair"
+    ],
+    "abstract": "The paper proposes an extended Morlet wavelet-based FIR (et-MW-FIR) which can be piled on top of enhanced MW-FIR (e-MW-FIR) to further improve the overall estimation accuracy. Moreover, by integrating the extended algorithm block, the wavelet parameter selection range is enlarged. In this case, as one application of the proposed method, the paper also introduces a fully compliant P-class estimator...",
+    "date": "2023-05-19T01:00:28.371Z"
+  },
+  {
+    "articleNumber": "10129091",
+    "articleTitle": "Root Cause Identification of Industrial Alarm Floods Using Word Embedding and Few-Shot Learning",
+    "authors": [
+      "Wenkai Hu",
+      "Guang Yang",
+      "Yupeng Li",
+      "Weihui Cao",
+      "Min Wu"
+    ],
+    "abstract": "Alarm systems are commonly deployed in modern industrial facilities to monitor process operations. However, due to the presence of nuisance alarms and alarm floods, their efficiencies are much degraded. Especially, alarm floods are among the most difficult issues in industrial alarm management and recognised as the main causes of many industrial accidents. To address alarm floods, this paper propo...",
+    "date": "2023-05-19T01:00:28.371Z"
+  },
+  {
     "articleNumber": "10128726",
     "articleTitle": "An Optimized Model Predictive Control Method With Fixed Switching Frequency for Eliminating Common-Mode Voltage of Five-Level Converters",
     "authors": [

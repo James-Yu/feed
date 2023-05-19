@@ -2,11 +2,83 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/TPAMI.rss</id>
     <title>IEEE Transactions on Pattern Analysis and Machine Intelligence</title>
-    <updated>2023-05-18T16:14:29.918Z</updated>
+    <updated>2023-05-19T01:00:19.516Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/TPAMI.rss"/>
     <subtitle>IEEE Transactions on Pattern Analysis and Machine Intelligence</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Multiple Instance Differentiation Learning for Active Object Detection]]></title>
+        <id>https://ieeexplore.ieee.org/document/10129096</id>
+        <link href="https://ieeexplore.ieee.org/document/10129096"/>
+        <updated>2023-05-19T01:00:19.511Z</updated>
+        <summary type="html"><![CDATA[Despite the substantial progress of active learning for image recognition, there lacks a systematic investigation of instance-level active learning for object detection. In this paper, we propose to unify instance uncertainty calculation with image uncertainty estimation for informative image selection, creating a multiple instance differentiation learning (MIDL) method for instance-level active l...]]></summary>
+        <author>
+            <name>Fang Wan</name>
+        </author>
+        <author>
+            <name>Qixiang Ye</name>
+        </author>
+        <author>
+            <name>Tianning Yuan</name>
+        </author>
+        <author>
+            <name>Songcen Xu</name>
+        </author>
+        <author>
+            <name>Jianzhuang Liu</name>
+        </author>
+        <author>
+            <name>Xiangyang Ji</name>
+        </author>
+        <author>
+            <name>Qingming Huang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Survey on Non-Autoregressive Generation for Neural Machine Translation and Beyond]]></title>
+        <id>https://ieeexplore.ieee.org/document/10129160</id>
+        <link href="https://ieeexplore.ieee.org/document/10129160"/>
+        <updated>2023-05-19T01:00:19.511Z</updated>
+        <summary type="html"><![CDATA[Non-autoregressive (NAR) generation, which is first proposed in neural machine translation (NMT) to speed up inference, has attracted much attention in both machine learning and natural language processing communities. While NAR generation can significantly accelerate inference speed for machine translation, the speedup comes at the cost of sacrificed translation accuracy compared to its counterpa...]]></summary>
+        <author>
+            <name>Yisheng Xiao</name>
+        </author>
+        <author>
+            <name>Lijun Wu</name>
+        </author>
+        <author>
+            <name>Junliang Guo</name>
+        </author>
+        <author>
+            <name>Juntao Li</name>
+        </author>
+        <author>
+            <name>Min Zhang</name>
+        </author>
+        <author>
+            <name>Tao Qin</name>
+        </author>
+        <author>
+            <name>Tie-Yan Liu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Large-scale Clustering with Structured Optimal Bipartite Graph]]></title>
+        <id>https://ieeexplore.ieee.org/document/10129060</id>
+        <link href="https://ieeexplore.ieee.org/document/10129060"/>
+        <updated>2023-05-19T01:00:19.511Z</updated>
+        <summary type="html"><![CDATA[The widespread arising of data size gives rise to the necessity of undertaking large-scale data clustering tasks. To do so, the bipartite graph theory is frequently applied to design a scalable algorithm, which depicts the relations between samples and a few anchors, instead of binding pairwise samples. However, the bipartite graphs and existing spectral embedding methods ignore the explicit clust...]]></summary>
+        <author>
+            <name>Han Zhang</name>
+        </author>
+        <author>
+            <name>Feiping Nie</name>
+        </author>
+        <author>
+            <name>Xuelong Li</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Perceptual Measure for Deep Single Image Camera and Lens Calibration]]></title>
         <id>https://ieeexplore.ieee.org/document/10128718</id>

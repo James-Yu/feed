@@ -2,11 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/TKDE.rss</id>
     <title>IEEE Transactions on Knowledge and Data Engineering</title>
-    <updated>2023-05-18T16:14:24.703Z</updated>
+    <updated>2023-05-19T01:00:15.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/TKDE.rss"/>
     <subtitle>IEEE Transactions on Knowledge and Data Engineering</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[HANM: Hierarchical Additive Noise Model for Many-to-One Causality Discovery]]></title>
+        <id>https://ieeexplore.ieee.org/document/10129050</id>
+        <link href="https://ieeexplore.ieee.org/document/10129050"/>
+        <updated>2023-05-19T01:00:14.996Z</updated>
+        <summary type="html"><![CDATA[Discovering causal relationships among observed variables is a new research focus in the area of data mining. Methods based on the additive noise model have been proved to be efficient in the identification of cause-effect pairs. However, when trying to determine many-to-one causality, additive noise models often fail to identify the causal direction due to the complex interrelationships and inter...]]></summary>
+        <author>
+            <name>Boxiang Zhao</name>
+        </author>
+        <author>
+            <name>Shuliang Wang</name>
+        </author>
+        <author>
+            <name>Lianhua Chi</name>
+        </author>
+        <author>
+            <name>Chuanfeng Zhao</name>
+        </author>
+        <author>
+            <name>Hanning Yuan</name>
+        </author>
+        <author>
+            <name>Qi Li</name>
+        </author>
+        <author>
+            <name>Xiaojia Liu</name>
+        </author>
+        <author>
+            <name>Jing Geng</name>
+        </author>
+        <author>
+            <name>Ye Yuan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Inconsistent Matters: A Knowledge-guided Dual-consistency Network for Multi-modal Rumor Detection]]></title>
         <id>https://ieeexplore.ieee.org/document/10123962</id>

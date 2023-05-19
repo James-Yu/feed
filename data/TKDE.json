@@ -1,5 +1,22 @@
 [
   {
+    "articleNumber": "10129050",
+    "articleTitle": "HANM: Hierarchical Additive Noise Model for Many-to-One Causality Discovery",
+    "authors": [
+      "Boxiang Zhao",
+      "Shuliang Wang",
+      "Lianhua Chi",
+      "Chuanfeng Zhao",
+      "Hanning Yuan",
+      "Qi Li",
+      "Xiaojia Liu",
+      "Jing Geng",
+      "Ye Yuan"
+    ],
+    "abstract": "Discovering causal relationships among observed variables is a new research focus in the area of data mining. Methods based on the additive noise model have been proved to be efficient in the identification of cause-effect pairs. However, when trying to determine many-to-one causality, additive noise models often fail to identify the causal direction due to the complex interrelationships and inter...",
+    "date": "2023-05-19T01:00:14.996Z"
+  },
+  {
     "articleNumber": "10123962",
     "articleTitle": "Inconsistent Matters: A Knowledge-guided Dual-consistency Network for Multi-modal Rumor Detection",
     "authors": [
