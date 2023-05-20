@@ -1,5 +1,117 @@
 [
   {
+    "articleNumber": "10130091",
+    "articleTitle": "RME-GAN: A Learning Framework for Radio Map Estimation based on Conditional Generative Adversarial Network",
+    "authors": [
+      "Songyang Zhang",
+      "Achintha Wijesinghe",
+      "Zhi Ding"
+    ],
+    "abstract": "Outdoor radio coverage map estimation is an important tool for network planning and resource management in modern Internet of Things (IoT) and cellular systems. A radio map spatially describes radio signal strength distribution and provides network coverage information. A practical problem is to estimate fine-resolution radio maps from sparse radio strength measurements. However, non-uniformly pos...",
+    "date": "2023-05-20T00:57:54.492Z"
+  },
+  {
+    "articleNumber": "10130072",
+    "articleTitle": "A Survey on Fingerprinting Technologies for Smartphones based on Embedded Transducers",
+    "authors": [
+      "Adriana Berdich",
+      "Bogdan Groza",
+      "René Mayrhofer"
+    ],
+    "abstract": "Smartphones are a vital technology, they improve our social interactions, provide us a great deal of information and bring forth the means to control various emerging technologies, like the numerous IoT devices that are controlled via smartphone apps. In this context, smartphone fingerprinting from sensor characteristics is a topic of high interest not only due to privacy implications or potential...",
+    "date": "2023-05-20T00:57:54.492Z"
+  },
+  {
+    "articleNumber": "10130012",
+    "articleTitle": "A Random Access Scheme for Federated Learning over Massive MIMO Systems",
+    "authors": [
+      "Huimei Han",
+      "Jun Zhao",
+      "Xinyu Zhou"
+    ],
+    "abstract": "In this paper, we present a random access (RA) scheme for federated learning (FL) over massive multiple-input multiple-output (MIMO) systems to tackle the issue of some local devices not being able to compute their local models. This scheme adopts a multi-channel model and allows devices to randomly select their uploading channels, and then the base station (BS) aggregates the local models receive...",
+    "date": "2023-05-20T00:57:54.492Z"
+  },
+  {
+    "articleNumber": "10130088",
+    "articleTitle": "UAV path planning for target coverage task in dynamic environment",
+    "authors": [
+      "Jing Li",
+      "Yonghua Xiong",
+      "Jinhua She"
+    ],
+    "abstract": "Exploiting the possibility of an unmanned aerial vehicle (UAV) as a powerful tool for the Internet of Things applications, such as intelligent agricultural monitoring, intelligent transportation monitoring, etc., has gradually become a hot research topic at home and abroad. While some optimization algorithms have been devised to plan the flight route of UAVs, there are still some problems with the...",
+    "date": "2023-05-20T00:57:54.492Z"
+  },
+  {
+    "articleNumber": "10130095",
+    "articleTitle": "Physical Layer Security for Intelligent Reflecting Surface aided Wireless Powered Communication",
+    "authors": [
+      "Kunrui Cao",
+      "Haiyang Ding",
+      "Lu Lv",
+      "Zhou Su",
+      "Jing Tao",
+      "Fengkui Gong",
+      "Buhong Wang"
+    ],
+    "abstract": "This paper investigates physical layer security (PLS) of a typical wireless powered communication (WPC) system with the aid of intelligent reflecting surface (IRS) in the presence of a passive eavesdropper for Internet of Things (IoT), and proposes three IRS aided secure WPC modes. Specifically, in mode-I, the IRS is deployed between hybrid access point (HAP) and wireless user (U) for co-located p...",
+    "date": "2023-05-20T00:57:54.492Z"
+  },
+  {
+    "articleNumber": "10130078",
+    "articleTitle": "Machine Learning-Based Human Motion Recognition via Wearable plastic Fiber Sensing System",
+    "authors": [
+      "Shuang Wang",
+      "Bin Liu",
+      "Yu-Lin Wang",
+      "Yingying Hu",
+      "Juan Liu",
+      "Xing-Dao He",
+      "Jinhui Yuan",
+      "Qiang Wu"
+    ],
+    "abstract": "Wearable Human Machine Interface (HMI) is a medium for information transmission and exchange between people and computers. It is widely used in the fields of human motion capture and recognition and augmented/virtual reality (AR/VR). This research proposes a wearable plastic optical fiber (POF) sensing system based on machine learning for human motion recognition. The wearable sports sleeve is des...",
+    "date": "2023-05-20T00:57:54.492Z"
+  },
+  {
+    "articleNumber": "10130090",
+    "articleTitle": "A Parallel Processing CNN Accelerator on Embedded Devices Based on Optimized MobileNet",
+    "authors": [
+      "Dingkun Yang",
+      "Zhiyong Luo"
+    ],
+    "abstract": "In the field of machine vision and pattern recognition, the convolutional neural network (CNN) is one of the hottest research topics. However, the application of CNN, which requires complicated operations, appears to be exceptionally difficult in resource-constrained embedded devices. In this paper, a parallel processing CNN accelerator based on optimized MobileNet is presented. By modifying the f...",
+    "date": "2023-05-20T00:57:54.492Z"
+  },
+  {
+    "articleNumber": "10130089",
+    "articleTitle": "Robust Hybrid Transceiver Designs for Linear Decentralized Estimation in mmWave MIMO IoT Networks in the Face of Imperfect CSI",
+    "authors": [
+      "Priyanka Maity",
+      "Kunwar Pritiraj Rajput",
+      "Suraj Srivastava",
+      "Naveen K. D. Venkategowda",
+      "Aditya K. Jagannatham",
+      "Lajos Hanzo"
+    ],
+    "abstract": "Hybrid transceivers are designed for linear decentralized estimation (LDE) in a mmWave multiple-input multiple-output (MIMO) IoT network (IoTNe). For a noiseless fusion center (FC), it is demonstrated that the MSE performance is determined by the number of RF chains used at each IoT node (IoTNo). Next, the minimum-MSE RF transmit precoders (TPCs) and receiver combiner (RC) matrices are designed fo...",
+    "date": "2023-05-20T00:57:54.492Z"
+  },
+  {
+    "articleNumber": "10130092",
+    "articleTitle": "Blockchain for Intelligent Transportation Systems: Applications, Challenges, and Opportunities",
+    "authors": [
+      "Debashis Das",
+      "Sourav Banerjee",
+      "Pushpita Chatterjee",
+      "Uttam Ghosh",
+      "Utpal Biswas"
+    ],
+    "abstract": "Blockchain technology has the potential to revolutionize the way Intelligent Transportation Systems (ITS) operate in smart cities. By providing a secure and decentralized platform for data exchange and storage, blockchain can enhance the security, privacy, and interoperability of ITS systems. Blockchain technology can be used for various applications in ITS, including secure data exchange between ...",
+    "date": "2023-05-20T00:57:54.492Z"
+  },
+  {
     "articleNumber": "10129152",
     "articleTitle": "Soft Actor-Critic-Based Computation Offloading in Multi-User MEC-Enabled IoT—A Lifetime Maximization Perspective",
     "authors": [

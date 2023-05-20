@@ -1,5 +1,90 @@
 [
   {
+    "articleNumber": "10129883",
+    "articleTitle": "OneSketch: A Generic and Accurate Sketch for Data Streams",
+    "authors": [
+      "Zhuochen Fan",
+      "Ruixin Wang",
+      "Yalun Cai",
+      "Ruwen Zhang",
+      "Tong Yang",
+      "Yuhan Wu",
+      "Bin Cui",
+      "Steve Uhlig"
+    ],
+    "abstract": "In this paper, we propose a generic sketch algorithm capable of achieving more accuracy in the following five tasks: finding top-$k$ frequent items, finding heavy hitters, per-item frequency estimation, and heavy changes in the time and spatial dimension. The state-of-the-art (SOTA) sketch solution for multiple measurement tasks is ElasticSketch (ES). However, the accuracy of its frequency estimat...",
+    "date": "2023-05-20T00:57:44.985Z"
+  },
+  {
+    "articleNumber": "10129912",
+    "articleTitle": "Channel Attention for Sensor-based Activity Recognition: Embedding Features into All Frequencies in DCT Domain",
+    "authors": [
+      "Shige Xu",
+      "Lei Zhang",
+      "Yin Tang",
+      "Chaolei Han",
+      "Hao Wu",
+      "Aiguo Song"
+    ],
+    "abstract": "During recent years, channel attention has attracted great interest in deep learning community. Despite significant success, it has been rarely exploited in ubiquitous human activity recognition (HAR) scenario. To decrease computational overhead, the channel attention often uses global averaging pooling (GAP) to compress each channel into a simple scalar. It is well known that GAP is equal to the ...",
+    "date": "2023-05-20T00:57:44.985Z"
+  },
+  {
+    "articleNumber": "10129851",
+    "articleTitle": "TERL: Two-Stage Ensemble Reinforcement Learning Paradigm for Large-Scale Decentralized Decision Making in Transportation Simulation",
+    "authors": [
+      "Ziyuan Gu",
+      "Xun Yang",
+      "Qi Zhang",
+      "Wenwu Yu",
+      "Zhiyuan Liu"
+    ],
+    "abstract": "Transportation simulation is non-trivial due to the co-existence of thousands of heterogeneous decision makers (or vehicles). Such large-scale decision making is intrinsically a complex decentralized problem, the resolution of which is at the forefront of transportation simulation. Despite many physical or mathematical models proposed to date, underlying them is usually a set of universal rules pl...",
+    "date": "2023-05-20T00:57:44.985Z"
+  },
+  {
+    "articleNumber": "10129886",
+    "articleTitle": "CT-Auth: Capacitive Touchscreen-Based Continuous Authentication on Smartphones",
+    "authors": [
+      "Zhihao Shen",
+      "Shun Li",
+      "Xi Zhao",
+      "Jianhua Zou"
+    ],
+    "abstract": "Continuous authentication, which provides identity verification using behavioral biometrics in an implicit and transparent manner, has shown potentials for protecting privacy. As the most common way of human-computer interaction, touch behavior pattern of each user has been proven distinctive and widely adopted for continuous authentication. However, most touch based solutions rely on the touchscr...",
+    "date": "2023-05-20T00:57:44.985Z"
+  },
+  {
+    "articleNumber": "10129870",
+    "articleTitle": "Efficiently Supporting Multi-Level Serializability in Decentralized Database Systems",
+    "authors": [
+      "Zhanhao Zhao",
+      "Hongyao Zhao",
+      "Qiyu Zhuang",
+      "Wei Lu",
+      "Haixiang Li",
+      "Meihui Zhang",
+      "Anqun Pan",
+      "Xiaoyong Du"
+    ],
+    "abstract": "In decentralized database systems, it is reported that serializability could still produce unexpected transaction orderings, leading to the stale read anomaly. To eliminate this anomaly, strict serializability imposes an additional ordering constraint, called the real-time order, which is required to be preserved among serializable transactions. Yet, preserving the real-time order in strict serial...",
+    "date": "2023-05-20T00:57:44.985Z"
+  },
+  {
+    "articleNumber": "10129914",
+    "articleTitle": "MSDS: A Novel Framework for Multi-Source Data Selection Based Cross-Network Node Classification",
+    "authors": [
+      "Hui He",
+      "Hongwei Yang",
+      "Weizhe Zhang",
+      "Yan Wang",
+      "Zhaonian Zou",
+      "Tao Li"
+    ],
+    "abstract": "In this paper, we study the problem of multi-source cross-network node classification, which aims to classify unlabeled nodes in a target network by leveraging the knowledge learned from the rich labeled nodes in multiple source networks. The existing multi-source transfer learning approaches generally fail to model the structural information of networks, and the current cross-network node classif...",
+    "date": "2023-05-20T00:57:44.985Z"
+  },
+  {
     "articleNumber": "10129050",
     "articleTitle": "HANM: Hierarchical Additive Noise Model for Many-to-One Causality Discovery",
     "authors": [

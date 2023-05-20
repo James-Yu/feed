@@ -2,11 +2,194 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/IoTJ.rss</id>
     <title>IEEE Internet of Things Journal</title>
-    <updated>2023-05-19T16:14:31.237Z</updated>
+    <updated>2023-05-20T00:57:54.498Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/IoTJ.rss"/>
     <subtitle>IEEE Internet of Things Journal</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[RME-GAN: A Learning Framework for Radio Map Estimation based on Conditional Generative Adversarial Network]]></title>
+        <id>https://ieeexplore.ieee.org/document/10130091</id>
+        <link href="https://ieeexplore.ieee.org/document/10130091"/>
+        <updated>2023-05-20T00:57:54.492Z</updated>
+        <summary type="html"><![CDATA[Outdoor radio coverage map estimation is an important tool for network planning and resource management in modern Internet of Things (IoT) and cellular systems. A radio map spatially describes radio signal strength distribution and provides network coverage information. A practical problem is to estimate fine-resolution radio maps from sparse radio strength measurements. However, non-uniformly pos...]]></summary>
+        <author>
+            <name>Songyang Zhang</name>
+        </author>
+        <author>
+            <name>Achintha Wijesinghe</name>
+        </author>
+        <author>
+            <name>Zhi Ding</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Survey on Fingerprinting Technologies for Smartphones based on Embedded Transducers]]></title>
+        <id>https://ieeexplore.ieee.org/document/10130072</id>
+        <link href="https://ieeexplore.ieee.org/document/10130072"/>
+        <updated>2023-05-20T00:57:54.492Z</updated>
+        <summary type="html"><![CDATA[Smartphones are a vital technology, they improve our social interactions, provide us a great deal of information and bring forth the means to control various emerging technologies, like the numerous IoT devices that are controlled via smartphone apps. In this context, smartphone fingerprinting from sensor characteristics is a topic of high interest not only due to privacy implications or potential...]]></summary>
+        <author>
+            <name>Adriana Berdich</name>
+        </author>
+        <author>
+            <name>Bogdan Groza</name>
+        </author>
+        <author>
+            <name>René Mayrhofer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Random Access Scheme for Federated Learning over Massive MIMO Systems]]></title>
+        <id>https://ieeexplore.ieee.org/document/10130012</id>
+        <link href="https://ieeexplore.ieee.org/document/10130012"/>
+        <updated>2023-05-20T00:57:54.492Z</updated>
+        <summary type="html"><![CDATA[In this paper, we present a random access (RA) scheme for federated learning (FL) over massive multiple-input multiple-output (MIMO) systems to tackle the issue of some local devices not being able to compute their local models. This scheme adopts a multi-channel model and allows devices to randomly select their uploading channels, and then the base station (BS) aggregates the local models receive...]]></summary>
+        <author>
+            <name>Huimei Han</name>
+        </author>
+        <author>
+            <name>Jun Zhao</name>
+        </author>
+        <author>
+            <name>Xinyu Zhou</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UAV path planning for target coverage task in dynamic environment]]></title>
+        <id>https://ieeexplore.ieee.org/document/10130088</id>
+        <link href="https://ieeexplore.ieee.org/document/10130088"/>
+        <updated>2023-05-20T00:57:54.492Z</updated>
+        <summary type="html"><![CDATA[Exploiting the possibility of an unmanned aerial vehicle (UAV) as a powerful tool for the Internet of Things applications, such as intelligent agricultural monitoring, intelligent transportation monitoring, etc., has gradually become a hot research topic at home and abroad. While some optimization algorithms have been devised to plan the flight route of UAVs, there are still some problems with the...]]></summary>
+        <author>
+            <name>Jing Li</name>
+        </author>
+        <author>
+            <name>Yonghua Xiong</name>
+        </author>
+        <author>
+            <name>Jinhua She</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Physical Layer Security for Intelligent Reflecting Surface aided Wireless Powered Communication]]></title>
+        <id>https://ieeexplore.ieee.org/document/10130095</id>
+        <link href="https://ieeexplore.ieee.org/document/10130095"/>
+        <updated>2023-05-20T00:57:54.492Z</updated>
+        <summary type="html"><![CDATA[This paper investigates physical layer security (PLS) of a typical wireless powered communication (WPC) system with the aid of intelligent reflecting surface (IRS) in the presence of a passive eavesdropper for Internet of Things (IoT), and proposes three IRS aided secure WPC modes. Specifically, in mode-I, the IRS is deployed between hybrid access point (HAP) and wireless user (U) for co-located p...]]></summary>
+        <author>
+            <name>Kunrui Cao</name>
+        </author>
+        <author>
+            <name>Haiyang Ding</name>
+        </author>
+        <author>
+            <name>Lu Lv</name>
+        </author>
+        <author>
+            <name>Zhou Su</name>
+        </author>
+        <author>
+            <name>Jing Tao</name>
+        </author>
+        <author>
+            <name>Fengkui Gong</name>
+        </author>
+        <author>
+            <name>Buhong Wang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Machine Learning-Based Human Motion Recognition via Wearable plastic Fiber Sensing System]]></title>
+        <id>https://ieeexplore.ieee.org/document/10130078</id>
+        <link href="https://ieeexplore.ieee.org/document/10130078"/>
+        <updated>2023-05-20T00:57:54.492Z</updated>
+        <summary type="html"><![CDATA[Wearable Human Machine Interface (HMI) is a medium for information transmission and exchange between people and computers. It is widely used in the fields of human motion capture and recognition and augmented/virtual reality (AR/VR). This research proposes a wearable plastic optical fiber (POF) sensing system based on machine learning for human motion recognition. The wearable sports sleeve is des...]]></summary>
+        <author>
+            <name>Shuang Wang</name>
+        </author>
+        <author>
+            <name>Bin Liu</name>
+        </author>
+        <author>
+            <name>Yu-Lin Wang</name>
+        </author>
+        <author>
+            <name>Yingying Hu</name>
+        </author>
+        <author>
+            <name>Juan Liu</name>
+        </author>
+        <author>
+            <name>Xing-Dao He</name>
+        </author>
+        <author>
+            <name>Jinhui Yuan</name>
+        </author>
+        <author>
+            <name>Qiang Wu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Parallel Processing CNN Accelerator on Embedded Devices Based on Optimized MobileNet]]></title>
+        <id>https://ieeexplore.ieee.org/document/10130090</id>
+        <link href="https://ieeexplore.ieee.org/document/10130090"/>
+        <updated>2023-05-20T00:57:54.492Z</updated>
+        <summary type="html"><![CDATA[In the field of machine vision and pattern recognition, the convolutional neural network (CNN) is one of the hottest research topics. However, the application of CNN, which requires complicated operations, appears to be exceptionally difficult in resource-constrained embedded devices. In this paper, a parallel processing CNN accelerator based on optimized MobileNet is presented. By modifying the f...]]></summary>
+        <author>
+            <name>Dingkun Yang</name>
+        </author>
+        <author>
+            <name>Zhiyong Luo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Robust Hybrid Transceiver Designs for Linear Decentralized Estimation in mmWave MIMO IoT Networks in the Face of Imperfect CSI]]></title>
+        <id>https://ieeexplore.ieee.org/document/10130089</id>
+        <link href="https://ieeexplore.ieee.org/document/10130089"/>
+        <updated>2023-05-20T00:57:54.492Z</updated>
+        <summary type="html"><![CDATA[Hybrid transceivers are designed for linear decentralized estimation (LDE) in a mmWave multiple-input multiple-output (MIMO) IoT network (IoTNe). For a noiseless fusion center (FC), it is demonstrated that the MSE performance is determined by the number of RF chains used at each IoT node (IoTNo). Next, the minimum-MSE RF transmit precoders (TPCs) and receiver combiner (RC) matrices are designed fo...]]></summary>
+        <author>
+            <name>Priyanka Maity</name>
+        </author>
+        <author>
+            <name>Kunwar Pritiraj Rajput</name>
+        </author>
+        <author>
+            <name>Suraj Srivastava</name>
+        </author>
+        <author>
+            <name>Naveen K. D. Venkategowda</name>
+        </author>
+        <author>
+            <name>Aditya K. Jagannatham</name>
+        </author>
+        <author>
+            <name>Lajos Hanzo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blockchain for Intelligent Transportation Systems: Applications, Challenges, and Opportunities]]></title>
+        <id>https://ieeexplore.ieee.org/document/10130092</id>
+        <link href="https://ieeexplore.ieee.org/document/10130092"/>
+        <updated>2023-05-20T00:57:54.492Z</updated>
+        <summary type="html"><![CDATA[Blockchain technology has the potential to revolutionize the way Intelligent Transportation Systems (ITS) operate in smart cities. By providing a secure and decentralized platform for data exchange and storage, blockchain can enhance the security, privacy, and interoperability of ITS systems. Blockchain technology can be used for various applications in ITS, including secure data exchange between ...]]></summary>
+        <author>
+            <name>Debashis Das</name>
+        </author>
+        <author>
+            <name>Sourav Banerjee</name>
+        </author>
+        <author>
+            <name>Pushpita Chatterjee</name>
+        </author>
+        <author>
+            <name>Uttam Ghosh</name>
+        </author>
+        <author>
+            <name>Utpal Biswas</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Soft Actor-Critic-Based Computation Offloading in Multi-User MEC-Enabled IoT—A Lifetime Maximization Perspective]]></title>
         <id>https://ieeexplore.ieee.org/document/10129152</id>

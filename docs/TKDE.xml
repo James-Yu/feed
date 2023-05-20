@@ -2,11 +2,164 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/TKDE.rss</id>
     <title>IEEE Transactions on Knowledge and Data Engineering</title>
-    <updated>2023-05-19T16:14:21.346Z</updated>
+    <updated>2023-05-20T00:57:44.991Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/TKDE.rss"/>
     <subtitle>IEEE Transactions on Knowledge and Data Engineering</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[OneSketch: A Generic and Accurate Sketch for Data Streams]]></title>
+        <id>https://ieeexplore.ieee.org/document/10129883</id>
+        <link href="https://ieeexplore.ieee.org/document/10129883"/>
+        <updated>2023-05-20T00:57:44.985Z</updated>
+        <summary type="html"><![CDATA[In this paper, we propose a generic sketch algorithm capable of achieving more accuracy in the following five tasks: finding top-$k$ frequent items, finding heavy hitters, per-item frequency estimation, and heavy changes in the time and spatial dimension. The state-of-the-art (SOTA) sketch solution for multiple measurement tasks is ElasticSketch (ES). However, the accuracy of its frequency estimat...]]></summary>
+        <author>
+            <name>Zhuochen Fan</name>
+        </author>
+        <author>
+            <name>Ruixin Wang</name>
+        </author>
+        <author>
+            <name>Yalun Cai</name>
+        </author>
+        <author>
+            <name>Ruwen Zhang</name>
+        </author>
+        <author>
+            <name>Tong Yang</name>
+        </author>
+        <author>
+            <name>Yuhan Wu</name>
+        </author>
+        <author>
+            <name>Bin Cui</name>
+        </author>
+        <author>
+            <name>Steve Uhlig</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Channel Attention for Sensor-based Activity Recognition: Embedding Features into All Frequencies in DCT Domain]]></title>
+        <id>https://ieeexplore.ieee.org/document/10129912</id>
+        <link href="https://ieeexplore.ieee.org/document/10129912"/>
+        <updated>2023-05-20T00:57:44.985Z</updated>
+        <summary type="html"><![CDATA[During recent years, channel attention has attracted great interest in deep learning community. Despite significant success, it has been rarely exploited in ubiquitous human activity recognition (HAR) scenario. To decrease computational overhead, the channel attention often uses global averaging pooling (GAP) to compress each channel into a simple scalar. It is well known that GAP is equal to the ...]]></summary>
+        <author>
+            <name>Shige Xu</name>
+        </author>
+        <author>
+            <name>Lei Zhang</name>
+        </author>
+        <author>
+            <name>Yin Tang</name>
+        </author>
+        <author>
+            <name>Chaolei Han</name>
+        </author>
+        <author>
+            <name>Hao Wu</name>
+        </author>
+        <author>
+            <name>Aiguo Song</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TERL: Two-Stage Ensemble Reinforcement Learning Paradigm for Large-Scale Decentralized Decision Making in Transportation Simulation]]></title>
+        <id>https://ieeexplore.ieee.org/document/10129851</id>
+        <link href="https://ieeexplore.ieee.org/document/10129851"/>
+        <updated>2023-05-20T00:57:44.985Z</updated>
+        <summary type="html"><![CDATA[Transportation simulation is non-trivial due to the co-existence of thousands of heterogeneous decision makers (or vehicles). Such large-scale decision making is intrinsically a complex decentralized problem, the resolution of which is at the forefront of transportation simulation. Despite many physical or mathematical models proposed to date, underlying them is usually a set of universal rules pl...]]></summary>
+        <author>
+            <name>Ziyuan Gu</name>
+        </author>
+        <author>
+            <name>Xun Yang</name>
+        </author>
+        <author>
+            <name>Qi Zhang</name>
+        </author>
+        <author>
+            <name>Wenwu Yu</name>
+        </author>
+        <author>
+            <name>Zhiyuan Liu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CT-Auth: Capacitive Touchscreen-Based Continuous Authentication on Smartphones]]></title>
+        <id>https://ieeexplore.ieee.org/document/10129886</id>
+        <link href="https://ieeexplore.ieee.org/document/10129886"/>
+        <updated>2023-05-20T00:57:44.985Z</updated>
+        <summary type="html"><![CDATA[Continuous authentication, which provides identity verification using behavioral biometrics in an implicit and transparent manner, has shown potentials for protecting privacy. As the most common way of human-computer interaction, touch behavior pattern of each user has been proven distinctive and widely adopted for continuous authentication. However, most touch based solutions rely on the touchscr...]]></summary>
+        <author>
+            <name>Zhihao Shen</name>
+        </author>
+        <author>
+            <name>Shun Li</name>
+        </author>
+        <author>
+            <name>Xi Zhao</name>
+        </author>
+        <author>
+            <name>Jianhua Zou</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Efficiently Supporting Multi-Level Serializability in Decentralized Database Systems]]></title>
+        <id>https://ieeexplore.ieee.org/document/10129870</id>
+        <link href="https://ieeexplore.ieee.org/document/10129870"/>
+        <updated>2023-05-20T00:57:44.985Z</updated>
+        <summary type="html"><![CDATA[In decentralized database systems, it is reported that serializability could still produce unexpected transaction orderings, leading to the stale read anomaly. To eliminate this anomaly, strict serializability imposes an additional ordering constraint, called the real-time order, which is required to be preserved among serializable transactions. Yet, preserving the real-time order in strict serial...]]></summary>
+        <author>
+            <name>Zhanhao Zhao</name>
+        </author>
+        <author>
+            <name>Hongyao Zhao</name>
+        </author>
+        <author>
+            <name>Qiyu Zhuang</name>
+        </author>
+        <author>
+            <name>Wei Lu</name>
+        </author>
+        <author>
+            <name>Haixiang Li</name>
+        </author>
+        <author>
+            <name>Meihui Zhang</name>
+        </author>
+        <author>
+            <name>Anqun Pan</name>
+        </author>
+        <author>
+            <name>Xiaoyong Du</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MSDS: A Novel Framework for Multi-Source Data Selection Based Cross-Network Node Classification]]></title>
+        <id>https://ieeexplore.ieee.org/document/10129914</id>
+        <link href="https://ieeexplore.ieee.org/document/10129914"/>
+        <updated>2023-05-20T00:57:44.985Z</updated>
+        <summary type="html"><![CDATA[In this paper, we study the problem of multi-source cross-network node classification, which aims to classify unlabeled nodes in a target network by leveraging the knowledge learned from the rich labeled nodes in multiple source networks. The existing multi-source transfer learning approaches generally fail to model the structural information of networks, and the current cross-network node classif...]]></summary>
+        <author>
+            <name>Hui He</name>
+        </author>
+        <author>
+            <name>Hongwei Yang</name>
+        </author>
+        <author>
+            <name>Weizhe Zhang</name>
+        </author>
+        <author>
+            <name>Yan Wang</name>
+        </author>
+        <author>
+            <name>Zhaonian Zou</name>
+        </author>
+        <author>
+            <name>Tao Li</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HANM: Hierarchical Additive Noise Model for Many-to-One Causality Discovery]]></title>
         <id>https://ieeexplore.ieee.org/document/10129050</id>
