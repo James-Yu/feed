@@ -1,5 +1,36 @@
 [
   {
+    "articleNumber": "10130479",
+    "articleTitle": "Data-Driven Spatial Adaptive Terminal Iterative Learning Predictive Control for Automatic Stop Control of Subway Train With Actuator Saturation",
+    "authors": [
+      "Jianmin Zheng",
+      "Zhongsheng Hou"
+    ],
+    "abstract": "A data-driven spatial adaptive terminal iterative learning predictive control (SATILPC) scheme with actuator saturation is proposed for automatic stop control of the subway train. Considering the outstanding repetitive operation pattern and the unavailable accurate model of a subway train, the unknown train dynamics is firstly transformed into a nonlinear discrete form in spatial domain via the sp...",
+    "date": "2023-05-23T01:00:08.651Z"
+  },
+  {
+    "articleNumber": "10130483",
+    "articleTitle": "Composite Control Law for Nonlinear Systems With Mismatched Disturbances for a Ball-Ramp Dual-Clutch Transmission",
+    "authors": [
+      "Dong-Hyun Kim",
+      "Seibum B. Choi"
+    ],
+    "abstract": "The dual-clutch transmission (DCT) was developed to increase the transmission efficiency and the shift performance. However, in a DCT, due to uncertainty related to the actuator, the tie-up phenomenon can arise, in which two clutches engage together or the clutch torque control performance deteriorates. Especially, the actuator uncertainty increased when using a special mechanism to increase contr...",
+    "date": "2023-05-23T01:00:08.651Z"
+  },
+  {
+    "articleNumber": "10130476",
+    "articleTitle": "Are Turn-by-Turn Navigation Systems of Regular Vehicles Ready for Edge-Assisted Autonomous Vehicles?",
+    "authors": [
+      "Syeda Tanjila Atik",
+      "Marco Brocanelli",
+      "Daniel Grosu"
+    ],
+    "abstract": "Private and public transportation will be dominated by Autonomous Vehicles (AV), which are safer than regular vehicles. However, ensuring good performance for the autonomous features requires fast processing of heavy tasks. Providing each AV with powerful computing resources may result in increased AV cost and decreased driving range. An alternative solution is to install low-power computing hardw...",
+    "date": "2023-05-23T01:00:08.651Z"
+  },
+  {
     "articleNumber": "10129128",
     "articleTitle": "Enhancing the Efficiency of Electric Vehicles Charging Stations Based on Novel Fuzzy Integer Linear Programming",
     "authors": [

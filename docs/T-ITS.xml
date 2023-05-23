@@ -2,11 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/T-ITS.rss</id>
     <title>IEEE Transactions on Intelligent Transportation Systems</title>
-    <updated>2023-05-22T16:14:21.925Z</updated>
+    <updated>2023-05-23T01:00:08.656Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/T-ITS.rss"/>
     <subtitle>IEEE Transactions on Intelligent Transportation Systems</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Data-Driven Spatial Adaptive Terminal Iterative Learning Predictive Control for Automatic Stop Control of Subway Train With Actuator Saturation]]></title>
+        <id>https://ieeexplore.ieee.org/document/10130479</id>
+        <link href="https://ieeexplore.ieee.org/document/10130479"/>
+        <updated>2023-05-23T01:00:08.651Z</updated>
+        <summary type="html"><![CDATA[A data-driven spatial adaptive terminal iterative learning predictive control (SATILPC) scheme with actuator saturation is proposed for automatic stop control of the subway train. Considering the outstanding repetitive operation pattern and the unavailable accurate model of a subway train, the unknown train dynamics is firstly transformed into a nonlinear discrete form in spatial domain via the sp...]]></summary>
+        <author>
+            <name>Jianmin Zheng</name>
+        </author>
+        <author>
+            <name>Zhongsheng Hou</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Composite Control Law for Nonlinear Systems With Mismatched Disturbances for a Ball-Ramp Dual-Clutch Transmission]]></title>
+        <id>https://ieeexplore.ieee.org/document/10130483</id>
+        <link href="https://ieeexplore.ieee.org/document/10130483"/>
+        <updated>2023-05-23T01:00:08.651Z</updated>
+        <summary type="html"><![CDATA[The dual-clutch transmission (DCT) was developed to increase the transmission efficiency and the shift performance. However, in a DCT, due to uncertainty related to the actuator, the tie-up phenomenon can arise, in which two clutches engage together or the clutch torque control performance deteriorates. Especially, the actuator uncertainty increased when using a special mechanism to increase contr...]]></summary>
+        <author>
+            <name>Dong-Hyun Kim</name>
+        </author>
+        <author>
+            <name>Seibum B. Choi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Are Turn-by-Turn Navigation Systems of Regular Vehicles Ready for Edge-Assisted Autonomous Vehicles?]]></title>
+        <id>https://ieeexplore.ieee.org/document/10130476</id>
+        <link href="https://ieeexplore.ieee.org/document/10130476"/>
+        <updated>2023-05-23T01:00:08.651Z</updated>
+        <summary type="html"><![CDATA[Private and public transportation will be dominated by Autonomous Vehicles (AV), which are safer than regular vehicles. However, ensuring good performance for the autonomous features requires fast processing of heavy tasks. Providing each AV with powerful computing resources may result in increased AV cost and decreased driving range. An alternative solution is to install low-power computing hardw...]]></summary>
+        <author>
+            <name>Syeda Tanjila Atik</name>
+        </author>
+        <author>
+            <name>Marco Brocanelli</name>
+        </author>
+        <author>
+            <name>Daniel Grosu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Enhancing the Efficiency of Electric Vehicles Charging Stations Based on Novel Fuzzy Integer Linear Programming]]></title>
         <id>https://ieeexplore.ieee.org/document/10129128</id>

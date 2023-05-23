@@ -2,11 +2,96 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/TPAMI.rss</id>
     <title>IEEE Transactions on Pattern Analysis and Machine Intelligence</title>
-    <updated>2023-05-22T16:14:34.448Z</updated>
+    <updated>2023-05-23T01:00:18.758Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/TPAMI.rss"/>
     <subtitle>IEEE Transactions on Pattern Analysis and Machine Intelligence</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Ranking-Based Color Constancy With Limited Training Samples]]></title>
+        <id>https://ieeexplore.ieee.org/document/10130607</id>
+        <link href="https://ieeexplore.ieee.org/document/10130607"/>
+        <updated>2023-05-23T01:00:18.753Z</updated>
+        <summary type="html"><![CDATA[Computational color constancy is an important component of Image Signal Processors (ISP) for white balancing in many imaging devices. Recently, deep convolutional neural networks (CNN) have been introduced for color constancy. They achieve prominent performance improvements comparing with those statistics or shallow learning-based methods. However, the need for a large number of training samples, ...]]></summary>
+        <author>
+            <name>Bing Li</name>
+        </author>
+        <author>
+            <name>Haina Qin</name>
+        </author>
+        <author>
+            <name>Weihua Xiong</name>
+        </author>
+        <author>
+            <name>Yangxi Li</name>
+        </author>
+        <author>
+            <name>Songhe Feng</name>
+        </author>
+        <author>
+            <name>Weiming Hu</name>
+        </author>
+        <author>
+            <name>Stephen Maybank</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sensing Diversity and Sparsity Models for Event Generation and Video Reconstruction from Events]]></title>
+        <id>https://ieeexplore.ieee.org/document/10130595</id>
+        <link href="https://ieeexplore.ieee.org/document/10130595"/>
+        <updated>2023-05-23T01:00:18.753Z</updated>
+        <summary type="html"><![CDATA[Events-to-video (E2V) reconstruction and video-to-events (V2E) simulation are two fundamental research topics in event-based vision. Current deep neural networks for E2V reconstruction are usually complex and difficult to interpret. Moreover, existing event simulators are designed to generate realistic events, but research on how to improve the event generation process has been so far limited. In ...]]></summary>
+        <author>
+            <name>Siying Liu</name>
+        </author>
+        <author>
+            <name>Pier Luigi Dragotti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prototype Completion for Few-Shot Learning]]></title>
+        <id>https://ieeexplore.ieee.org/document/10130710</id>
+        <link href="https://ieeexplore.ieee.org/document/10130710"/>
+        <updated>2023-05-23T01:00:18.753Z</updated>
+        <summary type="html"><![CDATA[Few-shot learning (FSL) aims to recognize novel classes with few examples. Pre-training based methods effectively tackle the problem by pre-training a feature extractor and then fine-tuning it through the nearest centroid based meta-learning. However, results show that the fine-tuning step makes marginal improvements. In this paper, 1) we figure out the reason, i.e., in the pre-trained feature spa...]]></summary>
+        <author>
+            <name>Baoquan Zhang</name>
+        </author>
+        <author>
+            <name>Xutao Li</name>
+        </author>
+        <author>
+            <name>Yunming Ye</name>
+        </author>
+        <author>
+            <name>Shanshan Feng</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generalized Parametric Contrastive Learning]]></title>
+        <id>https://ieeexplore.ieee.org/document/10130611</id>
+        <link href="https://ieeexplore.ieee.org/document/10130611"/>
+        <updated>2023-05-23T01:00:18.753Z</updated>
+        <summary type="html"><![CDATA[In this paper, we propose the Generalized Parametric Contrastive Learning (GPaCo/PaCo) which works well on both imbalanced and balanced data. Based on theoretical analysis, we observe supervised contrastive loss tends to bias on high-frequency classes and thus increases the difficulty of imbalanced learning. We introduce a set of parametric class-wise learnable centers to rebalance from an optimiz...]]></summary>
+        <author>
+            <name>Jiequan Cui</name>
+        </author>
+        <author>
+            <name>Zhisheng Zhong</name>
+        </author>
+        <author>
+            <name>Zhuotao Tian</name>
+        </author>
+        <author>
+            <name>Shu Liu</name>
+        </author>
+        <author>
+            <name>Bei Yu</name>
+        </author>
+        <author>
+            <name>Jiaya Jia</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Multiple Instance Differentiation Learning for Active Object Detection]]></title>
         <id>https://ieeexplore.ieee.org/document/10129096</id>

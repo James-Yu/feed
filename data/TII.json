@@ -1,5 +1,30 @@
 [
   {
+    "articleNumber": "10130320",
+    "articleTitle": "UDE-Based Distributed Formation Control for MSVs With Collision Avoidance and Connectivity Preservation",
+    "authors": [
+      "Shude He",
+      "Shi-Lu Dai",
+      "Zhijia Zhao",
+      "Tao Zou",
+      "Yufei Ma"
+    ],
+    "abstract": "Limited computational resource is one of features of the embedded system including unmanned marine surface vehicle (MSV). Under this practical constraint, we aim to develop a distributed formation control algorithm for a group of uncertain MSVs, whose computational burden is low. The uncertainty and disturbance estimator (UDE) is employed to compensate for the modeling uncertainties, the unknown e...",
+    "date": "2023-05-23T01:00:27.890Z"
+  },
+  {
+    "articleNumber": "10130585",
+    "articleTitle": "Adaptive Critic Control Design With Knowledge Transfer for Wastewater Treatment Applications",
+    "authors": [
+      "Ding Wang",
+      "Xin Li",
+      "Mingming Zhao",
+      "Junfei Qiao"
+    ],
+    "abstract": "The wastewater treatment process (WWTP) is of great significance to environmental protection. To improve the efficiency of the WWTP, it is crucial to ensure that the dissolved oxygen (DO) concentration tracks the set value efficiently. Due to the nonlinear and time-varying dynamics of the WWTP, traditional control methods cannot accurately control the DO concentration. To overcome these challenges...",
+    "date": "2023-05-23T01:00:27.890Z"
+  },
+  {
     "articleNumber": "10129063",
     "articleTitle": "Extended Morlet Wavelet-Based FIR Phasor Estimation Using Fake Samples",
     "authors": [

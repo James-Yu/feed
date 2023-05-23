@@ -1,5 +1,56 @@
 [
   {
+    "articleNumber": "10130607",
+    "articleTitle": "Ranking-Based Color Constancy With Limited Training Samples",
+    "authors": [
+      "Bing Li",
+      "Haina Qin",
+      "Weihua Xiong",
+      "Yangxi Li",
+      "Songhe Feng",
+      "Weiming Hu",
+      "Stephen Maybank"
+    ],
+    "abstract": "Computational color constancy is an important component of Image Signal Processors (ISP) for white balancing in many imaging devices. Recently, deep convolutional neural networks (CNN) have been introduced for color constancy. They achieve prominent performance improvements comparing with those statistics or shallow learning-based methods. However, the need for a large number of training samples, ...",
+    "date": "2023-05-23T01:00:18.753Z"
+  },
+  {
+    "articleNumber": "10130595",
+    "articleTitle": "Sensing Diversity and Sparsity Models for Event Generation and Video Reconstruction from Events",
+    "authors": [
+      "Siying Liu",
+      "Pier Luigi Dragotti"
+    ],
+    "abstract": "Events-to-video (E2V) reconstruction and video-to-events (V2E) simulation are two fundamental research topics in event-based vision. Current deep neural networks for E2V reconstruction are usually complex and difficult to interpret. Moreover, existing event simulators are designed to generate realistic events, but research on how to improve the event generation process has been so far limited. In ...",
+    "date": "2023-05-23T01:00:18.753Z"
+  },
+  {
+    "articleNumber": "10130710",
+    "articleTitle": "Prototype Completion for Few-Shot Learning",
+    "authors": [
+      "Baoquan Zhang",
+      "Xutao Li",
+      "Yunming Ye",
+      "Shanshan Feng"
+    ],
+    "abstract": "Few-shot learning (FSL) aims to recognize novel classes with few examples. Pre-training based methods effectively tackle the problem by pre-training a feature extractor and then fine-tuning it through the nearest centroid based meta-learning. However, results show that the fine-tuning step makes marginal improvements. In this paper, 1) we figure out the reason, i.e., in the pre-trained feature spa...",
+    "date": "2023-05-23T01:00:18.753Z"
+  },
+  {
+    "articleNumber": "10130611",
+    "articleTitle": "Generalized Parametric Contrastive Learning",
+    "authors": [
+      "Jiequan Cui",
+      "Zhisheng Zhong",
+      "Zhuotao Tian",
+      "Shu Liu",
+      "Bei Yu",
+      "Jiaya Jia"
+    ],
+    "abstract": "In this paper, we propose the Generalized Parametric Contrastive Learning (GPaCo/PaCo) which works well on both imbalanced and balanced data. Based on theoretical analysis, we observe supervised contrastive loss tends to bias on high-frequency classes and thus increases the difficulty of imbalanced learning. We introduce a set of parametric class-wise learnable centers to rebalance from an optimiz...",
+    "date": "2023-05-23T01:00:18.753Z"
+  },
+  {
     "articleNumber": "10129096",
     "articleTitle": "Multiple Instance Differentiation Learning for Active Object Detection",
     "authors": [

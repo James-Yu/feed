@@ -1,5 +1,133 @@
 [
   {
+    "articleNumber": "10130541",
+    "articleTitle": "Conformal Cylindrical Array Sound Source Localization at the Presence of Shadowed Elements",
+    "authors": [
+      "Jiaheng Li",
+      "Feng Tong",
+      "Yuehai Zhou",
+      "Yi Yang",
+      "Zhiqiang Hu"
+    ],
+    "abstract": "Sound source localization provides an absorbing capability for unmanned aerial vehicles (UAVs) in scenarios such as search and rescue operations. The shape fusion between the sound array and UAVs forms a special conformal property that is drawing more and more attention. However, the inevitable shadow effect caused by shape fusion seriously degrades the degrees of freedom (DOF) of the array. In th...",
+    "date": "2023-05-23T01:00:22.854Z"
+  },
+  {
+    "articleNumber": "10130453",
+    "articleTitle": "A Cooperative PoW and Incentive Mechanism for Blockchain in Edge Computing",
+    "authors": [
+      "Liuling Qi",
+      "Junfeng Tian",
+      "Mengjia Chai",
+      "Hongyun Cai"
+    ],
+    "abstract": "More and more works use blockchain to improve the data security of integrated edge computing and Internet of Things (IoT) system. However, there are some problems of Proof-of-Work (PoW) that hinder the application, such as high energy consumption, low resource utilization efficiency and insufficient incentive. In this paper, we present a cooperative PoW named relay mining based PoW (Relay-PoW) to ...",
+    "date": "2023-05-23T01:00:22.854Z"
+  },
+  {
+    "articleNumber": "10130505",
+    "articleTitle": "Lightweight Authentication Scheme for Healthcare with Robustness to Desynchronization Attacks",
+    "authors": [
+      "Shamim Shihab",
+      "Riham AlTawy"
+    ],
+    "abstract": "Remote healthcare monitoring systems are gaining a lot of interest as they enable doctors to use public channels to get real-time data from the sensors placed in/on the patient’s body. This necessitates the implementation of a robust authentication scheme to ensure secure communication between trusted healthcare providers and sensors which are usually low in resources. To address these issues, in ...",
+    "date": "2023-05-23T01:00:22.854Z"
+  },
+  {
+    "articleNumber": "10130762",
+    "articleTitle": "On Min-Max Storage for Resource Restricted Clients in Coded Blockchain Systems",
+    "authors": [
+      "Changlin Yang",
+      "Xiaodong Wang",
+      "Zigui Jiang",
+      "Ying Liu",
+      "Fengnian Lin",
+      "Zibin Zheng"
+    ],
+    "abstract": "Blockchain is the foundation of emerging applications such as smart contracts, Non-fungible token (NFT) and metaverse. A key issue is that blockchain requires massive storage space, which limits its deployment in resource limited end devices, e.g., Internet of Things. Recently, coded blockchain is proposed to reduce the storage requirement of blockchain whilst guaranteeing its security and data in...",
+    "date": "2023-05-23T01:00:22.854Z"
+  },
+  {
+    "articleNumber": "10130546",
+    "articleTitle": "Improved Multi-Resolution Neural Network for Mobility-Aware Security and Content Caching for Internet of Vehicles",
+    "authors": [
+      "Sunitha Safavat",
+      "Danda B. Rawat"
+    ],
+    "abstract": "With the emerging communication and computation technologies, the Internet of Vehicles (IoV) has become a new paradigm that enables vehicles to communicate with Road Side Units (RSUs) as well as with other vehicles to collect or exchange information. However, the inherent characteristics of IoV, such as the high mobility of the vehicle and the limited storage capacity of the edge nodes, cause nume...",
+    "date": "2023-05-23T01:00:22.854Z"
+  },
+  {
+    "articleNumber": "10130470",
+    "articleTitle": "User-assisted Base Station Caching and Cooperative Prefetching for High-Speed Railway Systems",
+    "authors": [
+      "Weiyang Xu",
+      "Qinglin Xu",
+      "LingLing Tao",
+      "Wei Xiang"
+    ],
+    "abstract": "With the aim of reducing the transmission latency, this paper proposes a scheme of user-assisted base station (BS) caching and cooperative prefetching for high-speed railway (HSR) communications. In the model under consideration, neighboring BSs periodically exchange information, including the coverage area and communication rate, to facilitate content caching and prefetching. As an additional mea...",
+    "date": "2023-05-23T01:00:22.854Z"
+  },
+  {
+    "articleNumber": "10130406",
+    "articleTitle": "A Survey on the Metaverse: The State-of-the-Art, Technologies, Applications, and Challenges",
+    "authors": [
+      "Huansheng Ning",
+      "Hang Wang",
+      "Yujia Lin",
+      "Wenxi Wang",
+      "Sahraoui Dhelim",
+      "Fadi Farha",
+      "Jianguo Ding",
+      "Mahmoud Daneshmand"
+    ],
+    "abstract": "In recent years, the concept of the Metaverse has attracted considerable attention. This paper provides a comprehensive overview of the Metaverse. First, the development status of the Metaverse is presented. We summarize the policies of various countries, companies, and organizations relevant to the Metaverse, as well as statistics on the number of Metaverse-related publications. Characteristics o...",
+    "date": "2023-05-23T01:00:22.854Z"
+  },
+  {
+    "articleNumber": "10130471",
+    "articleTitle": "IoT-QWatch: A Novel Framework to Support the Development of Quality Aware Autonomic IoT Applications",
+    "authors": [
+      "Kaneez Fizza",
+      "Prem Prakash Jayaraman",
+      "Abhik Banerjee",
+      "Nitin Auluck",
+      "Rajiv Ranjan"
+    ],
+    "abstract": "The unprecedented growth of Internet of Things (IoT) is leading to its increased usage in various domains, such as manufacturing, health, and smart cities. A majority of IoT applications are autonomic, i.e., they operate under minimal/no human intervention, and make decisions/actuations based on machine-to-machine communication and data analytics. A key challenge in the development of such applica...",
+    "date": "2023-05-23T01:00:22.854Z"
+  },
+  {
+    "articleNumber": "10130548",
+    "articleTitle": "A Performance and Reliability-Guaranteed Predictive Approach to Service Migration Path Selection in Mobile Computing",
+    "authors": [
+      "Yong Ma",
+      "Mengxuan Dai",
+      "Shiyun Shao",
+      "Yunni Xia",
+      "Fan Li",
+      "Yulong Shen",
+      "Jianqi Li",
+      "Yin Li",
+      "Hemeng Peng"
+    ],
+    "abstract": "Mobile Edge Computing (MEC) is a forward-looking technology that provides services through resources to meet the needs of cloud-edge Internet of Things (IoT) devices. It provides computing and storage data facilities for IoT users and further renders services through resources in vicinity to fulfill the needs from IoT devices at the cloud edge. However, a major difficulty in guaranteeing reliable ...",
+    "date": "2023-05-23T01:00:22.854Z"
+  },
+  {
+    "articleNumber": "10130456",
+    "articleTitle": "Joint Deployment Design and Phase-Shift of IRS-assisted 6G networks: An Experience-Driven Approach",
+    "authors": [
+      "Faisal Naeem",
+      "Marwa Qaraqe",
+      "Hasari Celebi"
+    ],
+    "abstract": "The performance of wireless networks is constrained by the dynamic and random nature of the wireless channels. Intelligent reflecting surface (IRS) is a promising approach that can smartly reconfigure wireless propagation environment to increase the spectral efficiency in 6G networks. However, IRS deployment optimization in a complex and random 6G environment remains a limiting factor in improving...",
+    "date": "2023-05-23T01:00:22.854Z"
+  },
+  {
     "articleNumber": "10130091",
     "articleTitle": "RME-GAN: A Learning Framework for Radio Map Estimation based on Conditional Generative Adversarial Network",
     "authors": [

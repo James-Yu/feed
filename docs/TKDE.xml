@@ -2,11 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/TKDE.rss</id>
     <title>IEEE Transactions on Knowledge and Data Engineering</title>
-    <updated>2023-05-22T16:14:28.468Z</updated>
+    <updated>2023-05-23T01:00:13.519Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/TKDE.rss"/>
     <subtitle>IEEE Transactions on Knowledge and Data Engineering</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Multi-Scale Self-Supervised Graph Contrastive Learning With Injective Node Augmentation]]></title>
+        <id>https://ieeexplore.ieee.org/document/10130468</id>
+        <link href="https://ieeexplore.ieee.org/document/10130468"/>
+        <updated>2023-05-23T01:00:13.514Z</updated>
+        <summary type="html"><![CDATA[Graph Contrastive Learning (GCL) with Graph Neural Networks (GNN) has emerged as a promising method for learning latent node representations in a self-supervised manner. Most of existing GCL methods employ random sampling for graph view augmentation and maximize the agreement of the node representations between the views. However, the random augmentation manner, which is likely to produce very sim...]]></summary>
+        <author>
+            <name>Haonan Zhang</name>
+        </author>
+        <author>
+            <name>Yuyang Ren</name>
+        </author>
+        <author>
+            <name>Luoyi Fu</name>
+        </author>
+        <author>
+            <name>Xinbing Wang</name>
+        </author>
+        <author>
+            <name>Guihai Chen</name>
+        </author>
+        <author>
+            <name>Chenghu Zhou</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adaptive Graph Convolution Methods for Attributed Graph Clustering]]></title>
+        <id>https://ieeexplore.ieee.org/document/10130603</id>
+        <link href="https://ieeexplore.ieee.org/document/10130603"/>
+        <updated>2023-05-23T01:00:13.514Z</updated>
+        <summary type="html"><![CDATA[Attributed graph clustering is a challenging task as it requires to jointly model graph structure and node attributes. Although recent advances in graph convolutional networks have shown the effectiveness of graph convolution in combining structural and content information, there is limited understanding of how to properly apply it for attributed graph clustering. Previous methods commonly use a f...]]></summary>
+        <author>
+            <name>Xiaotong Zhang</name>
+        </author>
+        <author>
+            <name>Han Liu</name>
+        </author>
+        <author>
+            <name>Qimai Li</name>
+        </author>
+        <author>
+            <name>Xiao-Ming Wu</name>
+        </author>
+        <author>
+            <name>Xianchao Zhang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WL-Align: Weisfeiler-Lehman Relabeling for Aligning Users across Networks via Regularized Representation Learning]]></title>
+        <id>https://ieeexplore.ieee.org/document/10130346</id>
+        <link href="https://ieeexplore.ieee.org/document/10130346"/>
+        <updated>2023-05-23T01:00:13.514Z</updated>
+        <summary type="html"><![CDATA[Aligning users across networks using graph representation learning has been found effective where the alignment is accomplished in a low-dimensional embedding space. Yet, highly precise alignment remains challenging, especially for nodes with long-range connectivity to labeled anchors. To alleviate this limitation, we propose WL-Align which employs a regularized representation learning framework t...]]></summary>
+        <author>
+            <name>Li Liu</name>
+        </author>
+        <author>
+            <name>Penggang Chen</name>
+        </author>
+        <author>
+            <name>Xin Li</name>
+        </author>
+        <author>
+            <name>William K. Cheung</name>
+        </author>
+        <author>
+            <name>Youmin Zhang</name>
+        </author>
+        <author>
+            <name>Qun Liu</name>
+        </author>
+        <author>
+            <name>Guoyin Wang</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OneSketch: A Generic and Accurate Sketch for Data Streams]]></title>
         <id>https://ieeexplore.ieee.org/document/10129883</id>

@@ -1,5 +1,47 @@
 [
   {
+    "articleNumber": "10130468",
+    "articleTitle": "Multi-Scale Self-Supervised Graph Contrastive Learning With Injective Node Augmentation",
+    "authors": [
+      "Haonan Zhang",
+      "Yuyang Ren",
+      "Luoyi Fu",
+      "Xinbing Wang",
+      "Guihai Chen",
+      "Chenghu Zhou"
+    ],
+    "abstract": "Graph Contrastive Learning (GCL) with Graph Neural Networks (GNN) has emerged as a promising method for learning latent node representations in a self-supervised manner. Most of existing GCL methods employ random sampling for graph view augmentation and maximize the agreement of the node representations between the views. However, the random augmentation manner, which is likely to produce very sim...",
+    "date": "2023-05-23T01:00:13.514Z"
+  },
+  {
+    "articleNumber": "10130603",
+    "articleTitle": "Adaptive Graph Convolution Methods for Attributed Graph Clustering",
+    "authors": [
+      "Xiaotong Zhang",
+      "Han Liu",
+      "Qimai Li",
+      "Xiao-Ming Wu",
+      "Xianchao Zhang"
+    ],
+    "abstract": "Attributed graph clustering is a challenging task as it requires to jointly model graph structure and node attributes. Although recent advances in graph convolutional networks have shown the effectiveness of graph convolution in combining structural and content information, there is limited understanding of how to properly apply it for attributed graph clustering. Previous methods commonly use a f...",
+    "date": "2023-05-23T01:00:13.514Z"
+  },
+  {
+    "articleNumber": "10130346",
+    "articleTitle": "WL-Align: Weisfeiler-Lehman Relabeling for Aligning Users across Networks via Regularized Representation Learning",
+    "authors": [
+      "Li Liu",
+      "Penggang Chen",
+      "Xin Li",
+      "William K. Cheung",
+      "Youmin Zhang",
+      "Qun Liu",
+      "Guoyin Wang"
+    ],
+    "abstract": "Aligning users across networks using graph representation learning has been found effective where the alignment is accomplished in a low-dimensional embedding space. Yet, highly precise alignment remains challenging, especially for nodes with long-range connectivity to labeled anchors. To alleviate this limitation, we propose WL-Align which employs a regularized representation learning framework t...",
+    "date": "2023-05-23T01:00:13.514Z"
+  },
+  {
     "articleNumber": "10129883",
     "articleTitle": "OneSketch: A Generic and Accurate Sketch for Data Streams",
     "authors": [
