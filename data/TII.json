@@ -1,5 +1,56 @@
 [
   {
+    "articleNumber": "10132080",
+    "articleTitle": "Efficient Task-Network Scheduling With Task Conflict Metric in Time-Sensitive Networking",
+    "authors": [
+      "Lei Xu",
+      "Qimin Xu",
+      "Cailian Chen",
+      "Yanzhou Zhang",
+      "Shouliang Wang",
+      "Xinping Guan"
+    ],
+    "abstract": "With the rapid development of Industrial Internet of Things (IIoT), Time-Sensitive Networking (TSN) with deterministic and real-time features has gained broad interest. However, most existing research focuses on the network scheduling with fixed task placement and computing resource allocation, restricting the scheduling space of coupled task-network. To tackle this coupling problem, an efficient ...",
+    "date": "2023-05-24T01:02:04.051Z"
+  },
+  {
+    "articleNumber": "10132059",
+    "articleTitle": "An asynchronous gated recurrent network for estimating critical transition of bearing deterioration",
+    "authors": [
+      "Chuan Li",
+      "Yifan Wu",
+      "Yun Bai",
+      "Shuai Yang"
+    ],
+    "abstract": "The service performance of an industrial bearing may deteriorate sharply after a sudden transition which is very difficult to be captured prior to its appearance. It is accordingly valuable to estimate this critical transition for avoiding serious catastrophes caused by the faulty bearing. To address this issue, an asynchronous gated recurrent network (AGRN) is proposed to estimate the critical tr...",
+    "date": "2023-05-24T01:02:04.051Z"
+  },
+  {
+    "articleNumber": "10132065",
+    "articleTitle": "A Bayesian Deep Learning-Based Probabilistic Risk Assessment and Early-Warning Model for Power Systems Considering Meteorological Conditions",
+    "authors": [
+      "Xiaoming Liu",
+      "Jun LiuSenior Member",
+      "Yu Zhao",
+      "Tao Ding",
+      "Xinglei LiuGraduate Student Member",
+      "Jiacheng Liu"
+    ],
+    "abstract": "The ongoing process of decarbonizing the power system and the frequent occurrence of extreme weather have led to a significant increase in operating uncertainty and greatly reduced the system controllability. An effective risk assessment and early-warning tool will significantly assist system operators in monitoring and controlling power systems. However, existing methods mainly rely on simplified...",
+    "date": "2023-05-24T01:02:04.051Z"
+  },
+  {
+    "articleNumber": "10132060",
+    "articleTitle": "Skew Filtering for Online State Estimation and Control",
+    "authors": [
+      "Oguzhan Dogru",
+      "Ranjith Chiplunkar",
+      "Biao Huang"
+    ],
+    "abstract": "Process control can become challenging when the measurements are affected by irregular noise. Classical approaches utilize Gaussian methods to alleviate the sensory noise. However, many industries involve skewed noise in their processes. While the closed skew-normal (CSN) distribution generalizes a Gaussian distribution with additional parameters, its dimension increases during recursive estimatio...",
+    "date": "2023-05-24T01:02:04.051Z"
+  },
+  {
     "articleNumber": "10130320",
     "articleTitle": "UDE-Based Distributed Formation Control for MSVs With Collision Avoidance and Connectivity Preservation",
     "authors": [

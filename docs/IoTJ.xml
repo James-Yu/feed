@@ -2,11 +2,278 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/IoTJ.rss</id>
     <title>IEEE Internet of Things Journal</title>
-    <updated>2023-05-23T16:15:13.817Z</updated>
+    <updated>2023-05-24T01:01:56.521Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/IoTJ.rss"/>
     <subtitle>IEEE Internet of Things Journal</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Cognitive Radio based Resource Management for Smart Transportation: A Sliding Mode Control Approach]]></title>
+        <id>https://ieeexplore.ieee.org/document/10131986</id>
+        <link href="https://ieeexplore.ieee.org/document/10131986"/>
+        <updated>2023-05-24T01:01:56.514Z</updated>
+        <summary type="html"><![CDATA[Smart transportation is one of the key components of the smart city. A significant amount of data is produced by the numerous vehicles connected via wireless networks. This demands smart spectrum management for efficient data communication. The optimal bandwidth usage can be obtained by opportunistically sharing the spectrum among high-priority class primary and low-priority class secondary users’...]]></summary>
+        <author>
+            <name>Tirtha Majumder</name>
+        </author>
+        <author>
+            <name>Rajiv Kumar Mishra</name>
+        </author>
+        <author>
+            <name>Sudhansu Sekhar Singh</name>
+        </author>
+        <author>
+            <name>Prasanna Kumar Sahu</name>
+        </author>
+        <author>
+            <name>Rudolf Vohnout</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CrossTrack: Device-free Cross-link Tracking with Commodity Wi-Fi]]></title>
+        <id>https://ieeexplore.ieee.org/document/10132409</id>
+        <link href="https://ieeexplore.ieee.org/document/10132409"/>
+        <updated>2023-05-24T01:01:56.514Z</updated>
+        <summary type="html"><![CDATA[Device-free Wi-Fi tracking has become essential for ubiquitous wireless sensing. However, current device-free Wi-Fi tracking systems suffer from two limitations: First, Abnormal signals interfere with tracking performance when the user walks across the direct link of the transceivers; Second, The tracking error based on the velocity integral accumulates over time. This paper proposes CrossTrack, t...]]></summary>
+        <author>
+            <name>Weiping Ge</name>
+        </author>
+        <author>
+            <name>Yichen Tian</name>
+        </author>
+        <author>
+            <name>Xiulong Liu</name>
+        </author>
+        <author>
+            <name>Xinyu Tong</name>
+        </author>
+        <author>
+            <name>Wenyu Qu</name>
+        </author>
+        <author>
+            <name>Zhenzhe Zhong</name>
+        </author>
+        <author>
+            <name>Haojie Chen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sequential Offloading for Distributed DNN Computation in Multiuser MEC Systems]]></title>
+        <id>https://ieeexplore.ieee.org/document/10131976</id>
+        <link href="https://ieeexplore.ieee.org/document/10131976"/>
+        <updated>2023-05-24T01:01:56.514Z</updated>
+        <summary type="html"><![CDATA[This paper studies a sequential task offloading problem for a multiuser mobile edge computing (MEC) system. While most of the existing works consider static one-shot offloading optimization with fixed wireless channel conditions and fixed computational tasks, we consider a dynamic optimization approach, which embraces wireless channel fluctuations and random deep neural network (DNN) task arrivals...]]></summary>
+        <author>
+            <name>Feng Wang</name>
+        </author>
+        <author>
+            <name>Songfu Cai</name>
+        </author>
+        <author>
+            <name>Vincent K. N. Lau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ACKE: Asymmetric Computing Key Exchange Protocol for IoT Environments]]></title>
+        <id>https://ieeexplore.ieee.org/document/10131978</id>
+        <link href="https://ieeexplore.ieee.org/document/10131978"/>
+        <updated>2023-05-24T01:01:56.514Z</updated>
+        <summary type="html"><![CDATA[Most of the cryptographic protocols currently in use are not appropriate for Internet of Things (IoT) environments because of their huge computing overhead, especially for terminal embedded devices with resource-constrained. Moreover, the computing resources in IoT environments are frequently asymmetric, that is to say, the computing power of the terminal devices is always weak and the server-side...]]></summary>
+        <author>
+            <name>Houzhen Wang</name>
+        </author>
+        <author>
+            <name>Jiaming Wen</name>
+        </author>
+        <author>
+            <name>Jinhui Liu</name>
+        </author>
+        <author>
+            <name>Huanguo Zhang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Grant-based Random Access Scheme with Low Latency for mMTC in IoT Networks]]></title>
+        <id>https://ieeexplore.ieee.org/document/10132332</id>
+        <link href="https://ieeexplore.ieee.org/document/10132332"/>
+        <updated>2023-05-24T01:01:56.514Z</updated>
+        <summary type="html"><![CDATA[The design of transmission schemes and receiver techniques with high reliability and low latency for the massive machine-type communications (mMTC) is an important challenge for the future Internet of Things (IoT) systems in the sixth-generation (6G) wireless communication networks. In this paper, we propose a new physical-layer transceiver scheme for mMTC, where users transmit their data based on...]]></summary>
+        <author>
+            <name>Jiaai Liu</name>
+        </author>
+        <author>
+            <name>Xiaodong Wang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Angle-based SLAM on 5G mmWave Systems: Design, Implementation, and Measurement]]></title>
+        <id>https://ieeexplore.ieee.org/document/10131989</id>
+        <link href="https://ieeexplore.ieee.org/document/10131989"/>
+        <updated>2023-05-24T01:01:56.514Z</updated>
+        <summary type="html"><![CDATA[Simultaneous localization and mapping (SLAM) is a key technology that provides user equipment (UE) tracking and environment mapping services, enabling the deep integration of sensing and communication. The millimeter-wave (mmWave) communication, with its larger bandwidths and antenna arrays, inherently facilitates more accurate delay and angle measurements than sub-6 GHz communication, thereby pro...]]></summary>
+        <author>
+            <name>Jie Yang</name>
+        </author>
+        <author>
+            <name>Chao-Kai Wen</name>
+        </author>
+        <author>
+            <name>Jing Xu</name>
+        </author>
+        <author>
+            <name>Hang Que</name>
+        </author>
+        <author>
+            <name>Haikun Wei</name>
+        </author>
+        <author>
+            <name>Shi Jin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learning-based Reconfigurable Intelligent Surface-aided Rate-Splitting Multiple Access Networks]]></title>
+        <id>https://ieeexplore.ieee.org/document/10131984</id>
+        <link href="https://ieeexplore.ieee.org/document/10131984"/>
+        <updated>2023-05-24T01:01:56.514Z</updated>
+        <summary type="html"><![CDATA[Rate-splitting multiple access (RSMA) and reconfigurable intelligent surface (RIS) techniques show promise in enhancing spectral efficiency in sixth-generation Internet of Things (IoT) networks. However, optimizing the synergy between these two methods is challenging due to the complex and dynamic environment. This study focuses on maximizing the sum-rate metric in RIS-assisted uplink multiantenna...]]></summary>
+        <author>
+            <name>Duc-Thien Hua</name>
+        </author>
+        <author>
+            <name>Quang Tuan Do</name>
+        </author>
+        <author>
+            <name>Nhu-Ngoc Dao</name>
+        </author>
+        <author>
+            <name>The-Vi Nguyen</name>
+        </author>
+        <author>
+            <name>Demeke Shumeye Lakew</name>
+        </author>
+        <author>
+            <name>Sungrae Cho</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Air Reconfigurable Intelligent Surface Enhanced Multi-User NOMA System]]></title>
+        <id>https://ieeexplore.ieee.org/document/10131975</id>
+        <link href="https://ieeexplore.ieee.org/document/10131975"/>
+        <updated>2023-05-24T01:01:56.514Z</updated>
+        <summary type="html"><![CDATA[This paper proposes a new framework of Aerial Reconfigurable Intelligent Surface (ARIS) enhancing the Non-Orthogonal Multiple Access (NOMA) system. The Base Station (BS) transmits superimposed signals to multiple users with different channel gains through ARIS which can flexibly change channel conditions and perform intelligent NOMA operations. It ensures that our system can perform well in provid...]]></summary>
+        <author>
+            <name>Haitao Zhao</name>
+        </author>
+        <author>
+            <name>Zhipeng Kong</name>
+        </author>
+        <author>
+            <name>Hao Huang</name>
+        </author>
+        <author>
+            <name>Shengnan Shi</name>
+        </author>
+        <author>
+            <name>Yiyang Ni</name>
+        </author>
+        <author>
+            <name>Guan Gui</name>
+        </author>
+        <author>
+            <name>Hikmet Sari</name>
+        </author>
+        <author>
+            <name>Fumiyuki Adachi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Truthful Combinatorial Reverse Auction Mechanism For Crowdshipping]]></title>
+        <id>https://ieeexplore.ieee.org/document/10131977</id>
+        <link href="https://ieeexplore.ieee.org/document/10131977"/>
+        <updated>2023-05-24T01:01:56.514Z</updated>
+        <summary type="html"><![CDATA[Crowdshipping is an emerging logistics paradigm that leverages excess capacities of occasional couriers to transport goods. This paper investigates the problem that a crowdshipping platform recruits occasional couriers to serve the parcel pickup and delivery requests. A combinatorial reverse auction framework is introduced to model the interactions between the platform and couriers. We design an a...]]></summary>
+        <author>
+            <name>Shibo Chen</name>
+        </author>
+        <author>
+            <name>Haoyu Miao</name>
+        </author>
+        <author>
+            <name>Zhenwei Guo</name>
+        </author>
+        <author>
+            <name>Liusha Yang</name>
+        </author>
+        <author>
+            <name>Canqi Yao</name>
+        </author>
+        <author>
+            <name>Zaiyue Yang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deep Reinforcement Learning-Based NOMA-Aided Slotted ALOHA for LEO Satellite IoT Networks]]></title>
+        <id>https://ieeexplore.ieee.org/document/10132304</id>
+        <link href="https://ieeexplore.ieee.org/document/10132304"/>
+        <updated>2023-05-24T01:01:56.514Z</updated>
+        <summary type="html"><![CDATA[The low earth orbit (LEO) satellites have received extensive attention as an essential supplement to the terrestrial network for supporting global Internet of Things (IoT) services. Considering the rapid growth of IoT devices and the significant satellite-to-ground latency, proposing low-latency, low-overhead access protocols for LEO satellite IoT systems is challenging. In this paper, we propose ...]]></summary>
+        <author>
+            <name>Hanxiao Yu</name>
+        </author>
+        <author>
+            <name>Hanyu Zhao</name>
+        </author>
+        <author>
+            <name>Zesong Fei</name>
+        </author>
+        <author>
+            <name>Jing Wang</name>
+        </author>
+        <author>
+            <name>Zhiming Chen</name>
+        </author>
+        <author>
+            <name>Yuping Gong</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Federated Transfer-Ordered-Personalized Learning for Driver Monitoring Application]]></title>
+        <id>https://ieeexplore.ieee.org/document/10131959</id>
+        <link href="https://ieeexplore.ieee.org/document/10131959"/>
+        <updated>2023-05-24T01:01:56.514Z</updated>
+        <summary type="html"><![CDATA[Federated learning (FL) shines through in the internet of things (IoT) with its ability to realize collaborative learning and improve learning efficiency by sharing client model parameters trained on local data. Although FL has been successfully applied to various domains, including driver monitoring applications (DMAs) on the internet of vehicles (IoV), its usages still face some open issues, suc...]]></summary>
+        <author>
+            <name>Liangqi Yuan</name>
+        </author>
+        <author>
+            <name>Lu Su</name>
+        </author>
+        <author>
+            <name>Ziran Wang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Backbone Network Construction-Based Multi-AUV Collaboration Source Location Privacy Protection Algorithm in UASNs]]></title>
+        <id>https://ieeexplore.ieee.org/document/10131962</id>
+        <link href="https://ieeexplore.ieee.org/document/10131962"/>
+        <updated>2023-05-24T01:01:56.514Z</updated>
+        <summary type="html"><![CDATA[Underwater acoustic sensor networks (UASNs) are effective instruments for monitoring marine environments and surveying seabed resources, it is important to improve their security protection, including source location privacy protection. Numerous strategies have been presented by researchers to strengthen location privacy, however, the majority of these plans have expensive energy costs. Therefore,...]]></summary>
+        <author>
+            <name>Hao Wang</name>
+        </author>
+        <author>
+            <name>Guangjie Han</name>
+        </author>
+        <author>
+            <name>Aini Gong</name>
+        </author>
+        <author>
+            <name>Aohan Li</name>
+        </author>
+        <author>
+            <name>Yun Hou</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Conformal Cylindrical Array Sound Source Localization at the Presence of Shadowed Elements]]></title>
         <id>https://ieeexplore.ieee.org/document/10130541</id>

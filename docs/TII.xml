@@ -2,11 +2,96 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/TII.rss</id>
     <title>IEEE Transactions on Industrial Informatics</title>
-    <updated>2023-05-23T16:15:19.845Z</updated>
+    <updated>2023-05-24T01:02:04.057Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/TII.rss"/>
     <subtitle>IEEE Transactions on Industrial Informatics</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Efficient Task-Network Scheduling With Task Conflict Metric in Time-Sensitive Networking]]></title>
+        <id>https://ieeexplore.ieee.org/document/10132080</id>
+        <link href="https://ieeexplore.ieee.org/document/10132080"/>
+        <updated>2023-05-24T01:02:04.051Z</updated>
+        <summary type="html"><![CDATA[With the rapid development of Industrial Internet of Things (IIoT), Time-Sensitive Networking (TSN) with deterministic and real-time features has gained broad interest. However, most existing research focuses on the network scheduling with fixed task placement and computing resource allocation, restricting the scheduling space of coupled task-network. To tackle this coupling problem, an efficient ...]]></summary>
+        <author>
+            <name>Lei Xu</name>
+        </author>
+        <author>
+            <name>Qimin Xu</name>
+        </author>
+        <author>
+            <name>Cailian Chen</name>
+        </author>
+        <author>
+            <name>Yanzhou Zhang</name>
+        </author>
+        <author>
+            <name>Shouliang Wang</name>
+        </author>
+        <author>
+            <name>Xinping Guan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An asynchronous gated recurrent network for estimating critical transition of bearing deterioration]]></title>
+        <id>https://ieeexplore.ieee.org/document/10132059</id>
+        <link href="https://ieeexplore.ieee.org/document/10132059"/>
+        <updated>2023-05-24T01:02:04.051Z</updated>
+        <summary type="html"><![CDATA[The service performance of an industrial bearing may deteriorate sharply after a sudden transition which is very difficult to be captured prior to its appearance. It is accordingly valuable to estimate this critical transition for avoiding serious catastrophes caused by the faulty bearing. To address this issue, an asynchronous gated recurrent network (AGRN) is proposed to estimate the critical tr...]]></summary>
+        <author>
+            <name>Chuan Li</name>
+        </author>
+        <author>
+            <name>Yifan Wu</name>
+        </author>
+        <author>
+            <name>Yun Bai</name>
+        </author>
+        <author>
+            <name>Shuai Yang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Bayesian Deep Learning-Based Probabilistic Risk Assessment and Early-Warning Model for Power Systems Considering Meteorological Conditions]]></title>
+        <id>https://ieeexplore.ieee.org/document/10132065</id>
+        <link href="https://ieeexplore.ieee.org/document/10132065"/>
+        <updated>2023-05-24T01:02:04.051Z</updated>
+        <summary type="html"><![CDATA[The ongoing process of decarbonizing the power system and the frequent occurrence of extreme weather have led to a significant increase in operating uncertainty and greatly reduced the system controllability. An effective risk assessment and early-warning tool will significantly assist system operators in monitoring and controlling power systems. However, existing methods mainly rely on simplified...]]></summary>
+        <author>
+            <name>Xiaoming Liu</name>
+        </author>
+        <author>
+            <name>Jun LiuSenior Member</name>
+        </author>
+        <author>
+            <name>Yu Zhao</name>
+        </author>
+        <author>
+            <name>Tao Ding</name>
+        </author>
+        <author>
+            <name>Xinglei LiuGraduate Student Member</name>
+        </author>
+        <author>
+            <name>Jiacheng Liu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Skew Filtering for Online State Estimation and Control]]></title>
+        <id>https://ieeexplore.ieee.org/document/10132060</id>
+        <link href="https://ieeexplore.ieee.org/document/10132060"/>
+        <updated>2023-05-24T01:02:04.051Z</updated>
+        <summary type="html"><![CDATA[Process control can become challenging when the measurements are affected by irregular noise. Classical approaches utilize Gaussian methods to alleviate the sensory noise. However, many industries involve skewed noise in their processes. While the closed skew-normal (CSN) distribution generalizes a Gaussian distribution with additional parameters, its dimension increases during recursive estimatio...]]></summary>
+        <author>
+            <name>Oguzhan Dogru</name>
+        </author>
+        <author>
+            <name>Ranjith Chiplunkar</name>
+        </author>
+        <author>
+            <name>Biao Huang</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[UDE-Based Distributed Formation Control for MSVs With Collision Avoidance and Connectivity Preservation]]></title>
         <id>https://ieeexplore.ieee.org/document/10130320</id>

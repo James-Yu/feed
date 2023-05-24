@@ -1,5 +1,17 @@
 [
   {
+    "articleNumber": "10132030",
+    "articleTitle": "SAFER-STUDENT for Safe Deep Semi-Supervised Learning With Unseen-Class Unlabeled Data",
+    "authors": [
+      "Rundong He",
+      "Zhongyi Han",
+      "Xiankai Lu",
+      "Yilong Yin"
+    ],
+    "abstract": "Deep semi-supervised learning (SSL) methods aim to utilize abundant unlabeled data to improve the seen-class classification. However, in the open-world scenario, collected unlabeled data tend to contain unseen-class data, which would degrade the generalization to seen-class classification. Formally, we define the problem as safe deep semi-supervised learning with unseen-class unlabeled data. One i...",
+    "date": "2023-05-24T01:01:42.032Z"
+  },
+  {
     "articleNumber": "10130468",
     "articleTitle": "Multi-Scale Self-Supervised Graph Contrastive Learning With Injective Node Augmentation",
     "authors": [
