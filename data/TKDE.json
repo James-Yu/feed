@@ -1,5 +1,16 @@
 [
   {
+    "articleNumber": "10132568",
+    "articleTitle": "Convergence of a Fast Hierarchical Alternating Least Squares Algorithm for Nonnegative Matrix Factorization",
+    "authors": [
+      "Liangshao Hou",
+      "Delin Chu",
+      "Li-Zhi Liao"
+    ],
+    "abstract": "The hierarchical alternating least squares (HALS) algorithms are powerful tools for nonnegative matrix factorization (NMF), among which the Fast-HALS, proposed in [A. Cichocki and A.-H. Phan, 2009], is one of the most efficient. This paper investigates the convergence of Fast-HALS. First, a more general weak convergence (converged subsequences exist and converge to the stationary point set) is est...",
+    "date": "2023-05-25T01:00:40.596Z"
+  },
+  {
     "articleNumber": "10132030",
     "articleTitle": "SAFER-STUDENT for Safe Deep Semi-Supervised Learning With Unseen-Class Unlabeled Data",
     "authors": [

@@ -1,5 +1,292 @@
 [
   {
+    "articleNumber": "10133881",
+    "articleTitle": "Decision-Making Driven by Driver Intelligence and Environment Reasoning for High-Level Autonomous Vehicles: A Survey",
+    "authors": [
+      "Yuning Wang",
+      "Junkai Jiang",
+      "Shangyi Li",
+      "Ruochen Li",
+      "Shaobing Xu",
+      "Jianqiang Wang",
+      "Keqiang Li"
+    ],
+    "abstract": "Autonomous vehicle (AV) is expected to reshape the future transportation system, and its decision-making is one of the most critical modules. Many current decision-making modules are designed scenario-by-scenario and thus are not capable of meeting high-level AV requirements for lack of scalability to cope with the diversity of drivers’ demands and the infinity of traffic elements. This paper surv...",
+    "date": "2023-05-25T01:00:34.686Z"
+  },
+  {
+    "articleNumber": "10133880",
+    "articleTitle": "A Security-Enhanced Certificateless Conditional Privacy-Preserving Authentication Scheme for Vehicular Ad Hoc Networks",
+    "authors": [
+      "Fei Zhu",
+      "Xun Yi",
+      "Alsharif Abuadbba",
+      "Ibrahim Khalil",
+      "Xinyi Huang",
+      "Feihong Xu"
+    ],
+    "abstract": "By adopting advanced Internet of Things (IoT) technology to sense and collect traffic-related information to improve traffic safety and efficiency, the vehicular ad hoc network (VANET) is becoming a prominent application that changes human driving experiences in the current era. Because frequent data exchange occurs in open environments, VANETs are inherently vulnerable to security and privacy att...",
+    "date": "2023-05-25T01:00:34.686Z"
+  },
+  {
+    "articleNumber": "10132885",
+    "articleTitle": "EU ENSEMBLE Project: Reference Design and Implementation of the Platooning Support Function",
+    "authors": [
+      "Antonius J. C. Schmeitz",
+      "Dehlia M. C. Willemsen",
+      "Simon Ellwanger"
+    ],
+    "abstract": "Platooning is a cooperative driving technology for driving in a longitudinal formation. Vehicle-to-vehicle (V2V) communication is the key enabling technology. Platooning is considered to be a closed application between well-known participants that use V2V data for their operation. For the deployment of platooning, multi-brand, i.e. interoperable, solutions are paramount. To achieve this, the Europ...",
+    "date": "2023-05-25T01:00:34.686Z"
+  },
+  {
+    "articleNumber": "10133889",
+    "articleTitle": "A Hierarchical Vehicle Behavior Prediction Framework With Traffic Signals and Interactive Agents",
+    "authors": [
+      "Zhen Yang",
+      "Rusheng Zhang",
+      "Gaurav Pandey",
+      "Neda Masoud",
+      "Henry X. Liu"
+    ],
+    "abstract": "Vehicle behavior prediction in complex urban scenarios with traffic signals and interactive agents is an important yet complicated task for autonomous vehicles (AVs). In this work, a hierarchical vehicle behavior prediction framework is proposed to incorporate the traffic signal information and model the interaction between vehicles. The framework predicts vehicle behaviors in two stages, discrete...",
+    "date": "2023-05-25T01:00:34.686Z"
+  },
+  {
+    "articleNumber": "10133870",
+    "articleTitle": "When Will We Arrive? A Novel Multi-Task Spatio-Temporal Attention Network Based on Individual Preference for Estimating Travel Time",
+    "authors": [
+      "Guojian Zou",
+      "Ziliang Lai",
+      "Changxi Ma",
+      "Meiting Tu",
+      "Jing Fan",
+      "Ye Li"
+    ],
+    "abstract": "Predicting how long a trip will take may allow travelers plan ahead, save money, and avoid traffic congestion. The journey time estimation model should take into account three crucial factors: (1) individual travel preference, (2) dynamic spatio-temporal correlations, and (3) the association between long-term speed forecast and travel time estimate. In order to overcome these challenges, this stud...",
+    "date": "2023-05-25T01:00:34.686Z"
+  },
+  {
+    "articleNumber": "10132865",
+    "articleTitle": "MetaProbformer for Charging Load Probabilistic Forecasting of Electric Vehicle Charging Stations",
+    "authors": [
+      "Xingshuai Huang",
+      "Di Wu",
+      "Benoit Boulet"
+    ],
+    "abstract": "The penetration of electric vehicles (EV) has been increasing rapidly in recent years. Electric vehicle charging load poses a huge demand on the power grids. The forecasting for electric vehicle charging load, especially for the charging load of EV charging stations, is of significant importance for the safe operation of power grids. However, most of the existing forecasting methods fail to captur...",
+    "date": "2023-05-25T01:00:34.686Z"
+  },
+  {
+    "articleNumber": "10132879",
+    "articleTitle": "Synergizing Low Rank Representation and Deep Learning for Automatic Pavement Crack Detection",
+    "authors": [
+      "Zhi Gao",
+      "Xuhui Zhao",
+      "Min Cao",
+      "Ziyao Li",
+      "Kangcheng Liu",
+      "Ben M. Chen"
+    ],
+    "abstract": "Due to the critical role of pavement crack detection for road maintenance and eventually ensuring safety, remarkable efforts have been devoted to this research area, and such a trend is further intensified for the coming unmanned vehicle era. However, such crack detection task still remains unexpectedly challenging in practice since the appearance of both cracks and the background are diverse and ...",
+    "date": "2023-05-25T01:00:34.686Z"
+  },
+  {
+    "articleNumber": "10133879",
+    "articleTitle": "Hybrid Recruitment Scheme Based on Deep Learning in Vehicular Crowdsensing",
+    "authors": [
+      "Yanming Fu",
+      "Xiaoqiong Qin",
+      "Xian Zhang",
+      "Youquan Jia"
+    ],
+    "abstract": "Vehicular Crowdsensing (VCS) aims to collect sensing data over a range of areas using a large number of on-board sensors and resources in intelligent vehicles. The mobility of vehicles allows for large-scale mobile sensing data, but it remains a challenging problem to recruit the right participating vehicles and to actively maximize the sensing benefits. In this paper, we formulate the vehicle rec...",
+    "date": "2023-05-25T01:00:34.686Z"
+  },
+  {
+    "articleNumber": "10133885",
+    "articleTitle": "P3SNet: Parallel Pyramid Pooling Stereo Network",
+    "authors": [
+      "Alper Emlek",
+      "Murat Peker"
+    ],
+    "abstract": "In autonomous driving and advanced driver assistance systems (ADAS), stereo matching is a challenging research topic. Recent work has shown that high-accuracy disparity maps can be obtained with end-to-end training with the help of deep convolutional neural networks from stereo images. However, many of these methods suffer from long run-time for real-time studies. Therefore, in this paper, we intr...",
+    "date": "2023-05-25T01:00:34.686Z"
+  },
+  {
+    "articleNumber": "10133890",
+    "articleTitle": "Spatio-Temporal Characterization of Stochastic Dynamic Transportation Networks",
+    "authors": [
+      "Monika Filipovska",
+      "Hani S. Mahmassani"
+    ],
+    "abstract": "This paper addresses the problem of modeling stochastic dynamic transportation networks, where travel times are random variables with time-varying distributions and spatio-temporal dependencies. It presents a taxonomy of modeling approaches used in the literature and defines extended taxonomic categories to better capture the characteristics of transportation networks. A two-part approach is prese...",
+    "date": "2023-05-25T01:00:34.686Z"
+  },
+  {
+    "articleNumber": "10133873",
+    "articleTitle": "A Dual-Recursive-Least-Squares Algorithm for Automotive Radar Interference Suppression",
+    "authors": [
+      "Ping Wang",
+      "Xuefeng Yin",
+      "José Rodríguez-Piñeiro",
+      "Zhuoyu Chen",
+      "Pengqi Zhu",
+      "Gang Li"
+    ],
+    "abstract": "Automotive radar sensors are widely used in vehicles so as to allow the “advanced driver assistance systems (ADAS)” to work. As far as we are concerned, no mandatory regulations were established so far for interference control in the cases where multiple vehicles equipped with automotive radars exist in close proximity. Consequently, those inter-vehicle cross-interference easily result in the rada...",
+    "date": "2023-05-25T01:00:34.686Z"
+  },
+  {
+    "articleNumber": "10132868",
+    "articleTitle": "A Variational Bayesian Inference-Based En-Decoder Framework for Traffic Flow Prediction",
+    "authors": [
+      "Jianlei Kong",
+      "Xiaomeng Fan",
+      "Xuebo Jin",
+      "Sen Lin",
+      "Min Zuo"
+    ],
+    "abstract": "Accurate traffic flow prediction, a hotspot for intelligent transportation research, is the prerequisite for traffic flow prediction for making travel plans. The speed of traffic flow can be affected by roads condition, weather, holidays, etc. Moreover, sensors to catch the information about traffic flow will be interfered with by environmental factors such as illumination, collection time, occlus...",
+    "date": "2023-05-25T01:00:34.686Z"
+  },
+  {
+    "articleNumber": "10133821",
+    "articleTitle": "DYC Design for Autonomous Distributed Drive Electric Vehicle Considering Tire Nonlinear Mechanical Characteristics in the PWA Form",
+    "authors": [
+      "Xiaoqiang Sun",
+      "Yulin Wang",
+      "Zhenqiang Quan",
+      "Yingfeng Cai",
+      "Long Chen",
+      "Shaoyi Bei"
+    ],
+    "abstract": "This paper presents a novel direct yaw moment control (DYC) strategy for autonomous distributed drive electric vehicle (DDEV) to improve path-following driving stability under critical maneuvers. Due to the fact that the tire mechanical characteristics show highly nonlinear under those critical conditions, the piecewise affine (PWA) identification method is chosen in this work to model the tire no...",
+    "date": "2023-05-25T01:00:34.686Z"
+  },
+  {
+    "articleNumber": "10133888",
+    "articleTitle": "Efficient Anonymous Batch Authentication Scheme With Conditional Privacy in the Internet of Vehicles (IoV) Applications",
+    "authors": [
+      "Chanchal Maurya",
+      "Vijay Kumar Chaurasiya"
+    ],
+    "abstract": "The Internet of Vehicles (IoV) has emerged as a robust solution to improve real-time road traffic conditions, safety, and driving comfort. However, the road’s dynamic environment and network heterogeneity make communication insecure. It poses many security threats like man-in-the-middle attacks, impersonation attacks, replay attacks, etc. Therefore, the message exchanges and real identities of nod...",
+    "date": "2023-05-25T01:00:34.686Z"
+  },
+  {
+    "articleNumber": "10132881",
+    "articleTitle": "Interactive Multi-Scale Fusion of 2D and 3D Features for Multi-Object Vehicle Tracking",
+    "authors": [
+      "Guangming Wang",
+      "Chensheng Peng",
+      "Yingying Gu",
+      "Jinpeng Zhang",
+      "Hesheng Wang"
+    ],
+    "abstract": "Multiple Object Tracking (MOT) is a significant task in autonomous driving. Nonetheless, relying on one single sensor is not robust enough, because one modality tends to fail in some challenging situations. Texture information from RGB cameras and 3D structure information from Light Detection and Ranging (LiDAR) have respective advantages under different circumstances. Therefore, feature fusion fr...",
+    "date": "2023-05-25T01:00:34.686Z"
+  },
+  {
+    "articleNumber": "10133877",
+    "articleTitle": "A Mesoscopic Human-Inspired Adaptive Cruise Control for Eco-Driving",
+    "authors": [
+      "Marco Mirabilio",
+      "Alessio Iovine",
+      "Elena De Santis",
+      "Maria Domenica Di Benedetto",
+      "Giordano Pola"
+    ],
+    "abstract": "Interconnected and autonomous vehicles are proven to be helpful in reducing traffic congestion and dangerous emissions while enhancing safety on our roads. In this context, the present paper introduces a human-inspired Adaptive Cruise Control dedicated to improving the passenger experience using Model Predictive Control and traffic macroscopic information. To better describe the characteristics of...",
+    "date": "2023-05-25T01:00:34.686Z"
+  },
+  {
+    "articleNumber": "10132884",
+    "articleTitle": "Predicting Urban Region Heat via Learning Arrive-Stay-Leave Behaviors of Private Cars",
+    "authors": [
+      "Zhu Xiao",
+      "Hao Li",
+      "Hongbo Jiang",
+      "You Li",
+      "Mamoun Alazab",
+      "Yongdong Zhu",
+      "Schahram Dustdar"
+    ],
+    "abstract": "Urban region heat refers to the extent of which people congregate in various regions when they travel to and stay in a specified place. Predicting urban region heat facilitates broad applications ranging from location-based services to intelligent transportation management. The region heat is essentially characterized by the ‘arrive-stay-leave (ASL)’ behaviors, while it is a challenging task to we...",
+    "date": "2023-05-25T01:00:34.686Z"
+  },
+  {
+    "articleNumber": "10133876",
+    "articleTitle": "A Demand Truncation and Migration Poisson Model for Real Demand Inference in Free-Floating Bike-Sharing System",
+    "authors": [
+      "Jianbiao Wang",
+      "Tomio Miwa",
+      "Takayuki Morikawa"
+    ],
+    "abstract": "The free-floating bike-sharing system enables users to pick up bikes from everywhere. However, the spatial-temporal imbalance of bikes becomes severer in such systems. Consequently, bikes are sometimes not available at desired location and time, and the pick-up demand of users is truncated. On demand truncation, the bike user would either give up using the bike or migrate to the nearby to pick up ...",
+    "date": "2023-05-25T01:00:34.686Z"
+  },
+  {
+    "articleNumber": "10133878",
+    "articleTitle": "Event-Triggered Prespecified Performance Control for Steer-by-Wire Systems With Input Nonlinearity",
+    "authors": [
+      "Yongfu Wang",
+      "Bingxin Ma",
+      "Dianhui Wang",
+      "Tianyou Chai"
+    ],
+    "abstract": "This paper addresses the prescribed tracking performance control problem for uncertain steer-by-wire (SbW) systems with input nonlinearity (including dead-zone and actuator fault) and the limitation of controller-area-network (CAN) bandwidth. An adaptive interval type-2 fuzzy logic system (IT2 FLS) is introduced to approximate the lumped model uncertainty, and a switching event-triggering mechanis...",
+    "date": "2023-05-25T01:00:34.686Z"
+  },
+  {
+    "articleNumber": "10133883",
+    "articleTitle": "Revealing Senior Mobility Patterns and Activities in Urban Transit Systems",
+    "authors": [
+      "Enhui Chen",
+      "Yang Liu",
+      "Min Yang"
+    ],
+    "abstract": "Urban mobility plays a crucial role in maintaining seniors’ well-being and quality of life, with urban transit systems serving as their primary mode of travel. This study focuses on revealing seniors’ travel patterns and activities and predicting their demands in transit systems. We propose a spatio-temporal travel pattern model that extends the structural topic model from text mining, to detect s...",
+    "date": "2023-05-25T01:00:34.686Z"
+  },
+  {
+    "articleNumber": "10132866",
+    "articleTitle": "Robust Accurate Lane Detection and Tracking for Automated Rubber-Tired Gantries in a Container Terminal",
+    "authors": [
+      "Yunjian Feng",
+      "Jun Li"
+    ],
+    "abstract": "Lane detection and tracking technique is the autonomous driving basis for Rubber-Tired Gantries (RTGs), vital to the automation and intelligence updating of man-driven container terminals. However, the existing lane detection methods developed for common road scenarios cannot meet the high-precision and robust all-weather requirements of RTG autonomous driving. In this article, we propose an Adapt...",
+    "date": "2023-05-25T01:00:34.686Z"
+  },
+  {
+    "articleNumber": "10133894",
+    "articleTitle": "Edge Intelligence in Intelligent Transportation Systems: A Survey",
+    "authors": [
+      "Taiyuan Gong",
+      "Li Zhu",
+      "F. Richard Yu",
+      "Tao Tang"
+    ],
+    "abstract": "Edge intelligence (EI) is becoming one of the research hotspots among researchers, which is believed to help empower intelligent transportation systems (ITS). ITS generates a large amount of data at the network edge by millions of devices and sensors. Data-driven artificial intelligence (AI) is at the core of ITS development. By pushing the AI frontier to the network edge, EI enables ITS AI applic...",
+    "date": "2023-05-25T01:00:34.686Z"
+  },
+  {
+    "articleNumber": "10133840",
+    "articleTitle": "Traffic Police 3D Gesture Recognition Based on Spatial–Temporal Fully Adaptive Graph Convolutional Network",
+    "authors": [
+      "Zheng Fu",
+      "Junjie Chen",
+      "Kun Jiang",
+      "Sijia Wang",
+      "Junze Wen",
+      "Mengmeng Yang",
+      "Diange Yang"
+    ],
+    "abstract": "It is critical for autonomous vehicles to recognize traffic police gestures timely and accurately. During the movement of the vehicle, the collected traffic police scales change all the time, in addition, the frequency and amplitude of actions of different traffic police are different. First, we use gesture normalization to fix the traffic police actions at a unified scale and remove the influence...",
+    "date": "2023-05-25T01:00:34.686Z"
+  },
+  {
     "articleNumber": "10130479",
     "articleTitle": "Data-Driven Spatial Adaptive Terminal Iterative Learning Predictive Control for Automatic Stop Control of Subway Train With Actuator Saturation",
     "authors": [

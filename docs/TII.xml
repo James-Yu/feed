@@ -2,11 +2,68 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/TII.rss</id>
     <title>IEEE Transactions on Industrial Informatics</title>
-    <updated>2023-05-24T16:15:36.994Z</updated>
+    <updated>2023-05-25T01:00:57.753Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/TII.rss"/>
     <subtitle>IEEE Transactions on Industrial Informatics</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Distributed Dynamic Event-triggered Cooperative Control of Multiple TCLs and HESS for Improving Frequency Regulation]]></title>
+        <id>https://ieeexplore.ieee.org/document/10132588</id>
+        <link href="https://ieeexplore.ieee.org/document/10132588"/>
+        <updated>2023-05-25T01:00:57.746Z</updated>
+        <summary type="html"><![CDATA[The volatility and randomness of the source-load sides increase the difficulty for system frequency regulation, while flexible loads like temperature-controlled loads (TCLs) and hydrogen storage system (HESS) can be used to pro-vide frequency auxiliary services. In this paper, a hierarchi-cal frequency control framework is established, with TCLs and HESS interacting in a distributed cooperative wa...]]></summary>
+        <author>
+            <name>Nan Zhao</name>
+        </author>
+        <author>
+            <name>Dong Yue</name>
+        </author>
+        <author>
+            <name>Chunxia Dou</name>
+        </author>
+        <author>
+            <name>Tao Shi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guest Editorial: Cyber-Physical Threats and Solutions for Autonomous Transportation Systems]]></title>
+        <id>https://ieeexplore.ieee.org/document/10133903</id>
+        <link href="https://ieeexplore.ieee.org/document/10133903"/>
+        <updated>2023-05-25T01:00:57.746Z</updated>
+        <summary type="html"><![CDATA[The rapid evolution of technology has radically changed our everyday lives from multiple points of view. Systems and devices are nowadays more interconnected and capable of taking autonomous decisions without or with limited human intervention. Among the others, transportation systems are populated by smart and interconnected vehicles that need to communicate with each other and with critical infr...]]></summary>
+        <author>
+            <name>A. Brighente</name>
+        </author>
+        <author>
+            <name>M. Conti</name>
+        </author>
+        <author>
+            <name>R. Poovendran</name>
+        </author>
+        <author>
+            <name>J. Zhou</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guest Editorial: Advanced Intelligent Manufacturing System: Theory, Algorithms, and Industrial Applications]]></title>
+        <id>https://ieeexplore.ieee.org/document/10133904</id>
+        <link href="https://ieeexplore.ieee.org/document/10133904"/>
+        <updated>2023-05-25T01:00:57.746Z</updated>
+        <summary type="html"><![CDATA[Intelligent manufacturing has promoted the development of Industry 4.0 and enabled the manufacturing industry to gradually move into the stage of intelligence with the rapid development of the Internet of Things and the Industrial Internet. An intelligent manufacturing system is a manufacturing system that can automatically adapt to changing environments and varying process requirements with minim...]]></summary>
+        <author>
+            <name>Qiang Liu</name>
+        </author>
+        <author>
+            <name>Jialu Fan</name>
+        </author>
+        <author>
+            <name>Jin-Xi Zhang</name>
+        </author>
+        <author>
+            <name>Yaochu Jin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Efficient Task-Network Scheduling With Task Conflict Metric in Time-Sensitive Networking]]></title>
         <id>https://ieeexplore.ieee.org/document/10132080</id>

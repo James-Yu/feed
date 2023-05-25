@@ -1,5 +1,151 @@
 [
   {
+    "articleNumber": "10133838",
+    "articleTitle": "WALS: A Lightweight Stateless Label Switching Framework Based on Prime Theorem for MANETs",
+    "authors": [
+      "Wen-Kang Jia",
+      "Chi-Min Yu"
+    ],
+    "abstract": "This article proposes an innovative unicast/multicast unified, cross-layer, and control/user-plane splitting forwarding method, called Wireless Arithmetic Label Switching (WALS), for mobile ad-hoc networks (MANETs). The WALS is based on a stateless approach: an arithmetic source-routed label is processed by the source and intermediate nodes without table lookup, causing lower protocol overheads an...",
+    "date": "2023-05-25T01:00:52.395Z"
+  },
+  {
+    "articleNumber": "10133827",
+    "articleTitle": "SafeCity: A Heterogeneous Mobile Crowd Sensing System for Urban Public Safety",
+    "authors": [
+      "Yimeng Liu",
+      "Zhiwen Yu",
+      "Helei Cui",
+      "Sumi Helal",
+      "Bin Guo"
+    ],
+    "abstract": "As important indicators of urban public safety, Public Safety and Environmental Security (PSES) is related to residents’ living security and greatly affects their quality of life and happiness index. Due to PSES characteristics such as diverse forms, wide distribution, and unpredictable occurrence times, traditional solutions consume huge manpower and time in the implementation process. Although s...",
+    "date": "2023-05-25T01:00:52.395Z"
+  },
+  {
+    "articleNumber": "10133837",
+    "articleTitle": "Incentive-Based Federated Learning for Digital Twin Driven Industrial Mobile Crowdsensing",
+    "authors": [
+      "Beibei Li",
+      "Yaxin Shi",
+      "Qinglei Kong",
+      "Qingyun Du",
+      "Rongxing Lu"
+    ],
+    "abstract": "Mobile crowdsensing has empowered the Industrial Internet of Things (IIoT) in many ways, such as vehicle-aided traffic flow scheduling and drone-aided visual inspections, etc. However, dynamic perception and cooperative decision-making among these heterogeneous and resource-constrained mobile clients in IIoT remains a big challenge. In this paper, we propose an incentive-based federated learning s...",
+    "date": "2023-05-25T01:00:52.395Z"
+  },
+  {
+    "articleNumber": "10133822",
+    "articleTitle": "Fine-Grained Redactable Blockchain Using Trapdoor-Hash",
+    "authors": [
+      "Guohao Zhou",
+      "Xuan Ding",
+      "Haoxuan Han",
+      "Ao Zhu"
+    ],
+    "abstract": "The blockchains immutability permits widespread application in untrusted contexts such as digital currency, the Internet of Things, and anti-counterfeiting. This functionality, however, presents difficulties for regulators, developers, and users. For instance, unsuitable data may be permanently retained, blockchains may breach applicable rules and regulations, and smart contracts may contain bugs....",
+    "date": "2023-05-25T01:00:52.395Z"
+  },
+  {
+    "articleNumber": "10133828",
+    "articleTitle": "Differential Privacy Data Release Scheme Using Microaggregation with Conditional Feature Selection",
+    "authors": [
+      "Xinxin Ye",
+      "Youwen Zhu",
+      "Miao Zhang",
+      "Hai Deng"
+    ],
+    "abstract": "Differential privacy (DP) has achieved great progress in addressing the user privacy presrvation issues related to data analysis in the Internet of Things (IoT) services and applications. However, the existing DP models tend to overlook the effect of the correlation of data features on the utility of the smart IoT data. To mitigate this gap, we propose a Microaggregation-based Differential Privacy...",
+    "date": "2023-05-25T01:00:52.395Z"
+  },
+  {
+    "articleNumber": "10133869",
+    "articleTitle": "Reinforcement Learning Approach for SF Allocation in LoRa Network",
+    "authors": [
+      "Shengguang Hong",
+      "Fang Yao",
+      "Fengyun Zhang",
+      "Yulong Ding",
+      "Shuang-Hua Yang"
+    ],
+    "abstract": "LoRa technology is widely used to build wireless networks in various Internet of Things (IoT) applications. As the increased popularity of IoT, LoRa also gains tremendous attention in recent years. In most of the LoRa networks, Aloha protocol is employed to send packets which may easily lead to collisions. Thanks to the orthogonality of spreading factor (SF) in modulate technique, a potential solu...",
+    "date": "2023-05-25T01:00:52.395Z"
+  },
+  {
+    "articleNumber": "10133831",
+    "articleTitle": "Content-Aware Adaptive Device-Cloud Collaborative Inference for Object Detection",
+    "authors": [
+      "Youbing Hu",
+      "Zhijun Li",
+      "Yongrui Chen",
+      "Yun Cheng",
+      "Zhiqiang Cao",
+      "Jie Liu"
+    ],
+    "abstract": "Many intelligent applications based on deep neural networks are increasingly running on Internet of Things (IoT) devices. Unfortunately, the computing resources of these IoT devices are limited, which will seriously hinder the widespread deployment of various smart applications. A popular solution is to offload part of computation tasks from IoT device to cloud by way of device-cloud collaboration...",
+    "date": "2023-05-25T01:00:52.395Z"
+  },
+  {
+    "articleNumber": "10133839",
+    "articleTitle": "Cross-Chain Interoperability for Next-Gen Blockchain Systems",
+    "authors": [
+      "Darshan M",
+      "Matthieu Amet",
+      "Gautam Srivastava",
+      "Jorge Crichigno"
+    ],
+    "abstract": "Blockchain technology is crucial for cutting-edge demands and aligns with the trend towards decentralized architecture. Interoperability between private and public blockchain technology can revolutionize digital record-keeping and enable automation. Traditional database systems saw major developments when Application Programming Interfaces (API) and data were used across centralized entities. For ...",
+    "date": "2023-05-25T01:00:52.395Z"
+  },
+  {
+    "articleNumber": "10132905",
+    "articleTitle": "Cross-Modality Continuous User Authentication and Device Pairing with Respiratory Patterns",
+    "authors": [
+      "Shekh M. M. Islam",
+      "Yao Zheng",
+      "Yanjun Pan",
+      "Marionne Millan",
+      "Willy Chang",
+      "Ming Li",
+      "Olga Borić–Lubecke",
+      "Victor Lubecke",
+      "Wenhai Sun"
+    ],
+    "abstract": "At-home screening systems for obstructive sleep apnea (OSA) can bring convenience to remote chronic disease management. However, the unsupervised home environment is subject to spoofing and unintentional interference from the household member. To improve robustness, this work presents SIENNA, an insider-resistant breathing-based authentication/pairing protocol. SIENNA leverages the uniqueness of b...",
+    "date": "2023-05-25T01:00:52.395Z"
+  },
+  {
+    "articleNumber": "10133833",
+    "articleTitle": "A Collaborative Stealthy DDoS Detection Method based on Reinforcement Learning at the Edge of the Internet of Things",
+    "authors": [
+      "Yuming Feng",
+      "Weizhe Zhang",
+      "Shujun Yin",
+      "Hao Tang",
+      "Yang Xiang",
+      "Yu Zhang"
+    ],
+    "abstract": "The weaknesses of IoT devices leads to vulnerabilities easily, which can be exploited by criminals to launch distributed denial of service (DDoS) attacks, becoming a major security hazard. Nowadays, the rapid development of the Internet of Things (IoT) makes the IoT-based DDoS attacks have the characteristics of wide distribution, large scale and more stealthy that brings greater challenges for th...",
+    "date": "2023-05-25T01:00:52.395Z"
+  },
+  {
+    "articleNumber": "10133841",
+    "articleTitle": "A Survey on STAR-RIS: Use Cases, Recent Advances, and Future Research Challenges",
+    "authors": [
+      "Manzoor Ahmed",
+      "Abdul Wahid",
+      "Sayed Shariq Laique",
+      "Wali Ullah Khan",
+      "Asim Ihsan",
+      "Fang Xu",
+      "Symeon Chatzinotas",
+      "Zhu Han"
+    ],
+    "abstract": "The recent development of metasurfaces, which may enable several use cases by modifying the propagation environment, is anticipated to substantially affect the performance of 6G wireless communications. Metasurface elements can produce passive sub-wavelength scattering to enable a smart radio environment. STAR-RIS, which refers to reconfigurable intelligent surfaces (RIS) that can transmit and ref...",
+    "date": "2023-05-25T01:00:52.395Z"
+  },
+  {
     "articleNumber": "10131986",
     "articleTitle": "Cognitive Radio based Resource Management for Smart Transportation: A Sliding Mode Control Approach",
     "authors": [

@@ -1,5 +1,29 @@
 [
   {
+    "articleNumber": "10133915",
+    "articleTitle": "Differentiable Histogram Loss Functions for Intensity-based Image-to-Image Translation",
+    "authors": [
+      "Mor Avi-Aharon",
+      "Assaf Arbelle",
+      "Tammy Riklin Raviv"
+    ],
+    "abstract": "We introduce the HueNet - a novel deep learning framework for a differentiable construction of intensity (1D) and joint (2D) histograms and present its applicability to paired and unpaired image-to-image translation problems. The key idea is an innovative technique for augmenting a generative neural network by histogram layers appended to the image generator. These histogram layers allow us to def...",
+    "date": "2023-05-25T01:00:46.817Z"
+  },
+  {
+    "articleNumber": "10132543",
+    "articleTitle": "A Novel Normalized-Cut Solver with Nearest Neighbor Hierarchical Initialization",
+    "authors": [
+      "Feiping Nie",
+      "Jitao Lu",
+      "Danyang Wu",
+      "Rong Wang",
+      "Xuelong Li"
+    ],
+    "abstract": "Normalized-Cut (N-Cut) is a famous model of spectral clustering. The traditional N-Cut solvers are two-stage: 1) calculating the continuous spectral embedding of normalized Laplacian matrix; 2) discretization via $K$-means or spectral rotation. However, this paradigm brings two vital problems: 1) two-stage methods solve a relaxed version of the original problem, so they cannot obtain good solution...",
+    "date": "2023-05-25T01:00:46.817Z"
+  },
+  {
     "articleNumber": "10130607",
     "articleTitle": "Ranking-Based Color Constancy With Limited Training Samples",
     "authors": [

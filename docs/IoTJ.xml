@@ -2,11 +2,262 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/IoTJ.rss</id>
     <title>IEEE Internet of Things Journal</title>
-    <updated>2023-05-24T16:15:30.246Z</updated>
+    <updated>2023-05-25T01:00:52.401Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/IoTJ.rss"/>
     <subtitle>IEEE Internet of Things Journal</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[WALS: A Lightweight Stateless Label Switching Framework Based on Prime Theorem for MANETs]]></title>
+        <id>https://ieeexplore.ieee.org/document/10133838</id>
+        <link href="https://ieeexplore.ieee.org/document/10133838"/>
+        <updated>2023-05-25T01:00:52.395Z</updated>
+        <summary type="html"><![CDATA[This article proposes an innovative unicast/multicast unified, cross-layer, and control/user-plane splitting forwarding method, called Wireless Arithmetic Label Switching (WALS), for mobile ad-hoc networks (MANETs). The WALS is based on a stateless approach: an arithmetic source-routed label is processed by the source and intermediate nodes without table lookup, causing lower protocol overheads an...]]></summary>
+        <author>
+            <name>Wen-Kang Jia</name>
+        </author>
+        <author>
+            <name>Chi-Min Yu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SafeCity: A Heterogeneous Mobile Crowd Sensing System for Urban Public Safety]]></title>
+        <id>https://ieeexplore.ieee.org/document/10133827</id>
+        <link href="https://ieeexplore.ieee.org/document/10133827"/>
+        <updated>2023-05-25T01:00:52.395Z</updated>
+        <summary type="html"><![CDATA[As important indicators of urban public safety, Public Safety and Environmental Security (PSES) is related to residents’ living security and greatly affects their quality of life and happiness index. Due to PSES characteristics such as diverse forms, wide distribution, and unpredictable occurrence times, traditional solutions consume huge manpower and time in the implementation process. Although s...]]></summary>
+        <author>
+            <name>Yimeng Liu</name>
+        </author>
+        <author>
+            <name>Zhiwen Yu</name>
+        </author>
+        <author>
+            <name>Helei Cui</name>
+        </author>
+        <author>
+            <name>Sumi Helal</name>
+        </author>
+        <author>
+            <name>Bin Guo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Incentive-Based Federated Learning for Digital Twin Driven Industrial Mobile Crowdsensing]]></title>
+        <id>https://ieeexplore.ieee.org/document/10133837</id>
+        <link href="https://ieeexplore.ieee.org/document/10133837"/>
+        <updated>2023-05-25T01:00:52.395Z</updated>
+        <summary type="html"><![CDATA[Mobile crowdsensing has empowered the Industrial Internet of Things (IIoT) in many ways, such as vehicle-aided traffic flow scheduling and drone-aided visual inspections, etc. However, dynamic perception and cooperative decision-making among these heterogeneous and resource-constrained mobile clients in IIoT remains a big challenge. In this paper, we propose an incentive-based federated learning s...]]></summary>
+        <author>
+            <name>Beibei Li</name>
+        </author>
+        <author>
+            <name>Yaxin Shi</name>
+        </author>
+        <author>
+            <name>Qinglei Kong</name>
+        </author>
+        <author>
+            <name>Qingyun Du</name>
+        </author>
+        <author>
+            <name>Rongxing Lu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fine-Grained Redactable Blockchain Using Trapdoor-Hash]]></title>
+        <id>https://ieeexplore.ieee.org/document/10133822</id>
+        <link href="https://ieeexplore.ieee.org/document/10133822"/>
+        <updated>2023-05-25T01:00:52.395Z</updated>
+        <summary type="html"><![CDATA[The blockchains immutability permits widespread application in untrusted contexts such as digital currency, the Internet of Things, and anti-counterfeiting. This functionality, however, presents difficulties for regulators, developers, and users. For instance, unsuitable data may be permanently retained, blockchains may breach applicable rules and regulations, and smart contracts may contain bugs....]]></summary>
+        <author>
+            <name>Guohao Zhou</name>
+        </author>
+        <author>
+            <name>Xuan Ding</name>
+        </author>
+        <author>
+            <name>Haoxuan Han</name>
+        </author>
+        <author>
+            <name>Ao Zhu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Differential Privacy Data Release Scheme Using Microaggregation with Conditional Feature Selection]]></title>
+        <id>https://ieeexplore.ieee.org/document/10133828</id>
+        <link href="https://ieeexplore.ieee.org/document/10133828"/>
+        <updated>2023-05-25T01:00:52.395Z</updated>
+        <summary type="html"><![CDATA[Differential privacy (DP) has achieved great progress in addressing the user privacy presrvation issues related to data analysis in the Internet of Things (IoT) services and applications. However, the existing DP models tend to overlook the effect of the correlation of data features on the utility of the smart IoT data. To mitigate this gap, we propose a Microaggregation-based Differential Privacy...]]></summary>
+        <author>
+            <name>Xinxin Ye</name>
+        </author>
+        <author>
+            <name>Youwen Zhu</name>
+        </author>
+        <author>
+            <name>Miao Zhang</name>
+        </author>
+        <author>
+            <name>Hai Deng</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reinforcement Learning Approach for SF Allocation in LoRa Network]]></title>
+        <id>https://ieeexplore.ieee.org/document/10133869</id>
+        <link href="https://ieeexplore.ieee.org/document/10133869"/>
+        <updated>2023-05-25T01:00:52.395Z</updated>
+        <summary type="html"><![CDATA[LoRa technology is widely used to build wireless networks in various Internet of Things (IoT) applications. As the increased popularity of IoT, LoRa also gains tremendous attention in recent years. In most of the LoRa networks, Aloha protocol is employed to send packets which may easily lead to collisions. Thanks to the orthogonality of spreading factor (SF) in modulate technique, a potential solu...]]></summary>
+        <author>
+            <name>Shengguang Hong</name>
+        </author>
+        <author>
+            <name>Fang Yao</name>
+        </author>
+        <author>
+            <name>Fengyun Zhang</name>
+        </author>
+        <author>
+            <name>Yulong Ding</name>
+        </author>
+        <author>
+            <name>Shuang-Hua Yang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Content-Aware Adaptive Device-Cloud Collaborative Inference for Object Detection]]></title>
+        <id>https://ieeexplore.ieee.org/document/10133831</id>
+        <link href="https://ieeexplore.ieee.org/document/10133831"/>
+        <updated>2023-05-25T01:00:52.395Z</updated>
+        <summary type="html"><![CDATA[Many intelligent applications based on deep neural networks are increasingly running on Internet of Things (IoT) devices. Unfortunately, the computing resources of these IoT devices are limited, which will seriously hinder the widespread deployment of various smart applications. A popular solution is to offload part of computation tasks from IoT device to cloud by way of device-cloud collaboration...]]></summary>
+        <author>
+            <name>Youbing Hu</name>
+        </author>
+        <author>
+            <name>Zhijun Li</name>
+        </author>
+        <author>
+            <name>Yongrui Chen</name>
+        </author>
+        <author>
+            <name>Yun Cheng</name>
+        </author>
+        <author>
+            <name>Zhiqiang Cao</name>
+        </author>
+        <author>
+            <name>Jie Liu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cross-Chain Interoperability for Next-Gen Blockchain Systems]]></title>
+        <id>https://ieeexplore.ieee.org/document/10133839</id>
+        <link href="https://ieeexplore.ieee.org/document/10133839"/>
+        <updated>2023-05-25T01:00:52.395Z</updated>
+        <summary type="html"><![CDATA[Blockchain technology is crucial for cutting-edge demands and aligns with the trend towards decentralized architecture. Interoperability between private and public blockchain technology can revolutionize digital record-keeping and enable automation. Traditional database systems saw major developments when Application Programming Interfaces (API) and data were used across centralized entities. For ...]]></summary>
+        <author>
+            <name>Darshan M</name>
+        </author>
+        <author>
+            <name>Matthieu Amet</name>
+        </author>
+        <author>
+            <name>Gautam Srivastava</name>
+        </author>
+        <author>
+            <name>Jorge Crichigno</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cross-Modality Continuous User Authentication and Device Pairing with Respiratory Patterns]]></title>
+        <id>https://ieeexplore.ieee.org/document/10132905</id>
+        <link href="https://ieeexplore.ieee.org/document/10132905"/>
+        <updated>2023-05-25T01:00:52.395Z</updated>
+        <summary type="html"><![CDATA[At-home screening systems for obstructive sleep apnea (OSA) can bring convenience to remote chronic disease management. However, the unsupervised home environment is subject to spoofing and unintentional interference from the household member. To improve robustness, this work presents SIENNA, an insider-resistant breathing-based authentication/pairing protocol. SIENNA leverages the uniqueness of b...]]></summary>
+        <author>
+            <name>Shekh M. M. Islam</name>
+        </author>
+        <author>
+            <name>Yao Zheng</name>
+        </author>
+        <author>
+            <name>Yanjun Pan</name>
+        </author>
+        <author>
+            <name>Marionne Millan</name>
+        </author>
+        <author>
+            <name>Willy Chang</name>
+        </author>
+        <author>
+            <name>Ming Li</name>
+        </author>
+        <author>
+            <name>Olga Borić–Lubecke</name>
+        </author>
+        <author>
+            <name>Victor Lubecke</name>
+        </author>
+        <author>
+            <name>Wenhai Sun</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Collaborative Stealthy DDoS Detection Method based on Reinforcement Learning at the Edge of the Internet of Things]]></title>
+        <id>https://ieeexplore.ieee.org/document/10133833</id>
+        <link href="https://ieeexplore.ieee.org/document/10133833"/>
+        <updated>2023-05-25T01:00:52.395Z</updated>
+        <summary type="html"><![CDATA[The weaknesses of IoT devices leads to vulnerabilities easily, which can be exploited by criminals to launch distributed denial of service (DDoS) attacks, becoming a major security hazard. Nowadays, the rapid development of the Internet of Things (IoT) makes the IoT-based DDoS attacks have the characteristics of wide distribution, large scale and more stealthy that brings greater challenges for th...]]></summary>
+        <author>
+            <name>Yuming Feng</name>
+        </author>
+        <author>
+            <name>Weizhe Zhang</name>
+        </author>
+        <author>
+            <name>Shujun Yin</name>
+        </author>
+        <author>
+            <name>Hao Tang</name>
+        </author>
+        <author>
+            <name>Yang Xiang</name>
+        </author>
+        <author>
+            <name>Yu Zhang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Survey on STAR-RIS: Use Cases, Recent Advances, and Future Research Challenges]]></title>
+        <id>https://ieeexplore.ieee.org/document/10133841</id>
+        <link href="https://ieeexplore.ieee.org/document/10133841"/>
+        <updated>2023-05-25T01:00:52.395Z</updated>
+        <summary type="html"><![CDATA[The recent development of metasurfaces, which may enable several use cases by modifying the propagation environment, is anticipated to substantially affect the performance of 6G wireless communications. Metasurface elements can produce passive sub-wavelength scattering to enable a smart radio environment. STAR-RIS, which refers to reconfigurable intelligent surfaces (RIS) that can transmit and ref...]]></summary>
+        <author>
+            <name>Manzoor Ahmed</name>
+        </author>
+        <author>
+            <name>Abdul Wahid</name>
+        </author>
+        <author>
+            <name>Sayed Shariq Laique</name>
+        </author>
+        <author>
+            <name>Wali Ullah Khan</name>
+        </author>
+        <author>
+            <name>Asim Ihsan</name>
+        </author>
+        <author>
+            <name>Fang Xu</name>
+        </author>
+        <author>
+            <name>Symeon Chatzinotas</name>
+        </author>
+        <author>
+            <name>Zhu Han</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cognitive Radio based Resource Management for Smart Transportation: A Sliding Mode Control Approach]]></title>
         <id>https://ieeexplore.ieee.org/document/10131986</id>

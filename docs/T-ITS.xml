@@ -2,11 +2,481 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/T-ITS.rss</id>
     <title>IEEE Transactions on Intelligent Transportation Systems</title>
-    <updated>2023-05-24T16:14:55.761Z</updated>
+    <updated>2023-05-25T01:00:34.691Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/T-ITS.rss"/>
     <subtitle>IEEE Transactions on Intelligent Transportation Systems</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Decision-Making Driven by Driver Intelligence and Environment Reasoning for High-Level Autonomous Vehicles: A Survey]]></title>
+        <id>https://ieeexplore.ieee.org/document/10133881</id>
+        <link href="https://ieeexplore.ieee.org/document/10133881"/>
+        <updated>2023-05-25T01:00:34.686Z</updated>
+        <summary type="html"><![CDATA[Autonomous vehicle (AV) is expected to reshape the future transportation system, and its decision-making is one of the most critical modules. Many current decision-making modules are designed scenario-by-scenario and thus are not capable of meeting high-level AV requirements for lack of scalability to cope with the diversity of drivers’ demands and the infinity of traffic elements. This paper surv...]]></summary>
+        <author>
+            <name>Yuning Wang</name>
+        </author>
+        <author>
+            <name>Junkai Jiang</name>
+        </author>
+        <author>
+            <name>Shangyi Li</name>
+        </author>
+        <author>
+            <name>Ruochen Li</name>
+        </author>
+        <author>
+            <name>Shaobing Xu</name>
+        </author>
+        <author>
+            <name>Jianqiang Wang</name>
+        </author>
+        <author>
+            <name>Keqiang Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Security-Enhanced Certificateless Conditional Privacy-Preserving Authentication Scheme for Vehicular Ad Hoc Networks]]></title>
+        <id>https://ieeexplore.ieee.org/document/10133880</id>
+        <link href="https://ieeexplore.ieee.org/document/10133880"/>
+        <updated>2023-05-25T01:00:34.686Z</updated>
+        <summary type="html"><![CDATA[By adopting advanced Internet of Things (IoT) technology to sense and collect traffic-related information to improve traffic safety and efficiency, the vehicular ad hoc network (VANET) is becoming a prominent application that changes human driving experiences in the current era. Because frequent data exchange occurs in open environments, VANETs are inherently vulnerable to security and privacy att...]]></summary>
+        <author>
+            <name>Fei Zhu</name>
+        </author>
+        <author>
+            <name>Xun Yi</name>
+        </author>
+        <author>
+            <name>Alsharif Abuadbba</name>
+        </author>
+        <author>
+            <name>Ibrahim Khalil</name>
+        </author>
+        <author>
+            <name>Xinyi Huang</name>
+        </author>
+        <author>
+            <name>Feihong Xu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EU ENSEMBLE Project: Reference Design and Implementation of the Platooning Support Function]]></title>
+        <id>https://ieeexplore.ieee.org/document/10132885</id>
+        <link href="https://ieeexplore.ieee.org/document/10132885"/>
+        <updated>2023-05-25T01:00:34.686Z</updated>
+        <summary type="html"><![CDATA[Platooning is a cooperative driving technology for driving in a longitudinal formation. Vehicle-to-vehicle (V2V) communication is the key enabling technology. Platooning is considered to be a closed application between well-known participants that use V2V data for their operation. For the deployment of platooning, multi-brand, i.e. interoperable, solutions are paramount. To achieve this, the Europ...]]></summary>
+        <author>
+            <name>Antonius J. C. Schmeitz</name>
+        </author>
+        <author>
+            <name>Dehlia M. C. Willemsen</name>
+        </author>
+        <author>
+            <name>Simon Ellwanger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Hierarchical Vehicle Behavior Prediction Framework With Traffic Signals and Interactive Agents]]></title>
+        <id>https://ieeexplore.ieee.org/document/10133889</id>
+        <link href="https://ieeexplore.ieee.org/document/10133889"/>
+        <updated>2023-05-25T01:00:34.686Z</updated>
+        <summary type="html"><![CDATA[Vehicle behavior prediction in complex urban scenarios with traffic signals and interactive agents is an important yet complicated task for autonomous vehicles (AVs). In this work, a hierarchical vehicle behavior prediction framework is proposed to incorporate the traffic signal information and model the interaction between vehicles. The framework predicts vehicle behaviors in two stages, discrete...]]></summary>
+        <author>
+            <name>Zhen Yang</name>
+        </author>
+        <author>
+            <name>Rusheng Zhang</name>
+        </author>
+        <author>
+            <name>Gaurav Pandey</name>
+        </author>
+        <author>
+            <name>Neda Masoud</name>
+        </author>
+        <author>
+            <name>Henry X. Liu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When Will We Arrive? A Novel Multi-Task Spatio-Temporal Attention Network Based on Individual Preference for Estimating Travel Time]]></title>
+        <id>https://ieeexplore.ieee.org/document/10133870</id>
+        <link href="https://ieeexplore.ieee.org/document/10133870"/>
+        <updated>2023-05-25T01:00:34.686Z</updated>
+        <summary type="html"><![CDATA[Predicting how long a trip will take may allow travelers plan ahead, save money, and avoid traffic congestion. The journey time estimation model should take into account three crucial factors: (1) individual travel preference, (2) dynamic spatio-temporal correlations, and (3) the association between long-term speed forecast and travel time estimate. In order to overcome these challenges, this stud...]]></summary>
+        <author>
+            <name>Guojian Zou</name>
+        </author>
+        <author>
+            <name>Ziliang Lai</name>
+        </author>
+        <author>
+            <name>Changxi Ma</name>
+        </author>
+        <author>
+            <name>Meiting Tu</name>
+        </author>
+        <author>
+            <name>Jing Fan</name>
+        </author>
+        <author>
+            <name>Ye Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MetaProbformer for Charging Load Probabilistic Forecasting of Electric Vehicle Charging Stations]]></title>
+        <id>https://ieeexplore.ieee.org/document/10132865</id>
+        <link href="https://ieeexplore.ieee.org/document/10132865"/>
+        <updated>2023-05-25T01:00:34.686Z</updated>
+        <summary type="html"><![CDATA[The penetration of electric vehicles (EV) has been increasing rapidly in recent years. Electric vehicle charging load poses a huge demand on the power grids. The forecasting for electric vehicle charging load, especially for the charging load of EV charging stations, is of significant importance for the safe operation of power grids. However, most of the existing forecasting methods fail to captur...]]></summary>
+        <author>
+            <name>Xingshuai Huang</name>
+        </author>
+        <author>
+            <name>Di Wu</name>
+        </author>
+        <author>
+            <name>Benoit Boulet</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Synergizing Low Rank Representation and Deep Learning for Automatic Pavement Crack Detection]]></title>
+        <id>https://ieeexplore.ieee.org/document/10132879</id>
+        <link href="https://ieeexplore.ieee.org/document/10132879"/>
+        <updated>2023-05-25T01:00:34.686Z</updated>
+        <summary type="html"><![CDATA[Due to the critical role of pavement crack detection for road maintenance and eventually ensuring safety, remarkable efforts have been devoted to this research area, and such a trend is further intensified for the coming unmanned vehicle era. However, such crack detection task still remains unexpectedly challenging in practice since the appearance of both cracks and the background are diverse and ...]]></summary>
+        <author>
+            <name>Zhi Gao</name>
+        </author>
+        <author>
+            <name>Xuhui Zhao</name>
+        </author>
+        <author>
+            <name>Min Cao</name>
+        </author>
+        <author>
+            <name>Ziyao Li</name>
+        </author>
+        <author>
+            <name>Kangcheng Liu</name>
+        </author>
+        <author>
+            <name>Ben M. Chen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hybrid Recruitment Scheme Based on Deep Learning in Vehicular Crowdsensing]]></title>
+        <id>https://ieeexplore.ieee.org/document/10133879</id>
+        <link href="https://ieeexplore.ieee.org/document/10133879"/>
+        <updated>2023-05-25T01:00:34.686Z</updated>
+        <summary type="html"><![CDATA[Vehicular Crowdsensing (VCS) aims to collect sensing data over a range of areas using a large number of on-board sensors and resources in intelligent vehicles. The mobility of vehicles allows for large-scale mobile sensing data, but it remains a challenging problem to recruit the right participating vehicles and to actively maximize the sensing benefits. In this paper, we formulate the vehicle rec...]]></summary>
+        <author>
+            <name>Yanming Fu</name>
+        </author>
+        <author>
+            <name>Xiaoqiong Qin</name>
+        </author>
+        <author>
+            <name>Xian Zhang</name>
+        </author>
+        <author>
+            <name>Youquan Jia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[P3SNet: Parallel Pyramid Pooling Stereo Network]]></title>
+        <id>https://ieeexplore.ieee.org/document/10133885</id>
+        <link href="https://ieeexplore.ieee.org/document/10133885"/>
+        <updated>2023-05-25T01:00:34.686Z</updated>
+        <summary type="html"><![CDATA[In autonomous driving and advanced driver assistance systems (ADAS), stereo matching is a challenging research topic. Recent work has shown that high-accuracy disparity maps can be obtained with end-to-end training with the help of deep convolutional neural networks from stereo images. However, many of these methods suffer from long run-time for real-time studies. Therefore, in this paper, we intr...]]></summary>
+        <author>
+            <name>Alper Emlek</name>
+        </author>
+        <author>
+            <name>Murat Peker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spatio-Temporal Characterization of Stochastic Dynamic Transportation Networks]]></title>
+        <id>https://ieeexplore.ieee.org/document/10133890</id>
+        <link href="https://ieeexplore.ieee.org/document/10133890"/>
+        <updated>2023-05-25T01:00:34.686Z</updated>
+        <summary type="html"><![CDATA[This paper addresses the problem of modeling stochastic dynamic transportation networks, where travel times are random variables with time-varying distributions and spatio-temporal dependencies. It presents a taxonomy of modeling approaches used in the literature and defines extended taxonomic categories to better capture the characteristics of transportation networks. A two-part approach is prese...]]></summary>
+        <author>
+            <name>Monika Filipovska</name>
+        </author>
+        <author>
+            <name>Hani S. Mahmassani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Dual-Recursive-Least-Squares Algorithm for Automotive Radar Interference Suppression]]></title>
+        <id>https://ieeexplore.ieee.org/document/10133873</id>
+        <link href="https://ieeexplore.ieee.org/document/10133873"/>
+        <updated>2023-05-25T01:00:34.686Z</updated>
+        <summary type="html"><![CDATA[Automotive radar sensors are widely used in vehicles so as to allow the “advanced driver assistance systems (ADAS)” to work. As far as we are concerned, no mandatory regulations were established so far for interference control in the cases where multiple vehicles equipped with automotive radars exist in close proximity. Consequently, those inter-vehicle cross-interference easily result in the rada...]]></summary>
+        <author>
+            <name>Ping Wang</name>
+        </author>
+        <author>
+            <name>Xuefeng Yin</name>
+        </author>
+        <author>
+            <name>José Rodríguez-Piñeiro</name>
+        </author>
+        <author>
+            <name>Zhuoyu Chen</name>
+        </author>
+        <author>
+            <name>Pengqi Zhu</name>
+        </author>
+        <author>
+            <name>Gang Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Variational Bayesian Inference-Based En-Decoder Framework for Traffic Flow Prediction]]></title>
+        <id>https://ieeexplore.ieee.org/document/10132868</id>
+        <link href="https://ieeexplore.ieee.org/document/10132868"/>
+        <updated>2023-05-25T01:00:34.686Z</updated>
+        <summary type="html"><![CDATA[Accurate traffic flow prediction, a hotspot for intelligent transportation research, is the prerequisite for traffic flow prediction for making travel plans. The speed of traffic flow can be affected by roads condition, weather, holidays, etc. Moreover, sensors to catch the information about traffic flow will be interfered with by environmental factors such as illumination, collection time, occlus...]]></summary>
+        <author>
+            <name>Jianlei Kong</name>
+        </author>
+        <author>
+            <name>Xiaomeng Fan</name>
+        </author>
+        <author>
+            <name>Xuebo Jin</name>
+        </author>
+        <author>
+            <name>Sen Lin</name>
+        </author>
+        <author>
+            <name>Min Zuo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DYC Design for Autonomous Distributed Drive Electric Vehicle Considering Tire Nonlinear Mechanical Characteristics in the PWA Form]]></title>
+        <id>https://ieeexplore.ieee.org/document/10133821</id>
+        <link href="https://ieeexplore.ieee.org/document/10133821"/>
+        <updated>2023-05-25T01:00:34.686Z</updated>
+        <summary type="html"><![CDATA[This paper presents a novel direct yaw moment control (DYC) strategy for autonomous distributed drive electric vehicle (DDEV) to improve path-following driving stability under critical maneuvers. Due to the fact that the tire mechanical characteristics show highly nonlinear under those critical conditions, the piecewise affine (PWA) identification method is chosen in this work to model the tire no...]]></summary>
+        <author>
+            <name>Xiaoqiang Sun</name>
+        </author>
+        <author>
+            <name>Yulin Wang</name>
+        </author>
+        <author>
+            <name>Zhenqiang Quan</name>
+        </author>
+        <author>
+            <name>Yingfeng Cai</name>
+        </author>
+        <author>
+            <name>Long Chen</name>
+        </author>
+        <author>
+            <name>Shaoyi Bei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Efficient Anonymous Batch Authentication Scheme With Conditional Privacy in the Internet of Vehicles (IoV) Applications]]></title>
+        <id>https://ieeexplore.ieee.org/document/10133888</id>
+        <link href="https://ieeexplore.ieee.org/document/10133888"/>
+        <updated>2023-05-25T01:00:34.686Z</updated>
+        <summary type="html"><![CDATA[The Internet of Vehicles (IoV) has emerged as a robust solution to improve real-time road traffic conditions, safety, and driving comfort. However, the road’s dynamic environment and network heterogeneity make communication insecure. It poses many security threats like man-in-the-middle attacks, impersonation attacks, replay attacks, etc. Therefore, the message exchanges and real identities of nod...]]></summary>
+        <author>
+            <name>Chanchal Maurya</name>
+        </author>
+        <author>
+            <name>Vijay Kumar Chaurasiya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Interactive Multi-Scale Fusion of 2D and 3D Features for Multi-Object Vehicle Tracking]]></title>
+        <id>https://ieeexplore.ieee.org/document/10132881</id>
+        <link href="https://ieeexplore.ieee.org/document/10132881"/>
+        <updated>2023-05-25T01:00:34.686Z</updated>
+        <summary type="html"><![CDATA[Multiple Object Tracking (MOT) is a significant task in autonomous driving. Nonetheless, relying on one single sensor is not robust enough, because one modality tends to fail in some challenging situations. Texture information from RGB cameras and 3D structure information from Light Detection and Ranging (LiDAR) have respective advantages under different circumstances. Therefore, feature fusion fr...]]></summary>
+        <author>
+            <name>Guangming Wang</name>
+        </author>
+        <author>
+            <name>Chensheng Peng</name>
+        </author>
+        <author>
+            <name>Yingying Gu</name>
+        </author>
+        <author>
+            <name>Jinpeng Zhang</name>
+        </author>
+        <author>
+            <name>Hesheng Wang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Mesoscopic Human-Inspired Adaptive Cruise Control for Eco-Driving]]></title>
+        <id>https://ieeexplore.ieee.org/document/10133877</id>
+        <link href="https://ieeexplore.ieee.org/document/10133877"/>
+        <updated>2023-05-25T01:00:34.686Z</updated>
+        <summary type="html"><![CDATA[Interconnected and autonomous vehicles are proven to be helpful in reducing traffic congestion and dangerous emissions while enhancing safety on our roads. In this context, the present paper introduces a human-inspired Adaptive Cruise Control dedicated to improving the passenger experience using Model Predictive Control and traffic macroscopic information. To better describe the characteristics of...]]></summary>
+        <author>
+            <name>Marco Mirabilio</name>
+        </author>
+        <author>
+            <name>Alessio Iovine</name>
+        </author>
+        <author>
+            <name>Elena De Santis</name>
+        </author>
+        <author>
+            <name>Maria Domenica Di Benedetto</name>
+        </author>
+        <author>
+            <name>Giordano Pola</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Predicting Urban Region Heat via Learning Arrive-Stay-Leave Behaviors of Private Cars]]></title>
+        <id>https://ieeexplore.ieee.org/document/10132884</id>
+        <link href="https://ieeexplore.ieee.org/document/10132884"/>
+        <updated>2023-05-25T01:00:34.686Z</updated>
+        <summary type="html"><![CDATA[Urban region heat refers to the extent of which people congregate in various regions when they travel to and stay in a specified place. Predicting urban region heat facilitates broad applications ranging from location-based services to intelligent transportation management. The region heat is essentially characterized by the ‘arrive-stay-leave (ASL)’ behaviors, while it is a challenging task to we...]]></summary>
+        <author>
+            <name>Zhu Xiao</name>
+        </author>
+        <author>
+            <name>Hao Li</name>
+        </author>
+        <author>
+            <name>Hongbo Jiang</name>
+        </author>
+        <author>
+            <name>You Li</name>
+        </author>
+        <author>
+            <name>Mamoun Alazab</name>
+        </author>
+        <author>
+            <name>Yongdong Zhu</name>
+        </author>
+        <author>
+            <name>Schahram Dustdar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Demand Truncation and Migration Poisson Model for Real Demand Inference in Free-Floating Bike-Sharing System]]></title>
+        <id>https://ieeexplore.ieee.org/document/10133876</id>
+        <link href="https://ieeexplore.ieee.org/document/10133876"/>
+        <updated>2023-05-25T01:00:34.686Z</updated>
+        <summary type="html"><![CDATA[The free-floating bike-sharing system enables users to pick up bikes from everywhere. However, the spatial-temporal imbalance of bikes becomes severer in such systems. Consequently, bikes are sometimes not available at desired location and time, and the pick-up demand of users is truncated. On demand truncation, the bike user would either give up using the bike or migrate to the nearby to pick up ...]]></summary>
+        <author>
+            <name>Jianbiao Wang</name>
+        </author>
+        <author>
+            <name>Tomio Miwa</name>
+        </author>
+        <author>
+            <name>Takayuki Morikawa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Event-Triggered Prespecified Performance Control for Steer-by-Wire Systems With Input Nonlinearity]]></title>
+        <id>https://ieeexplore.ieee.org/document/10133878</id>
+        <link href="https://ieeexplore.ieee.org/document/10133878"/>
+        <updated>2023-05-25T01:00:34.686Z</updated>
+        <summary type="html"><![CDATA[This paper addresses the prescribed tracking performance control problem for uncertain steer-by-wire (SbW) systems with input nonlinearity (including dead-zone and actuator fault) and the limitation of controller-area-network (CAN) bandwidth. An adaptive interval type-2 fuzzy logic system (IT2 FLS) is introduced to approximate the lumped model uncertainty, and a switching event-triggering mechanis...]]></summary>
+        <author>
+            <name>Yongfu Wang</name>
+        </author>
+        <author>
+            <name>Bingxin Ma</name>
+        </author>
+        <author>
+            <name>Dianhui Wang</name>
+        </author>
+        <author>
+            <name>Tianyou Chai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Revealing Senior Mobility Patterns and Activities in Urban Transit Systems]]></title>
+        <id>https://ieeexplore.ieee.org/document/10133883</id>
+        <link href="https://ieeexplore.ieee.org/document/10133883"/>
+        <updated>2023-05-25T01:00:34.686Z</updated>
+        <summary type="html"><![CDATA[Urban mobility plays a crucial role in maintaining seniors’ well-being and quality of life, with urban transit systems serving as their primary mode of travel. This study focuses on revealing seniors’ travel patterns and activities and predicting their demands in transit systems. We propose a spatio-temporal travel pattern model that extends the structural topic model from text mining, to detect s...]]></summary>
+        <author>
+            <name>Enhui Chen</name>
+        </author>
+        <author>
+            <name>Yang Liu</name>
+        </author>
+        <author>
+            <name>Min Yang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Robust Accurate Lane Detection and Tracking for Automated Rubber-Tired Gantries in a Container Terminal]]></title>
+        <id>https://ieeexplore.ieee.org/document/10132866</id>
+        <link href="https://ieeexplore.ieee.org/document/10132866"/>
+        <updated>2023-05-25T01:00:34.686Z</updated>
+        <summary type="html"><![CDATA[Lane detection and tracking technique is the autonomous driving basis for Rubber-Tired Gantries (RTGs), vital to the automation and intelligence updating of man-driven container terminals. However, the existing lane detection methods developed for common road scenarios cannot meet the high-precision and robust all-weather requirements of RTG autonomous driving. In this article, we propose an Adapt...]]></summary>
+        <author>
+            <name>Yunjian Feng</name>
+        </author>
+        <author>
+            <name>Jun Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Edge Intelligence in Intelligent Transportation Systems: A Survey]]></title>
+        <id>https://ieeexplore.ieee.org/document/10133894</id>
+        <link href="https://ieeexplore.ieee.org/document/10133894"/>
+        <updated>2023-05-25T01:00:34.686Z</updated>
+        <summary type="html"><![CDATA[Edge intelligence (EI) is becoming one of the research hotspots among researchers, which is believed to help empower intelligent transportation systems (ITS). ITS generates a large amount of data at the network edge by millions of devices and sensors. Data-driven artificial intelligence (AI) is at the core of ITS development. By pushing the AI frontier to the network edge, EI enables ITS AI applic...]]></summary>
+        <author>
+            <name>Taiyuan Gong</name>
+        </author>
+        <author>
+            <name>Li Zhu</name>
+        </author>
+        <author>
+            <name>F. Richard Yu</name>
+        </author>
+        <author>
+            <name>Tao Tang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Traffic Police 3D Gesture Recognition Based on Spatial–Temporal Fully Adaptive Graph Convolutional Network]]></title>
+        <id>https://ieeexplore.ieee.org/document/10133840</id>
+        <link href="https://ieeexplore.ieee.org/document/10133840"/>
+        <updated>2023-05-25T01:00:34.686Z</updated>
+        <summary type="html"><![CDATA[It is critical for autonomous vehicles to recognize traffic police gestures timely and accurately. During the movement of the vehicle, the collected traffic police scales change all the time, in addition, the frequency and amplitude of actions of different traffic police are different. First, we use gesture normalization to fix the traffic police actions at a unified scale and remove the influence...]]></summary>
+        <author>
+            <name>Zheng Fu</name>
+        </author>
+        <author>
+            <name>Junjie Chen</name>
+        </author>
+        <author>
+            <name>Kun Jiang</name>
+        </author>
+        <author>
+            <name>Sijia Wang</name>
+        </author>
+        <author>
+            <name>Junze Wen</name>
+        </author>
+        <author>
+            <name>Mengmeng Yang</name>
+        </author>
+        <author>
+            <name>Diange Yang</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Data-Driven Spatial Adaptive Terminal Iterative Learning Predictive Control for Automatic Stop Control of Subway Train With Actuator Saturation]]></title>
         <id>https://ieeexplore.ieee.org/document/10130479</id>

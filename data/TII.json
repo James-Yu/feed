@@ -1,5 +1,41 @@
 [
   {
+    "articleNumber": "10132588",
+    "articleTitle": "Distributed Dynamic Event-triggered Cooperative Control of Multiple TCLs and HESS for Improving Frequency Regulation",
+    "authors": [
+      "Nan Zhao",
+      "Dong Yue",
+      "Chunxia Dou",
+      "Tao Shi"
+    ],
+    "abstract": "The volatility and randomness of the source-load sides increase the difficulty for system frequency regulation, while flexible loads like temperature-controlled loads (TCLs) and hydrogen storage system (HESS) can be used to pro-vide frequency auxiliary services. In this paper, a hierarchi-cal frequency control framework is established, with TCLs and HESS interacting in a distributed cooperative wa...",
+    "date": "2023-05-25T01:00:57.746Z"
+  },
+  {
+    "articleNumber": "10133903",
+    "articleTitle": "Guest Editorial: Cyber-Physical Threats and Solutions for Autonomous Transportation Systems",
+    "authors": [
+      "A. Brighente",
+      "M. Conti",
+      "R. Poovendran",
+      "J. Zhou"
+    ],
+    "abstract": "The rapid evolution of technology has radically changed our everyday lives from multiple points of view. Systems and devices are nowadays more interconnected and capable of taking autonomous decisions without or with limited human intervention. Among the others, transportation systems are populated by smart and interconnected vehicles that need to communicate with each other and with critical infr...",
+    "date": "2023-05-25T01:00:57.746Z"
+  },
+  {
+    "articleNumber": "10133904",
+    "articleTitle": "Guest Editorial: Advanced Intelligent Manufacturing System: Theory, Algorithms, and Industrial Applications",
+    "authors": [
+      "Qiang Liu",
+      "Jialu Fan",
+      "Jin-Xi Zhang",
+      "Yaochu Jin"
+    ],
+    "abstract": "Intelligent manufacturing has promoted the development of Industry 4.0 and enabled the manufacturing industry to gradually move into the stage of intelligence with the rapid development of the Internet of Things and the Industrial Internet. An intelligent manufacturing system is a manufacturing system that can automatically adapt to changing environments and varying process requirements with minim...",
+    "date": "2023-05-25T01:00:57.746Z"
+  },
+  {
     "articleNumber": "10132080",
     "articleTitle": "Efficient Task-Network Scheduling With Task Conflict Metric in Time-Sensitive Networking",
     "authors": [
