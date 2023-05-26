@@ -1,5 +1,19 @@
 [
   {
+    "articleNumber": "10135129",
+    "articleTitle": "Neural Similarity Search on Supergraph Containment",
+    "authors": [
+      "Hanchen Wang",
+      "Jianke Yu",
+      "Xiaoyang Wang",
+      "Chen Chen",
+      "Wenjie Zhang",
+      "Xuemin Lin"
+    ],
+    "abstract": "Supergraph search is a fundamental graph query processing problem. Supergraph search aims to find all data graphs contained in a given query graph based on the subgraph isomorphism. Existing algorithms construct the indices and adopt the filtering-and-verification framework which is usually computationally expensive and can cause redundant computations. Recently, various learning-based methods hav...",
+    "date": "2023-05-26T00:59:53.847Z"
+  },
+  {
     "articleNumber": "10132568",
     "articleTitle": "Convergence of a Fast Hierarchical Alternating Least Squares Algorithm for Nonnegative Matrix Factorization",
     "authors": [

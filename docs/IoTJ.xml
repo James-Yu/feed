@@ -2,11 +2,292 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/IoTJ.rss</id>
     <title>IEEE Internet of Things Journal</title>
-    <updated>2023-05-25T16:14:33.335Z</updated>
+    <updated>2023-05-26T01:00:06.056Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/IoTJ.rss"/>
     <subtitle>IEEE Internet of Things Journal</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[A Probabilistic and Distributed Validation Framework Based on Blockchain for Artificial Intelligence of Things]]></title>
+        <id>https://ieeexplore.ieee.org/document/10136375</id>
+        <link href="https://ieeexplore.ieee.org/document/10136375"/>
+        <updated>2023-05-26T01:00:06.049Z</updated>
+        <summary type="html"><![CDATA[Artificial Intelligence of Things (AIoT) applications have advanced rapidly. However, most of them are inherently vulnerable to security threats and may be the source of spoofing attacks, and meanwhile, in AIoT systems, the transfer of real-time data from terminals and the cloud strains network bandwidth. To defend against attacks, save network forwarding resources, and relieve authentication pres...]]></summary>
+        <author>
+            <name>Han Bao</name>
+        </author>
+        <author>
+            <name>Youjian Zhao</name>
+        </author>
+        <author>
+            <name>Xiaoping Zhang</name>
+        </author>
+        <author>
+            <name>Gaoyuan Wang</name>
+        </author>
+        <author>
+            <name>Jinrong Duan</name>
+        </author>
+        <author>
+            <name>Renrui Tian</name>
+        </author>
+        <author>
+            <name>Jiaping Men</name>
+        </author>
+        <author>
+            <name>Mengyu Zhang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Novel Heuristic Fall-Detection Algorithm Based on Double Thresholding, Fuzzy Logic, and Wearable Motion Sensor Data]]></title>
+        <id>https://ieeexplore.ieee.org/document/10136381</id>
+        <link href="https://ieeexplore.ieee.org/document/10136381"/>
+        <updated>2023-05-26T01:00:06.049Z</updated>
+        <summary type="html"><![CDATA[We present a novel heuristic fall-detection algorithm based on combining double thresholding of two simple features with fuzzy logic techniques. We extract the features from the acceleration and gyroscopic data recorded from a waist-worn motion sensor unit. We compare the proposed algorithm to 15 state-of-the-art heuristic fall-detection algorithms in terms of five performance metrics and runtime ...]]></summary>
+        <author>
+            <name>Billur Barshan</name>
+        </author>
+        <author>
+            <name>Mustafa Şahin Turan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Privacy-preserving Cross-silo Federated Learning atop Blockchain for IoT]]></title>
+        <id>https://ieeexplore.ieee.org/document/10136378</id>
+        <link href="https://ieeexplore.ieee.org/document/10136378"/>
+        <updated>2023-05-26T01:00:06.049Z</updated>
+        <summary type="html"><![CDATA[Cross-silo federated learning (FL) is promising in facilitating data collaboration across various organizations, which greatly alleviates the information silo problem in industries and promotes the data intelligence of internet of things. With the advances of decentralized FL, the higher requirements of trust and privacy are put forward. Traditional FL heavily relies on a central coordinating serv...]]></summary>
+        <author>
+            <name>Huilin Li</name>
+        </author>
+        <author>
+            <name>Yu Sun</name>
+        </author>
+        <author>
+            <name>Yong Yu</name>
+        </author>
+        <author>
+            <name>Dawei Li</name>
+        </author>
+        <author>
+            <name>Zhenyu Guan</name>
+        </author>
+        <author>
+            <name>Jianwei Liu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iDROP: Robust Localization for Indoor Navigation of Drones with Optimized Beacon Placement]]></title>
+        <id>https://ieeexplore.ieee.org/document/10136386</id>
+        <link href="https://ieeexplore.ieee.org/document/10136386"/>
+        <updated>2023-05-26T01:00:06.049Z</updated>
+        <summary type="html"><![CDATA[Drones in many applications need the ability to fly fully or partially autonomously to accomplish their mission. To allow these fully/partially autonomous flights, first, the drone needs to be able to locate itself constantly. Then the navigation command signal would be generated and passed on to the controller unit of the drone. In this paper, we propose a localization scheme for drones called iD...]]></summary>
+        <author>
+            <name>Alireza Famili</name>
+        </author>
+        <author>
+            <name>Angelos Stavrou</name>
+        </author>
+        <author>
+            <name>Haining Wang</name>
+        </author>
+        <author>
+            <name>Jung-Min Park</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Integrating Blockchain and Deep Learning into Extremely Resource-Constrained IoT: An Energy-Saving Zero-Knowledge PoL Approach]]></title>
+        <id>https://ieeexplore.ieee.org/document/10136371</id>
+        <link href="https://ieeexplore.ieee.org/document/10136371"/>
+        <updated>2023-05-26T01:00:06.049Z</updated>
+        <summary type="html"><![CDATA[The convergence of blockchain and deep learning (DL) drives the intelligence of the Internet of Things (IoT) with security guarantees. However, the soaring resource consumption resulting from blockchain mining and DL model training has overwhelmed the extremely resource-constrained IoT. In this paper, we first build a blockchain and DL-empowered cloud-edge orchestrated framework for an extremely r...]]></summary>
+        <author>
+            <name>Heyi Zhang</name>
+        </author>
+        <author>
+            <name>Jun Wu</name>
+        </author>
+        <author>
+            <name>Xi Lin</name>
+        </author>
+        <author>
+            <name>Ali Kashif Bashir</name>
+        </author>
+        <author>
+            <name>Yasser D. Al-Otaibi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[B-UAVM: A Blockchain-supported Secure Multi UAV Task Management Scheme]]></title>
+        <id>https://ieeexplore.ieee.org/document/10136399</id>
+        <link href="https://ieeexplore.ieee.org/document/10136399"/>
+        <updated>2023-05-26T01:00:06.049Z</updated>
+        <summary type="html"><![CDATA[The advent of unmanned aerial vehicle (UAV) swarm technology brings possibilities to help humans complete tasks in no man’s land, such as deserts, and rainforests. However, UAV network faces many cyber threats, where attackers can impersonate legitimate entities or tamper with UAV task data. For identity security, most of the existing methods use centralized authentication schemes, which have a si...]]></summary>
+        <author>
+            <name>Hui Xie</name>
+        </author>
+        <author>
+            <name>Jun Zheng</name>
+        </author>
+        <author>
+            <name>Teng He</name>
+        </author>
+        <author>
+            <name>Shengjun Wei</name>
+        </author>
+        <author>
+            <name>Chun Shan</name>
+        </author>
+        <author>
+            <name>Changzhen Hu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improved BINN based Underwater Topography Scanning Coverage Path Planning for AUV in Internet of Underwater Things]]></title>
+        <id>https://ieeexplore.ieee.org/document/10136370</id>
+        <link href="https://ieeexplore.ieee.org/document/10136370"/>
+        <updated>2023-05-26T01:00:06.049Z</updated>
+        <summary type="html"><![CDATA[Deep understanding the special nature of underwater topography plays an important role for Internet of Underwater Things (IoUT). Nowadays, underwater topography scanning with Autonomous Underwater Vehicle (AUV) has been becoming the chief methodology of knowing Seabed topography and geomorphology. How to design topography scanning trajectory can be mathematically described as a full Coverage Path ...]]></summary>
+        <author>
+            <name>Wenyu Cai</name>
+        </author>
+        <author>
+            <name>Shuai Zhang</name>
+        </author>
+        <author>
+            <name>Meiyan Zhang</name>
+        </author>
+        <author>
+            <name>Chengcai Wang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Joint Heterogeneous PUF-based Security-Enhanced IoT Authentication]]></title>
+        <id>https://ieeexplore.ieee.org/document/10136396</id>
+        <link href="https://ieeexplore.ieee.org/document/10136396"/>
+        <updated>2023-05-26T01:00:06.049Z</updated>
+        <summary type="html"><![CDATA[This study proposes a novel authentication scheme that provides enhanced security for Internet of Things (IoT) applications by integrating a radio frequency (RF) physical unclonable function (PUF) with a device PUF. While traditional PUF-based authentication methods are lightweight, they are vulnerable to replay attacks because challenge-response pairs (CRPs) are exposed to adversaries over wirele...]]></summary>
+        <author>
+            <name>Seungwook Yoon</name>
+        </author>
+        <author>
+            <name>Seungnam Han</name>
+        </author>
+        <author>
+            <name>Euiseok Hwang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blockchain-enabled Fine-Grained Searchable Encryption With Cloud-edge Computing for Electronic Health Records Sharing]]></title>
+        <id>https://ieeexplore.ieee.org/document/10136377</id>
+        <link href="https://ieeexplore.ieee.org/document/10136377"/>
+        <updated>2023-05-26T01:00:06.049Z</updated>
+        <summary type="html"><![CDATA[The integration of Internet of Things (IoT) with cloud-edge computing in cyber-physical systems has revolutionized the way healthcare enterprises manage electronic health records (EHRs). With more healthcare enterprises outsourcing encrypted EHRs to the cloud, searchable encryption is utilized to retrieve encrypted data, especially attribute-based searchable encryption (ABSE) can achieve fine-grai...]]></summary>
+        <author>
+            <name>Hancheng Gao</name>
+        </author>
+        <author>
+            <name>Haiping Huang</name>
+        </author>
+        <author>
+            <name>Lingyan Xue</name>
+        </author>
+        <author>
+            <name>Fu Xiao</name>
+        </author>
+        <author>
+            <name>Qi Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Computational Model for Reputation and Ensemble-Based Learning Model for Prediction of Trustworthiness in Vehicular Ad Hoc Network]]></title>
+        <id>https://ieeexplore.ieee.org/document/10136368</id>
+        <link href="https://ieeexplore.ieee.org/document/10136368"/>
+        <updated>2023-05-26T01:00:06.049Z</updated>
+        <summary type="html"><![CDATA[Vehicular ad hoc networks (VANETs) are a special kind of wireless communication network that facilitates vehicle-to-vehicle(V2V) and vehicle-to-infrastructure(V2I) communication. This technology exhibits the potential to enhance the safety of roads, efficiency of traffic, and comfort of passengers. However, this can lead to potential safety hazards and security risks, especially in autonomous vehi...]]></summary>
+        <author>
+            <name>Abdullah Alharthi</name>
+        </author>
+        <author>
+            <name>Qiang Ni</name>
+        </author>
+        <author>
+            <name>Richard Jiang</name>
+        </author>
+        <author>
+            <name>Mohammad Ayoub Khan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Privacy-Preserving Federal Learning Chain for Internet of Things]]></title>
+        <id>https://ieeexplore.ieee.org/document/10136376</id>
+        <link href="https://ieeexplore.ieee.org/document/10136376"/>
+        <updated>2023-05-26T01:00:06.049Z</updated>
+        <summary type="html"><![CDATA[The expansion of Internet of Things (IoT) spawns large on-device machine learning demands, while the machine learning can be a hard task for resource constrained IoT terminals with fragmented dataset. Federal learning (FL), which aims to build a joint model across multiple devices, IoT-FL has now become a promising path for learning on terminals. In broad FL fields, current server-client pattern c...]]></summary>
+        <author>
+            <name>Yihang Xu</name>
+        </author>
+        <author>
+            <name>Yuxing Mao</name>
+        </author>
+        <author>
+            <name>Simou Li</name>
+        </author>
+        <author>
+            <name>Jian Li</name>
+        </author>
+        <author>
+            <name>Xueshuo Chen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Efficient Mobility Management in Mobile Edge Computing Networks: Joint Handover and Service Migration]]></title>
+        <id>https://ieeexplore.ieee.org/document/10136372</id>
+        <link href="https://ieeexplore.ieee.org/document/10136372"/>
+        <updated>2023-05-26T01:00:06.049Z</updated>
+        <summary type="html"><![CDATA[Mobile edge computing (MEC) has been envisioned as an essential technology for latency-critical applications by providing computing services in close proximity to mobile users. Bringing MEC to come into practice, how to support user mobility remains challenging. In addition to seeking a thorny trade-off between service latency and migration cost, both interactions in space and time exist in mobili...]]></summary>
+        <author>
+            <name>Fengxian Guo</name>
+        </author>
+        <author>
+            <name>Mugen Peng</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Improved Conditional Privacy Protection Scheme Based on Ring Signcryption for VANETs]]></title>
+        <id>https://ieeexplore.ieee.org/document/10136385</id>
+        <link href="https://ieeexplore.ieee.org/document/10136385"/>
+        <updated>2023-05-26T01:00:06.049Z</updated>
+        <summary type="html"><![CDATA[Vehicular ad hoc networks (VANETs) can effectively provide vehicle driving safety, high-speed data communication, intelligent traffic management and vehicle entertainment. However, compared with traditional network, VANETs are more vulnerable to attacks from adversaries, such as eavesdropping, tampering and tracking users’ privacy, etc. In order to provide security and privacy protection for VANET...]]></summary>
+        <author>
+            <name>Hongzhen Du</name>
+        </author>
+        <author>
+            <name>Qiaoyan Wen</name>
+        </author>
+        <author>
+            <name>Shanshan Zhang</name>
+        </author>
+        <author>
+            <name>Mingchu Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intelligent Cellular Offloading with VLC-enabled Unmanned Aerial Vehicles]]></title>
+        <id>https://ieeexplore.ieee.org/document/10136389</id>
+        <link href="https://ieeexplore.ieee.org/document/10136389"/>
+        <updated>2023-05-26T01:00:06.049Z</updated>
+        <summary type="html"><![CDATA[This paper discusses a cellular network assisted by an energy-and spectral-efficient unmanned aerial vehicle (UAV), in which the UAV is deployed to serve mobile users in the cellular network and enable mobile data offloading from a ground base station (GBS) by taking a circular flight route. We explore a visible light communication (VLC)-enabled UAV, in which a light-emitting diode (LED) is mounte...]]></summary>
+        <author>
+            <name>Fereidoun H. Panahi</name>
+        </author>
+        <author>
+            <name>Farzad H. Panahi</name>
+        </author>
+        <author>
+            <name>Tomoaki Ohtsuki</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WALS: A Lightweight Stateless Label Switching Framework Based on Prime Theorem for MANETs]]></title>
         <id>https://ieeexplore.ieee.org/document/10133838</id>

@@ -1,5 +1,178 @@
 [
   {
+    "articleNumber": "10136375",
+    "articleTitle": "A Probabilistic and Distributed Validation Framework Based on Blockchain for Artificial Intelligence of Things",
+    "authors": [
+      "Han Bao",
+      "Youjian Zhao",
+      "Xiaoping Zhang",
+      "Gaoyuan Wang",
+      "Jinrong Duan",
+      "Renrui Tian",
+      "Jiaping Men",
+      "Mengyu Zhang"
+    ],
+    "abstract": "Artificial Intelligence of Things (AIoT) applications have advanced rapidly. However, most of them are inherently vulnerable to security threats and may be the source of spoofing attacks, and meanwhile, in AIoT systems, the transfer of real-time data from terminals and the cloud strains network bandwidth. To defend against attacks, save network forwarding resources, and relieve authentication pres...",
+    "date": "2023-05-26T01:00:06.049Z"
+  },
+  {
+    "articleNumber": "10136381",
+    "articleTitle": "A Novel Heuristic Fall-Detection Algorithm Based on Double Thresholding, Fuzzy Logic, and Wearable Motion Sensor Data",
+    "authors": [
+      "Billur Barshan",
+      "Mustafa Şahin Turan"
+    ],
+    "abstract": "We present a novel heuristic fall-detection algorithm based on combining double thresholding of two simple features with fuzzy logic techniques. We extract the features from the acceleration and gyroscopic data recorded from a waist-worn motion sensor unit. We compare the proposed algorithm to 15 state-of-the-art heuristic fall-detection algorithms in terms of five performance metrics and runtime ...",
+    "date": "2023-05-26T01:00:06.049Z"
+  },
+  {
+    "articleNumber": "10136378",
+    "articleTitle": "Privacy-preserving Cross-silo Federated Learning atop Blockchain for IoT",
+    "authors": [
+      "Huilin Li",
+      "Yu Sun",
+      "Yong Yu",
+      "Dawei Li",
+      "Zhenyu Guan",
+      "Jianwei Liu"
+    ],
+    "abstract": "Cross-silo federated learning (FL) is promising in facilitating data collaboration across various organizations, which greatly alleviates the information silo problem in industries and promotes the data intelligence of internet of things. With the advances of decentralized FL, the higher requirements of trust and privacy are put forward. Traditional FL heavily relies on a central coordinating serv...",
+    "date": "2023-05-26T01:00:06.049Z"
+  },
+  {
+    "articleNumber": "10136386",
+    "articleTitle": "iDROP: Robust Localization for Indoor Navigation of Drones with Optimized Beacon Placement",
+    "authors": [
+      "Alireza Famili",
+      "Angelos Stavrou",
+      "Haining Wang",
+      "Jung-Min Park"
+    ],
+    "abstract": "Drones in many applications need the ability to fly fully or partially autonomously to accomplish their mission. To allow these fully/partially autonomous flights, first, the drone needs to be able to locate itself constantly. Then the navigation command signal would be generated and passed on to the controller unit of the drone. In this paper, we propose a localization scheme for drones called iD...",
+    "date": "2023-05-26T01:00:06.049Z"
+  },
+  {
+    "articleNumber": "10136371",
+    "articleTitle": "Integrating Blockchain and Deep Learning into Extremely Resource-Constrained IoT: An Energy-Saving Zero-Knowledge PoL Approach",
+    "authors": [
+      "Heyi Zhang",
+      "Jun Wu",
+      "Xi Lin",
+      "Ali Kashif Bashir",
+      "Yasser D. Al-Otaibi"
+    ],
+    "abstract": "The convergence of blockchain and deep learning (DL) drives the intelligence of the Internet of Things (IoT) with security guarantees. However, the soaring resource consumption resulting from blockchain mining and DL model training has overwhelmed the extremely resource-constrained IoT. In this paper, we first build a blockchain and DL-empowered cloud-edge orchestrated framework for an extremely r...",
+    "date": "2023-05-26T01:00:06.049Z"
+  },
+  {
+    "articleNumber": "10136399",
+    "articleTitle": "B-UAVM: A Blockchain-supported Secure Multi UAV Task Management Scheme",
+    "authors": [
+      "Hui Xie",
+      "Jun Zheng",
+      "Teng He",
+      "Shengjun Wei",
+      "Chun Shan",
+      "Changzhen Hu"
+    ],
+    "abstract": "The advent of unmanned aerial vehicle (UAV) swarm technology brings possibilities to help humans complete tasks in no man’s land, such as deserts, and rainforests. However, UAV network faces many cyber threats, where attackers can impersonate legitimate entities or tamper with UAV task data. For identity security, most of the existing methods use centralized authentication schemes, which have a si...",
+    "date": "2023-05-26T01:00:06.049Z"
+  },
+  {
+    "articleNumber": "10136370",
+    "articleTitle": "Improved BINN based Underwater Topography Scanning Coverage Path Planning for AUV in Internet of Underwater Things",
+    "authors": [
+      "Wenyu Cai",
+      "Shuai Zhang",
+      "Meiyan Zhang",
+      "Chengcai Wang"
+    ],
+    "abstract": "Deep understanding the special nature of underwater topography plays an important role for Internet of Underwater Things (IoUT). Nowadays, underwater topography scanning with Autonomous Underwater Vehicle (AUV) has been becoming the chief methodology of knowing Seabed topography and geomorphology. How to design topography scanning trajectory can be mathematically described as a full Coverage Path ...",
+    "date": "2023-05-26T01:00:06.049Z"
+  },
+  {
+    "articleNumber": "10136396",
+    "articleTitle": "Joint Heterogeneous PUF-based Security-Enhanced IoT Authentication",
+    "authors": [
+      "Seungwook Yoon",
+      "Seungnam Han",
+      "Euiseok Hwang"
+    ],
+    "abstract": "This study proposes a novel authentication scheme that provides enhanced security for Internet of Things (IoT) applications by integrating a radio frequency (RF) physical unclonable function (PUF) with a device PUF. While traditional PUF-based authentication methods are lightweight, they are vulnerable to replay attacks because challenge-response pairs (CRPs) are exposed to adversaries over wirele...",
+    "date": "2023-05-26T01:00:06.049Z"
+  },
+  {
+    "articleNumber": "10136377",
+    "articleTitle": "Blockchain-enabled Fine-Grained Searchable Encryption With Cloud-edge Computing for Electronic Health Records Sharing",
+    "authors": [
+      "Hancheng Gao",
+      "Haiping Huang",
+      "Lingyan Xue",
+      "Fu Xiao",
+      "Qi Li"
+    ],
+    "abstract": "The integration of Internet of Things (IoT) with cloud-edge computing in cyber-physical systems has revolutionized the way healthcare enterprises manage electronic health records (EHRs). With more healthcare enterprises outsourcing encrypted EHRs to the cloud, searchable encryption is utilized to retrieve encrypted data, especially attribute-based searchable encryption (ABSE) can achieve fine-grai...",
+    "date": "2023-05-26T01:00:06.049Z"
+  },
+  {
+    "articleNumber": "10136368",
+    "articleTitle": "A Computational Model for Reputation and Ensemble-Based Learning Model for Prediction of Trustworthiness in Vehicular Ad Hoc Network",
+    "authors": [
+      "Abdullah Alharthi",
+      "Qiang Ni",
+      "Richard Jiang",
+      "Mohammad Ayoub Khan"
+    ],
+    "abstract": "Vehicular ad hoc networks (VANETs) are a special kind of wireless communication network that facilitates vehicle-to-vehicle(V2V) and vehicle-to-infrastructure(V2I) communication. This technology exhibits the potential to enhance the safety of roads, efficiency of traffic, and comfort of passengers. However, this can lead to potential safety hazards and security risks, especially in autonomous vehi...",
+    "date": "2023-05-26T01:00:06.049Z"
+  },
+  {
+    "articleNumber": "10136376",
+    "articleTitle": "Privacy-Preserving Federal Learning Chain for Internet of Things",
+    "authors": [
+      "Yihang Xu",
+      "Yuxing Mao",
+      "Simou Li",
+      "Jian Li",
+      "Xueshuo Chen"
+    ],
+    "abstract": "The expansion of Internet of Things (IoT) spawns large on-device machine learning demands, while the machine learning can be a hard task for resource constrained IoT terminals with fragmented dataset. Federal learning (FL), which aims to build a joint model across multiple devices, IoT-FL has now become a promising path for learning on terminals. In broad FL fields, current server-client pattern c...",
+    "date": "2023-05-26T01:00:06.049Z"
+  },
+  {
+    "articleNumber": "10136372",
+    "articleTitle": "Efficient Mobility Management in Mobile Edge Computing Networks: Joint Handover and Service Migration",
+    "authors": [
+      "Fengxian Guo",
+      "Mugen Peng"
+    ],
+    "abstract": "Mobile edge computing (MEC) has been envisioned as an essential technology for latency-critical applications by providing computing services in close proximity to mobile users. Bringing MEC to come into practice, how to support user mobility remains challenging. In addition to seeking a thorny trade-off between service latency and migration cost, both interactions in space and time exist in mobili...",
+    "date": "2023-05-26T01:00:06.049Z"
+  },
+  {
+    "articleNumber": "10136385",
+    "articleTitle": "An Improved Conditional Privacy Protection Scheme Based on Ring Signcryption for VANETs",
+    "authors": [
+      "Hongzhen Du",
+      "Qiaoyan Wen",
+      "Shanshan Zhang",
+      "Mingchu Gao"
+    ],
+    "abstract": "Vehicular ad hoc networks (VANETs) can effectively provide vehicle driving safety, high-speed data communication, intelligent traffic management and vehicle entertainment. However, compared with traditional network, VANETs are more vulnerable to attacks from adversaries, such as eavesdropping, tampering and tracking users’ privacy, etc. In order to provide security and privacy protection for VANET...",
+    "date": "2023-05-26T01:00:06.049Z"
+  },
+  {
+    "articleNumber": "10136389",
+    "articleTitle": "Intelligent Cellular Offloading with VLC-enabled Unmanned Aerial Vehicles",
+    "authors": [
+      "Fereidoun H. Panahi",
+      "Farzad H. Panahi",
+      "Tomoaki Ohtsuki"
+    ],
+    "abstract": "This paper discusses a cellular network assisted by an energy-and spectral-efficient unmanned aerial vehicle (UAV), in which the UAV is deployed to serve mobile users in the cellular network and enable mobile data offloading from a ground base station (GBS) by taking a circular flight route. We explore a visible light communication (VLC)-enabled UAV, in which a light-emitting diode (LED) is mounte...",
+    "date": "2023-05-26T01:00:06.049Z"
+  },
+  {
     "articleNumber": "10133838",
     "articleTitle": "WALS: A Lightweight Stateless Label Switching Framework Based on Prime Theorem for MANETs",
     "authors": [

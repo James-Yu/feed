@@ -2,11 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/TKDE.rss</id>
     <title>IEEE Transactions on Knowledge and Data Engineering</title>
-    <updated>2023-05-25T16:14:24.495Z</updated>
+    <updated>2023-05-26T00:59:53.852Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/TKDE.rss"/>
     <subtitle>IEEE Transactions on Knowledge and Data Engineering</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Neural Similarity Search on Supergraph Containment]]></title>
+        <id>https://ieeexplore.ieee.org/document/10135129</id>
+        <link href="https://ieeexplore.ieee.org/document/10135129"/>
+        <updated>2023-05-26T00:59:53.847Z</updated>
+        <summary type="html"><![CDATA[Supergraph search is a fundamental graph query processing problem. Supergraph search aims to find all data graphs contained in a given query graph based on the subgraph isomorphism. Existing algorithms construct the indices and adopt the filtering-and-verification framework which is usually computationally expensive and can cause redundant computations. Recently, various learning-based methods hav...]]></summary>
+        <author>
+            <name>Hanchen Wang</name>
+        </author>
+        <author>
+            <name>Jianke Yu</name>
+        </author>
+        <author>
+            <name>Xiaoyang Wang</name>
+        </author>
+        <author>
+            <name>Chen Chen</name>
+        </author>
+        <author>
+            <name>Wenjie Zhang</name>
+        </author>
+        <author>
+            <name>Xuemin Lin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Convergence of a Fast Hierarchical Alternating Least Squares Algorithm for Nonnegative Matrix Factorization]]></title>
         <id>https://ieeexplore.ieee.org/document/10132568</id>

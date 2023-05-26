@@ -1,5 +1,53 @@
 [
   {
+    "articleNumber": "10136196",
+    "articleTitle": "Distributed Event-Triggered Iterative Learning Control for Multiple High-Speed Trains With Switching Topologies: A Data-Driven Approach",
+    "authors": [
+      "Wei Yu",
+      "Deqing Huang",
+      "Qingyuan Wang",
+      "Liangcheng Cai"
+    ],
+    "abstract": "This paper studies the distributed data-driven event-triggered model free adaptive iterative learning control (ETMFAILC) of multiple high-speed trains (MHSTs) under iteration-varying topologies, which breaks away from the dependence on the train dynamics. Firstly, the nonlinear MHSTs with unknown dynamics are converted into a linear model. Then, combining the proposed event-based triggering condit...",
+    "date": "2023-05-26T00:59:47.735Z"
+  },
+  {
+    "articleNumber": "10136209",
+    "articleTitle": "Lattice-Based Threshold Signcryption for Blockchain Oracle Data Transmission",
+    "authors": [
+      "Huifang Yu",
+      "Han Wang"
+    ],
+    "abstract": "Threshold signature can solve the problems of high cost and network congestion during the execution of smart contracts. However, the information transmitted in public links is vulnerable to eavesdropping, tampering and other network attacks, it is essential to ensure the confidentiality and integrity during data transmission. However, traditional threshold signcryption is not suitable for blockcha...",
+    "date": "2023-05-26T00:59:47.735Z"
+  },
+  {
+    "articleNumber": "10136202",
+    "articleTitle": "Reasoning About Expected Job Completion Time in Dynamic Vehicular Clouds",
+    "authors": [
+      "Aida Ghazizadeh",
+      "Puya Ghazizadeh",
+      "Ravi Mukkamala",
+      "Stephan Olariu"
+    ],
+    "abstract": "Roughly a decade ago, inspired by the phenomenal success of cloud computing, a group of researchers have defined Vehicular Clouds as a group of vehicles whose sensing, communication, and computing resources can be coordinated and allocated to authorized users. While both conventional and Vehicular Clouds are instances of utility computing, a number of important characteristics set vehicular clouds...",
+    "date": "2023-05-26T00:59:47.735Z"
+  },
+  {
+    "articleNumber": "10136225",
+    "articleTitle": "A Bargaining Game-Based Human–Machine Shared Driving Control Authority Allocation Strategy",
+    "authors": [
+      "Changhua Dai",
+      "Changfu Zong",
+      "Dong Zhang",
+      "Min Hua",
+      "Hongyu Zheng",
+      "Kaku Chuyo"
+    ],
+    "abstract": "Research on game-based human-machine shared driving (HMSD) has traditionally been constrained by stringent game theory assumptions, high requirements for automated steering controllers, and the need to acquire the human driver’s target trajectory. To address these issues, this paper proposes a bargaining game-based HMSD control authority allocation strategy for a steer-by-wire vehicle. First, two ...",
+    "date": "2023-05-26T00:59:47.735Z"
+  },
+  {
     "articleNumber": "10133881",
     "articleTitle": "Decision-Making Driven by Driver Intelligence and Environment Reasoning for High-Level Autonomous Vehicles: A Survey",
     "authors": [
