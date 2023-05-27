@@ -1,5 +1,18 @@
 [
   {
+    "articleNumber": "10137347",
+    "articleTitle": "A Network Flow Approach to Battery Electric Bus Scheduling",
+    "authors": [
+      "Justin Whitaker",
+      "Greg Droge",
+      "Matthew Hansen",
+      "Daniel Mortensen",
+      "Jacob Gunther"
+    ],
+    "abstract": "A major challenge to adopting battery electric buses into bus fleets is the scheduling of the battery charging while considering route timing constraints and battery charge. This work develops a scheduling framework to balance the use of slow and fast chargers assuming the bus routes and charger locations are fixed. Slow chargers are utilized when possible to lower the cost of charging and fast ch...",
+    "date": "2023-05-27T01:01:44.479Z"
+  },
+  {
     "articleNumber": "10136196",
     "articleTitle": "Distributed Event-Triggered Iterative Learning Control for Multiple High-Speed Trains With Switching Topologies: A Data-Driven Approach",
     "authors": [

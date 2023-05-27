@@ -2,11 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/T-ITS.rss</id>
     <title>IEEE Transactions on Intelligent Transportation Systems</title>
-    <updated>2023-05-26T16:14:14.372Z</updated>
+    <updated>2023-05-27T01:01:44.484Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/T-ITS.rss"/>
     <subtitle>IEEE Transactions on Intelligent Transportation Systems</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[A Network Flow Approach to Battery Electric Bus Scheduling]]></title>
+        <id>https://ieeexplore.ieee.org/document/10137347</id>
+        <link href="https://ieeexplore.ieee.org/document/10137347"/>
+        <updated>2023-05-27T01:01:44.479Z</updated>
+        <summary type="html"><![CDATA[A major challenge to adopting battery electric buses into bus fleets is the scheduling of the battery charging while considering route timing constraints and battery charge. This work develops a scheduling framework to balance the use of slow and fast chargers assuming the bus routes and charger locations are fixed. Slow chargers are utilized when possible to lower the cost of charging and fast ch...]]></summary>
+        <author>
+            <name>Justin Whitaker</name>
+        </author>
+        <author>
+            <name>Greg Droge</name>
+        </author>
+        <author>
+            <name>Matthew Hansen</name>
+        </author>
+        <author>
+            <name>Daniel Mortensen</name>
+        </author>
+        <author>
+            <name>Jacob Gunther</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Distributed Event-Triggered Iterative Learning Control for Multiple High-Speed Trains With Switching Topologies: A Data-Driven Approach]]></title>
         <id>https://ieeexplore.ieee.org/document/10136196</id>

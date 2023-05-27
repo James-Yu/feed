@@ -1,5 +1,30 @@
 [
   {
+    "articleNumber": "10136755",
+    "articleTitle": "Quantum bandit with amplitude amplification exploration in an adversarial environment",
+    "authors": [
+      "Byungjin Cho",
+      "Yu Xiao",
+      "Pan Hui",
+      "Daoyi Dong"
+    ],
+    "abstract": "The rapid proliferation of learning systems in an arbitrarily changing environment mandates the need to manage tensions between exploration and exploitation. This work proposes a quantum-inspired bandit learning approach for the learning-and-adapting-based offloading problem where a client observes and learns the costs of each task offloaded to the candidate resource providers, e.g., fog nodes. In...",
+    "date": "2023-05-27T01:01:48.596Z"
+  },
+  {
+    "articleNumber": "10136803",
+    "articleTitle": "A Unified Framework for Contextual and Factoid Question Generation",
+    "authors": [
+      "Chenhe Dong",
+      "Ying Shen",
+      "Shiyang Lin",
+      "Zhenzhou Lin",
+      "Yang Deng"
+    ],
+    "abstract": "Question generation (QG) aims to automatically generate fluent and relevant questions, where the two most mainstream directions are generating questions from unstructured contextual texts (CQG), such as news articles, and generating questions from structured factoid texts (FQG), such as knowledge graphs or tables. Existing methods for these two tasks mainly face challenges of limited internal stru...",
+    "date": "2023-05-27T01:01:48.596Z"
+  },
+  {
     "articleNumber": "10135129",
     "articleTitle": "Neural Similarity Search on Supergraph Containment",
     "authors": [

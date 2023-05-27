@@ -1,5 +1,41 @@
 [
   {
+    "articleNumber": "10137388",
+    "articleTitle": "Zero-Shot Hyperspectral Sharpening",
+    "authors": [
+      "Renwei Dian",
+      "Anjing Guo",
+      "Shutao Li"
+    ],
+    "abstract": "Fusing hyperspectral images (HSIs) with multispectral images (MSIs) of higher spatial resolution has become an effective way to sharpen HSIs. Recently, deep convolutional neural networks (CNNs) have achieved promising fusion performance. However, these methods often suffer from the lack of training data and limited generalization ability. To address the above problems, we present a zero-shot learn...",
+    "date": "2023-05-27T01:01:52.973Z"
+  },
+  {
+    "articleNumber": "10136788",
+    "articleTitle": "ZITS++: Image Inpainting by Improving the Incremental Transformer on Structural Priors",
+    "authors": [
+      "Chenjie Cao",
+      "Qiaole Dong",
+      "Yanwei Fu"
+    ],
+    "abstract": "Image inpainting involves filling missing areas of a corrupted image. Despite impressive results have been achieved recently, restoring images with both vivid textures and reasonable structures remains a significant challenge. Previous methods have primarily addressed regular textures while disregarding holistic structures due to the limited receptive fields of Convolutional Neural Networks (CNNs)...",
+    "date": "2023-05-27T01:01:52.973Z"
+  },
+  {
+    "articleNumber": "10136812",
+    "articleTitle": "Discourse-Aware Graph Networks for Textual Logical Reasoning",
+    "authors": [
+      "Yinya Huang",
+      "Lemao Liu",
+      "Kun Xu",
+      "Meng Fang",
+      "Liang Lin",
+      "Xiaodan Liang"
+    ],
+    "abstract": "Textual logical reasoning, especially question-answering (QA) tasks with logical reasoning, requires awareness of particular logical structures. The passage-level logical relations represent entailment or contradiction between propositional units (e.g., a concluding sentence). However, such structures are unexplored as current QA systems focus on entity-based relations. In this work, we propose lo...",
+    "date": "2023-05-27T01:01:52.973Z"
+  },
+  {
     "articleNumber": "10133915",
     "articleTitle": "Differentiable Histogram Loss Functions for Intensity-based Image-to-Image Translation",
     "authors": [

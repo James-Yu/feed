@@ -2,11 +2,269 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/TII.rss</id>
     <title>IEEE Transactions on Industrial Informatics</title>
-    <updated>2023-05-26T16:14:38.300Z</updated>
+    <updated>2023-05-27T01:02:00.302Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/TII.rss"/>
     <subtitle>IEEE Transactions on Industrial Informatics</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Sparse Observation Assimilated Digital Image Correlation for High Fidelity Deformation Field Reconstruction]]></title>
+        <id>https://ieeexplore.ieee.org/document/10136758</id>
+        <link href="https://ieeexplore.ieee.org/document/10136758"/>
+        <updated>2023-05-27T01:02:00.295Z</updated>
+        <summary type="html"><![CDATA[Digital image correlation (DIC) is an image-based deformation measurement method, which has been widely used in multiple cutting-edge fields, benefitted from its noncontact, low cost and high robustness. However, achieving higher accuracy and overcoming the tradeoff between resolution and measurement uncertainty have been recognized as bottleneck problems for DIC. This paper proposes a new method ...]]></summary>
+        <author>
+            <name>Bangyan Niu</name>
+        </author>
+        <author>
+            <name>Jingjing Ji</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamic Motion Primitives-based Trajectory Learning for Physical Human-Robot Interaction Force Control]]></title>
+        <id>https://ieeexplore.ieee.org/document/10136808</id>
+        <link href="https://ieeexplore.ieee.org/document/10136808"/>
+        <updated>2023-05-27T01:02:00.295Z</updated>
+        <summary type="html"><![CDATA[One promising function of interactive robots is to provide a specific interaction force to human users. For example, rehabilitation robots are expected to promote patients&#39; recovery by interacting with them with a prescribed force. However, motion uncertainties of different individuals, which are hard to predict due to the varying motion speed and noises during motion, degrade the performance of e...]]></summary>
+        <author>
+            <name>Xueyan Xing</name>
+        </author>
+        <author>
+            <name>Kamran Maqsood</name>
+        </author>
+        <author>
+            <name>Chao Zeng</name>
+        </author>
+        <author>
+            <name>Chenguang Yang</name>
+        </author>
+        <author>
+            <name>Shuai Yuan</name>
+        </author>
+        <author>
+            <name>Yanan Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bias Analysis of PMU-Based State Estimation and its Linear Bayesian Improvement]]></title>
+        <id>https://ieeexplore.ieee.org/document/10136757</id>
+        <link href="https://ieeexplore.ieee.org/document/10136757"/>
+        <updated>2023-05-27T01:02:00.295Z</updated>
+        <summary type="html"><![CDATA[With the rapidly changing states of modern power systems, real-time state estimation based on phasor measurement units (PMUs) plays an increasingly important role in energy management systems (EMSs). However, due to the complicated distribution of PMU measurement errors, conventional state estimation methods such as the weighted least squares (WLS) estimator suffer from the estimation bias. Conseq...]]></summary>
+        <author>
+            <name>Wenchao Song</name>
+        </author>
+        <author>
+            <name>Jingbo He</name>
+        </author>
+        <author>
+            <name>Junjie Lin</name>
+        </author>
+        <author>
+            <name>Hongbo Ye</name>
+        </author>
+        <author>
+            <name>Xiaobo Ling</name>
+        </author>
+        <author>
+            <name>Chao Lu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3-D reconstruction and measurement of blade profiles with laser-scanning sensor via multi-view registration based on dynamic encoding of feature-coordinate information]]></title>
+        <id>https://ieeexplore.ieee.org/document/10136759</id>
+        <link href="https://ieeexplore.ieee.org/document/10136759"/>
+        <updated>2023-05-27T01:02:00.295Z</updated>
+        <summary type="html"><![CDATA[Currently, optical-based method provides a feasible means for blade reconstruction and measurement. However, as the key step, multi-view registration is still heavily reliant on the measurement system&#39;s motion stability and geometric accuracy. Moreover, the complex and high-reflective freeform surface of blades may result in both insufficient overlaps and less prominent overlap-area features betwe...]]></summary>
+        <author>
+            <name>Zongping Wang</name>
+        </author>
+        <author>
+            <name>Jie Dong</name>
+        </author>
+        <author>
+            <name>Ming Yin</name>
+        </author>
+        <author>
+            <name>Yangyang Zhu</name>
+        </author>
+        <author>
+            <name>Haotian Zheng</name>
+        </author>
+        <author>
+            <name>Luofeng Xie</name>
+        </author>
+        <author>
+            <name>Guofu Yin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Distributed Secondary Frequency Control for AC Microgrids Using Load Power Forecasting Based on Artificial Neural Network]]></title>
+        <id>https://ieeexplore.ieee.org/document/10136791</id>
+        <link href="https://ieeexplore.ieee.org/document/10136791"/>
+        <updated>2023-05-27T01:02:00.295Z</updated>
+        <summary type="html"><![CDATA[In islanded ac microgrids with heterogeneous distributed generations (DGs), secondary frequency control (SFC) can restore the frequency that deviates from the nominal level due to the primary P-f droop control. Traditionally, to realize SFC, the instantaneous frequency needs to be directly measured or estimated to produce frequency compensations, which increases system cost and complexity. In this...]]></summary>
+        <author>
+            <name>Yinghao Shan</name>
+        </author>
+        <author>
+            <name>Jiefeng Hu</name>
+        </author>
+        <author>
+            <name>Bo Shen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adaptive Compensation Tracking Control for Parallel Robots Actuated by Pneumatic Artificial Muscles With Error Constraints]]></title>
+        <id>https://ieeexplore.ieee.org/document/10136789</id>
+        <link href="https://ieeexplore.ieee.org/document/10136789"/>
+        <updated>2023-05-27T01:02:00.295Z</updated>
+        <summary type="html"><![CDATA[As pneumatic artificial muscles (PAMs) are similar to biological muscles in structure and movement mechanisms, parallel robots actuated by PAMs have development prospects in rehabilitation and industry, with advantages such as compliance, high safety, strong bearing capacity, and satisfactory dynamic performance. However, the parameter uncertainties and model complexity related to inherent charact...]]></summary>
+        <author>
+            <name>Qihang Wang</name>
+        </author>
+        <author>
+            <name>Tong Yang</name>
+        </author>
+        <author>
+            <name>Gendi Liu</name>
+        </author>
+        <author>
+            <name>Yanding Qin</name>
+        </author>
+        <author>
+            <name>Yongchun Fang</name>
+        </author>
+        <author>
+            <name>Ning Sun</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Non-Orthogonal Replication Scheme for ALOHA Uplink in LPWAN]]></title>
+        <id>https://ieeexplore.ieee.org/document/10136797</id>
+        <link href="https://ieeexplore.ieee.org/document/10136797"/>
+        <updated>2023-05-27T01:02:00.295Z</updated>
+        <summary type="html"><![CDATA[In this work, we address a novel replication scheme for Internet-of-Things (IoT) low power wide area networks (LPWAN), considering the ability of a gateway to recover, through successive interference cancellation (SIC), superposed signals in the power domain. We show that the introduced mathematical framework matches the Monte Carlo simulations. The proposed scheme outperforms typical transmission...]]></summary>
+        <author>
+            <name>Jean Michel de Souza Sant'Ana</name>
+        </author>
+        <author>
+            <name>Samuel Montejo-Sánchez</name>
+        </author>
+        <author>
+            <name>Richard Demo Souza</name>
+        </author>
+        <author>
+            <name>Hirley Alves</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[High-Accuracy Hand Gesture Recognition on the Wrist Tendon Group Using Pneumatic Mechanomyography (pMMG)]]></title>
+        <id>https://ieeexplore.ieee.org/document/10136753</id>
+        <link href="https://ieeexplore.ieee.org/document/10136753"/>
+        <updated>2023-05-27T01:02:00.295Z</updated>
+        <summary type="html"><![CDATA[Hand gesture recognition has received considerable attention as an intuitive interaction method in recent years. This research introduces a new wearable hand gesture recognition system that employs pneumatic mechanomyography (pMMG) to directly monitor the wrist tendon group, which transmits muscle force to the fingers. The experimental findings demonstrate that the proposed method provides raw obs...]]></summary>
+        <author>
+            <name>Seongbin An</name>
+        </author>
+        <author>
+            <name>Jirou Feng</name>
+        </author>
+        <author>
+            <name>Eunseok Song</name>
+        </author>
+        <author>
+            <name>Kyoungchul Kong</name>
+        </author>
+        <author>
+            <name>Jung Kim</name>
+        </author>
+        <author>
+            <name>Hyunjin Choi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Secure Video Offloading in MEC-Enabled IIoT Networks: A Multi-cell Federated Deep Reinforcement Learning Approach]]></title>
+        <id>https://ieeexplore.ieee.org/document/10136736</id>
+        <link href="https://ieeexplore.ieee.org/document/10136736"/>
+        <updated>2023-05-27T01:02:00.295Z</updated>
+        <summary type="html"><![CDATA[Wireless video offloading in mobile-edge-computing (MEC)-enabled Industrial Internet of Things imposes a risk of exposing users&#39; private data to eavesdroppers. It is difficult for existing secure video offloading schemes to simultaneously guarantee security, reduce latency and energy consumption in privacy-sensitive multi-cell scenarios where users are unwilling to offload data to other cells. In ...]]></summary>
+        <author>
+            <name>Tantan Zhao</name>
+        </author>
+        <author>
+            <name>Fan Li</name>
+        </author>
+        <author>
+            <name>Lijun He</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Privacy-Preserving Adaptive Resilient Consensus for Multi-Agent Systems under Cyber Attacks]]></title>
+        <id>https://ieeexplore.ieee.org/document/10136800</id>
+        <link href="https://ieeexplore.ieee.org/document/10136800"/>
+        <updated>2023-05-27T01:02:00.295Z</updated>
+        <summary type="html"><![CDATA[This article investigates the secure and privacy-preserving consensus problem of multi-agent systems (MASs) with directed interaction topologies under multiple cyber attacks, which contain deception attacks and DoS attacks. First, a unified attack model is introduced to characterize such a multiple attack phenomenon. Besides, considering the existence of eavesdroppers who can intercept the data tr...]]></summary>
+        <author>
+            <name>Chenduo Ying</name>
+        </author>
+        <author>
+            <name>Ning Zheng</name>
+        </author>
+        <author>
+            <name>Yiming Wu</name>
+        </author>
+        <author>
+            <name>Ming Xu</name>
+        </author>
+        <author>
+            <name>Wen-An Zhang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sparse Bayesian Learning Approach for Compound Bearing Fault Diagnosis]]></title>
+        <id>https://ieeexplore.ieee.org/document/10136804</id>
+        <link href="https://ieeexplore.ieee.org/document/10136804"/>
+        <updated>2023-05-27T01:02:00.295Z</updated>
+        <summary type="html"><![CDATA[Compound bearing fault diagnosis is an essentially challenging task due to the mutual interference among multiple fault components. The state-of-the-art methods usually take the potential fault characteristic frequencies as the prior knowledge and then try to recover every fault component by exploiting the impulse signal sparsity. However, they inevitably suffer from algorithmic degradation caused...]]></summary>
+        <author>
+            <name>Zheng Cao</name>
+        </author>
+        <author>
+            <name>Jisheng Dai</name>
+        </author>
+        <author>
+            <name>Weichao Xu</name>
+        </author>
+        <author>
+            <name>Chunqi Chang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Equipment fault propagation path identification based on unstable points detection]]></title>
+        <id>https://ieeexplore.ieee.org/document/10136771</id>
+        <link href="https://ieeexplore.ieee.org/document/10136771"/>
+        <updated>2023-05-27T01:02:00.295Z</updated>
+        <summary type="html"><![CDATA[To prevent industrial fault propagation, it is important to clarify the relationship between industrial system components and identify the fault propagation path efficiently and timely, aiming at the problems in fault propagation path identification, this paper presents an equipment fault propagation analysis approach based on unstable points identification to solve such issues. First, the fault p...]]></summary>
+        <author>
+            <name>Cheng Peng</name>
+        </author>
+        <author>
+            <name>Yuyao Ouyang</name>
+        </author>
+        <author>
+            <name>Weihua Gui</name>
+        </author>
+        <author>
+            <name>Zhaohui Tang</name>
+        </author>
+        <author>
+            <name>Changyun Li</name>
+        </author>
+        <author>
+            <name>Qing Chen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Distributed Dynamic Event-triggered Cooperative Control of Multiple TCLs and HESS for Improving Frequency Regulation]]></title>
         <id>https://ieeexplore.ieee.org/document/10132588</id>
