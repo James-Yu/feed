@@ -2,11 +2,165 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/TII.rss</id>
     <title>IEEE Transactions on Industrial Informatics</title>
-    <updated>2023-05-29T16:14:48.631Z</updated>
+    <updated>2023-05-30T01:02:37.480Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/TII.rss"/>
     <subtitle>IEEE Transactions on Industrial Informatics</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[A Fast Magnetic Flux Leakage Small Defect Detection Network]]></title>
+        <id>https://ieeexplore.ieee.org/document/10138447</id>
+        <link href="https://ieeexplore.ieee.org/document/10138447"/>
+        <updated>2023-05-30T01:02:37.474Z</updated>
+        <summary type="html"><![CDATA[To solve the problem of the difficult and slow detection of small defects in magnetic flux leakage (MFL), we propose a fast magnetic flux leakage small defect detection network (FSDDNet). First, we introduce COMSOL data augmentation method that utilizes COMSOL simulation software to obtain high-resolution images of defects, which allows the network to capture complete defect features. Furthermore,...]]></summary>
+        <author>
+            <name>Fucheng Han</name>
+        </author>
+        <author>
+            <name>Xianming Lang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Semi-supervised Approach for Industrial Anomaly Detection via Self-adaptive Clustering]]></title>
+        <id>https://ieeexplore.ieee.org/document/10138120</id>
+        <link href="https://ieeexplore.ieee.org/document/10138120"/>
+        <updated>2023-05-30T01:02:37.474Z</updated>
+        <summary type="html"><![CDATA[With the rapid development of the Industrial Internet of Things (IIoT), log-based anomaly detection has become vital for smart industrial construction that has prompted many researchers to contribute. To detect anomalies based on log data, semi-supervised approaches stand out from supervised and unsupervised approaches because they only require a portion of labeled data and are relatively stable. ...]]></summary>
+        <author>
+            <name>Xiaoxue Ma</name>
+        </author>
+        <author>
+            <name>Jacky Keung</name>
+        </author>
+        <author>
+            <name>Pinjia He</name>
+        </author>
+        <author>
+            <name>Yan Xiao</name>
+        </author>
+        <author>
+            <name>Xiao Yu</name>
+        </author>
+        <author>
+            <name>Yishu Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Self-Supervised Feature Learning for Appliance Recognition in Non-Intrusive Load Monitoring]]></title>
+        <id>https://ieeexplore.ieee.org/document/10138015</id>
+        <link href="https://ieeexplore.ieee.org/document/10138015"/>
+        <updated>2023-05-30T01:02:37.474Z</updated>
+        <summary type="html"><![CDATA[Non-intrusive load monitoring (NILM) can monitor the operating state and energy consumption of electric appliances in a non-intrusive manner and provides a promising approach to improving electricity usage efficiency for residential and commercial buildings. Although machine learning (ML) methods are powerful and have significantly advanced the developments of NILM, they request a sizable amount o...]]></summary>
+        <author>
+            <name>Yinyan Liu</name>
+        </author>
+        <author>
+            <name>Lei Bai</name>
+        </author>
+        <author>
+            <name>Jin Ma</name>
+        </author>
+        <author>
+            <name>Wei Wang</name>
+        </author>
+        <author>
+            <name>Wanli Ouyang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On Faster Convergence of Scaled Sign Gradient Descent]]></title>
+        <id>https://ieeexplore.ieee.org/document/10138434</id>
+        <link href="https://ieeexplore.ieee.org/document/10138434"/>
+        <updated>2023-05-30T01:02:37.474Z</updated>
+        <summary type="html"><![CDATA[Communication has been seen as a significant bottleneck in industrial applications over large-scale networks. To alleviate the communication burden, sign-based optimization algorithms have gained popularity recently in both industrial and academic communities, which is shown to be closely related to adaptive gradient methods, such as Adam. Along this line, this paper investigates faster convergenc...]]></summary>
+        <author>
+            <name>Xiuxian Li</name>
+        </author>
+        <author>
+            <name>Kuo-Yi Lin</name>
+        </author>
+        <author>
+            <name>Li Li</name>
+        </author>
+        <author>
+            <name>Yiguang Hong</name>
+        </author>
+        <author>
+            <name>Jie Chen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[STAGED: A Spatial-Temporal Aware Graph Encoder-Decoder for Fault Diagnosis in Industrial Processes]]></title>
+        <id>https://ieeexplore.ieee.org/document/10138507</id>
+        <link href="https://ieeexplore.ieee.org/document/10138507"/>
+        <updated>2023-05-30T01:02:37.474Z</updated>
+        <summary type="html"><![CDATA[Data-driven fault diagnosis for critical industrial processes has exhibited promising potential with massive operating data from the supervisory control and data acquisition system. However, automatically extracting the complicated interactions between measurements and subtly integrating it with temporal evolutions have not been fully considered. Besides, with the increasing complexity of industri...]]></summary>
+        <author>
+            <name>Shizhong Li</name>
+        </author>
+        <author>
+            <name>Wenchao Meng</name>
+        </author>
+        <author>
+            <name>Shibo He</name>
+        </author>
+        <author>
+            <name>Jichao Bi</name>
+        </author>
+        <author>
+            <name>Guanglun Liu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Dual-Branch Spatio-Temporal-Spectral Transformer Feature Fusion Network for EEG-Based Visual Recognition]]></title>
+        <id>https://ieeexplore.ieee.org/document/10138057</id>
+        <link href="https://ieeexplore.ieee.org/document/10138057"/>
+        <updated>2023-05-30T01:02:37.474Z</updated>
+        <summary type="html"><![CDATA[Recognizing visual objects from single-trial electroencephalograph (EEG) signals is a promising brain-computer interface (BCI) technology. However, due to the redundant features from noisy multi-channel EEG signals, it is still a challenging task to achieve high precision recognition. Recent deep learning approaches commonly extract spatio-temporal features of EEG signals, which neglect important ...]]></summary>
+        <author>
+            <name>Jie Luo</name>
+        </author>
+        <author>
+            <name>Weigang Cui</name>
+        </author>
+        <author>
+            <name>Song Xu</name>
+        </author>
+        <author>
+            <name>Lina Wang</name>
+        </author>
+        <author>
+            <name>Xiao Li</name>
+        </author>
+        <author>
+            <name>Xiaofeng Liao</name>
+        </author>
+        <author>
+            <name>Yang Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DATA-DRIVEN DISTRIBUTED GRID TOPOLOGY IDENTIFICATION USING BACKTRACKING JACOBIAN MATRIX APPROACH]]></title>
+        <id>https://ieeexplore.ieee.org/document/10138427</id>
+        <link href="https://ieeexplore.ieee.org/document/10138427"/>
+        <updated>2023-05-30T01:02:37.474Z</updated>
+        <summary type="html"><![CDATA[The topology identification of distribution system is the foundation of state estimation and system analyses. However, the lack of sufficient measurement devices in practice makes full-scale identification of distributed grid hardly achievable. On the other hand, the high-scale distributed renewable energy grid-connected aggravates the complex associations between nodal injection power and voltage...]]></summary>
+        <author>
+            <name>Xiao Yu</name>
+        </author>
+        <author>
+            <name>Jian Zhao</name>
+        </author>
+        <author>
+            <name>Haipeng Zhang</name>
+        </author>
+        <author>
+            <name>Xiaoyu Wang</name>
+        </author>
+        <author>
+            <name>Xiaoyan Bian</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sparse Observation Assimilated Digital Image Correlation for High Fidelity Deformation Field Reconstruction]]></title>
         <id>https://ieeexplore.ieee.org/document/10136758</id>

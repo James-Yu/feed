@@ -1,5 +1,21 @@
 [
   {
+    "articleNumber": "10138446",
+    "articleTitle": "Human Interaction Understanding with Consistency-Aware Learning",
+    "authors": [
+      "Jiajun Meng",
+      "Zhenhua Wang",
+      "Kaining Ying",
+      "Jianhua Zhang",
+      "Dongyan Guo",
+      "Zhen Zhang",
+      "Javen Qinfeng Shi",
+      "Shengyong Chen"
+    ],
+    "abstract": "Compared with the progress made on human activity classification, much less success has been achieved on human interaction understanding (HIU). Apart from the latter task is much more challenging, the main causation is that recent approaches learn human interactive relations via shallow graphical representations, which are inadequate to model complicated human interactive-relations. This paper pro...",
+    "date": "2023-05-30T01:02:29.518Z"
+  },
+  {
     "articleNumber": "10137388",
     "articleTitle": "Zero-Shot Hyperspectral Sharpening",
     "authors": [

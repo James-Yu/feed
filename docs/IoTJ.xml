@@ -2,11 +2,300 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/IoTJ.rss</id>
     <title>IEEE Internet of Things Journal</title>
-    <updated>2023-05-29T16:14:43.106Z</updated>
+    <updated>2023-05-30T01:02:33.656Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/IoTJ.rss"/>
     <subtitle>IEEE Internet of Things Journal</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[DCS-CTN: Subtle Gesture Recognition based on TD-CNN-Transformer via Millimeter Wave Radar]]></title>
+        <id>https://ieeexplore.ieee.org/document/10138368</id>
+        <link href="https://ieeexplore.ieee.org/document/10138368"/>
+        <updated>2023-05-30T01:02:33.649Z</updated>
+        <summary type="html"><![CDATA[Gesture recognition has been a hot research topic in human-computer interaction, since contactless gesture recognition will provide increasing applications in many fields. Millimeter-wave (mmWave) radar well serves this technology because of its high accuracy, easy integration, and strong anti-jamming ability in moving object detection. However, it is still challenging to meet the requirement of h...]]></summary>
+        <author>
+            <name>Congming Wang</name>
+        </author>
+        <author>
+            <name>Xiaohui Zhao</name>
+        </author>
+        <author>
+            <name>Zan Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pedestrian Inertial Positioning Method Based on Foot Quasi-Zero Velocity Observation Under Multiple Motion Modes]]></title>
+        <id>https://ieeexplore.ieee.org/document/10137733</id>
+        <link href="https://ieeexplore.ieee.org/document/10137733"/>
+        <updated>2023-05-30T01:02:33.649Z</updated>
+        <summary type="html"><![CDATA[As the traditional zero velocity update (ZUPT) algorithm based on fixed threshold is difficult to solve the problem of effective positioning for pedestrians under multiple motion modes, a simpler, flexible and stable inertial positioning algorithm is proposed in this paper. A foot kinematic model based on rotating “L&#34; shaped rigid body is proposed to describe the process from heel landing to heel ...]]></summary>
+        <author>
+            <name>Ping Zhang</name>
+        </author>
+        <author>
+            <name>Zhihong Deng</name>
+        </author>
+        <author>
+            <name>Zhidong Meng</name>
+        </author>
+        <author>
+            <name>Haodong Li</name>
+        </author>
+        <author>
+            <name>Jinwen Wang</name>
+        </author>
+        <author>
+            <name>Li Wang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Left Ventricle Contouring in Cardiac Images in the Internet of Medical Things via Deep Reinforcement Learning]]></title>
+        <id>https://ieeexplore.ieee.org/document/10137639</id>
+        <link href="https://ieeexplore.ieee.org/document/10137639"/>
+        <updated>2023-05-30T01:02:33.649Z</updated>
+        <summary type="html"><![CDATA[Assessment of the left ventricle segmentation in cardiac magnetic resonance imaging (MRI) is of crucial importance for cardiac disease diagnosis. However, conventional manual segmentation is a tedious task that requires excessive human effort, which makes automated segmentation highly desirable in practice to facilitate the process of clinical diagnosis. The internet of medical things (IoMT) and a...]]></summary>
+        <author>
+            <name>Sixing Yin</name>
+        </author>
+        <author>
+            <name>Kaiyue Wang</name>
+        </author>
+        <author>
+            <name>Yameng Han</name>
+        </author>
+        <author>
+            <name>Jundong Pan</name>
+        </author>
+        <author>
+            <name>Yining Wang</name>
+        </author>
+        <author>
+            <name>Shufang Li</name>
+        </author>
+        <author>
+            <name>F. Richard Yu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Improved Two-Hop Rendezvous Model with Buffer-Aided Relays in Channel-Hopping Cognitive-Radio Wireless Networks for Internet-of-Things]]></title>
+        <id>https://ieeexplore.ieee.org/document/10137732</id>
+        <link href="https://ieeexplore.ieee.org/document/10137732"/>
+        <updated>2023-05-30T01:02:33.649Z</updated>
+        <summary type="html"><![CDATA[In this paper, two-hop transmissions in channel-hopping (CH) cognitive-radio wireless networks (CRWNs) with buffer-aided relays are studied. The two-hop relay (rendezvous) model is improved using symmetric CH sequences, which are more suitable for practical CRWNs than the old model using asymmetric ones. A proper buffer storage size in the relays is formulated to minimize the two-hop data-transfer...]]></summary>
+        <author>
+            <name>Feng-Wen Lo</name>
+        </author>
+        <author>
+            <name>Guu-Chang Yang</name>
+        </author>
+        <author>
+            <name>Min-Kuan Chang</name>
+        </author>
+        <author>
+            <name>Wing C. Kwong</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quad-Element MIMO Antenna System using Half-Cut Miniaturized UWB Antenna for IoT-Based Smart Home Digital Entertainment Network]]></title>
+        <id>https://ieeexplore.ieee.org/document/10137740</id>
+        <link href="https://ieeexplore.ieee.org/document/10137740"/>
+        <updated>2023-05-30T01:02:33.649Z</updated>
+        <summary type="html"><![CDATA[This work presents a miniaturized quad-element multi-input multi-output (MIMO) antenna with low mutual coupling, inherent isolation, and easy upgradability for an Internet of Things (IoT) based high-speed smart digital entertainment network using ultra-wideband (UWB) technology. Ultra Wideband (UWB) technology is anticipated to play a significant role in the future IoT based smart systems due to i...]]></summary>
+        <author>
+            <name>Partha Pratim Shome</name>
+        </author>
+        <author>
+            <name>Taimoor Khan</name>
+        </author>
+        <author>
+            <name>Ahmed A. Kishk</name>
+        </author>
+        <author>
+            <name>Yahia M. M. Antar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Living Lab Long-Term Sustainability in Hybrid Access Positive Energy Districts -A Prosumager Smart Fog Computing Perspective]]></title>
+        <id>https://ieeexplore.ieee.org/document/10137645</id>
+        <link href="https://ieeexplore.ieee.org/document/10137645"/>
+        <updated>2023-05-30T01:02:33.649Z</updated>
+        <summary type="html"><![CDATA[Living Lab, one of the recent emerging smart city concepts, faces long-term sustainability challenges associated with its complexity and breadth of use. To be efficient, it must rely on comprehensive set of information distributed appropriately among all stakeholders to unleash its full innovation potential. This is especially true in the case of positive energy districts, where timely data dissem...]]></summary>
+        <author>
+            <name>Rudolf Vohnout</name>
+        </author>
+        <author>
+            <name>Ivo Bukovsky</name>
+        </author>
+        <author>
+            <name>Shuo-Yan Chou</name>
+        </author>
+        <author>
+            <name>Jakub Geyer</name>
+        </author>
+        <author>
+            <name>Ondrej Budik</name>
+        </author>
+        <author>
+            <name>Rohit Sharma</name>
+        </author>
+        <author>
+            <name>Milos Prokysek</name>
+        </author>
+        <author>
+            <name>Tomas Horvath</name>
+        </author>
+        <author>
+            <name>Annemie Wyckmans</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Policy-Hiding Attribute-Based Access Control Scheme in Decentralized Trust Management]]></title>
+        <id>https://ieeexplore.ieee.org/document/10137742</id>
+        <link href="https://ieeexplore.ieee.org/document/10137742"/>
+        <updated>2023-05-30T01:02:33.650Z</updated>
+        <summary type="html"><![CDATA[Internet of Medical Things (IoMT) technologies significantly improve the quality of health care, especially at the time when COVID-19 is becoming a worldwide pandemic. Due to the complexity of devices and user nodes in the IoMT system, there should be some ways to ensure the security and quality of the service or information. Decentralized trust management techniques are efficient means of promoti...]]></summary>
+        <author>
+            <name>Conghao Ruan</name>
+        </author>
+        <author>
+            <name>Chunqiang Hu</name>
+        </author>
+        <author>
+            <name>Ruifeng Zhao</name>
+        </author>
+        <author>
+            <name>Zewei Liu</name>
+        </author>
+        <author>
+            <name>Hongyu Huang</name>
+        </author>
+        <author>
+            <name>Jiguo Yu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Optimizing Energy Consumption and Provisioning for Wireless Charging & Data Collection in Large-Scale WRSNs with Mobile Elements]]></title>
+        <id>https://ieeexplore.ieee.org/document/10137640</id>
+        <link href="https://ieeexplore.ieee.org/document/10137640"/>
+        <updated>2023-05-30T01:02:33.650Z</updated>
+        <summary type="html"><![CDATA[Wireless Rechargeable Sensor Networks (WRSNs) have emerged with strong potentials to address the bottlenecks of energy/lifetime of a WSN. Recent techniques have shown the efficacy of multiple mobile elements (MMEs) in terms of energy consumption optimization. However, new challenges for energy efficient MMEs scheme have emerged due to the emergence of large-scale WRSNs with big sensor-based data s...]]></summary>
+        <author>
+            <name>Gerald K. Ijemaru</name>
+        </author>
+        <author>
+            <name>Li Minn Ang</name>
+        </author>
+        <author>
+            <name>Kah Phooi Seng</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Improved AI based Secure M-Trust Privacy Protocol for Medical Internet of Things in Smart Healthcare System]]></title>
+        <id>https://ieeexplore.ieee.org/document/10138352</id>
+        <link href="https://ieeexplore.ieee.org/document/10138352"/>
+        <updated>2023-05-30T01:02:33.650Z</updated>
+        <summary type="html"><![CDATA[Medical Internet of Things (MIoT) is a rapidly growing field that promises to revolutionize health care. The ability to connect devices and collect data from them has the potential to transform the way it monitors and treat patients. However, the security and privacy of this data is a major concern. The cryptography and other conventional methods for security in resource constrained MIoT has sever...]]></summary>
+        <author>
+            <name>K. Sakthidasan Sankaran</name>
+        </author>
+        <author>
+            <name>Tai-Hoon Kim</name>
+        </author>
+        <author>
+            <name>P.N.Renjith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Revealing Social Group Long-Term Survival for Smart Cities Based on Behavior Graph Structures Using Virtual Game]]></title>
+        <id>https://ieeexplore.ieee.org/document/10137881</id>
+        <link href="https://ieeexplore.ieee.org/document/10137881"/>
+        <updated>2023-05-30T01:02:33.650Z</updated>
+        <summary type="html"><![CDATA[With the transformation of human life into virtual worlds based on the reality, current researches of smart cities and sustainability should integrate the factors of virtual social behaviors. Virtual games are an ideal domain and tools for exploring social science. Therefore, our work innovatively using Nova Empire as a case study to reveal the social group long-term survival via complexity analys...]]></summary>
+        <author>
+            <name>Guoshuai Zhang</name>
+        </author>
+        <author>
+            <name>Jiaji Wu</name>
+        </author>
+        <author>
+            <name>Gwanggil Jeon</name>
+        </author>
+        <author>
+            <name>Yuan Chen</name>
+        </author>
+        <author>
+            <name>Yuhui Wang</name>
+        </author>
+        <author>
+            <name>Mingzhou Tan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Imperceptible Adversarial Attack with Multi-granular Spatio-temporal Attention for Video Action Recognition]]></title>
+        <id>https://ieeexplore.ieee.org/document/10138362</id>
+        <link href="https://ieeexplore.ieee.org/document/10138362"/>
+        <updated>2023-05-30T01:02:33.650Z</updated>
+        <summary type="html"><![CDATA[In recent years, the application of video Internet of Things (IoT) in various cities and public places has brought unprecedented opportunities to the security field and achieved great success. However, the latest research shows that video recognition models are also vulnerable to adversarial examples, but adversarial examples based on physical attacks are easily detected by humans, making it diffi...]]></summary>
+        <author>
+            <name>Guoming Wu</name>
+        </author>
+        <author>
+            <name>Yangfan Xu</name>
+        </author>
+        <author>
+            <name>Jun Li</name>
+        </author>
+        <author>
+            <name>Zhiping Shi</name>
+        </author>
+        <author>
+            <name>Xianglong Liu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stochastic Cumulative DNN Inference with RL-Aided Adaptive IoT Device-Edge Collaboration]]></title>
+        <id>https://ieeexplore.ieee.org/document/10137743</id>
+        <link href="https://ieeexplore.ieee.org/document/10137743"/>
+        <updated>2023-05-30T01:02:33.650Z</updated>
+        <summary type="html"><![CDATA[The advances in artificial intelligence (AI) and edge computing enable edge intelligence to support pervasive intelligent Internet of Things (IoT) applications in the future wireless networks. We focus on deep neural network (DNN) based classification tasks, and investigate how to improve the confidence level and delay performance of DNN inference via device-edge collaboration. We first develop a ...]]></summary>
+        <author>
+            <name>Kaige Qu</name>
+        </author>
+        <author>
+            <name>Weihua Zhuang</name>
+        </author>
+        <author>
+            <name>Wen Wu</name>
+        </author>
+        <author>
+            <name>Mushu Li</name>
+        </author>
+        <author>
+            <name>Xuemin Shen</name>
+        </author>
+        <author>
+            <name>Xu Li</name>
+        </author>
+        <author>
+            <name>Weisen Shi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Efficient NB-IoT Compatible GF-NOMA PHY Mechanism for mMTC]]></title>
+        <id>https://ieeexplore.ieee.org/document/10137877</id>
+        <link href="https://ieeexplore.ieee.org/document/10137877"/>
+        <updated>2023-05-30T01:02:33.650Z</updated>
+        <summary type="html"><![CDATA[The third generation partnership project (3GPP) has proposed the narrowband Internet of things (NB-IoT) standard for serving IoT users. Improvements to the NB-IoT standard are being considered to efficiently support massive machine-type communication (mMTC) IoT applications. Subsequent releases of the NB-IoT standard envision to support mMTC using different access mechanisms. In this work, a grant...]]></summary>
+        <author>
+            <name>Harini Grama Srinath</name>
+        </author>
+        <author>
+            <name>Smriti Jha</name>
+        </author>
+        <author>
+            <name>Naveen Mysore Balasubramanya</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ManiWare: An Easy-to-Use Middleware for Cooperative Manipulator Teams]]></title>
         <id>https://ieeexplore.ieee.org/document/10136704</id>

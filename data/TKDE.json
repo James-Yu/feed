@@ -1,5 +1,45 @@
 [
   {
+    "articleNumber": "10138125",
+    "articleTitle": "Size-constrained Community Search on Large Networks: An Effective and Efficient Solution",
+    "authors": [
+      "Fan Zhang",
+      "Haicheng Guo",
+      "Dian Ouyang",
+      "Shiyu Yang",
+      "Xuemin Lin",
+      "Zhihong Tian"
+    ],
+    "abstract": "As a fundamental graph problem, community search is applied in various areas, e.g., social networks, the world wide web, and biology. A common requirement from real applications is to return a community with a bounded size while most existing solutions do not constrain community size. Recent studies on size-constrained community search still have some critical issues, e.g., the existence of a bett...",
+    "date": "2023-05-30T01:02:24.266Z"
+  },
+  {
+    "articleNumber": "10138449",
+    "articleTitle": "Towards Semi-supervised Universal Graph Classification",
+    "authors": [
+      "Xiao Luo",
+      "Yusheng Zhao",
+      "Yifang Qin",
+      "Wei Ju",
+      "Ming Zhang"
+    ],
+    "abstract": "Graph neural networks have pushed state-of-the-arts in graph classifications recently. Typically, these methods are studied within the context of supervised end-to-end training, which necessities copious task-specific labels. However, in real-world circumstances, labeled data could be limited, and there could be a massive corpus of unlabeled data, even from unknown classes as a complementary. Towa...",
+    "date": "2023-05-30T01:02:24.266Z"
+  },
+  {
+    "articleNumber": "10138033",
+    "articleTitle": "Human Cognition-based Consistency Inference Networks for Multi-modal Fake News Detection",
+    "authors": [
+      "Lianwei Wu",
+      "Pusheng Liu",
+      "Yongqiang Zhao",
+      "Peng Wang",
+      "Yangning Zhang"
+    ],
+    "abstract": "The existing models for multi-modal fake news detection focus mainly on capturing common similar semantics between different modalities to improve detection performance. However, they ignore the extraction of inconsistent features between these modalities. The intuitive cognition way people identify a piece of fake news is generally to discover if there are inconsistent semantics among news conten...",
+    "date": "2023-05-30T01:02:24.266Z"
+  },
+  {
     "articleNumber": "10136755",
     "articleTitle": "Quantum bandit with amplitude amplification exploration in an adversarial environment",
     "authors": [

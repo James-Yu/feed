@@ -1,5 +1,96 @@
 [
   {
+    "articleNumber": "10138447",
+    "articleTitle": "A Fast Magnetic Flux Leakage Small Defect Detection Network",
+    "authors": [
+      "Fucheng Han",
+      "Xianming Lang"
+    ],
+    "abstract": "To solve the problem of the difficult and slow detection of small defects in magnetic flux leakage (MFL), we propose a fast magnetic flux leakage small defect detection network (FSDDNet). First, we introduce COMSOL data augmentation method that utilizes COMSOL simulation software to obtain high-resolution images of defects, which allows the network to capture complete defect features. Furthermore,...",
+    "date": "2023-05-30T01:02:37.474Z"
+  },
+  {
+    "articleNumber": "10138120",
+    "articleTitle": "A Semi-supervised Approach for Industrial Anomaly Detection via Self-adaptive Clustering",
+    "authors": [
+      "Xiaoxue Ma",
+      "Jacky Keung",
+      "Pinjia He",
+      "Yan Xiao",
+      "Xiao Yu",
+      "Yishu Li"
+    ],
+    "abstract": "With the rapid development of the Industrial Internet of Things (IIoT), log-based anomaly detection has become vital for smart industrial construction that has prompted many researchers to contribute. To detect anomalies based on log data, semi-supervised approaches stand out from supervised and unsupervised approaches because they only require a portion of labeled data and are relatively stable. ...",
+    "date": "2023-05-30T01:02:37.474Z"
+  },
+  {
+    "articleNumber": "10138015",
+    "articleTitle": "Self-Supervised Feature Learning for Appliance Recognition in Non-Intrusive Load Monitoring",
+    "authors": [
+      "Yinyan Liu",
+      "Lei Bai",
+      "Jin Ma",
+      "Wei Wang",
+      "Wanli Ouyang"
+    ],
+    "abstract": "Non-intrusive load monitoring (NILM) can monitor the operating state and energy consumption of electric appliances in a non-intrusive manner and provides a promising approach to improving electricity usage efficiency for residential and commercial buildings. Although machine learning (ML) methods are powerful and have significantly advanced the developments of NILM, they request a sizable amount o...",
+    "date": "2023-05-30T01:02:37.474Z"
+  },
+  {
+    "articleNumber": "10138434",
+    "articleTitle": "On Faster Convergence of Scaled Sign Gradient Descent",
+    "authors": [
+      "Xiuxian Li",
+      "Kuo-Yi Lin",
+      "Li Li",
+      "Yiguang Hong",
+      "Jie Chen"
+    ],
+    "abstract": "Communication has been seen as a significant bottleneck in industrial applications over large-scale networks. To alleviate the communication burden, sign-based optimization algorithms have gained popularity recently in both industrial and academic communities, which is shown to be closely related to adaptive gradient methods, such as Adam. Along this line, this paper investigates faster convergenc...",
+    "date": "2023-05-30T01:02:37.474Z"
+  },
+  {
+    "articleNumber": "10138507",
+    "articleTitle": "STAGED: A Spatial-Temporal Aware Graph Encoder-Decoder for Fault Diagnosis in Industrial Processes",
+    "authors": [
+      "Shizhong Li",
+      "Wenchao Meng",
+      "Shibo He",
+      "Jichao Bi",
+      "Guanglun Liu"
+    ],
+    "abstract": "Data-driven fault diagnosis for critical industrial processes has exhibited promising potential with massive operating data from the supervisory control and data acquisition system. However, automatically extracting the complicated interactions between measurements and subtly integrating it with temporal evolutions have not been fully considered. Besides, with the increasing complexity of industri...",
+    "date": "2023-05-30T01:02:37.474Z"
+  },
+  {
+    "articleNumber": "10138057",
+    "articleTitle": "A Dual-Branch Spatio-Temporal-Spectral Transformer Feature Fusion Network for EEG-Based Visual Recognition",
+    "authors": [
+      "Jie Luo",
+      "Weigang Cui",
+      "Song Xu",
+      "Lina Wang",
+      "Xiao Li",
+      "Xiaofeng Liao",
+      "Yang Li"
+    ],
+    "abstract": "Recognizing visual objects from single-trial electroencephalograph (EEG) signals is a promising brain-computer interface (BCI) technology. However, due to the redundant features from noisy multi-channel EEG signals, it is still a challenging task to achieve high precision recognition. Recent deep learning approaches commonly extract spatio-temporal features of EEG signals, which neglect important ...",
+    "date": "2023-05-30T01:02:37.474Z"
+  },
+  {
+    "articleNumber": "10138427",
+    "articleTitle": "DATA-DRIVEN DISTRIBUTED GRID TOPOLOGY IDENTIFICATION USING BACKTRACKING JACOBIAN MATRIX APPROACH",
+    "authors": [
+      "Xiao Yu",
+      "Jian Zhao",
+      "Haipeng Zhang",
+      "Xiaoyu Wang",
+      "Xiaoyan Bian"
+    ],
+    "abstract": "The topology identification of distribution system is the foundation of state estimation and system analyses. However, the lack of sufficient measurement devices in practice makes full-scale identification of distributed grid hardly achievable. On the other hand, the high-scale distributed renewable energy grid-connected aggravates the complex associations between nodal injection power and voltage...",
+    "date": "2023-05-30T01:02:37.474Z"
+  },
+  {
     "articleNumber": "10136758",
     "articleTitle": "Sparse Observation Assimilated Digital Image Correlation for High Fidelity Deformation Field Reconstruction",
     "authors": [

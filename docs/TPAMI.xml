@@ -2,11 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/TPAMI.rss</id>
     <title>IEEE Transactions on Pattern Analysis and Machine Intelligence</title>
-    <updated>2023-05-29T16:14:36.785Z</updated>
+    <updated>2023-05-30T01:02:29.523Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/TPAMI.rss"/>
     <subtitle>IEEE Transactions on Pattern Analysis and Machine Intelligence</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Human Interaction Understanding with Consistency-Aware Learning]]></title>
+        <id>https://ieeexplore.ieee.org/document/10138446</id>
+        <link href="https://ieeexplore.ieee.org/document/10138446"/>
+        <updated>2023-05-30T01:02:29.518Z</updated>
+        <summary type="html"><![CDATA[Compared with the progress made on human activity classification, much less success has been achieved on human interaction understanding (HIU). Apart from the latter task is much more challenging, the main causation is that recent approaches learn human interactive relations via shallow graphical representations, which are inadequate to model complicated human interactive-relations. This paper pro...]]></summary>
+        <author>
+            <name>Jiajun Meng</name>
+        </author>
+        <author>
+            <name>Zhenhua Wang</name>
+        </author>
+        <author>
+            <name>Kaining Ying</name>
+        </author>
+        <author>
+            <name>Jianhua Zhang</name>
+        </author>
+        <author>
+            <name>Dongyan Guo</name>
+        </author>
+        <author>
+            <name>Zhen Zhang</name>
+        </author>
+        <author>
+            <name>Javen Qinfeng Shi</name>
+        </author>
+        <author>
+            <name>Shengyong Chen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Zero-Shot Hyperspectral Sharpening]]></title>
         <id>https://ieeexplore.ieee.org/document/10137388</id>

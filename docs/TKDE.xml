@@ -2,11 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/TKDE.rss</id>
     <title>IEEE Transactions on Knowledge and Data Engineering</title>
-    <updated>2023-05-29T16:14:30.432Z</updated>
+    <updated>2023-05-30T01:02:24.271Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/TKDE.rss"/>
     <subtitle>IEEE Transactions on Knowledge and Data Engineering</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Size-constrained Community Search on Large Networks: An Effective and Efficient Solution]]></title>
+        <id>https://ieeexplore.ieee.org/document/10138125</id>
+        <link href="https://ieeexplore.ieee.org/document/10138125"/>
+        <updated>2023-05-30T01:02:24.266Z</updated>
+        <summary type="html"><![CDATA[As a fundamental graph problem, community search is applied in various areas, e.g., social networks, the world wide web, and biology. A common requirement from real applications is to return a community with a bounded size while most existing solutions do not constrain community size. Recent studies on size-constrained community search still have some critical issues, e.g., the existence of a bett...]]></summary>
+        <author>
+            <name>Fan Zhang</name>
+        </author>
+        <author>
+            <name>Haicheng Guo</name>
+        </author>
+        <author>
+            <name>Dian Ouyang</name>
+        </author>
+        <author>
+            <name>Shiyu Yang</name>
+        </author>
+        <author>
+            <name>Xuemin Lin</name>
+        </author>
+        <author>
+            <name>Zhihong Tian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Towards Semi-supervised Universal Graph Classification]]></title>
+        <id>https://ieeexplore.ieee.org/document/10138449</id>
+        <link href="https://ieeexplore.ieee.org/document/10138449"/>
+        <updated>2023-05-30T01:02:24.266Z</updated>
+        <summary type="html"><![CDATA[Graph neural networks have pushed state-of-the-arts in graph classifications recently. Typically, these methods are studied within the context of supervised end-to-end training, which necessities copious task-specific labels. However, in real-world circumstances, labeled data could be limited, and there could be a massive corpus of unlabeled data, even from unknown classes as a complementary. Towa...]]></summary>
+        <author>
+            <name>Xiao Luo</name>
+        </author>
+        <author>
+            <name>Yusheng Zhao</name>
+        </author>
+        <author>
+            <name>Yifang Qin</name>
+        </author>
+        <author>
+            <name>Wei Ju</name>
+        </author>
+        <author>
+            <name>Ming Zhang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Human Cognition-based Consistency Inference Networks for Multi-modal Fake News Detection]]></title>
+        <id>https://ieeexplore.ieee.org/document/10138033</id>
+        <link href="https://ieeexplore.ieee.org/document/10138033"/>
+        <updated>2023-05-30T01:02:24.266Z</updated>
+        <summary type="html"><![CDATA[The existing models for multi-modal fake news detection focus mainly on capturing common similar semantics between different modalities to improve detection performance. However, they ignore the extraction of inconsistent features between these modalities. The intuitive cognition way people identify a piece of fake news is generally to discover if there are inconsistent semantics among news conten...]]></summary>
+        <author>
+            <name>Lianwei Wu</name>
+        </author>
+        <author>
+            <name>Pusheng Liu</name>
+        </author>
+        <author>
+            <name>Yongqiang Zhao</name>
+        </author>
+        <author>
+            <name>Peng Wang</name>
+        </author>
+        <author>
+            <name>Yangning Zhang</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Quantum bandit with amplitude amplification exploration in an adversarial environment]]></title>
         <id>https://ieeexplore.ieee.org/document/10136755</id>
