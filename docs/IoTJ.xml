@@ -2,11 +2,316 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/IoTJ.rss</id>
     <title>IEEE Internet of Things Journal</title>
-    <updated>2023-05-30T16:13:47.696Z</updated>
+    <updated>2023-05-31T01:08:20.726Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/IoTJ.rss"/>
     <subtitle>IEEE Internet of Things Journal</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Edge-enabled Blockchain-based V2X Scheme for Secure Communication within the Smart City Development]]></title>
+        <id>https://ieeexplore.ieee.org/document/10138651</id>
+        <link href="https://ieeexplore.ieee.org/document/10138651"/>
+        <updated>2023-05-31T01:08:20.719Z</updated>
+        <summary type="html"><![CDATA[As the high mobility nature of the vehicles results in frequent leaving and joining the transportation network, real-time data must be collected and shared in a timely manner. In such a transportation network, malicious vehicles can disrupt services and create serious issues, such as deadlocks and accidents. The blockchain is a technology that ensures traceability, consistency, and security in tra...]]></summary>
+        <author>
+            <name>Suresh Chavhan</name>
+        </author>
+        <author>
+            <name>Sachin Kumar</name>
+        </author>
+        <author>
+            <name>Prayag Tiwari</name>
+        </author>
+        <author>
+            <name>Xueqin Liang</name>
+        </author>
+        <author>
+            <name>Ik Hyun Lee</name>
+        </author>
+        <author>
+            <name>Khan Muhammad</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Airborne Internet: An Ultra-Dense LEO Networks Empowered Satellite-to-Aircraft Access and Resource Management Approach]]></title>
+        <id>https://ieeexplore.ieee.org/document/10138632</id>
+        <link href="https://ieeexplore.ieee.org/document/10138632"/>
+        <updated>2023-05-31T01:08:20.719Z</updated>
+        <summary type="html"><![CDATA[With the rapid development of low earth orbit (LEO) satellite technologies and constellation projects (like Starlink, OneWeb), the ongoing ultra-dense LEO satellite networks can provide an efficient solution to ubiquitous connection of aircraft. It is urgent to design the ultra-dense LEO network enabled satellite-to-aircraft communication for in-cabin users with high-speed Internet connectivity re...]]></summary>
+        <author>
+            <name>Ting Ma</name>
+        </author>
+        <author>
+            <name>Bo Qian</name>
+        </author>
+        <author>
+            <name>Yilei Wang</name>
+        </author>
+        <author>
+            <name>Xiaoyu Liu</name>
+        </author>
+        <author>
+            <name>Haibo Zhou</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Non-Cooperative Topology Inference of Wireless Networks With Monitoring Sensors]]></title>
+        <id>https://ieeexplore.ieee.org/document/10138647</id>
+        <link href="https://ieeexplore.ieee.org/document/10138647"/>
+        <updated>2023-05-31T01:08:20.719Z</updated>
+        <summary type="html"><![CDATA[With the widespread application of wireless networks, the importance of intelligent analysis of network behaviors is becoming increasingly prominent. In the analysis of networks behaviors, learning and reasoning about the connectivity of unknown networks is a fundamental problem. To obtain the topology information of a non-cooperative wireless network that could not be accessed by the monitoring s...]]></summary>
+        <author>
+            <name>Rui Chen</name>
+        </author>
+        <author>
+            <name>Lili Chang</name>
+        </author>
+        <author>
+            <name>Yilong Hui</name>
+        </author>
+        <author>
+            <name>Nan Cheng</name>
+        </author>
+        <author>
+            <name>Wei Zhang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multi-Intensity Planes Constellation and Code Design Based Color-Shift Keying for Visible Light Communications]]></title>
+        <id>https://ieeexplore.ieee.org/document/10138667</id>
+        <link href="https://ieeexplore.ieee.org/document/10138667"/>
+        <updated>2023-05-31T01:08:20.719Z</updated>
+        <summary type="html"><![CDATA[In this study, we develop multi-intensity planes color-shift keying (MIP-CSK) constellations to determine the effect of the MIP-based CSK design scheme on the reliability of visible light communication systems under the constraint of target color constraint. Based on a two-dimensional triangle partition constellation plane, we introduce algorithms to design the non-integral powers of two MIP-CSK c...]]></summary>
+        <author>
+            <name>Zongyan Li</name>
+        </author>
+        <author>
+            <name>Tianfeng Shi</name>
+        </author>
+        <author>
+            <name>Baoling Shan</name>
+        </author>
+        <author>
+            <name>Shuai Ma</name>
+        </author>
+        <author>
+            <name>Shiyin Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Labeled RFS-based Framework for Multiple Integrity Attackers Detection and Identification in Cyber-Physical Systems]]></title>
+        <id>https://ieeexplore.ieee.org/document/10138642</id>
+        <link href="https://ieeexplore.ieee.org/document/10138642"/>
+        <updated>2023-05-31T01:08:20.719Z</updated>
+        <summary type="html"><![CDATA[The problem of multiple integrity attacks (attackers) detection and identification (MIADI) in cyber-physical systems (CPSs) is still a challenging problem to date. The goal of this paper is to develop a knowledge-based method capable of simultaneously detecting and identifying multiple integrity attacks aiming at different sensors in a CPS. In this paper, with the help of labeled random finite set...]]></summary>
+        <author>
+            <name>Chaoqun Yang</name>
+        </author>
+        <author>
+            <name>Lei Mo</name>
+        </author>
+        <author>
+            <name>Xianghui Cao</name>
+        </author>
+        <author>
+            <name>Heng Zhang</name>
+        </author>
+        <author>
+            <name>Zhiguo Shi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Federated Inverse Reinforcement Learning for Smart ICUs with Differential Privacy]]></title>
+        <id>https://ieeexplore.ieee.org/document/10138664</id>
+        <link href="https://ieeexplore.ieee.org/document/10138664"/>
+        <updated>2023-05-31T01:08:20.719Z</updated>
+        <summary type="html"><![CDATA[Clinical decision-making models have been developed to support therapeutic interventions based on medical data from either a single hospital or multiple hospitals. However, models based on multi-hospital data require collaboration among hospitals to integrate local data, which can result in information leakage and violate patient privacy. To address this challenge, we propose a novel approach that...]]></summary>
+        <author>
+            <name>Wei Gong</name>
+        </author>
+        <author>
+            <name>Linxiao Cao</name>
+        </author>
+        <author>
+            <name>Yifei Zhu</name>
+        </author>
+        <author>
+            <name>Fang Zuo</name>
+        </author>
+        <author>
+            <name>Xin He</name>
+        </author>
+        <author>
+            <name>Haoquan Zhou</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Optimization of a secure UAV-based IoT: RF-fingerprint authentication and resource allocation]]></title>
+        <id>https://ieeexplore.ieee.org/document/10138659</id>
+        <link href="https://ieeexplore.ieee.org/document/10138659"/>
+        <updated>2023-05-31T01:08:20.719Z</updated>
+        <summary type="html"><![CDATA[Unmanned aerial vehicle (UAV) technology has developed to establish a mobile edge computing (MEC) network for the Internet of things (IoT). In the MEC network, users can reduce their latency by communicating and exchanging data with UAV-based edge servers. Security is a critical issue in a UAV-based IoT since the attackers who attempt to access the network may cause interference and influence the ...]]></summary>
+        <author>
+            <name>Di Lin</name>
+        </author>
+        <author>
+            <name>Weiwei Wu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Defending Wireless Receivers Against Adversarial Attacks on Modulation Classifiers]]></title>
+        <id>https://ieeexplore.ieee.org/document/10138665</id>
+        <link href="https://ieeexplore.ieee.org/document/10138665"/>
+        <updated>2023-05-31T01:08:20.719Z</updated>
+        <summary type="html"><![CDATA[Deep learning has been adopted for a wide range of wireless communication tasks, including modulation classification, because of its great classification capability. However, deep learning models have been shown to also introduce risks and vulnerabilities. For instance, adversarial attacks craft and introduce imperceptible perturbations that compromise the accuracy of deep learning-based modulatio...]]></summary>
+        <author>
+            <name>Paulo Freitas de Araujo-Filho</name>
+        </author>
+        <author>
+            <name>Georges Kaddoum</name>
+        </author>
+        <author>
+            <name>Mohamed Chiheb Ben Nasr</name>
+        </author>
+        <author>
+            <name>Henrique F. Arcoverde</name>
+        </author>
+        <author>
+            <name>Divanilson Campelo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeepBSL: 3D Personalized Deep Binaural Sound Localization on Earable Devices]]></title>
+        <id>https://ieeexplore.ieee.org/document/10138611</id>
+        <link href="https://ieeexplore.ieee.org/document/10138611"/>
+        <updated>2023-05-31T01:08:20.719Z</updated>
+        <summary type="html"><![CDATA[The prevalence of earable devices such as earbuds and headphones allows people to converse or listen to audio recordings on the move but often at the cost of reduced alertness of imminent health and safety threats in their surroundings. 3D Binaural Sound Localization (BSL), which aims to locate sound sources in space, plays a key role in improving one’s situation awareness. BSL on earable devices ...]]></summary>
+        <author>
+            <name>Awny M. El-Mohandes</name>
+        </author>
+        <author>
+            <name>Navid H. Zandi</name>
+        </author>
+        <author>
+            <name>Rong Zheng</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Opportunistic Hybrid Routing Protocol for Acoustic-Radio Cooperative Networks]]></title>
+        <id>https://ieeexplore.ieee.org/document/10138652</id>
+        <link href="https://ieeexplore.ieee.org/document/10138652"/>
+        <updated>2023-05-31T01:08:20.719Z</updated>
+        <summary type="html"><![CDATA[The ocean contains abundant resources and has high scientific and economic values. Increasing underwater communication scenarios stimulates many research efforts on underwater wireless ad-hoc networks. Underwater acoustic communication technology supports medium to long-range wireless communication. However, it suffers from low transmission data rates and long link delays. This paper introduces an...]]></summary>
+        <author>
+            <name>Zilong Jiang</name>
+        </author>
+        <author>
+            <name>Quansheng Guan</name>
+        </author>
+        <author>
+            <name>Fangjiong Chen</name>
+        </author>
+        <author>
+            <name>Nongyu Wei</name>
+        </author>
+        <author>
+            <name>Fei Ji</name>
+        </author>
+        <author>
+            <name>Hua Yu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reputation-Aware Rate Maximization for Cross-Media Cooperative Transmission in Smart Ocean IoT]]></title>
+        <id>https://ieeexplore.ieee.org/document/10138661</id>
+        <link href="https://ieeexplore.ieee.org/document/10138661"/>
+        <updated>2023-05-31T01:08:20.719Z</updated>
+        <summary type="html"><![CDATA[In smart ocean Internet of Things (IoT) systems, autonomous underwater vehicles (AUVs) are responsible for underwater information collection. Due to the nature of the medium of water, the acoustic communications for AUVs are of low bandwidth and adverse environmental conditions causing severe transmission problems. In order to realize cross-media transmission from AUVs to the offshore platform, un...]]></summary>
+        <author>
+            <name>Yufeng Han</name>
+        </author>
+        <author>
+            <name>Yue Xiao</name>
+        </author>
+        <author>
+            <name>Yulan Gao</name>
+        </author>
+        <author>
+            <name>Mingming Wu</name>
+        </author>
+        <author>
+            <name>Nan Li</name>
+        </author>
+        <author>
+            <name>Wei Xiang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Latency Guarantee for Task Computation in Wireless Powered Cloud Radio Access Networks]]></title>
+        <id>https://ieeexplore.ieee.org/document/10138648</id>
+        <link href="https://ieeexplore.ieee.org/document/10138648"/>
+        <updated>2023-05-31T01:08:20.719Z</updated>
+        <summary type="html"><![CDATA[With the massive and rapid deployment of Internet of Things (IoT) devices, the number of IoT devices in the cloud radio access network (C-RAN) has increased dramatically. It is intractable to provide deterministic quality of service (QoS) guarantee for task processing due to the task burstiness and the time-varying channels. In order to guarantee latency requirements of energy-limited IoT devices ...]]></summary>
+        <author>
+            <name>Hong Zhang</name>
+        </author>
+        <author>
+            <name>Hui Wang</name>
+        </author>
+        <author>
+            <name>Zhidu Li</name>
+        </author>
+        <author>
+            <name>Dapeng Wu</name>
+        </author>
+        <author>
+            <name>Ruyan Wang</name>
+        </author>
+        <author>
+            <name>Yu Hu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DASLog: Decentralized Auditable Secure Logging for UAV Ecosystems]]></title>
+        <id>https://ieeexplore.ieee.org/document/10138758</id>
+        <link href="https://ieeexplore.ieee.org/document/10138758"/>
+        <updated>2023-05-31T01:08:20.719Z</updated>
+        <summary type="html"><![CDATA[Rapid technological advancements in Unmanned Aerial Vehicles (UAVs) have revolutionized intelligent platforms such as smart cities. These advancements have paved the way for an emerging class of Internet of Things (IoT) systems called the Internet of Drones (IoD), which has noteworthy security and privacy challenges. In this paper, we tackle the problem of secure logging and design a novel secure ...]]></summary>
+        <author>
+            <name>Roozbeh Sarenche</name>
+        </author>
+        <author>
+            <name>Farhad Aghili</name>
+        </author>
+        <author>
+            <name>Takahito Yoshizawa</name>
+        </author>
+        <author>
+            <name>Dave Singelée</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deep Reinforcement Learning aided Loss-tolerant Congestion Control for 6LoWPAN Networks]]></title>
+        <id>https://ieeexplore.ieee.org/document/10138656</id>
+        <link href="https://ieeexplore.ieee.org/document/10138656"/>
+        <updated>2023-05-31T01:08:20.719Z</updated>
+        <summary type="html"><![CDATA[The IPv6 over Low-power Wireless Personal Area Network (6LoWPAN) protocol stack is a promising solution to connect Wireless Sensor Networks (WSNs) with the Internet for realizing a ubiquitous network interconnection of all things. However, 6LoWPAN networks face a critical challenge to control congestion caused by the burst of data traffic from wireless sensors. Packet loss will occur when buffer o...]]></summary>
+        <author>
+            <name>Yunpeng Hou</name>
+        </author>
+        <author>
+            <name>Huasen He</name>
+        </author>
+        <author>
+            <name>Xiaofeng Jiang</name>
+        </author>
+        <author>
+            <name>Shuangwu Chen</name>
+        </author>
+        <author>
+            <name>Jian Yang</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DCS-CTN: Subtle Gesture Recognition based on TD-CNN-Transformer via Millimeter Wave Radar]]></title>
         <id>https://ieeexplore.ieee.org/document/10138368</id>

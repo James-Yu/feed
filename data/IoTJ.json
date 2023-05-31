@@ -1,5 +1,186 @@
 [
   {
+    "articleNumber": "10138651",
+    "articleTitle": "Edge-enabled Blockchain-based V2X Scheme for Secure Communication within the Smart City Development",
+    "authors": [
+      "Suresh Chavhan",
+      "Sachin Kumar",
+      "Prayag Tiwari",
+      "Xueqin Liang",
+      "Ik Hyun Lee",
+      "Khan Muhammad"
+    ],
+    "abstract": "As the high mobility nature of the vehicles results in frequent leaving and joining the transportation network, real-time data must be collected and shared in a timely manner. In such a transportation network, malicious vehicles can disrupt services and create serious issues, such as deadlocks and accidents. The blockchain is a technology that ensures traceability, consistency, and security in tra...",
+    "date": "2023-05-31T01:08:20.719Z"
+  },
+  {
+    "articleNumber": "10138632",
+    "articleTitle": "Airborne Internet: An Ultra-Dense LEO Networks Empowered Satellite-to-Aircraft Access and Resource Management Approach",
+    "authors": [
+      "Ting Ma",
+      "Bo Qian",
+      "Yilei Wang",
+      "Xiaoyu Liu",
+      "Haibo Zhou"
+    ],
+    "abstract": "With the rapid development of low earth orbit (LEO) satellite technologies and constellation projects (like Starlink, OneWeb), the ongoing ultra-dense LEO satellite networks can provide an efficient solution to ubiquitous connection of aircraft. It is urgent to design the ultra-dense LEO network enabled satellite-to-aircraft communication for in-cabin users with high-speed Internet connectivity re...",
+    "date": "2023-05-31T01:08:20.719Z"
+  },
+  {
+    "articleNumber": "10138647",
+    "articleTitle": "Non-Cooperative Topology Inference of Wireless Networks With Monitoring Sensors",
+    "authors": [
+      "Rui Chen",
+      "Lili Chang",
+      "Yilong Hui",
+      "Nan Cheng",
+      "Wei Zhang"
+    ],
+    "abstract": "With the widespread application of wireless networks, the importance of intelligent analysis of network behaviors is becoming increasingly prominent. In the analysis of networks behaviors, learning and reasoning about the connectivity of unknown networks is a fundamental problem. To obtain the topology information of a non-cooperative wireless network that could not be accessed by the monitoring s...",
+    "date": "2023-05-31T01:08:20.719Z"
+  },
+  {
+    "articleNumber": "10138667",
+    "articleTitle": "Multi-Intensity Planes Constellation and Code Design Based Color-Shift Keying for Visible Light Communications",
+    "authors": [
+      "Zongyan Li",
+      "Tianfeng Shi",
+      "Baoling Shan",
+      "Shuai Ma",
+      "Shiyin Li"
+    ],
+    "abstract": "In this study, we develop multi-intensity planes color-shift keying (MIP-CSK) constellations to determine the effect of the MIP-based CSK design scheme on the reliability of visible light communication systems under the constraint of target color constraint. Based on a two-dimensional triangle partition constellation plane, we introduce algorithms to design the non-integral powers of two MIP-CSK c...",
+    "date": "2023-05-31T01:08:20.719Z"
+  },
+  {
+    "articleNumber": "10138642",
+    "articleTitle": "A Labeled RFS-based Framework for Multiple Integrity Attackers Detection and Identification in Cyber-Physical Systems",
+    "authors": [
+      "Chaoqun Yang",
+      "Lei Mo",
+      "Xianghui Cao",
+      "Heng Zhang",
+      "Zhiguo Shi"
+    ],
+    "abstract": "The problem of multiple integrity attacks (attackers) detection and identification (MIADI) in cyber-physical systems (CPSs) is still a challenging problem to date. The goal of this paper is to develop a knowledge-based method capable of simultaneously detecting and identifying multiple integrity attacks aiming at different sensors in a CPS. In this paper, with the help of labeled random finite set...",
+    "date": "2023-05-31T01:08:20.719Z"
+  },
+  {
+    "articleNumber": "10138664",
+    "articleTitle": "Federated Inverse Reinforcement Learning for Smart ICUs with Differential Privacy",
+    "authors": [
+      "Wei Gong",
+      "Linxiao Cao",
+      "Yifei Zhu",
+      "Fang Zuo",
+      "Xin He",
+      "Haoquan Zhou"
+    ],
+    "abstract": "Clinical decision-making models have been developed to support therapeutic interventions based on medical data from either a single hospital or multiple hospitals. However, models based on multi-hospital data require collaboration among hospitals to integrate local data, which can result in information leakage and violate patient privacy. To address this challenge, we propose a novel approach that...",
+    "date": "2023-05-31T01:08:20.719Z"
+  },
+  {
+    "articleNumber": "10138659",
+    "articleTitle": "Optimization of a secure UAV-based IoT: RF-fingerprint authentication and resource allocation",
+    "authors": [
+      "Di Lin",
+      "Weiwei Wu"
+    ],
+    "abstract": "Unmanned aerial vehicle (UAV) technology has developed to establish a mobile edge computing (MEC) network for the Internet of things (IoT). In the MEC network, users can reduce their latency by communicating and exchanging data with UAV-based edge servers. Security is a critical issue in a UAV-based IoT since the attackers who attempt to access the network may cause interference and influence the ...",
+    "date": "2023-05-31T01:08:20.719Z"
+  },
+  {
+    "articleNumber": "10138665",
+    "articleTitle": "Defending Wireless Receivers Against Adversarial Attacks on Modulation Classifiers",
+    "authors": [
+      "Paulo Freitas de Araujo-Filho",
+      "Georges Kaddoum",
+      "Mohamed Chiheb Ben Nasr",
+      "Henrique F. Arcoverde",
+      "Divanilson Campelo"
+    ],
+    "abstract": "Deep learning has been adopted for a wide range of wireless communication tasks, including modulation classification, because of its great classification capability. However, deep learning models have been shown to also introduce risks and vulnerabilities. For instance, adversarial attacks craft and introduce imperceptible perturbations that compromise the accuracy of deep learning-based modulatio...",
+    "date": "2023-05-31T01:08:20.719Z"
+  },
+  {
+    "articleNumber": "10138611",
+    "articleTitle": "DeepBSL: 3D Personalized Deep Binaural Sound Localization on Earable Devices",
+    "authors": [
+      "Awny M. El-Mohandes",
+      "Navid H. Zandi",
+      "Rong Zheng"
+    ],
+    "abstract": "The prevalence of earable devices such as earbuds and headphones allows people to converse or listen to audio recordings on the move but often at the cost of reduced alertness of imminent health and safety threats in their surroundings. 3D Binaural Sound Localization (BSL), which aims to locate sound sources in space, plays a key role in improving one’s situation awareness. BSL on earable devices ...",
+    "date": "2023-05-31T01:08:20.719Z"
+  },
+  {
+    "articleNumber": "10138652",
+    "articleTitle": "Opportunistic Hybrid Routing Protocol for Acoustic-Radio Cooperative Networks",
+    "authors": [
+      "Zilong Jiang",
+      "Quansheng Guan",
+      "Fangjiong Chen",
+      "Nongyu Wei",
+      "Fei Ji",
+      "Hua Yu"
+    ],
+    "abstract": "The ocean contains abundant resources and has high scientific and economic values. Increasing underwater communication scenarios stimulates many research efforts on underwater wireless ad-hoc networks. Underwater acoustic communication technology supports medium to long-range wireless communication. However, it suffers from low transmission data rates and long link delays. This paper introduces an...",
+    "date": "2023-05-31T01:08:20.719Z"
+  },
+  {
+    "articleNumber": "10138661",
+    "articleTitle": "Reputation-Aware Rate Maximization for Cross-Media Cooperative Transmission in Smart Ocean IoT",
+    "authors": [
+      "Yufeng Han",
+      "Yue Xiao",
+      "Yulan Gao",
+      "Mingming Wu",
+      "Nan Li",
+      "Wei Xiang"
+    ],
+    "abstract": "In smart ocean Internet of Things (IoT) systems, autonomous underwater vehicles (AUVs) are responsible for underwater information collection. Due to the nature of the medium of water, the acoustic communications for AUVs are of low bandwidth and adverse environmental conditions causing severe transmission problems. In order to realize cross-media transmission from AUVs to the offshore platform, un...",
+    "date": "2023-05-31T01:08:20.719Z"
+  },
+  {
+    "articleNumber": "10138648",
+    "articleTitle": "Latency Guarantee for Task Computation in Wireless Powered Cloud Radio Access Networks",
+    "authors": [
+      "Hong Zhang",
+      "Hui Wang",
+      "Zhidu Li",
+      "Dapeng Wu",
+      "Ruyan Wang",
+      "Yu Hu"
+    ],
+    "abstract": "With the massive and rapid deployment of Internet of Things (IoT) devices, the number of IoT devices in the cloud radio access network (C-RAN) has increased dramatically. It is intractable to provide deterministic quality of service (QoS) guarantee for task processing due to the task burstiness and the time-varying channels. In order to guarantee latency requirements of energy-limited IoT devices ...",
+    "date": "2023-05-31T01:08:20.719Z"
+  },
+  {
+    "articleNumber": "10138758",
+    "articleTitle": "DASLog: Decentralized Auditable Secure Logging for UAV Ecosystems",
+    "authors": [
+      "Roozbeh Sarenche",
+      "Farhad Aghili",
+      "Takahito Yoshizawa",
+      "Dave Singelée"
+    ],
+    "abstract": "Rapid technological advancements in Unmanned Aerial Vehicles (UAVs) have revolutionized intelligent platforms such as smart cities. These advancements have paved the way for an emerging class of Internet of Things (IoT) systems called the Internet of Drones (IoD), which has noteworthy security and privacy challenges. In this paper, we tackle the problem of secure logging and design a novel secure ...",
+    "date": "2023-05-31T01:08:20.719Z"
+  },
+  {
+    "articleNumber": "10138656",
+    "articleTitle": "Deep Reinforcement Learning aided Loss-tolerant Congestion Control for 6LoWPAN Networks",
+    "authors": [
+      "Yunpeng Hou",
+      "Huasen He",
+      "Xiaofeng Jiang",
+      "Shuangwu Chen",
+      "Jian Yang"
+    ],
+    "abstract": "The IPv6 over Low-power Wireless Personal Area Network (6LoWPAN) protocol stack is a promising solution to connect Wireless Sensor Networks (WSNs) with the Internet for realizing a ubiquitous network interconnection of all things. However, 6LoWPAN networks face a critical challenge to control congestion caused by the burst of data traffic from wireless sensors. Packet loss will occur when buffer o...",
+    "date": "2023-05-31T01:08:20.719Z"
+  },
+  {
     "articleNumber": "10138368",
     "articleTitle": "DCS-CTN: Subtle Gesture Recognition based on TD-CNN-Transformer via Millimeter Wave Radar",
     "authors": [
