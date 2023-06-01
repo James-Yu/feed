@@ -2,11 +2,84 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/T-ITS.rss</id>
     <title>IEEE Transactions on Intelligent Transportation Systems</title>
-    <updated>2023-05-31T16:14:24.112Z</updated>
+    <updated>2023-06-01T01:21:50.371Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/T-ITS.rss"/>
     <subtitle>IEEE Transactions on Intelligent Transportation Systems</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Mobility and Deadline-Aware Task Scheduling Mechanism for Vehicular Edge Computing]]></title>
+        <id>https://ieeexplore.ieee.org/document/10141528</id>
+        <link href="https://ieeexplore.ieee.org/document/10141528"/>
+        <updated>2023-06-01T01:21:50.364Z</updated>
+        <summary type="html"><![CDATA[Vehicular Edge Computing (VEC) is a promising paradigm that provides cloud computing services closer to vehicular users. In VEC, vehicles and communication infrastructures can form pools with computational resources to meet vehicular services with low-latency constraints. These resource pools are known as Vehicular Cloud (VC). The usage of VC resources requires a task scheduling process. In this c...]]></summary>
+        <author>
+            <name>Joahannes B. D. da Costa</name>
+        </author>
+        <author>
+            <name>Allan M. de Souza</name>
+        </author>
+        <author>
+            <name>Rodolfo I. Meneguette</name>
+        </author>
+        <author>
+            <name>Eduardo Cerqueira</name>
+        </author>
+        <author>
+            <name>Denis Rosário</name>
+        </author>
+        <author>
+            <name>Christoph Sommer</name>
+        </author>
+        <author>
+            <name>Leandro Villas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roadside Infrastructure Support for Urban Automated Driving]]></title>
+        <id>https://ieeexplore.ieee.org/document/10141533</id>
+        <link href="https://ieeexplore.ieee.org/document/10141533"/>
+        <updated>2023-06-01T01:21:50.364Z</updated>
+        <summary type="html"><![CDATA[Automated driving offers excellent opportunities for ecology, economy as well as society. Especially in urban intersections, there is a considerable margin for benefits in these sectors. This work takes a structured simulation approach to find answers on the benefit of additional information about surrounding objects of automated vehicles provided by roadside ITS stations to utilize collective per...]]></summary>
+        <author>
+            <name>Mathias Pechinger</name>
+        </author>
+        <author>
+            <name>Guido Schröer</name>
+        </author>
+        <author>
+            <name>Klaus Bogenberger</name>
+        </author>
+        <author>
+            <name>Carsten Markgraf</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guest Editorial Introduction to the Special Issue on Deployment of Connected and Automated Vehicles in Mixed Traffic Environment and the Implications on Traffic Safety and Efficiency]]></title>
+        <id>https://ieeexplore.ieee.org/document/10139325</id>
+        <link href="https://ieeexplore.ieee.org/document/10139325"/>
+        <updated>2023-06-01T01:21:50.364Z</updated>
+        <summary type="html"><![CDATA[The gradual deployment of Connected and Automated Vehicles (CAV) in traffic will result in a transition period in which vehicles with various levels of automation and connectivity will have to co-exist with non-connected and non-automated road users for quite some time. Consequently, new types of interactions will emerge (and old types of interactions are likely to become more complicated) between...]]></summary>
+        <author>
+            <name>Haneen Farah</name>
+        </author>
+        <author>
+            <name>Johan Olstam</name>
+        </author>
+        <author>
+            <name>Zuduo Zheng</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scanning the Issue]]></title>
+        <id>https://ieeexplore.ieee.org/document/10139326</id>
+        <link href="https://ieeexplore.ieee.org/document/10139326"/>
+        <updated>2023-06-01T01:21:50.364Z</updated>
+        <summary type="html"><![CDATA[Vehicle platooning has become a topic of substantial interest for the development of safer and more efficient means of transportation. It is described as a string of connected autonomous vehicles traveling closely, maintaining certain inter-vehicular distances at a set speed boosting the road capacity, improving safety, and lowering adverse environmental significance. Several platooning concepts a...]]></summary>
+        <author>
+            <name>Azim Eskandarian</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Network Flow Approach to Battery Electric Bus Scheduling]]></title>
         <id>https://ieeexplore.ieee.org/document/10137347</id>

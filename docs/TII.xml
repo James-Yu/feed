@@ -2,11 +2,162 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/TII.rss</id>
     <title>IEEE Transactions on Industrial Informatics</title>
-    <updated>2023-05-31T16:14:41.679Z</updated>
+    <updated>2023-06-01T01:22:11.533Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/TII.rss"/>
     <subtitle>IEEE Transactions on Industrial Informatics</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Secure Fully Distributed Event-Triggered Consensus of Multi-Agent Systems Against Distributed Sequential Scaling Attacks]]></title>
+        <id>https://ieeexplore.ieee.org/document/10139826</id>
+        <link href="https://ieeexplore.ieee.org/document/10139826"/>
+        <updated>2023-06-01T01:22:11.526Z</updated>
+        <summary type="html"><![CDATA[This article is concerned with the secure fully distributed event-triggered consensus problem of general linear multi-agent systems subject to distributed sequential scaling (DSS) attacks. First, a generic DSS attack model is proposed, which enables different attack strategies in terms of scaling factors, attack frequency and duration to be incorporated in various communication channels. Different...]]></summary>
+        <author>
+            <name>Wangli He</name>
+        </author>
+        <author>
+            <name>Shifen Li</name>
+        </author>
+        <author>
+            <name>Xiaohua Ge</name>
+        </author>
+        <author>
+            <name>Feng Qian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DSAC-configured Differential Evolution for Cloud-Edge-Device Collaborative Task Scheduling]]></title>
+        <id>https://ieeexplore.ieee.org/document/10138879</id>
+        <link href="https://ieeexplore.ieee.org/document/10138879"/>
+        <updated>2023-06-01T01:22:11.526Z</updated>
+        <summary type="html"><![CDATA[Industrial Internet-of-things enables various manufacturing processes executed in distributed production lines and flexible workshops. With different cloud-edge-device collaboration ways, interconnected manufacturing tasks and computational tasks are cooperatively completed in manufacturing cells, cloud resources, and edge resources. Large-scale decision variables and complex precedence constraint...]]></summary>
+        <author>
+            <name>Yuanjun Laili</name>
+        </author>
+        <author>
+            <name>Xiaohan Wang</name>
+        </author>
+        <author>
+            <name>Lin Zhang</name>
+        </author>
+        <author>
+            <name>Lei Ren</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Intelligent Classification Framework for Complex PQDs Using Optimized KS-Transform and Multiple Fusion CNN]]></title>
+        <id>https://ieeexplore.ieee.org/document/10139842</id>
+        <link href="https://ieeexplore.ieee.org/document/10139842"/>
+        <updated>2023-06-01T01:22:11.526Z</updated>
+        <summary type="html"><![CDATA[Intelligent classification of multiple power quality disturbances (PQDs) is a top priority in pollution control of the power grid. However, the large-scale application of renewable energy introduces lots of nonlinear and impact loads, which makes the PQDs more complex and challenges the effectiveness of conventional detection frameworks. In this paper, a novel framework based on optimized Kaiser w...]]></summary>
+        <author>
+            <name>Jun Ma</name>
+        </author>
+        <author>
+            <name>Jie Liu</name>
+        </author>
+        <author>
+            <name>Wei Qiu</name>
+        </author>
+        <author>
+            <name>Qiu Tang</name>
+        </author>
+        <author>
+            <name>Qiao Wang</name>
+        </author>
+        <author>
+            <name>Chengong Li</name>
+        </author>
+        <author>
+            <name>Lorenzo Peretto</name>
+        </author>
+        <author>
+            <name>Zhaosheng Teng</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Observer-Based Adaptive Fuzzy Consensus Control of Nonlinear Multi-Agent Systems Encountering Deception Attacks]]></title>
+        <id>https://ieeexplore.ieee.org/document/10139846</id>
+        <link href="https://ieeexplore.ieee.org/document/10139846"/>
+        <updated>2023-06-01T01:22:11.526Z</updated>
+        <summary type="html"><![CDATA[This paper investigates the fuzzy adaptive output- feedback consensus control problem for nonlinear multi-agent systems (MASs) with network communication encountering deception attacks. Fuzzy logic systems (FLSs) are used to approximate unknown nonlinear functions, and a novel fuzzy state observer is established to estimate the states of encountered deception attacks. For the case of unknown time-...]]></summary>
+        <author>
+            <name>Lexin Chen</name>
+        </author>
+        <author>
+            <name>Shaocheng Tong</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Partial-Label U-Net Learning Method for Compound-Fault Diagnosis With Fault-Sample Class Imbalance]]></title>
+        <id>https://ieeexplore.ieee.org/document/10138876</id>
+        <link href="https://ieeexplore.ieee.org/document/10138876"/>
+        <updated>2023-06-01T01:22:11.526Z</updated>
+        <summary type="html"><![CDATA[In the operation process of the rotating machinery, compound faults have various combination forms and are difficult to reproduce, which results in the scarcity of training samples of various compound faults. In this paper, a method of partial-label learning and classification fusion is proposed to investigate the above problems. Wavelet packet transformation (WPT) and dimensionless parameterizati...]]></summary>
+        <author>
+            <name>Jingfei Zhang</name>
+        </author>
+        <author>
+            <name>Xiao He</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Frequency Control Strategy for EV Stations based on MPC-VSG in Islanded Microgrids]]></title>
+        <id>https://ieeexplore.ieee.org/document/10138878</id>
+        <link href="https://ieeexplore.ieee.org/document/10138878"/>
+        <updated>2023-06-01T01:22:11.526Z</updated>
+        <summary type="html"><![CDATA[The inertia level of microgrids decreases with the access of inverter-based distributed generations. Uncertainty of source loads in islanded microgrids can lead to frequency instability. Considering electric vehicles (EVs) as a typical regulable load, a charging station (CS) virtual synchronous generator (VSG) frequency control (FC) strategy that considers the user charging and grid FC demand is p...]]></summary>
+        <author>
+            <name>Song Ke</name>
+        </author>
+        <author>
+            <name>Jun Yang</name>
+        </author>
+        <author>
+            <name>Lei Chen</name>
+        </author>
+        <author>
+            <name>Peixiao Fan</name>
+        </author>
+        <author>
+            <name>Xingye Shi</name>
+        </author>
+        <author>
+            <name>Junjie Ligao</name>
+        </author>
+        <author>
+            <name>Fuzhang Wu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[End-Edge-Cloud Collaboration Based False Data Injection Attack Detection in Distribution Networks]]></title>
+        <id>https://ieeexplore.ieee.org/document/10138885</id>
+        <link href="https://ieeexplore.ieee.org/document/10138885"/>
+        <updated>2023-06-01T01:22:11.526Z</updated>
+        <summary type="html"><![CDATA[False data injection attack (FDIA) can pose a severe threat to the distribution networks (DN), and the accurate detection of FDIA plays a key role in the safe and reliable operation of the DN. In this paper, an end-edge-cloud collaboration-based detection framework is proposed to detect FDIA in the DN. First, in order to effectively preserve the privacy of different stakeholders in the DN and solv...]]></summary>
+        <author>
+            <name>Houjun Li</name>
+        </author>
+        <author>
+            <name>Chunxia Dou</name>
+        </author>
+        <author>
+            <name>Dong Yue</name>
+        </author>
+        <author>
+            <name>Gerhard P. Hancke</name>
+        </author>
+        <author>
+            <name>Zeng Zeng</name>
+        </author>
+        <author>
+            <name>Wei Guo</name>
+        </author>
+        <author>
+            <name>Lei Xu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Fast Magnetic Flux Leakage Small Defect Detection Network]]></title>
         <id>https://ieeexplore.ieee.org/document/10138447</id>

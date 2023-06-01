@@ -2,11 +2,266 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/IoTJ.rss</id>
     <title>IEEE Internet of Things Journal</title>
-    <updated>2023-05-31T16:14:37.700Z</updated>
+    <updated>2023-06-01T01:22:07.247Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/IoTJ.rss"/>
     <subtitle>IEEE Internet of Things Journal</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Directive Millimeter-Wave End-Fire Diplexing Antenna for IoT Applications]]></title>
+        <id>https://ieeexplore.ieee.org/document/10139794</id>
+        <link href="https://ieeexplore.ieee.org/document/10139794"/>
+        <updated>2023-06-01T01:22:07.239Z</updated>
+        <summary type="html"><![CDATA[Millions of passengers use High-speed trains (HSTs) daily, in the world. The roofs of HSTs can be equipped with a variety of transmitting and receiving antennas to accommodate high-data-rate Internet services with reliable radio access for passengers. The design of commercial antenna systems is a compromise between cost, size, manufacturability, and performance. This paper proposes a new, compact ...]]></summary>
+        <author>
+            <name>Farzad Karami</name>
+        </author>
+        <author>
+            <name>Halim Boutayeb</name>
+        </author>
+        <author>
+            <name>Larbi Talbi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Robust RF Fingerprint Extraction Based on Cyclic Shift Characteristic]]></title>
+        <id>https://ieeexplore.ieee.org/document/10139783</id>
+        <link href="https://ieeexplore.ieee.org/document/10139783"/>
+        <updated>2023-06-01T01:22:07.239Z</updated>
+        <summary type="html"><![CDATA[As a novel solution for identification of Internet of Things (IoT) devices, radio frequency fingerprint (RFF) has excellent features such as uniqueness, stability and non-reproducibility. We propose a RFF extraction method for a type of signals with the cyclic shift characteristic (CSC). The extracted RFF is robust in terms of data independence, noise resistance and channel immunity. A unified RFF...]]></summary>
+        <author>
+            <name>Junxian Shi</name>
+        </author>
+        <author>
+            <name>Linning Peng</name>
+        </author>
+        <author>
+            <name>Hua Fu</name>
+        </author>
+        <author>
+            <name>Aiqun Hu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Semi-Supervised Specific Emitter Identification via Dual Consistency Regularization]]></title>
+        <id>https://ieeexplore.ieee.org/document/10139822</id>
+        <link href="https://ieeexplore.ieee.org/document/10139822"/>
+        <updated>2023-06-01T01:22:07.239Z</updated>
+        <summary type="html"><![CDATA[Deep Learning (DL)-based Specific Emitter Identification (SEI) is a potential physical layer authentication technique for Industrial Internet-of-Things (IIoT) Security, which detects the individual emitter according to its unique signal features resulting from transmitter hardware impairments. The success of DL-based SEI often depends on sufficient training samples and the integrity of samples’ la...]]></summary>
+        <author>
+            <name>Xue Fu</name>
+        </author>
+        <author>
+            <name>Shengnan Shi</name>
+        </author>
+        <author>
+            <name>Yu Wang</name>
+        </author>
+        <author>
+            <name>Yun Lin</name>
+        </author>
+        <author>
+            <name>Guan Gui</name>
+        </author>
+        <author>
+            <name>Octavia A. Dobre</name>
+        </author>
+        <author>
+            <name>Shiwen Mao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MG-ASTN: Multi-Graph Framework with Attentive Spatial-Temporal Networks for Crowd Mobility Prediction]]></title>
+        <id>https://ieeexplore.ieee.org/document/10139798</id>
+        <link href="https://ieeexplore.ieee.org/document/10139798"/>
+        <updated>2023-06-01T01:22:07.239Z</updated>
+        <summary type="html"><![CDATA[Predicting urban crowd patterns/flows is a challenging task due to complex spatial-temporal (ST) dependencies. In this paper, we aim to examine and report the capability and effectiveness of the current most widely used Graph Convolutional Networks (GCNs) on mobile data analysis in ST networks for crowd flow forecasting. Specifically, we propose a novel dual-stream framework leveraging Multi-Graph...]]></summary>
+        <author>
+            <name>Cheng Luo</name>
+        </author>
+        <author>
+            <name>Rusheng Cai</name>
+        </author>
+        <author>
+            <name>Haizhou Guo</name>
+        </author>
+        <author>
+            <name>Siting Luo</name>
+        </author>
+        <author>
+            <name>Rui Mao</name>
+        </author>
+        <author>
+            <name>Landu Jiang</name>
+        </author>
+        <author>
+            <name>Dian Zhang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Location Privacy-Aware Offloading for MEC-Enabled IoT: Optimality and Heuristics]]></title>
+        <id>https://ieeexplore.ieee.org/document/10139821</id>
+        <link href="https://ieeexplore.ieee.org/document/10139821"/>
+        <updated>2023-06-01T01:22:07.239Z</updated>
+        <summary type="html"><![CDATA[With the rapid development of 5G and the Internet of Things (IoT), cloud-based access mode is applied more and more in IoT scenarios. The emerging IoT applications put forward higher requirements on energy consumption and processing capacity of the network, as well as more strict privacy restrictions. The emergence of mobile edge computing solves the aforementioned user experience problems, which ...]]></summary>
+        <author>
+            <name>Wei Hua</name>
+        </author>
+        <author>
+            <name>Ziyang Zhou</name>
+        </author>
+        <author>
+            <name>Linyu Huang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cubic Permutation Polynomial-based Sliding Window Network Coding Algorithm in IoT]]></title>
+        <id>https://ieeexplore.ieee.org/document/10139796</id>
+        <link href="https://ieeexplore.ieee.org/document/10139796"/>
+        <updated>2023-06-01T01:22:07.240Z</updated>
+        <summary type="html"><![CDATA[Network coding (NC) is an information transmission technology that encodes and transmits data packets on a network. NC can be applied to the Internet of Things (IoT) and can effectively improve the data transmission quality and throughput of the IoT. The complexity of data packets encoding and decoding is an important problem in NC applications. The cubic permutation polynomial (CPP) can better op...]]></summary>
+        <author>
+            <name>Ying Song</name>
+        </author>
+        <author>
+            <name>Chaohao Sun</name>
+        </author>
+        <author>
+            <name>Wanyi Feng</name>
+        </author>
+        <author>
+            <name>Hongwei Luo</name>
+        </author>
+        <author>
+            <name>Baolin Sun</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SD-AETO: Service Deployment-enabled Adaptive Edge Task Offloading Scheme in MEC]]></title>
+        <id>https://ieeexplore.ieee.org/document/10140145</id>
+        <link href="https://ieeexplore.ieee.org/document/10140145"/>
+        <updated>2023-06-01T01:22:07.240Z</updated>
+        <summary type="html"><![CDATA[In recent years, edge computing, as an important pillar for future networks, has been developing rapidly. Task offloading is a key part of edge computing that can provide computing resources for resource-constrained devices to run computing-intensive applications, accelerate computing speed and save energy. An efficient and feasible task offloading scheme can not only greatly improve the quality o...]]></summary>
+        <author>
+            <name>Liangjun Song</name>
+        </author>
+        <author>
+            <name>Gang Sun</name>
+        </author>
+        <author>
+            <name>Hongfang Yu</name>
+        </author>
+        <author>
+            <name>Mohsen Guizani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Performance Improvement in UAV Communication Systems with Uncertain Solar Energy Supply]]></title>
+        <id>https://ieeexplore.ieee.org/document/10139785</id>
+        <link href="https://ieeexplore.ieee.org/document/10139785"/>
+        <updated>2023-06-01T01:22:07.240Z</updated>
+        <summary type="html"><![CDATA[In this paper, we study a problem of improving the communication performance in a solar-assisted UAV (unmanned aerial vehicle) communication system (SA-UCS) where UAVs equipped with solar panels are deployed to provide communication services to ground users in a target area. Previous works have ignored the inherent uncertainty in solar energy supply caused by naturally unpredictable weather condit...]]></summary>
+        <author>
+            <name>Guang Yang</name>
+        </author>
+        <author>
+            <name>Changqing Luo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[i-WSN League: Clustered distributed learning in wireless sensor networks]]></title>
+        <id>https://ieeexplore.ieee.org/document/10141571</id>
+        <link href="https://ieeexplore.ieee.org/document/10141571"/>
+        <updated>2023-06-01T01:22:07.240Z</updated>
+        <summary type="html"><![CDATA[In this work i-WSN League, a comprehensive hardware/software framework for the support of distributed training and inference is introduced. For what concerns the hardware, in i-WSN League two types of nodes are considered, namely, head nodes and common nodes. Head nodes are resource rich nodes that have the capabilities for training artificial neural network. Common nodes collect data and can exec...]]></summary>
+        <author>
+            <name>J.S. Mertens</name>
+        </author>
+        <author>
+            <name>L. Galluccio</name>
+        </author>
+        <author>
+            <name>G. Morabito</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[More Accurate Cost Estimation for Internet of Things Projects by Adaptation of Use Case Points Methodology]]></title>
+        <id>https://ieeexplore.ieee.org/document/10139806</id>
+        <link href="https://ieeexplore.ieee.org/document/10139806"/>
+        <updated>2023-06-01T01:22:07.240Z</updated>
+        <summary type="html"><![CDATA[This paper adapts the Use Case Points method to estimate the size and development effort required for the Internet of Things systems. Despite the extensive use of UCP in software engineering, it has yet to be adapted for IoT systems, which is essential for project management and resource planning. Our proposed adaptation, UCP for IoT, is based on a four-layer IoT architecture and tailors the stand...]]></summary>
+        <author>
+            <name>Radek Silhavy</name>
+        </author>
+        <author>
+            <name>Miroslav Bures</name>
+        </author>
+        <author>
+            <name>Melchizedek Alipio</name>
+        </author>
+        <author>
+            <name>Petr Silhavy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Energy Minimization for UAV-Enabled Wireless Power Transfer and Relay Networks]]></title>
+        <id>https://ieeexplore.ieee.org/document/10139816</id>
+        <link href="https://ieeexplore.ieee.org/document/10139816"/>
+        <updated>2023-06-01T01:22:07.240Z</updated>
+        <summary type="html"><![CDATA[In this paper, we consider an unmanned aerial vehicle (UAV)-enabled wireless power transfer (WPT) and relay communication network consisting of a base station (BS), a UAV, and multiple ground users. The UAV acts as both a wireless power transmission source and an uplink communication relay. Specifically, an entire transmission period of the considered system is divided into two stages. In the firs...]]></summary>
+        <author>
+            <name>Zhenyao He</name>
+        </author>
+        <author>
+            <name>Yukuan Ji</name>
+        </author>
+        <author>
+            <name>Kezhi Wang</name>
+        </author>
+        <author>
+            <name>Wei Xu</name>
+        </author>
+        <author>
+            <name>Hong Shen</name>
+        </author>
+        <author>
+            <name>Ning Wang</name>
+        </author>
+        <author>
+            <name>Xiaohu You</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Joint IRS Selection and Passive Beamforming in Multiple IRS-UAV Enhanced Anti-jamming D2D Communication Networks]]></title>
+        <id>https://ieeexplore.ieee.org/document/10139787</id>
+        <link href="https://ieeexplore.ieee.org/document/10139787"/>
+        <updated>2023-06-01T01:22:07.240Z</updated>
+        <summary type="html"><![CDATA[Intelligent reflective surfaces (IRSs) as low energy consumption and easy to attach devices have been widely applied in the field of anti-jamming recently. In particular, the combination of IRS and unmanned aerial vehicle (UAV), as IRS-UAV, further expands the scope of IRS services. In this paper, the joint IRS selection and beamforming optimization problem has been investigated in multiple IRS-UA...]]></summary>
+        <author>
+            <name>Zhifeng Hou</name>
+        </author>
+        <author>
+            <name>Yuzhen Huang</name>
+        </author>
+        <author>
+            <name>Jin Chen</name>
+        </author>
+        <author>
+            <name>Guoxin Li</name>
+        </author>
+        <author>
+            <name>Xinrong Guan</name>
+        </author>
+        <author>
+            <name>Yifan Xu</name>
+        </author>
+        <author>
+            <name>Runfeng Chen</name>
+        </author>
+        <author>
+            <name>Yuhua Xu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Edge-enabled Blockchain-based V2X Scheme for Secure Communication within the Smart City Development]]></title>
         <id>https://ieeexplore.ieee.org/document/10138651</id>

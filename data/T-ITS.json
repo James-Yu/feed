@@ -1,5 +1,52 @@
 [
   {
+    "articleNumber": "10141528",
+    "articleTitle": "Mobility and Deadline-Aware Task Scheduling Mechanism for Vehicular Edge Computing",
+    "authors": [
+      "Joahannes B. D. da Costa",
+      "Allan M. de Souza",
+      "Rodolfo I. Meneguette",
+      "Eduardo Cerqueira",
+      "Denis Rosário",
+      "Christoph Sommer",
+      "Leandro Villas"
+    ],
+    "abstract": "Vehicular Edge Computing (VEC) is a promising paradigm that provides cloud computing services closer to vehicular users. In VEC, vehicles and communication infrastructures can form pools with computational resources to meet vehicular services with low-latency constraints. These resource pools are known as Vehicular Cloud (VC). The usage of VC resources requires a task scheduling process. In this c...",
+    "date": "2023-06-01T01:21:50.364Z"
+  },
+  {
+    "articleNumber": "10141533",
+    "articleTitle": "Roadside Infrastructure Support for Urban Automated Driving",
+    "authors": [
+      "Mathias Pechinger",
+      "Guido Schröer",
+      "Klaus Bogenberger",
+      "Carsten Markgraf"
+    ],
+    "abstract": "Automated driving offers excellent opportunities for ecology, economy as well as society. Especially in urban intersections, there is a considerable margin for benefits in these sectors. This work takes a structured simulation approach to find answers on the benefit of additional information about surrounding objects of automated vehicles provided by roadside ITS stations to utilize collective per...",
+    "date": "2023-06-01T01:21:50.364Z"
+  },
+  {
+    "articleNumber": "10139325",
+    "articleTitle": "Guest Editorial Introduction to the Special Issue on Deployment of Connected and Automated Vehicles in Mixed Traffic Environment and the Implications on Traffic Safety and Efficiency",
+    "authors": [
+      "Haneen Farah",
+      "Johan Olstam",
+      "Zuduo Zheng"
+    ],
+    "abstract": "The gradual deployment of Connected and Automated Vehicles (CAV) in traffic will result in a transition period in which vehicles with various levels of automation and connectivity will have to co-exist with non-connected and non-automated road users for quite some time. Consequently, new types of interactions will emerge (and old types of interactions are likely to become more complicated) between...",
+    "date": "2023-06-01T01:21:50.364Z"
+  },
+  {
+    "articleNumber": "10139326",
+    "articleTitle": "Scanning the Issue",
+    "authors": [
+      "Azim Eskandarian"
+    ],
+    "abstract": "Vehicle platooning has become a topic of substantial interest for the development of safer and more efficient means of transportation. It is described as a string of connected autonomous vehicles traveling closely, maintaining certain inter-vehicular distances at a set speed boosting the road capacity, improving safety, and lowering adverse environmental significance. Several platooning concepts a...",
+    "date": "2023-06-01T01:21:50.364Z"
+  },
+  {
     "articleNumber": "10137347",
     "articleTitle": "A Network Flow Approach to Battery Electric Bus Scheduling",
     "authors": [

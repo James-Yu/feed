@@ -1,5 +1,95 @@
 [
   {
+    "articleNumber": "10139826",
+    "articleTitle": "Secure Fully Distributed Event-Triggered Consensus of Multi-Agent Systems Against Distributed Sequential Scaling Attacks",
+    "authors": [
+      "Wangli He",
+      "Shifen Li",
+      "Xiaohua Ge",
+      "Feng Qian"
+    ],
+    "abstract": "This article is concerned with the secure fully distributed event-triggered consensus problem of general linear multi-agent systems subject to distributed sequential scaling (DSS) attacks. First, a generic DSS attack model is proposed, which enables different attack strategies in terms of scaling factors, attack frequency and duration to be incorporated in various communication channels. Different...",
+    "date": "2023-06-01T01:22:11.526Z"
+  },
+  {
+    "articleNumber": "10138879",
+    "articleTitle": "DSAC-configured Differential Evolution for Cloud-Edge-Device Collaborative Task Scheduling",
+    "authors": [
+      "Yuanjun Laili",
+      "Xiaohan Wang",
+      "Lin Zhang",
+      "Lei Ren"
+    ],
+    "abstract": "Industrial Internet-of-things enables various manufacturing processes executed in distributed production lines and flexible workshops. With different cloud-edge-device collaboration ways, interconnected manufacturing tasks and computational tasks are cooperatively completed in manufacturing cells, cloud resources, and edge resources. Large-scale decision variables and complex precedence constraint...",
+    "date": "2023-06-01T01:22:11.526Z"
+  },
+  {
+    "articleNumber": "10139842",
+    "articleTitle": "An Intelligent Classification Framework for Complex PQDs Using Optimized KS-Transform and Multiple Fusion CNN",
+    "authors": [
+      "Jun Ma",
+      "Jie Liu",
+      "Wei Qiu",
+      "Qiu Tang",
+      "Qiao Wang",
+      "Chengong Li",
+      "Lorenzo Peretto",
+      "Zhaosheng Teng"
+    ],
+    "abstract": "Intelligent classification of multiple power quality disturbances (PQDs) is a top priority in pollution control of the power grid. However, the large-scale application of renewable energy introduces lots of nonlinear and impact loads, which makes the PQDs more complex and challenges the effectiveness of conventional detection frameworks. In this paper, a novel framework based on optimized Kaiser w...",
+    "date": "2023-06-01T01:22:11.526Z"
+  },
+  {
+    "articleNumber": "10139846",
+    "articleTitle": "Observer-Based Adaptive Fuzzy Consensus Control of Nonlinear Multi-Agent Systems Encountering Deception Attacks",
+    "authors": [
+      "Lexin Chen",
+      "Shaocheng Tong"
+    ],
+    "abstract": "This paper investigates the fuzzy adaptive output- feedback consensus control problem for nonlinear multi-agent systems (MASs) with network communication encountering deception attacks. Fuzzy logic systems (FLSs) are used to approximate unknown nonlinear functions, and a novel fuzzy state observer is established to estimate the states of encountered deception attacks. For the case of unknown time-...",
+    "date": "2023-06-01T01:22:11.526Z"
+  },
+  {
+    "articleNumber": "10138876",
+    "articleTitle": "A Partial-Label U-Net Learning Method for Compound-Fault Diagnosis With Fault-Sample Class Imbalance",
+    "authors": [
+      "Jingfei Zhang",
+      "Xiao He"
+    ],
+    "abstract": "In the operation process of the rotating machinery, compound faults have various combination forms and are difficult to reproduce, which results in the scarcity of training samples of various compound faults. In this paper, a method of partial-label learning and classification fusion is proposed to investigate the above problems. Wavelet packet transformation (WPT) and dimensionless parameterizati...",
+    "date": "2023-06-01T01:22:11.526Z"
+  },
+  {
+    "articleNumber": "10138878",
+    "articleTitle": "A Frequency Control Strategy for EV Stations based on MPC-VSG in Islanded Microgrids",
+    "authors": [
+      "Song Ke",
+      "Jun Yang",
+      "Lei Chen",
+      "Peixiao Fan",
+      "Xingye Shi",
+      "Junjie Ligao",
+      "Fuzhang Wu"
+    ],
+    "abstract": "The inertia level of microgrids decreases with the access of inverter-based distributed generations. Uncertainty of source loads in islanded microgrids can lead to frequency instability. Considering electric vehicles (EVs) as a typical regulable load, a charging station (CS) virtual synchronous generator (VSG) frequency control (FC) strategy that considers the user charging and grid FC demand is p...",
+    "date": "2023-06-01T01:22:11.526Z"
+  },
+  {
+    "articleNumber": "10138885",
+    "articleTitle": "End-Edge-Cloud Collaboration Based False Data Injection Attack Detection in Distribution Networks",
+    "authors": [
+      "Houjun Li",
+      "Chunxia Dou",
+      "Dong Yue",
+      "Gerhard P. Hancke",
+      "Zeng Zeng",
+      "Wei Guo",
+      "Lei Xu"
+    ],
+    "abstract": "False data injection attack (FDIA) can pose a severe threat to the distribution networks (DN), and the accurate detection of FDIA plays a key role in the safe and reliable operation of the DN. In this paper, an end-edge-cloud collaboration-based detection framework is proposed to detect FDIA in the DN. First, in order to effectively preserve the privacy of different stakeholders in the DN and solv...",
+    "date": "2023-06-01T01:22:11.526Z"
+  },
+  {
     "articleNumber": "10138447",
     "articleTitle": "A Fast Magnetic Flux Leakage Small Defect Detection Network",
     "authors": [
