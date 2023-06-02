@@ -1,5 +1,30 @@
 [
   {
+    "articleNumber": "10142232",
+    "articleTitle": "A Scheme for Cooperative-Escort Multi-Submersible Intelligent Transportation System Based on SDN-Enabled Underwater IoV",
+    "authors": [
+      "Qiuzi Tao",
+      "Guangjie Han",
+      "Chuan Lin",
+      "Lei Wang",
+      "Shuqiang Huang",
+      "Chang Lu"
+    ],
+    "abstract": "As an emerging multi-submersible system, Human Occupied Vehicle (HOV) under a convoy of a set of Autonomous Underwater Vehicles (AUVs) is regarded as the future framework for underwater exploration. In this work, to improve the interoperability and communication efficiency of the multi-submersible formations, we treat the multi-submersible system as a paradigm of the underwater Internet of Vehicle...",
+    "date": "2023-06-02T01:09:52.634Z"
+  },
+  {
+    "articleNumber": "10142231",
+    "articleTitle": "Scheduling EV Charging Having Demand With Different Reliability Constraints",
+    "authors": [
+      "Shiping Shao",
+      "Hossein Sartipizadeh",
+      "Abhishek Gupta"
+    ],
+    "abstract": "We develop a new algorithm, based on approximate dynamic programming, to efficiently schedule the charging processes of a large number of electric vehicles (EVs) with flexibility, which allows the EV charging service provider to charge the EVs between their minimum and target state of charge (SoC) within a time window. We assume that the charging demands have known distributions and the charging p...",
+    "date": "2023-06-02T01:09:52.634Z"
+  },
+  {
     "articleNumber": "10141528",
     "articleTitle": "Mobility and Deadline-Aware Task Scheduling Mechanism for Vehicular Edge Computing",
     "authors": [

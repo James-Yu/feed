@@ -2,11 +2,272 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/IoTJ.rss</id>
     <title>IEEE Internet of Things Journal</title>
-    <updated>2023-06-01T16:14:51.311Z</updated>
+    <updated>2023-06-02T01:10:06.197Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/IoTJ.rss"/>
     <subtitle>IEEE Internet of Things Journal</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Multi-Service Compact Pixelated Stacked Antenna with Different Pixel Shapes for IoT Applications]]></title>
+        <id>https://ieeexplore.ieee.org/document/10142005</id>
+        <link href="https://ieeexplore.ieee.org/document/10142005"/>
+        <updated>2023-06-02T01:10:06.190Z</updated>
+        <summary type="html"><![CDATA[This paper presents a multi-service pixelated stacked antenna for dual-band application at 5.2 GHz and 5.8 GHz bands. An efficient method for designing multilayer or stacked antennas for multistandard Internet of Things (IoT) applications is proposed in this paper. The proposed antenna topology is based on two different pixel shapes and offers essential aspects such as flexibilities in the design ...]]></summary>
+        <author>
+            <name>M. A. Ullah</name>
+        </author>
+        <author>
+            <name>R. Keshavarz</name>
+        </author>
+        <author>
+            <name>M. Abolhasan</name>
+        </author>
+        <author>
+            <name>J. Lipman</name>
+        </author>
+        <author>
+            <name>N. Shariati</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smart Optimization Solution for Channel Access Attack Defense under UAV-aided Heterogeneous Network]]></title>
+        <id>https://ieeexplore.ieee.org/document/10142004</id>
+        <link href="https://ieeexplore.ieee.org/document/10142004"/>
+        <updated>2023-06-02T01:10:06.190Z</updated>
+        <summary type="html"><![CDATA[6G-based wireless communication system is poised to redefine the next-generation network landscape by enabling novel services and applications such as intelligent link establishment, power control, data collection, transmission, and distribution. However, security issues, particularly recently revealed Channel Access Attack (CAA), present significant challenges to performance optimization tasks in...]]></summary>
+        <author>
+            <name>Zhaoyang Han</name>
+        </author>
+        <author>
+            <name>Yaoqi Yang</name>
+        </author>
+        <author>
+            <name>Muhammad Bilal</name>
+        </author>
+        <author>
+            <name>Weizheng Wang</name>
+        </author>
+        <author>
+            <name>Moez Krichen</name>
+        </author>
+        <author>
+            <name>Abeer Abdullah Alsadhan</name>
+        </author>
+        <author>
+            <name>Chunpeng Ge</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LoRaute: Routing Messages in Backhaul LoRa Networks for Underserved Regions]]></title>
+        <id>https://ieeexplore.ieee.org/document/10142009</id>
+        <link href="https://ieeexplore.ieee.org/document/10142009"/>
+        <updated>2023-06-02T01:10:06.190Z</updated>
+        <summary type="html"><![CDATA[LoRa technology endows unprecedented ability to connect isolated geographical landscapes and build community networks that serve specific purposes. As the network grows, coherent routing of messages becomes imperative to meet the network’s objectives and Quality of Service (QoS) requirements. However, despite the recent rise in research and development centered around LoRa networks, not much resea...]]></summary>
+        <author>
+            <name>Atonu Ghosh</name>
+        </author>
+        <author>
+            <name>Sudip Misra</name>
+        </author>
+        <author>
+            <name>Venkanna Udutalapally</name>
+        </author>
+        <author>
+            <name>Debanjan Das</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ellipsoid Pricing Based Context-feature Mechanisms for Noisy Sensing Tasks]]></title>
+        <id>https://ieeexplore.ieee.org/document/10142021</id>
+        <link href="https://ieeexplore.ieee.org/document/10142021"/>
+        <updated>2023-06-02T01:10:06.190Z</updated>
+        <summary type="html"><![CDATA[Recently, online pricing receives extensive attentions for addressing more realistic mobile crowdsensing (MCS) applications. However, existing these works mainly focus on finding an optimal price by repeated price experiments of user’s acceptance decision, which incurs a desirable regret. In practice, there are also many other factors that will affect these regrets, such contextual features as dis...]]></summary>
+        <author>
+            <name>Jiajun Sun</name>
+        </author>
+        <author>
+            <name>Dianliang Wu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deep Reinforcement Learning for Resource Demand Prediction and Virtual Function Network Migration in Digital Twin Network]]></title>
+        <id>https://ieeexplore.ieee.org/document/10142965</id>
+        <link href="https://ieeexplore.ieee.org/document/10142965"/>
+        <updated>2023-06-02T01:10:06.190Z</updated>
+        <summary type="html"><![CDATA[Internet of Things (IoT) enables intelligent services varying with the complex and realtime environment to achieve network benefits, where Network Function Virtualization (NFV) can dynamically provide Virtualized Network Functions (VNFs) for IoT devices. In NFV-enabled IoT architecture, a service function chain (SFC) consists of an ordered set of virtual network functions (VNFs). However, the ener...]]></summary>
+        <author>
+            <name>Qinghai Liu</name>
+        </author>
+        <author>
+            <name>Lun Tang</name>
+        </author>
+        <author>
+            <name>Ting Wu</name>
+        </author>
+        <author>
+            <name>Qianbin Chen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Sparse Sensor Placement Strategy based on Information Entropy and Data Reconstruction for Ocean Monitoring]]></title>
+        <id>https://ieeexplore.ieee.org/document/10141989</id>
+        <link href="https://ieeexplore.ieee.org/document/10141989"/>
+        <updated>2023-06-02T01:10:06.190Z</updated>
+        <summary type="html"><![CDATA[Sparse sensor placement strategies are applied to reconstruct a region’s full-state data conditioned to a limited number of sensors, particularly crucial to ocean monitoring systems. In maritime systems, existing sparse sensor placement methods consider the reconstruction error of data or rely on specific requirements. Considering how sensors acquire essential information for monitoring systems, t...]]></summary>
+        <author>
+            <name>Qiannan Zhang</name>
+        </author>
+        <author>
+            <name>Huafeng Wu</name>
+        </author>
+        <author>
+            <name>Xiaojun Mei</name>
+        </author>
+        <author>
+            <name>Dezhi Han</name>
+        </author>
+        <author>
+            <name>Mario Donato Marino</name>
+        </author>
+        <author>
+            <name>Kuan-Ching Li</name>
+        </author>
+        <author>
+            <name>Song Guo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Time Synchronization based on Cross-Technology Communication for IoT Networks]]></title>
+        <id>https://ieeexplore.ieee.org/document/10142013</id>
+        <link href="https://ieeexplore.ieee.org/document/10142013"/>
+        <updated>2023-06-02T01:10:06.190Z</updated>
+        <summary type="html"><![CDATA[Time synchronization is a fundamental requirement for wireless communication systems to work properly. Most of the existing studies focus on time synchronization among homogeneous devices. This work investigates time synchronization with heterogeneous technologies (e.g., WiFi, ZigBee and Bluetooth) which is important for the rising Internet of Thing (IoT) scenarios where heterogeneous devices coex...]]></summary>
+        <author>
+            <name>Demin Gao</name>
+        </author>
+        <author>
+            <name>Yunhuai Liu</name>
+        </author>
+        <author>
+            <name>Bin Hu</name>
+        </author>
+        <author>
+            <name>Lei Wang</name>
+        </author>
+        <author>
+            <name>Weiwei Chen</name>
+        </author>
+        <author>
+            <name>Yongrui Chen</name>
+        </author>
+        <author>
+            <name>Tian He</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Distributed Inference over Linear Models using Alternating Gaussian Belief Propagation]]></title>
+        <id>https://ieeexplore.ieee.org/document/10141994</id>
+        <link href="https://ieeexplore.ieee.org/document/10141994"/>
+        <updated>2023-06-02T01:10:06.190Z</updated>
+        <summary type="html"><![CDATA[We consider the problem of maximum likelihood estimation in linear models represented by factor graphs and solved via the Gaussian belief propagation algorithm. Motivated by massive internet of things (IoT) networks and edge computing, we set the above problem in a clustered scenario, where the factor graph is divided into clusters and assigned for processing in a distributed fashion across a numb...]]></summary>
+        <author>
+            <name>Mirsad Cosovic</name>
+        </author>
+        <author>
+            <name>Dragisa Miskovic</name>
+        </author>
+        <author>
+            <name>Muhamed Delalic</name>
+        </author>
+        <author>
+            <name>Darijo Raca</name>
+        </author>
+        <author>
+            <name>Dejan Vukobratovic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blockchain Exchange Optimization by Graph Partition and Merging in IoT Scenarios]]></title>
+        <id>https://ieeexplore.ieee.org/document/10142018</id>
+        <link href="https://ieeexplore.ieee.org/document/10142018"/>
+        <updated>2023-06-02T01:10:06.190Z</updated>
+        <summary type="html"><![CDATA[Blockchain exchanges have been widely used for IoT-based resource sharing. An exchange consists of several related transactions where participants exchange their assets. However, the exchange can take a long time to complete due to different reasons (such as IoT device failure). Meanwhile, exchange fees are an important aspect, because an exchange usually contains multiple transactions, and the ex...]]></summary>
+        <author>
+            <name>Hong Su</name>
+        </author>
+        <author>
+            <name>Haichuan Zhang</name>
+        </author>
+        <author>
+            <name>Bing Guo</name>
+        </author>
+        <author>
+            <name>Xinhua Suo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Energy-Efficient Multi-Mode Transmission Scheme for Underwater Sensor Network]]></title>
+        <id>https://ieeexplore.ieee.org/document/10141987</id>
+        <link href="https://ieeexplore.ieee.org/document/10141987"/>
+        <updated>2023-06-02T01:10:06.190Z</updated>
+        <summary type="html"><![CDATA[Underwater sensor network plays a critical role in the ocean data collection owing to its capability of providing reliable and wide communication coverage. How to assure lifetime performance of the network with limited energy supply has always been a key research issue. In this paper, we propose an underwater acoustic sensor network model which supports data delivery from each underwater sensor no...]]></summary>
+        <author>
+            <name>Ruisong Wang</name>
+        </author>
+        <author>
+            <name>Ruofei Ma</name>
+        </author>
+        <author>
+            <name>Yang Zhang</name>
+        </author>
+        <author>
+            <name>Gongliang Liu</name>
+        </author>
+        <author>
+            <name>Wenjing Kang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamic convolution with multilevel attention for EEG-based motor imagery decoding]]></title>
+        <id>https://ieeexplore.ieee.org/document/10142002</id>
+        <link href="https://ieeexplore.ieee.org/document/10142002"/>
+        <updated>2023-06-02T01:10:06.190Z</updated>
+        <summary type="html"><![CDATA[Brain-computer interface (BCI) is an innovative technology that utilizes artificial intelligence (AI) and wearable electroencephalography (EEG) sensors to decode brain signals and enhance the quality of life. EEG-based motor imagery (MI) brain signal is used in many BCI applications including smart healthcare, smart homes, and robotics control. However, the restricted ability to decode brain signa...]]></summary>
+        <author>
+            <name>Hamdi Altaheri</name>
+        </author>
+        <author>
+            <name>Ghulam Muhammad</name>
+        </author>
+        <author>
+            <name>Mansour Alsulaiman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Blockchain-based Secure Searching Strategy for Metadata in Mobile Edge Computing]]></title>
+        <id>https://ieeexplore.ieee.org/document/10142019</id>
+        <link href="https://ieeexplore.ieee.org/document/10142019"/>
+        <updated>2023-06-02T01:10:06.190Z</updated>
+        <summary type="html"><![CDATA[With intelligent devices’ prevalence, mobile edge computing technology can effectively process the massive data in the Internet of Things (IoT). The metadata produced in mobile edge computing plays a role in colossal data management. However, it also includes lots of user privacy information. Traditional privacy protection solutions sacrifice the metadata’s availability or are incompatible with th...]]></summary>
+        <author>
+            <name>Wenlong Tian</name>
+        </author>
+        <author>
+            <name>Qi Liu</name>
+        </author>
+        <author>
+            <name>Ruixuan Li</name>
+        </author>
+        <author>
+            <name>Zhiyong Xu</name>
+        </author>
+        <author>
+            <name>Yan Zhang</name>
+        </author>
+        <author>
+            <name>Yongfeng Huang</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Directive Millimeter-Wave End-Fire Diplexing Antenna for IoT Applications]]></title>
         <id>https://ieeexplore.ieee.org/document/10139794</id>

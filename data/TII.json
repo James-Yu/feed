@@ -1,5 +1,17 @@
 [
   {
+    "articleNumber": "10141879",
+    "articleTitle": "Discriminating Internal Multi-Parameter Difference from Shape Dissimilarity between Voltage Curves of Lithium-ion Batteries",
+    "authors": [
+      "Jiani Shen",
+      "Qiankun Wang",
+      "Chao Wang",
+      "Yijun He"
+    ],
+    "abstract": "Discriminating internal multi-parameter difference between cells is a basis of battery screening, diagnosis, consistency assessment and early warning. However, the existing methods based on voltage features can only identify one or two parameter difference sources and usually work under specific conditions. To solve this problem, a modified multidimensional scaling (MDS) framework that incorporate...",
+    "date": "2023-06-02T01:10:09.781Z"
+  },
+  {
     "articleNumber": "10139826",
     "articleTitle": "Secure Fully Distributed Event-Triggered Consensus of Multi-Agent Systems Against Distributed Sequential Scaling Attacks",
     "authors": [

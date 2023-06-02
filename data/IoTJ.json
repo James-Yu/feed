@@ -1,5 +1,160 @@
 [
   {
+    "articleNumber": "10142005",
+    "articleTitle": "Multi-Service Compact Pixelated Stacked Antenna with Different Pixel Shapes for IoT Applications",
+    "authors": [
+      "M. A. Ullah",
+      "R. Keshavarz",
+      "M. Abolhasan",
+      "J. Lipman",
+      "N. Shariati"
+    ],
+    "abstract": "This paper presents a multi-service pixelated stacked antenna for dual-band application at 5.2 GHz and 5.8 GHz bands. An efficient method for designing multilayer or stacked antennas for multistandard Internet of Things (IoT) applications is proposed in this paper. The proposed antenna topology is based on two different pixel shapes and offers essential aspects such as flexibilities in the design ...",
+    "date": "2023-06-02T01:10:06.190Z"
+  },
+  {
+    "articleNumber": "10142004",
+    "articleTitle": "Smart Optimization Solution for Channel Access Attack Defense under UAV-aided Heterogeneous Network",
+    "authors": [
+      "Zhaoyang Han",
+      "Yaoqi Yang",
+      "Muhammad Bilal",
+      "Weizheng Wang",
+      "Moez Krichen",
+      "Abeer Abdullah Alsadhan",
+      "Chunpeng Ge"
+    ],
+    "abstract": "6G-based wireless communication system is poised to redefine the next-generation network landscape by enabling novel services and applications such as intelligent link establishment, power control, data collection, transmission, and distribution. However, security issues, particularly recently revealed Channel Access Attack (CAA), present significant challenges to performance optimization tasks in...",
+    "date": "2023-06-02T01:10:06.190Z"
+  },
+  {
+    "articleNumber": "10142009",
+    "articleTitle": "LoRaute: Routing Messages in Backhaul LoRa Networks for Underserved Regions",
+    "authors": [
+      "Atonu Ghosh",
+      "Sudip Misra",
+      "Venkanna Udutalapally",
+      "Debanjan Das"
+    ],
+    "abstract": "LoRa technology endows unprecedented ability to connect isolated geographical landscapes and build community networks that serve specific purposes. As the network grows, coherent routing of messages becomes imperative to meet the network’s objectives and Quality of Service (QoS) requirements. However, despite the recent rise in research and development centered around LoRa networks, not much resea...",
+    "date": "2023-06-02T01:10:06.190Z"
+  },
+  {
+    "articleNumber": "10142021",
+    "articleTitle": "Ellipsoid Pricing Based Context-feature Mechanisms for Noisy Sensing Tasks",
+    "authors": [
+      "Jiajun Sun",
+      "Dianliang Wu"
+    ],
+    "abstract": "Recently, online pricing receives extensive attentions for addressing more realistic mobile crowdsensing (MCS) applications. However, existing these works mainly focus on finding an optimal price by repeated price experiments of user’s acceptance decision, which incurs a desirable regret. In practice, there are also many other factors that will affect these regrets, such contextual features as dis...",
+    "date": "2023-06-02T01:10:06.190Z"
+  },
+  {
+    "articleNumber": "10142965",
+    "articleTitle": "Deep Reinforcement Learning for Resource Demand Prediction and Virtual Function Network Migration in Digital Twin Network",
+    "authors": [
+      "Qinghai Liu",
+      "Lun Tang",
+      "Ting Wu",
+      "Qianbin Chen"
+    ],
+    "abstract": "Internet of Things (IoT) enables intelligent services varying with the complex and realtime environment to achieve network benefits, where Network Function Virtualization (NFV) can dynamically provide Virtualized Network Functions (VNFs) for IoT devices. In NFV-enabled IoT architecture, a service function chain (SFC) consists of an ordered set of virtual network functions (VNFs). However, the ener...",
+    "date": "2023-06-02T01:10:06.190Z"
+  },
+  {
+    "articleNumber": "10141989",
+    "articleTitle": "A Sparse Sensor Placement Strategy based on Information Entropy and Data Reconstruction for Ocean Monitoring",
+    "authors": [
+      "Qiannan Zhang",
+      "Huafeng Wu",
+      "Xiaojun Mei",
+      "Dezhi Han",
+      "Mario Donato Marino",
+      "Kuan-Ching Li",
+      "Song Guo"
+    ],
+    "abstract": "Sparse sensor placement strategies are applied to reconstruct a region’s full-state data conditioned to a limited number of sensors, particularly crucial to ocean monitoring systems. In maritime systems, existing sparse sensor placement methods consider the reconstruction error of data or rely on specific requirements. Considering how sensors acquire essential information for monitoring systems, t...",
+    "date": "2023-06-02T01:10:06.190Z"
+  },
+  {
+    "articleNumber": "10142013",
+    "articleTitle": "Time Synchronization based on Cross-Technology Communication for IoT Networks",
+    "authors": [
+      "Demin Gao",
+      "Yunhuai Liu",
+      "Bin Hu",
+      "Lei Wang",
+      "Weiwei Chen",
+      "Yongrui Chen",
+      "Tian He"
+    ],
+    "abstract": "Time synchronization is a fundamental requirement for wireless communication systems to work properly. Most of the existing studies focus on time synchronization among homogeneous devices. This work investigates time synchronization with heterogeneous technologies (e.g., WiFi, ZigBee and Bluetooth) which is important for the rising Internet of Thing (IoT) scenarios where heterogeneous devices coex...",
+    "date": "2023-06-02T01:10:06.190Z"
+  },
+  {
+    "articleNumber": "10141994",
+    "articleTitle": "Distributed Inference over Linear Models using Alternating Gaussian Belief Propagation",
+    "authors": [
+      "Mirsad Cosovic",
+      "Dragisa Miskovic",
+      "Muhamed Delalic",
+      "Darijo Raca",
+      "Dejan Vukobratovic"
+    ],
+    "abstract": "We consider the problem of maximum likelihood estimation in linear models represented by factor graphs and solved via the Gaussian belief propagation algorithm. Motivated by massive internet of things (IoT) networks and edge computing, we set the above problem in a clustered scenario, where the factor graph is divided into clusters and assigned for processing in a distributed fashion across a numb...",
+    "date": "2023-06-02T01:10:06.190Z"
+  },
+  {
+    "articleNumber": "10142018",
+    "articleTitle": "Blockchain Exchange Optimization by Graph Partition and Merging in IoT Scenarios",
+    "authors": [
+      "Hong Su",
+      "Haichuan Zhang",
+      "Bing Guo",
+      "Xinhua Suo"
+    ],
+    "abstract": "Blockchain exchanges have been widely used for IoT-based resource sharing. An exchange consists of several related transactions where participants exchange their assets. However, the exchange can take a long time to complete due to different reasons (such as IoT device failure). Meanwhile, exchange fees are an important aspect, because an exchange usually contains multiple transactions, and the ex...",
+    "date": "2023-06-02T01:10:06.190Z"
+  },
+  {
+    "articleNumber": "10141987",
+    "articleTitle": "An Energy-Efficient Multi-Mode Transmission Scheme for Underwater Sensor Network",
+    "authors": [
+      "Ruisong Wang",
+      "Ruofei Ma",
+      "Yang Zhang",
+      "Gongliang Liu",
+      "Wenjing Kang"
+    ],
+    "abstract": "Underwater sensor network plays a critical role in the ocean data collection owing to its capability of providing reliable and wide communication coverage. How to assure lifetime performance of the network with limited energy supply has always been a key research issue. In this paper, we propose an underwater acoustic sensor network model which supports data delivery from each underwater sensor no...",
+    "date": "2023-06-02T01:10:06.190Z"
+  },
+  {
+    "articleNumber": "10142002",
+    "articleTitle": "Dynamic convolution with multilevel attention for EEG-based motor imagery decoding",
+    "authors": [
+      "Hamdi Altaheri",
+      "Ghulam Muhammad",
+      "Mansour Alsulaiman"
+    ],
+    "abstract": "Brain-computer interface (BCI) is an innovative technology that utilizes artificial intelligence (AI) and wearable electroencephalography (EEG) sensors to decode brain signals and enhance the quality of life. EEG-based motor imagery (MI) brain signal is used in many BCI applications including smart healthcare, smart homes, and robotics control. However, the restricted ability to decode brain signa...",
+    "date": "2023-06-02T01:10:06.190Z"
+  },
+  {
+    "articleNumber": "10142019",
+    "articleTitle": "A Blockchain-based Secure Searching Strategy for Metadata in Mobile Edge Computing",
+    "authors": [
+      "Wenlong Tian",
+      "Qi Liu",
+      "Ruixuan Li",
+      "Zhiyong Xu",
+      "Yan Zhang",
+      "Yongfeng Huang"
+    ],
+    "abstract": "With intelligent devices’ prevalence, mobile edge computing technology can effectively process the massive data in the Internet of Things (IoT). The metadata produced in mobile edge computing plays a role in colossal data management. However, it also includes lots of user privacy information. Traditional privacy protection solutions sacrifice the metadata’s availability or are incompatible with th...",
+    "date": "2023-06-02T01:10:06.190Z"
+  },
+  {
     "articleNumber": "10139794",
     "articleTitle": "Directive Millimeter-Wave End-Fire Diplexing Antenna for IoT Applications",
     "authors": [

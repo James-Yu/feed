@@ -2,11 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/T-ITS.rss</id>
     <title>IEEE Transactions on Intelligent Transportation Systems</title>
-    <updated>2023-06-01T16:14:37.326Z</updated>
+    <updated>2023-06-02T01:09:52.640Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/T-ITS.rss"/>
     <subtitle>IEEE Transactions on Intelligent Transportation Systems</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[A Scheme for Cooperative-Escort Multi-Submersible Intelligent Transportation System Based on SDN-Enabled Underwater IoV]]></title>
+        <id>https://ieeexplore.ieee.org/document/10142232</id>
+        <link href="https://ieeexplore.ieee.org/document/10142232"/>
+        <updated>2023-06-02T01:09:52.634Z</updated>
+        <summary type="html"><![CDATA[As an emerging multi-submersible system, Human Occupied Vehicle (HOV) under a convoy of a set of Autonomous Underwater Vehicles (AUVs) is regarded as the future framework for underwater exploration. In this work, to improve the interoperability and communication efficiency of the multi-submersible formations, we treat the multi-submersible system as a paradigm of the underwater Internet of Vehicle...]]></summary>
+        <author>
+            <name>Qiuzi Tao</name>
+        </author>
+        <author>
+            <name>Guangjie Han</name>
+        </author>
+        <author>
+            <name>Chuan Lin</name>
+        </author>
+        <author>
+            <name>Lei Wang</name>
+        </author>
+        <author>
+            <name>Shuqiang Huang</name>
+        </author>
+        <author>
+            <name>Chang Lu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scheduling EV Charging Having Demand With Different Reliability Constraints]]></title>
+        <id>https://ieeexplore.ieee.org/document/10142231</id>
+        <link href="https://ieeexplore.ieee.org/document/10142231"/>
+        <updated>2023-06-02T01:09:52.634Z</updated>
+        <summary type="html"><![CDATA[We develop a new algorithm, based on approximate dynamic programming, to efficiently schedule the charging processes of a large number of electric vehicles (EVs) with flexibility, which allows the EV charging service provider to charge the EVs between their minimum and target state of charge (SoC) within a time window. We assume that the charging demands have known distributions and the charging p...]]></summary>
+        <author>
+            <name>Shiping Shao</name>
+        </author>
+        <author>
+            <name>Hossein Sartipizadeh</name>
+        </author>
+        <author>
+            <name>Abhishek Gupta</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mobility and Deadline-Aware Task Scheduling Mechanism for Vehicular Edge Computing]]></title>
         <id>https://ieeexplore.ieee.org/document/10141528</id>
