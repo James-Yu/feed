@@ -2,11 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/TPAMI.rss</id>
     <title>IEEE Transactions on Pattern Analysis and Machine Intelligence</title>
-    <updated>2023-06-02T16:15:18.469Z</updated>
+    <updated>2023-06-03T01:07:22.113Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/TPAMI.rss"/>
     <subtitle>IEEE Transactions on Pattern Analysis and Machine Intelligence</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[LARNeXt: End-to-End Lie Algebra Residual Network for Face Recognition]]></title>
+        <id>https://ieeexplore.ieee.org/document/10143393</id>
+        <link href="https://ieeexplore.ieee.org/document/10143393"/>
+        <updated>2023-06-03T01:07:22.108Z</updated>
+        <summary type="html"><![CDATA[Face recognition has always been courted in computer vision and is especially amenable to situations with significant variations between frontal and profile faces. Traditional techniques make great strides either by synthesizing frontal faces from sizable datasets or by empirical pose invariant learning. In this paper, we propose a completely integrated embedded end-to-end Lie algebra residual arc...]]></summary>
+        <author>
+            <name>Xiaolong Yang</name>
+        </author>
+        <author>
+            <name>Xiaohong Jia</name>
+        </author>
+        <author>
+            <name>Dihong Gong</name>
+        </author>
+        <author>
+            <name>Dong-Ming Yan</name>
+        </author>
+        <author>
+            <name>Zhifeng Li</name>
+        </author>
+        <author>
+            <name>Wei Liu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Human Interaction Understanding with Consistency-Aware Learning]]></title>
         <id>https://ieeexplore.ieee.org/document/10138446</id>

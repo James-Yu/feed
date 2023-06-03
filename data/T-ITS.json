@@ -1,5 +1,157 @@
 [
   {
+    "articleNumber": "10143390",
+    "articleTitle": "Parking Prediction in Smart Cities: A Survey",
+    "authors": [
+      "Xiao Xiao",
+      "Ziyan Peng",
+      "Yunqing Lin",
+      "Zhiling Jin",
+      "Wei Shao",
+      "Rui Chen",
+      "Nan Cheng",
+      "Guoqiang Mao"
+    ],
+    "abstract": "With the growing number of cars in cities, smart parking is gradually becoming a strategic issue in building a smart city. As the precondition in smart parking, accurate parking prediction can reduce the time drivers spend searching for parking spaces and relieve traffic congestion. Meanwhile, VANET and the Internet-of-things (IoT) are the key elements of the current intelligent transportation sys...",
+    "date": "2023-06-03T01:07:09.836Z"
+  },
+  {
+    "articleNumber": "10143391",
+    "articleTitle": "Vibration-Theoretic Approach to Vulnerability Analysis of Nonlinear Vehicle Platoons",
+    "authors": [
+      "Pengcheng Wang",
+      "Xinkai Wu",
+      "Xiaozheng He"
+    ],
+    "abstract": "This research explores the inherent vulnerability of nonlinear vehicle platoons characterized by the oscillatory behavior triggered by external perturbations. The perturbation exerted on the vehicle platoon is regarded as an external force on an object. Following the mechanical vibration analysis in mechanics, this research proposes a vibration-theoretic approach that advances our understanding of...",
+    "date": "2023-06-03T01:07:09.836Z"
+  },
+  {
+    "articleNumber": "10143389",
+    "articleTitle": "Vehicle-Based Machine Vision Approaches in Intelligent Connected System",
+    "authors": [
+      "Chendong Ma",
+      "Jun Song",
+      "Yibo Xu",
+      "Hongwei Fan",
+      "Xing Wu",
+      "Tuo Sun"
+    ],
+    "abstract": "The application of machine vision techniques in Vehicle-to-Everything (V2X) scenarios within Intelligent Connected Systems (ICS) has gained increasing importance with advancements in 6G communication technology. However, the stringent latency and bandwidth requirements of most machine vision applications pose significant challenges to the existing infrastructure. Hence, there is a dearth of prior ...",
+    "date": "2023-06-03T01:07:09.837Z"
+  },
+  {
+    "articleNumber": "10143378",
+    "articleTitle": "Accurately Predicting Quality of Services in IoT via Using Self-Attention Representation and Deep Factorization Machines",
+    "authors": [
+      "Mingdong Tang",
+      "Wenyu Tang",
+      "Fenfang Xie"
+    ],
+    "abstract": "The past decade has witnessed a widespread adoption of IoT devices and services in various applications such as intelligent transportation systems. It is crucial for IoT applications to select high-quality services to boost their reliability and efficiency. The prediction for Quality of Service (QoS) can be used to address this issue. Although a number of QoS prediction approaches have been propos...",
+    "date": "2023-06-03T01:07:09.837Z"
+  },
+  {
+    "articleNumber": "10143382",
+    "articleTitle": "3D Vehicle Object Tracking Algorithm Based on Bounding Box Similarity Measurement",
+    "authors": [
+      "Xin Cheng",
+      "Jingmei Zhou",
+      "Peiyuan Liu",
+      "Xiangmo Zhao",
+      "Hongfei Wang"
+    ],
+    "abstract": "Effectively extracting features from a discrete point cloud is necessary for three-dimensional (3D) vehicle tracking. However, a point cloud data set is large and sparsely distributed, hindering the success of vehicle-tracking algorithms. To solve this problem, this paper proposes a 3D vehicle object tracking algorithm based on bounding box similarity measurement. The algorithm includes state pred...",
+    "date": "2023-06-03T01:07:09.837Z"
+  },
+  {
+    "articleNumber": "10143386",
+    "articleTitle": "Benchmarking Probabilistic Deep Learning Methods for License Plate Recognition",
+    "authors": [
+      "Franziska Schirrmacher",
+      "Benedikt Lorch",
+      "Anatol Maier",
+      "Christian Riess"
+    ],
+    "abstract": "Learning-based algorithms for automated license plate recognition implicitly assume that the training and test data are well aligned. However, this may not be the case under extreme environmental conditions, or in forensic applications where the system cannot be trained for a specific acquisition device. Predictions on such out-of-distribution images have an increased chance of failing. But this f...",
+    "date": "2023-06-03T01:07:09.837Z"
+  },
+  {
+    "articleNumber": "10143380",
+    "articleTitle": "Deployment of Dynamic Wireless Power Transfer Considering Loading Capacity of Electric Trucks",
+    "authors": [
+      "Tomoya Kawasaki",
+      "Makoto Ozaki"
+    ],
+    "abstract": "Electric vehicles (EVs) are gradually being introduced in the transportation sector to reduce greenhouse gas emissions. However, short range and inadequate recharging facilities have hindered the widespread use of EVs. The tradeoff between the battery capacity and maximum load capacity makes it difficult to achieve the same range as that of a gasoline-powered vehicle. The EV range can be extended ...",
+    "date": "2023-06-03T01:07:09.837Z"
+  },
+  {
+    "articleNumber": "10143381",
+    "articleTitle": "How Does Traffic Environment Quantitatively Affect the Autonomous Driving Prediction?",
+    "authors": [
+      "Wenbo Shao",
+      "Yanchao Xu",
+      "Jun Li",
+      "Chen Lv",
+      "Weida Wang",
+      "Hong Wang"
+    ],
+    "abstract": "Accurate trajectory prediction is essential for safe and efficient autonomous driving in complex traffic environments. While artificial intelligence has shown great promise in improving prediction accuracy, its inherent uncertainty and lack of explainability may lead to unpredictable failures, creating challenges for safety-critical decision-making. This study aims to address these challenges by e...",
+    "date": "2023-06-03T01:07:09.837Z"
+  },
+  {
+    "articleNumber": "10143383",
+    "articleTitle": "Data-Mechanism Adaptive Switched Predictive Control for Heterogeneous Platoons With Wireless Communication Interruption",
+    "authors": [
+      "Hongyan Guo",
+      "Jingzheng Guo",
+      "Xu Zhao",
+      "Dongpu Cao",
+      "Hong Chen",
+      "Shuyou Yu"
+    ],
+    "abstract": "Benefiting from the advancement of intelligent transportation systems (ITSs), intelligent connected vehicles (ICVs) are ushering in a once-in-a-generation development opportunity. Considering the widespread presence of heterogeneous vehicles with disturbances and uncertain dynamics in actual platoon scenarios as well as the multimodel switching produced by unavoidable interruptions in the communic...",
+    "date": "2023-06-03T01:07:09.837Z"
+  },
+  {
+    "articleNumber": "10143387",
+    "articleTitle": "Traffic Count Estimation at Basis Links Without Path Flow and Historic Data",
+    "authors": [
+      "Subhrasankha Dey",
+      "Stephan Winter",
+      "Martin Tomko",
+      "Niloy Ganguly"
+    ],
+    "abstract": "Traffic counts (or link counts) are defined as cumulative traffic in the lanes between two consecutive intersections on a road network. Established methods of link count estimation assume the availability of count data at a set of basis links: a minimum subset of all the links of a network that still allow complete network traffic count estimation. If traffic count data are missing even at some ba...",
+    "date": "2023-06-03T01:07:09.837Z"
+  },
+  {
+    "articleNumber": "10143384",
+    "articleTitle": "USCFormer: Unified Transformer With Semantically Contrastive Learning for Image Dehazing",
+    "authors": [
+      "Yongzhen Wang",
+      "Jiamei Xiong",
+      "Xuefeng Yan",
+      "Mingqiang Wei"
+    ],
+    "abstract": "Haze severely degrades the visibility of scene objects and deteriorates the performance of autonomous driving, traffic monitoring, and other vision-based intelligent transportation systems. As a potential remedy, we propose a novel unified Transformer with semantically contrastive learning for image dehazing, dubbed USCFormer. USCFormer has three key contributions. First, USCFormer absorbs the res...",
+    "date": "2023-06-03T01:07:09.837Z"
+  },
+  {
+    "articleNumber": "10143385",
+    "articleTitle": "GraphSAGE-Based Dynamic Spatial–Temporal Graph Convolutional Network for Traffic Prediction",
+    "authors": [
+      "Tao Liu",
+      "Aimin Jiang",
+      "Jia Zhou",
+      "Min Li",
+      "Hon Keung Kwan"
+    ],
+    "abstract": "Traffic networks exhibit complex spatial-temporal dependencies, and accurately capturing such dependencies is critical to improving prediction accuracy. Recently, many deep learning models have been proposed for spatial-temporal dependency modeling. While numerous deep learning models have been developed for spatial-temporal dependency modeling, most rely on different types of convolutions to extr...",
+    "date": "2023-06-03T01:07:09.837Z"
+  },
+  {
     "articleNumber": "10142232",
     "articleTitle": "A Scheme for Cooperative-Escort Multi-Submersible Intelligent Transportation System Based on SDN-Enabled Underwater IoV",
     "authors": [

@@ -1,5 +1,78 @@
 [
   {
+    "articleNumber": "10143278",
+    "articleTitle": "ICOE: A Lightweight Group-consensus based Off-chain Execution Model for Smart Contract based Industrial Applications",
+    "authors": [
+      "Dibo Xian",
+      "Xuetao Wei"
+    ],
+    "abstract": "Programmable smart contracts facilitate the application of blockchain to many areas of industry, e.g., supply chains, energy, and healthcare. The off-chain execution model for blockchain smart contracts is a promising approach to achieve scalability for industrial applications, which executes each smart contract in one of the small-scale consensus groups. However, previous work based on such a mod...",
+    "date": "2023-06-03T01:07:32.826Z"
+  },
+  {
+    "articleNumber": "10143247",
+    "articleTitle": "Robotic Inserting a Moving Object using Visual-based Control with Time-Delay Compensator",
+    "authors": [
+      "Jianhua Su",
+      "Lili Wang",
+      "Chuankai Liu",
+      "Hong Qiao"
+    ],
+    "abstract": "Tracking-and-inserting a moving peg using a robot manipulator is a challenging task in manufacturing. In the past decades, various visual-based methods have been proposed for robotic manipulating static targets, which usually ignore the time delay in robot command transmission and image processing. However, for tracking and inserting a moving peg, time delays cannot be overlooked because they can ...",
+    "date": "2023-06-03T01:07:32.826Z"
+  },
+  {
+    "articleNumber": "10143318",
+    "articleTitle": "Knowledge-Enhanced Distributed Graph Autoencoder for Multiunit Industrial Plant-Wide Process Monitoring",
+    "authors": [
+      "Weiqiang Wu",
+      "Chunyue Song",
+      "Jun Zhao",
+      "Gongzhan Wang"
+    ],
+    "abstract": "In multiunit industrial plant-wide processes (MIPPs), data-driven distributed process monitoring methods have played an important role in ensuring process safety and reliability. However, the existing studies fail to leverage the relational knowledge about the underlying process structure of MIPPs, which may lead to inaccurate process modeling and degradation of the monitoring performance. To tack...",
+    "date": "2023-06-03T01:07:32.826Z"
+  },
+  {
+    "articleNumber": "10143317",
+    "articleTitle": "A Knowledge-Guided End-to-End Optimization Framework based on Reinforcement Learning for Flow Shop Scheduling",
+    "authors": [
+      "Zixiao Pan",
+      "Ling Wang",
+      "ChenXin Dong",
+      "Jing-fang Chen"
+    ],
+    "abstract": "Designing an effective and efficient end-to-end optimization framework with good generalization for shop scheduling is an emerging topic in the informational manufacturing system. Existing end-to-end frameworks have achieved satisfactory results for COPs such as traveling salesman problem and vehicle routing problem. However, the performances of these methods in solving complex COPs such as shop s...",
+    "date": "2023-06-03T01:07:32.826Z"
+  },
+  {
+    "articleNumber": "10143210",
+    "articleTitle": "Cryptanalysis and Improvement of a Blockchain-Based Certificateless Signature for IIoT Devices",
+    "authors": [
+      "Xiaodong Yang",
+      "Wenjia Wang",
+      "Tian Tian",
+      "Caifen Wang"
+    ],
+    "abstract": "With the rapid development of the Industrial Internet of Things (IIoT), security and privacy issues have become increasingly prominent when the data from IIoT devices is shared across public networks. Very recently, Wang et al. presented a blockchain-based certificateless signature (CLS) scheme for IIoT devices in order to achieve secure and lightweight communication (IEEE Transactions on Industri...",
+    "date": "2023-06-03T01:07:32.826Z"
+  },
+  {
+    "articleNumber": "10143238",
+    "articleTitle": "Induced Current Thermo-Electrical Impedance Tomography for Nonferromagnetic Metal Material Surface Defect Profile Reconstruction",
+    "authors": [
+      "Xu Zhang",
+      "Libing Bai",
+      "Jie Zhang",
+      "Yiping Liang",
+      "Yuhua Cheng",
+      "Lulu Tian",
+      "Yong Duan"
+    ],
+    "abstract": "Nonferromagnetic metal materials are widely used in industry. Defects generated during manufacture and use may lead to serious accidents. The defect reconstruction is important for nondestructive evaluation. Eddy current pulsed thermography (ECPT) is a well-known nondestructive testing and evaluation method, but hardly reconstruct fully defect profile. Electrical impedance tomography (EIT) shows p...",
+    "date": "2023-06-03T01:07:32.826Z"
+  },
+  {
     "articleNumber": "10141879",
     "articleTitle": "Discriminating Internal Multi-Parameter Difference from Shape Dissimilarity between Voltage Curves of Lithium-ion Batteries",
     "authors": [

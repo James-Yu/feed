@@ -1,5 +1,90 @@
 [
   {
+    "articleNumber": "10143361",
+    "articleTitle": "Novel Listen-Before-Talk Access Scheme with Adaptive Backoff Procedure for Uplink Centric Broadband Communication",
+    "authors": [
+      "Hui Zhou",
+      "Yansha Deng",
+      "Arumugam Nallanathan"
+    ],
+    "abstract": "To cater for the data-hungry Internet of Things (IoT) applications, Uplink Centric Broadband Communication (UCBC) has been identified as a new service class in the vision of 5.5G, where the unlicensed spectrum has been regarded as a promising solution to boost the uplink capacity. The New Radio Unlicensed (NR-U) network adopts Category-4 (Cat4) Listen Before Talk (LBT) access scheme to exploit the...",
+    "date": "2023-06-03T01:07:27.859Z"
+  },
+  {
+    "articleNumber": "10143367",
+    "articleTitle": "Experimental End-To-End Delay Analysis of LTE cat-M With High-Rate Synchrophasor Communications",
+    "authors": [
+      "Sureel Shah",
+      "Sayan Koley",
+      "Filippo Malandra"
+    ],
+    "abstract": "Micro-Phasor Measurement Units (μ-PMUs) are devices that permit monitoring voltage and current in the distribution grid with high accuracy, thus enabling a wide range of smart grid applications, such as state estimation, protection and control. These devices need to transmit the synchronous measurements of voltage and current, also known as synchrophasors, to the power utility control center at a ...",
+    "date": "2023-06-03T01:07:27.859Z"
+  },
+  {
+    "articleNumber": "10143303",
+    "articleTitle": "TBDD: Territory-bound Data Delivery for Large Scale Mobile Sink Wireless Sensor Networks",
+    "authors": [
+      "Fisseha Teju Wedaj",
+      "Ammar Hawbani",
+      "Xingfu Wang",
+      "Saeed Hamood Alsamhi",
+      "Liang Zhao",
+      "Muhammad Umar Farooq"
+    ],
+    "abstract": "The hierarchical structure-based data dissemination is the most popular technique in mobile sink wireless sensor networks (MS-WSNs). An ingenious virtual structure design combined with a precise routing management strategy is significant to attaining efficient data dissemination in hierarchical approaches. This paper proposes a hierarchical protocol called TBDD that divides the network into multip...",
+    "date": "2023-06-03T01:07:27.859Z"
+  },
+  {
+    "articleNumber": "10143354",
+    "articleTitle": "A Minimum Joint Error Entropy-Based Localization Method in Mixed LOS/NLOS Environments",
+    "authors": [
+      "ZhenQian Wu",
+      "YouMing Li",
+      "Xiangpei Meng",
+      "Xinrong Lv",
+      "Qiang Guo"
+    ],
+    "abstract": "In this paper, we address the time-of-arrival (TOA) based source localization problem in mixed light-of-sight (LOS)/non-light-of-sight (NLOS) environments, where localization accuracy is degraded by both measurement noise and NLOS error. A novel exponential optimization problem is formulated based on new minimum joint error entropy criteria and statistical characteristics of measurement noise. Aft...",
+    "date": "2023-06-03T01:07:27.859Z"
+  },
+  {
+    "articleNumber": "10143353",
+    "articleTitle": "A Scalable Deep Learning Based Active User Detection Approach for SEU-Aided Cell-Free Massive MIMO Systems",
+    "authors": [
+      "Lei Diao",
+      "Han Wang",
+      "Jiamin Li",
+      "Pengcheng Zhu",
+      "Dongming Wang",
+      "Xiaohu You"
+    ],
+    "abstract": "Massive ultra-reliable and low-latency communications (mURLLC) is an emerging and dominate traffic service in 6G. To reduce the signaling overhead and access delay, grant-free random access (GFRA) is widely used in mURLLC. As the first step in GFRA, active user detection (AUD) is aimed to identify the set of active users accurately and timely. Conventional AUD schemes relying on iterative computat...",
+    "date": "2023-06-03T01:07:27.859Z"
+  },
+  {
+    "articleNumber": "10143305",
+    "articleTitle": "High Throughput Acceleration of Scabbard Key Exchange and Key Encapsulation Mechanism Using Tensor Core on GPU for IoT Applications",
+    "authors": [
+      "Muhammad Asfand Hafeez",
+      "Wai-Kong Lee",
+      "Angshuman Karmakar",
+      "Seong Oun Hwang"
+    ],
+    "abstract": "High throughput key encapsulations and decapsulations are needed by IoT applications in order to simultaneously process a multitude of small data in secure communication. In this paper, we present two novel techniques for accelerating the implementation of polynomial convolution on a GPU, utilizing advanced Tensor cores, which benefit the performance of key encapsulations. First, a polynomial re-s...",
+    "date": "2023-06-03T01:07:27.859Z"
+  },
+  {
+    "articleNumber": "10143304",
+    "articleTitle": "Adaptive Physical Layer Authentication for IoT in MIMO Communication Systems using Support Vector Machine",
+    "authors": [
+      "Mohammed Abdrabou",
+      "T. Aaron Gulliver"
+    ],
+    "abstract": "Internet of things (IoT) devices have become ubiquitous due to the prevalence of the internet. However, the open nature of wireless networks makes them susceptible to spoofing attacks. Moreover, their heterogeneous characteristics create authentication challenges which are increasing due to the tremendous growth in the number and variety of devices. Physical layer authentication (PLA) provides a s...",
+    "date": "2023-06-03T01:07:27.859Z"
+  },
+  {
     "articleNumber": "10142005",
     "articleTitle": "Multi-Service Compact Pixelated Stacked Antenna with Different Pixel Shapes for IoT Applications",
     "authors": [

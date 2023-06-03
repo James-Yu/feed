@@ -1,5 +1,19 @@
 [
   {
+    "articleNumber": "10143393",
+    "articleTitle": "LARNeXt: End-to-End Lie Algebra Residual Network for Face Recognition",
+    "authors": [
+      "Xiaolong Yang",
+      "Xiaohong Jia",
+      "Dihong Gong",
+      "Dong-Ming Yan",
+      "Zhifeng Li",
+      "Wei Liu"
+    ],
+    "abstract": "Face recognition has always been courted in computer vision and is especially amenable to situations with significant variations between frontal and profile faces. Traditional techniques make great strides either by synthesizing frontal faces from sizable datasets or by empirical pose invariant learning. In this paper, we propose a completely integrated embedded end-to-end Lie algebra residual arc...",
+    "date": "2023-06-03T01:07:22.108Z"
+  },
+  {
     "articleNumber": "10138446",
     "articleTitle": "Human Interaction Understanding with Consistency-Aware Learning",
     "authors": [

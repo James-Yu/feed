@@ -2,11 +2,263 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/T-ITS.rss</id>
     <title>IEEE Transactions on Intelligent Transportation Systems</title>
-    <updated>2023-06-02T16:15:07.739Z</updated>
+    <updated>2023-06-03T01:07:09.843Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/T-ITS.rss"/>
     <subtitle>IEEE Transactions on Intelligent Transportation Systems</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Parking Prediction in Smart Cities: A Survey]]></title>
+        <id>https://ieeexplore.ieee.org/document/10143390</id>
+        <link href="https://ieeexplore.ieee.org/document/10143390"/>
+        <updated>2023-06-03T01:07:09.836Z</updated>
+        <summary type="html"><![CDATA[With the growing number of cars in cities, smart parking is gradually becoming a strategic issue in building a smart city. As the precondition in smart parking, accurate parking prediction can reduce the time drivers spend searching for parking spaces and relieve traffic congestion. Meanwhile, VANET and the Internet-of-things (IoT) are the key elements of the current intelligent transportation sys...]]></summary>
+        <author>
+            <name>Xiao Xiao</name>
+        </author>
+        <author>
+            <name>Ziyan Peng</name>
+        </author>
+        <author>
+            <name>Yunqing Lin</name>
+        </author>
+        <author>
+            <name>Zhiling Jin</name>
+        </author>
+        <author>
+            <name>Wei Shao</name>
+        </author>
+        <author>
+            <name>Rui Chen</name>
+        </author>
+        <author>
+            <name>Nan Cheng</name>
+        </author>
+        <author>
+            <name>Guoqiang Mao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vibration-Theoretic Approach to Vulnerability Analysis of Nonlinear Vehicle Platoons]]></title>
+        <id>https://ieeexplore.ieee.org/document/10143391</id>
+        <link href="https://ieeexplore.ieee.org/document/10143391"/>
+        <updated>2023-06-03T01:07:09.836Z</updated>
+        <summary type="html"><![CDATA[This research explores the inherent vulnerability of nonlinear vehicle platoons characterized by the oscillatory behavior triggered by external perturbations. The perturbation exerted on the vehicle platoon is regarded as an external force on an object. Following the mechanical vibration analysis in mechanics, this research proposes a vibration-theoretic approach that advances our understanding of...]]></summary>
+        <author>
+            <name>Pengcheng Wang</name>
+        </author>
+        <author>
+            <name>Xinkai Wu</name>
+        </author>
+        <author>
+            <name>Xiaozheng He</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vehicle-Based Machine Vision Approaches in Intelligent Connected System]]></title>
+        <id>https://ieeexplore.ieee.org/document/10143389</id>
+        <link href="https://ieeexplore.ieee.org/document/10143389"/>
+        <updated>2023-06-03T01:07:09.837Z</updated>
+        <summary type="html"><![CDATA[The application of machine vision techniques in Vehicle-to-Everything (V2X) scenarios within Intelligent Connected Systems (ICS) has gained increasing importance with advancements in 6G communication technology. However, the stringent latency and bandwidth requirements of most machine vision applications pose significant challenges to the existing infrastructure. Hence, there is a dearth of prior ...]]></summary>
+        <author>
+            <name>Chendong Ma</name>
+        </author>
+        <author>
+            <name>Jun Song</name>
+        </author>
+        <author>
+            <name>Yibo Xu</name>
+        </author>
+        <author>
+            <name>Hongwei Fan</name>
+        </author>
+        <author>
+            <name>Xing Wu</name>
+        </author>
+        <author>
+            <name>Tuo Sun</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Accurately Predicting Quality of Services in IoT via Using Self-Attention Representation and Deep Factorization Machines]]></title>
+        <id>https://ieeexplore.ieee.org/document/10143378</id>
+        <link href="https://ieeexplore.ieee.org/document/10143378"/>
+        <updated>2023-06-03T01:07:09.837Z</updated>
+        <summary type="html"><![CDATA[The past decade has witnessed a widespread adoption of IoT devices and services in various applications such as intelligent transportation systems. It is crucial for IoT applications to select high-quality services to boost their reliability and efficiency. The prediction for Quality of Service (QoS) can be used to address this issue. Although a number of QoS prediction approaches have been propos...]]></summary>
+        <author>
+            <name>Mingdong Tang</name>
+        </author>
+        <author>
+            <name>Wenyu Tang</name>
+        </author>
+        <author>
+            <name>Fenfang Xie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3D Vehicle Object Tracking Algorithm Based on Bounding Box Similarity Measurement]]></title>
+        <id>https://ieeexplore.ieee.org/document/10143382</id>
+        <link href="https://ieeexplore.ieee.org/document/10143382"/>
+        <updated>2023-06-03T01:07:09.837Z</updated>
+        <summary type="html"><![CDATA[Effectively extracting features from a discrete point cloud is necessary for three-dimensional (3D) vehicle tracking. However, a point cloud data set is large and sparsely distributed, hindering the success of vehicle-tracking algorithms. To solve this problem, this paper proposes a 3D vehicle object tracking algorithm based on bounding box similarity measurement. The algorithm includes state pred...]]></summary>
+        <author>
+            <name>Xin Cheng</name>
+        </author>
+        <author>
+            <name>Jingmei Zhou</name>
+        </author>
+        <author>
+            <name>Peiyuan Liu</name>
+        </author>
+        <author>
+            <name>Xiangmo Zhao</name>
+        </author>
+        <author>
+            <name>Hongfei Wang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Benchmarking Probabilistic Deep Learning Methods for License Plate Recognition]]></title>
+        <id>https://ieeexplore.ieee.org/document/10143386</id>
+        <link href="https://ieeexplore.ieee.org/document/10143386"/>
+        <updated>2023-06-03T01:07:09.837Z</updated>
+        <summary type="html"><![CDATA[Learning-based algorithms for automated license plate recognition implicitly assume that the training and test data are well aligned. However, this may not be the case under extreme environmental conditions, or in forensic applications where the system cannot be trained for a specific acquisition device. Predictions on such out-of-distribution images have an increased chance of failing. But this f...]]></summary>
+        <author>
+            <name>Franziska Schirrmacher</name>
+        </author>
+        <author>
+            <name>Benedikt Lorch</name>
+        </author>
+        <author>
+            <name>Anatol Maier</name>
+        </author>
+        <author>
+            <name>Christian Riess</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deployment of Dynamic Wireless Power Transfer Considering Loading Capacity of Electric Trucks]]></title>
+        <id>https://ieeexplore.ieee.org/document/10143380</id>
+        <link href="https://ieeexplore.ieee.org/document/10143380"/>
+        <updated>2023-06-03T01:07:09.837Z</updated>
+        <summary type="html"><![CDATA[Electric vehicles (EVs) are gradually being introduced in the transportation sector to reduce greenhouse gas emissions. However, short range and inadequate recharging facilities have hindered the widespread use of EVs. The tradeoff between the battery capacity and maximum load capacity makes it difficult to achieve the same range as that of a gasoline-powered vehicle. The EV range can be extended ...]]></summary>
+        <author>
+            <name>Tomoya Kawasaki</name>
+        </author>
+        <author>
+            <name>Makoto Ozaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Does Traffic Environment Quantitatively Affect the Autonomous Driving Prediction?]]></title>
+        <id>https://ieeexplore.ieee.org/document/10143381</id>
+        <link href="https://ieeexplore.ieee.org/document/10143381"/>
+        <updated>2023-06-03T01:07:09.837Z</updated>
+        <summary type="html"><![CDATA[Accurate trajectory prediction is essential for safe and efficient autonomous driving in complex traffic environments. While artificial intelligence has shown great promise in improving prediction accuracy, its inherent uncertainty and lack of explainability may lead to unpredictable failures, creating challenges for safety-critical decision-making. This study aims to address these challenges by e...]]></summary>
+        <author>
+            <name>Wenbo Shao</name>
+        </author>
+        <author>
+            <name>Yanchao Xu</name>
+        </author>
+        <author>
+            <name>Jun Li</name>
+        </author>
+        <author>
+            <name>Chen Lv</name>
+        </author>
+        <author>
+            <name>Weida Wang</name>
+        </author>
+        <author>
+            <name>Hong Wang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Data-Mechanism Adaptive Switched Predictive Control for Heterogeneous Platoons With Wireless Communication Interruption]]></title>
+        <id>https://ieeexplore.ieee.org/document/10143383</id>
+        <link href="https://ieeexplore.ieee.org/document/10143383"/>
+        <updated>2023-06-03T01:07:09.837Z</updated>
+        <summary type="html"><![CDATA[Benefiting from the advancement of intelligent transportation systems (ITSs), intelligent connected vehicles (ICVs) are ushering in a once-in-a-generation development opportunity. Considering the widespread presence of heterogeneous vehicles with disturbances and uncertain dynamics in actual platoon scenarios as well as the multimodel switching produced by unavoidable interruptions in the communic...]]></summary>
+        <author>
+            <name>Hongyan Guo</name>
+        </author>
+        <author>
+            <name>Jingzheng Guo</name>
+        </author>
+        <author>
+            <name>Xu Zhao</name>
+        </author>
+        <author>
+            <name>Dongpu Cao</name>
+        </author>
+        <author>
+            <name>Hong Chen</name>
+        </author>
+        <author>
+            <name>Shuyou Yu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Traffic Count Estimation at Basis Links Without Path Flow and Historic Data]]></title>
+        <id>https://ieeexplore.ieee.org/document/10143387</id>
+        <link href="https://ieeexplore.ieee.org/document/10143387"/>
+        <updated>2023-06-03T01:07:09.837Z</updated>
+        <summary type="html"><![CDATA[Traffic counts (or link counts) are defined as cumulative traffic in the lanes between two consecutive intersections on a road network. Established methods of link count estimation assume the availability of count data at a set of basis links: a minimum subset of all the links of a network that still allow complete network traffic count estimation. If traffic count data are missing even at some ba...]]></summary>
+        <author>
+            <name>Subhrasankha Dey</name>
+        </author>
+        <author>
+            <name>Stephan Winter</name>
+        </author>
+        <author>
+            <name>Martin Tomko</name>
+        </author>
+        <author>
+            <name>Niloy Ganguly</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USCFormer: Unified Transformer With Semantically Contrastive Learning for Image Dehazing]]></title>
+        <id>https://ieeexplore.ieee.org/document/10143384</id>
+        <link href="https://ieeexplore.ieee.org/document/10143384"/>
+        <updated>2023-06-03T01:07:09.837Z</updated>
+        <summary type="html"><![CDATA[Haze severely degrades the visibility of scene objects and deteriorates the performance of autonomous driving, traffic monitoring, and other vision-based intelligent transportation systems. As a potential remedy, we propose a novel unified Transformer with semantically contrastive learning for image dehazing, dubbed USCFormer. USCFormer has three key contributions. First, USCFormer absorbs the res...]]></summary>
+        <author>
+            <name>Yongzhen Wang</name>
+        </author>
+        <author>
+            <name>Jiamei Xiong</name>
+        </author>
+        <author>
+            <name>Xuefeng Yan</name>
+        </author>
+        <author>
+            <name>Mingqiang Wei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GraphSAGE-Based Dynamic Spatial–Temporal Graph Convolutional Network for Traffic Prediction]]></title>
+        <id>https://ieeexplore.ieee.org/document/10143385</id>
+        <link href="https://ieeexplore.ieee.org/document/10143385"/>
+        <updated>2023-06-03T01:07:09.837Z</updated>
+        <summary type="html"><![CDATA[Traffic networks exhibit complex spatial-temporal dependencies, and accurately capturing such dependencies is critical to improving prediction accuracy. Recently, many deep learning models have been proposed for spatial-temporal dependency modeling. While numerous deep learning models have been developed for spatial-temporal dependency modeling, most rely on different types of convolutions to extr...]]></summary>
+        <author>
+            <name>Tao Liu</name>
+        </author>
+        <author>
+            <name>Aimin Jiang</name>
+        </author>
+        <author>
+            <name>Jia Zhou</name>
+        </author>
+        <author>
+            <name>Min Li</name>
+        </author>
+        <author>
+            <name>Hon Keung Kwan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Scheme for Cooperative-Escort Multi-Submersible Intelligent Transportation System Based on SDN-Enabled Underwater IoV]]></title>
         <id>https://ieeexplore.ieee.org/document/10142232</id>

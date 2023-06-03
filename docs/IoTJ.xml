@@ -2,11 +2,147 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/IoTJ.rss</id>
     <title>IEEE Internet of Things Journal</title>
-    <updated>2023-06-02T16:15:23.318Z</updated>
+    <updated>2023-06-03T01:07:27.866Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/IoTJ.rss"/>
     <subtitle>IEEE Internet of Things Journal</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Novel Listen-Before-Talk Access Scheme with Adaptive Backoff Procedure for Uplink Centric Broadband Communication]]></title>
+        <id>https://ieeexplore.ieee.org/document/10143361</id>
+        <link href="https://ieeexplore.ieee.org/document/10143361"/>
+        <updated>2023-06-03T01:07:27.859Z</updated>
+        <summary type="html"><![CDATA[To cater for the data-hungry Internet of Things (IoT) applications, Uplink Centric Broadband Communication (UCBC) has been identified as a new service class in the vision of 5.5G, where the unlicensed spectrum has been regarded as a promising solution to boost the uplink capacity. The New Radio Unlicensed (NR-U) network adopts Category-4 (Cat4) Listen Before Talk (LBT) access scheme to exploit the...]]></summary>
+        <author>
+            <name>Hui Zhou</name>
+        </author>
+        <author>
+            <name>Yansha Deng</name>
+        </author>
+        <author>
+            <name>Arumugam Nallanathan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Experimental End-To-End Delay Analysis of LTE cat-M With High-Rate Synchrophasor Communications]]></title>
+        <id>https://ieeexplore.ieee.org/document/10143367</id>
+        <link href="https://ieeexplore.ieee.org/document/10143367"/>
+        <updated>2023-06-03T01:07:27.859Z</updated>
+        <summary type="html"><![CDATA[Micro-Phasor Measurement Units (μ-PMUs) are devices that permit monitoring voltage and current in the distribution grid with high accuracy, thus enabling a wide range of smart grid applications, such as state estimation, protection and control. These devices need to transmit the synchronous measurements of voltage and current, also known as synchrophasors, to the power utility control center at a ...]]></summary>
+        <author>
+            <name>Sureel Shah</name>
+        </author>
+        <author>
+            <name>Sayan Koley</name>
+        </author>
+        <author>
+            <name>Filippo Malandra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TBDD: Territory-bound Data Delivery for Large Scale Mobile Sink Wireless Sensor Networks]]></title>
+        <id>https://ieeexplore.ieee.org/document/10143303</id>
+        <link href="https://ieeexplore.ieee.org/document/10143303"/>
+        <updated>2023-06-03T01:07:27.859Z</updated>
+        <summary type="html"><![CDATA[The hierarchical structure-based data dissemination is the most popular technique in mobile sink wireless sensor networks (MS-WSNs). An ingenious virtual structure design combined with a precise routing management strategy is significant to attaining efficient data dissemination in hierarchical approaches. This paper proposes a hierarchical protocol called TBDD that divides the network into multip...]]></summary>
+        <author>
+            <name>Fisseha Teju Wedaj</name>
+        </author>
+        <author>
+            <name>Ammar Hawbani</name>
+        </author>
+        <author>
+            <name>Xingfu Wang</name>
+        </author>
+        <author>
+            <name>Saeed Hamood Alsamhi</name>
+        </author>
+        <author>
+            <name>Liang Zhao</name>
+        </author>
+        <author>
+            <name>Muhammad Umar Farooq</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Minimum Joint Error Entropy-Based Localization Method in Mixed LOS/NLOS Environments]]></title>
+        <id>https://ieeexplore.ieee.org/document/10143354</id>
+        <link href="https://ieeexplore.ieee.org/document/10143354"/>
+        <updated>2023-06-03T01:07:27.859Z</updated>
+        <summary type="html"><![CDATA[In this paper, we address the time-of-arrival (TOA) based source localization problem in mixed light-of-sight (LOS)/non-light-of-sight (NLOS) environments, where localization accuracy is degraded by both measurement noise and NLOS error. A novel exponential optimization problem is formulated based on new minimum joint error entropy criteria and statistical characteristics of measurement noise. Aft...]]></summary>
+        <author>
+            <name>ZhenQian Wu</name>
+        </author>
+        <author>
+            <name>YouMing Li</name>
+        </author>
+        <author>
+            <name>Xiangpei Meng</name>
+        </author>
+        <author>
+            <name>Xinrong Lv</name>
+        </author>
+        <author>
+            <name>Qiang Guo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Scalable Deep Learning Based Active User Detection Approach for SEU-Aided Cell-Free Massive MIMO Systems]]></title>
+        <id>https://ieeexplore.ieee.org/document/10143353</id>
+        <link href="https://ieeexplore.ieee.org/document/10143353"/>
+        <updated>2023-06-03T01:07:27.859Z</updated>
+        <summary type="html"><![CDATA[Massive ultra-reliable and low-latency communications (mURLLC) is an emerging and dominate traffic service in 6G. To reduce the signaling overhead and access delay, grant-free random access (GFRA) is widely used in mURLLC. As the first step in GFRA, active user detection (AUD) is aimed to identify the set of active users accurately and timely. Conventional AUD schemes relying on iterative computat...]]></summary>
+        <author>
+            <name>Lei Diao</name>
+        </author>
+        <author>
+            <name>Han Wang</name>
+        </author>
+        <author>
+            <name>Jiamin Li</name>
+        </author>
+        <author>
+            <name>Pengcheng Zhu</name>
+        </author>
+        <author>
+            <name>Dongming Wang</name>
+        </author>
+        <author>
+            <name>Xiaohu You</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[High Throughput Acceleration of Scabbard Key Exchange and Key Encapsulation Mechanism Using Tensor Core on GPU for IoT Applications]]></title>
+        <id>https://ieeexplore.ieee.org/document/10143305</id>
+        <link href="https://ieeexplore.ieee.org/document/10143305"/>
+        <updated>2023-06-03T01:07:27.859Z</updated>
+        <summary type="html"><![CDATA[High throughput key encapsulations and decapsulations are needed by IoT applications in order to simultaneously process a multitude of small data in secure communication. In this paper, we present two novel techniques for accelerating the implementation of polynomial convolution on a GPU, utilizing advanced Tensor cores, which benefit the performance of key encapsulations. First, a polynomial re-s...]]></summary>
+        <author>
+            <name>Muhammad Asfand Hafeez</name>
+        </author>
+        <author>
+            <name>Wai-Kong Lee</name>
+        </author>
+        <author>
+            <name>Angshuman Karmakar</name>
+        </author>
+        <author>
+            <name>Seong Oun Hwang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adaptive Physical Layer Authentication for IoT in MIMO Communication Systems using Support Vector Machine]]></title>
+        <id>https://ieeexplore.ieee.org/document/10143304</id>
+        <link href="https://ieeexplore.ieee.org/document/10143304"/>
+        <updated>2023-06-03T01:07:27.859Z</updated>
+        <summary type="html"><![CDATA[Internet of things (IoT) devices have become ubiquitous due to the prevalence of the internet. However, the open nature of wireless networks makes them susceptible to spoofing attacks. Moreover, their heterogeneous characteristics create authentication challenges which are increasing due to the tremendous growth in the number and variety of devices. Physical layer authentication (PLA) provides a s...]]></summary>
+        <author>
+            <name>Mohammed Abdrabou</name>
+        </author>
+        <author>
+            <name>T. Aaron Gulliver</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Multi-Service Compact Pixelated Stacked Antenna with Different Pixel Shapes for IoT Applications]]></title>
         <id>https://ieeexplore.ieee.org/document/10142005</id>
