@@ -1,5 +1,74 @@
 [
   {
+    "articleNumber": "10144355",
+    "articleTitle": "Efficient Privacy-Preserving Spatial Data Query in Cloud Computing",
+    "authors": [
+      "Yinbin Miao",
+      "Yutao Yang",
+      "Xinghua Li",
+      "Linfeng Wei",
+      "Zhiquan Liu",
+      "Robert H. Deng"
+    ],
+    "abstract": "With the rapid development of geographic location technology and the explosive growth of data, a large amount of spatial data is outsourced to the cloud server for reducing the local high storage and computing burdens, but at the same time causes security issues. Thus, extensive privacy-preserving spatial data query schemes have been proposed. Most of the existing schemes use Asymmetric Scalar-Pro...",
+    "date": "2023-06-06T01:10:22.695Z"
+  },
+  {
+    "articleNumber": "10144403",
+    "articleTitle": "Hierarchical Alignment with Polar Contrastive Learning for Next-basket Recommendation",
+    "authors": [
+      "Ting-Ting Su",
+      "Chang-Dong Wang",
+      "Wu-Dong Xi",
+      "Jian-Huang Lai",
+      "Philip S. Yu"
+    ],
+    "abstract": "Next-basket recommendation methods focus on the inference of the next basket by considering the corresponding basket sequence. Although many methods have been developed for the task, they usually suffer from data sparsity. The number of interactions between entities is relatively small compared to their huge bases, so it is crucial to mine as much hidden information as possible from the limited hi...",
+    "date": "2023-06-06T01:10:22.695Z"
+  },
+  {
+    "articleNumber": "10144360",
+    "articleTitle": "Multi-modal Hashing for Efficient Multimedia Retrieval: A Survey",
+    "authors": [
+      "Lei Zhu",
+      "Chaoqun Zheng",
+      "Weili Guan",
+      "Jingjing Li",
+      "Yang Yang",
+      "Heng Tao Shen"
+    ],
+    "abstract": "With the explosive growth of multimedia contents, multimedia retrieval is facing unprecedented challenges on both storage cost and retrieval speed. Hashing technique can project the high-dimensional data into compact binary hash codes. With it, the most time-consuming semantic similarity computation during the multimedia retrieval process can be significantly accelerated with fast Hamming distance...",
+    "date": "2023-06-06T01:10:22.695Z"
+  },
+  {
+    "articleNumber": "10143711",
+    "articleTitle": "A Survey of Graph-based Deep Learning for Anomaly Detection in Distributed Systems",
+    "authors": [
+      "Armin Danesh Pazho",
+      "Ghazal Alinezhad Noghre",
+      "Arnab A Purkayastha",
+      "Jagannadh Vempati",
+      "Otto Martin",
+      "Hamed Tabkhi"
+    ],
+    "abstract": "Anomaly detection is a crucial task in complex distributed systems. A thorough understanding of the requirements and challenges of anomaly detection is pivotal to the security of such systems, especially for real-world deployment. While there are many works and application domains that deal with this problem, few have attempted to provide an in-depth look at such systems. In this survey, we explor...",
+    "date": "2023-06-06T01:10:22.695Z"
+  },
+  {
+    "articleNumber": "10144391",
+    "articleTitle": "Self-Supervised Learning for Recommender Systems: A Survey",
+    "authors": [
+      "Junliang Yu",
+      "Hongzhi Yin",
+      "Xin Xia",
+      "Tong Chen",
+      "Jundong Li",
+      "Zi Huang"
+    ],
+    "abstract": "In recent years, neural architecture-based recommender systems have achieved tremendous success, but they still fall short of expectation when dealing with highly sparse data. Self-supervised learning (SSL), as an emerging technique for learning from unlabeled data, has attracted considerable attention as a potential solution to this issue. This survey paper presents a systematic and timely review...",
+    "date": "2023-06-06T01:10:22.695Z"
+  },
+  {
     "articleNumber": "10138125",
     "articleTitle": "Size-constrained Community Search on Large Networks: An Effective and Efficient Solution",
     "authors": [

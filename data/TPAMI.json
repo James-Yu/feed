@@ -1,5 +1,32 @@
 [
   {
+    "articleNumber": "10143709",
+    "articleTitle": "UniFormer: Unifying Convolution and Self-Attention for Visual Recognition",
+    "authors": [
+      "Kunchang Li",
+      "Yali Wang",
+      "Junhao Zhang",
+      "Peng Gao",
+      "Guanglu Song",
+      "Yu Liu",
+      "Hongsheng Li",
+      "Yu Qiao"
+    ],
+    "abstract": "It is a challenging task to learn discriminative representation from images and videos, due to large local redundancy and complex global dependency in these visual data. Convolution neural networks (CNNs) and vision transformers (ViTs) have been two dominant frameworks in the past few years. Though CNNs can efficiently decrease local redundancy by convolution within a small neighborhood, the limit...",
+    "date": "2023-06-06T01:10:27.893Z"
+  },
+  {
+    "articleNumber": "10143704",
+    "articleTitle": "Constrained Structure Learning for Scene Graph Generation",
+    "authors": [
+      "Daqi Liu",
+      "Miroslaw Bober",
+      "Josef Kittler"
+    ],
+    "abstract": "As a structured prediction task, scene graph generation aims to build a visually-grounded scene graph to explicitly model objects and their relationships in an input image. Currently, the mean field variational Bayesian framework is the de facto methodology used by the existing methods, in which the unconstrained inference step is often implemented by a message passing neural network. However, suc...",
+    "date": "2023-06-06T01:10:27.893Z"
+  },
+  {
     "articleNumber": "10143393",
     "articleTitle": "LARNeXt: End-to-End Lie Algebra Residual Network for Face Recognition",
     "authors": [

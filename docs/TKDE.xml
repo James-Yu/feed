@@ -2,11 +2,133 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/TKDE.rss</id>
     <title>IEEE Transactions on Knowledge and Data Engineering</title>
-    <updated>2023-06-05T16:14:56.317Z</updated>
+    <updated>2023-06-06T01:10:22.701Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/TKDE.rss"/>
     <subtitle>IEEE Transactions on Knowledge and Data Engineering</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Efficient Privacy-Preserving Spatial Data Query in Cloud Computing]]></title>
+        <id>https://ieeexplore.ieee.org/document/10144355</id>
+        <link href="https://ieeexplore.ieee.org/document/10144355"/>
+        <updated>2023-06-06T01:10:22.695Z</updated>
+        <summary type="html"><![CDATA[With the rapid development of geographic location technology and the explosive growth of data, a large amount of spatial data is outsourced to the cloud server for reducing the local high storage and computing burdens, but at the same time causes security issues. Thus, extensive privacy-preserving spatial data query schemes have been proposed. Most of the existing schemes use Asymmetric Scalar-Pro...]]></summary>
+        <author>
+            <name>Yinbin Miao</name>
+        </author>
+        <author>
+            <name>Yutao Yang</name>
+        </author>
+        <author>
+            <name>Xinghua Li</name>
+        </author>
+        <author>
+            <name>Linfeng Wei</name>
+        </author>
+        <author>
+            <name>Zhiquan Liu</name>
+        </author>
+        <author>
+            <name>Robert H. Deng</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hierarchical Alignment with Polar Contrastive Learning for Next-basket Recommendation]]></title>
+        <id>https://ieeexplore.ieee.org/document/10144403</id>
+        <link href="https://ieeexplore.ieee.org/document/10144403"/>
+        <updated>2023-06-06T01:10:22.695Z</updated>
+        <summary type="html"><![CDATA[Next-basket recommendation methods focus on the inference of the next basket by considering the corresponding basket sequence. Although many methods have been developed for the task, they usually suffer from data sparsity. The number of interactions between entities is relatively small compared to their huge bases, so it is crucial to mine as much hidden information as possible from the limited hi...]]></summary>
+        <author>
+            <name>Ting-Ting Su</name>
+        </author>
+        <author>
+            <name>Chang-Dong Wang</name>
+        </author>
+        <author>
+            <name>Wu-Dong Xi</name>
+        </author>
+        <author>
+            <name>Jian-Huang Lai</name>
+        </author>
+        <author>
+            <name>Philip S. Yu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multi-modal Hashing for Efficient Multimedia Retrieval: A Survey]]></title>
+        <id>https://ieeexplore.ieee.org/document/10144360</id>
+        <link href="https://ieeexplore.ieee.org/document/10144360"/>
+        <updated>2023-06-06T01:10:22.695Z</updated>
+        <summary type="html"><![CDATA[With the explosive growth of multimedia contents, multimedia retrieval is facing unprecedented challenges on both storage cost and retrieval speed. Hashing technique can project the high-dimensional data into compact binary hash codes. With it, the most time-consuming semantic similarity computation during the multimedia retrieval process can be significantly accelerated with fast Hamming distance...]]></summary>
+        <author>
+            <name>Lei Zhu</name>
+        </author>
+        <author>
+            <name>Chaoqun Zheng</name>
+        </author>
+        <author>
+            <name>Weili Guan</name>
+        </author>
+        <author>
+            <name>Jingjing Li</name>
+        </author>
+        <author>
+            <name>Yang Yang</name>
+        </author>
+        <author>
+            <name>Heng Tao Shen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Survey of Graph-based Deep Learning for Anomaly Detection in Distributed Systems]]></title>
+        <id>https://ieeexplore.ieee.org/document/10143711</id>
+        <link href="https://ieeexplore.ieee.org/document/10143711"/>
+        <updated>2023-06-06T01:10:22.695Z</updated>
+        <summary type="html"><![CDATA[Anomaly detection is a crucial task in complex distributed systems. A thorough understanding of the requirements and challenges of anomaly detection is pivotal to the security of such systems, especially for real-world deployment. While there are many works and application domains that deal with this problem, few have attempted to provide an in-depth look at such systems. In this survey, we explor...]]></summary>
+        <author>
+            <name>Armin Danesh Pazho</name>
+        </author>
+        <author>
+            <name>Ghazal Alinezhad Noghre</name>
+        </author>
+        <author>
+            <name>Arnab A Purkayastha</name>
+        </author>
+        <author>
+            <name>Jagannadh Vempati</name>
+        </author>
+        <author>
+            <name>Otto Martin</name>
+        </author>
+        <author>
+            <name>Hamed Tabkhi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Self-Supervised Learning for Recommender Systems: A Survey]]></title>
+        <id>https://ieeexplore.ieee.org/document/10144391</id>
+        <link href="https://ieeexplore.ieee.org/document/10144391"/>
+        <updated>2023-06-06T01:10:22.695Z</updated>
+        <summary type="html"><![CDATA[In recent years, neural architecture-based recommender systems have achieved tremendous success, but they still fall short of expectation when dealing with highly sparse data. Self-supervised learning (SSL), as an emerging technique for learning from unlabeled data, has attracted considerable attention as a potential solution to this issue. This survey paper presents a systematic and timely review...]]></summary>
+        <author>
+            <name>Junliang Yu</name>
+        </author>
+        <author>
+            <name>Hongzhi Yin</name>
+        </author>
+        <author>
+            <name>Xin Xia</name>
+        </author>
+        <author>
+            <name>Tong Chen</name>
+        </author>
+        <author>
+            <name>Jundong Li</name>
+        </author>
+        <author>
+            <name>Zi Huang</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Size-constrained Community Search on Large Networks: An Effective and Efficient Solution]]></title>
         <id>https://ieeexplore.ieee.org/document/10138125</id>

@@ -2,11 +2,74 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/TII.rss</id>
     <title>IEEE Transactions on Industrial Informatics</title>
-    <updated>2023-06-05T16:15:09.655Z</updated>
+    <updated>2023-06-06T01:10:37.462Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/TII.rss"/>
     <subtitle>IEEE Transactions on Industrial Informatics</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[An Adaptive Optimization Algorithm in LSTM for SOC Estimation Based on Improved Borges Derivative]]></title>
+        <id>https://ieeexplore.ieee.org/document/10143761</id>
+        <link href="https://ieeexplore.ieee.org/document/10143761"/>
+        <updated>2023-06-06T01:10:37.452Z</updated>
+        <summary type="html"><![CDATA[This paper presents an optimization algorithm in the long short-term memory (LSTM) network for state of charge (SOC) estimation based on the fractal derivative. The improved Borges derivative as a fractal derivative is introduced to the parameter optimization in LSTM networks, and the integer-order derivatives in the adaptive momentum estimation (Adam) algorithm are generalized to the improved Bor...]]></summary>
+        <author>
+            <name>Kai Jia</name>
+        </author>
+        <author>
+            <name>Zhe Gao</name>
+        </author>
+        <author>
+            <name>Ruicheng Ma</name>
+        </author>
+        <author>
+            <name>Haoyu Chai</name>
+        </author>
+        <author>
+            <name>Siqi Sun</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Privacy-Aware Remote Identification for Unmanned Aerial Vehicles: Current Solutions, Potential Threats, and Future Directions]]></title>
+        <id>https://ieeexplore.ieee.org/document/10143727</id>
+        <link href="https://ieeexplore.ieee.org/document/10143727"/>
+        <updated>2023-06-06T01:10:37.452Z</updated>
+        <summary type="html"><![CDATA[The Federal Aviation Administration (FAA) recently introduced a new standard, namely, remote identification, to improve accountability for unmanned aerial vehicles (UAVs) operations. This rule requires UAV operators to broadcast messages revealing sensitive data, such as identity and location on the wireless channel. However, this leads to security and privacy concerns among UAV operators. Unautho...]]></summary>
+        <author>
+            <name>Pietro Tedeschi</name>
+        </author>
+        <author>
+            <name>Fatima Ali Al Nuaimi</name>
+        </author>
+        <author>
+            <name>Ali Ismail Awad</name>
+        </author>
+        <author>
+            <name>Enrico Natalizio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enhanced Deep Predictive Modelling of Wastewater Plants With Limited Data]]></title>
+        <id>https://ieeexplore.ieee.org/document/10143663</id>
+        <link href="https://ieeexplore.ieee.org/document/10143663"/>
+        <updated>2023-06-06T01:10:37.452Z</updated>
+        <summary type="html"><![CDATA[Deep Learning is being widely utilized in industrial process monitoring, control, and optimization. However, in the wastewater industry, its applications are still under-explored. This is because deep learning requires a large amount of labeled training data to induce effective predictive models. Due to the high cost of sensors and frequency and delay in sampling and laboratory analytics, wastewat...]]></summary>
+        <author>
+            <name>Maira Alvi</name>
+        </author>
+        <author>
+            <name>Tim French</name>
+        </author>
+        <author>
+            <name>Rachel Cardell-Oliver</name>
+        </author>
+        <author>
+            <name>Damien Batstone</name>
+        </author>
+        <author>
+            <name>Naveed Akhtar</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ICOE: A Lightweight Group-consensus based Off-chain Execution Model for Smart Contract based Industrial Applications]]></title>
         <id>https://ieeexplore.ieee.org/document/10143278</id>

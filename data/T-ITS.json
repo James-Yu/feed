@@ -1,5 +1,152 @@
 [
   {
+    "articleNumber": "10144484",
+    "articleTitle": "NLE-DM: Natural-Language Explanations for Decision Making of Autonomous Driving Based on Semantic Scene Understanding",
+    "authors": [
+      "Yuchao Feng",
+      "Wei Hua",
+      "Yuxiang Sun"
+    ],
+    "abstract": "In recent years, the advancement of deep-learning technologies has greatly promoted the research progress of autonomous driving. However, deep neural network is like a black box. Given a specific input, it is difficult to explain the output of the network. Without explainable results, it would be unsafe to deploy deep networks in unseen environments or environments with potential unexpected situat...",
+    "date": "2023-06-06T01:10:17.489Z"
+  },
+  {
+    "articleNumber": "10144473",
+    "articleTitle": "Self-Attentive Local Aggregation Learning With Prototype Guided Regularization for Point Cloud Semantic Segmentation of High-Speed Railways",
+    "authors": [
+      "Zhipeng Wang",
+      "Yixuan Geng",
+      "Limin Jia",
+      "Yong Qin",
+      "Yuanyuan Chai",
+      "Lei Tong",
+      "Keyan Liu"
+    ],
+    "abstract": "Point cloud semantic segmentation for railway infrastructures is an essential step towards establishing railway digital twins. Deep learning-based methods have shown great potential in this field compared to traditional methods that rely on hand-crafted features. However, deep learning-based methods for railway point clouds still face typical challenges that need to be addressed. In this regard, w...",
+    "date": "2023-06-06T01:10:17.489Z"
+  },
+  {
+    "articleNumber": "10144482",
+    "articleTitle": "Hierarchical Velocity Optimization for Connected Automated Vehicles With Cellular Vehicle-to-Everything Communication at Continuous Signalized Intersections",
+    "authors": [
+      "Xizheng Zhang",
+      "Sichen Fang",
+      "Yongpeng Shen",
+      "Xiaofang Yuan",
+      "Zhangyu Lu"
+    ],
+    "abstract": "The rapid development of intelligent connected technologies and cellular vehicle-to-everything communication (C-V2X) provide new opportunities to solve the connected automated vehicle (CAV) traffic problem for eco-driving at continuous signalized intersections. With C-V2X, a hierarchical velocity optimization design based on hybrid model predictive control technique (HVO-HMPC) is presented to redu...",
+    "date": "2023-06-06T01:10:17.489Z"
+  },
+  {
+    "articleNumber": "10144486",
+    "articleTitle": "Flight Delay Prediction With Priority Information of Weather and Non-Weather Features",
+    "authors": [
+      "Qiang Li",
+      "Ranzhe Jing",
+      "Zhijie Sasha Dong"
+    ],
+    "abstract": "Flight delay prediction is a major topic in intelligent airport management systems, which emphasizes the use of historical data and potential features to estimate whether a future flight will delay. However, many factors affect flight delays, and these factors can be categorized into weather features (e.g., temperature, humidity, and wind speed) and non-weather features (day-of-month, day-of-week,...",
+    "date": "2023-06-06T01:10:17.489Z"
+  },
+  {
+    "articleNumber": "10144480",
+    "articleTitle": "QoS-Aware User Association and Transmission Scheduling for Millimeter-Wave Train-Ground Communications",
+    "authors": [
+      "Xiangfei Zhang",
+      "Yong Niu",
+      "Tao Yang",
+      "Xian Xiao",
+      "Jianwen Ding",
+      "Sheng Chen",
+      "Zhangdui Zhong",
+      "Ning Wang",
+      "Bo Ai"
+    ],
+    "abstract": "With the development of wireless communication, people have put forward higher requirements for train-ground communications in the high-speed railway (HSR) scenarios. With the help of mobile relays (MRs) installed on the roof of the train, the application of Millimeter-Wave (mm-wave) communication which has rich spectrum resources to the train-ground communication system can realize high data rate...",
+    "date": "2023-06-06T01:10:17.489Z"
+  },
+  {
+    "articleNumber": "10144471",
+    "articleTitle": "CoTV: Cooperative Control for Traffic Light Signals and Connected Autonomous Vehicles Using Deep Reinforcement Learning",
+    "authors": [
+      "Jiaying Guo",
+      "Long Cheng",
+      "Shen Wang"
+    ],
+    "abstract": "The target of reducing travel time only is insufficient to support the development of future smart transportation systems. To align with the United Nations Sustainable Development Goals (UN-SDG), a further reduction of fuel and emissions, improvements of traffic safety, and the ease of infrastructure deployment and maintenance should also be considered. Different from existing work focusing on opt...",
+    "date": "2023-06-06T01:10:17.489Z"
+  },
+  {
+    "articleNumber": "10144475",
+    "articleTitle": "Sustainability Assessment of Regional Transportation: An Innovative Fuzzy Group Decision-Making Model",
+    "authors": [
+      "Zengxian Li",
+      "Aijun Liu",
+      "Wen-Long Shang",
+      "Jiaxin Li",
+      "Hui Lu",
+      "Haoran Zhang"
+    ],
+    "abstract": "In this paper, an innovative fuzzy group decision-making model is designed for assessing regional transportation sustainability, focusing on the correlation between various attributes of the evaluation system. The focus of this model is the partitioned Maclaurin symmetric mean operator because of its better applicability when considering attribute correlation and attribute grouping. The modified s...",
+    "date": "2023-06-06T01:10:17.489Z"
+  },
+  {
+    "articleNumber": "10144488",
+    "articleTitle": "DVHN: A Deep Hashing Framework for Large-Scale Vehicle Re-Identification",
+    "authors": [
+      "Yongbiao Chen",
+      "Sheng Zhang",
+      "Fangxin Liu",
+      "Chenggang Wu",
+      "Kaicheng Guo",
+      "Zhengwei Qi"
+    ],
+    "abstract": "Vehicle re-identification is a pervasive technology in real-world intelligence transportation systems. Conventional methods generally perform re-identification tasks by representing vehicle images as real-valued feature vectors and then ranking the gallery images by computing the corresponding Euclidean distances. Despite achieving remarkable retrieval accuracy, these high-dimensional real-valued ...",
+    "date": "2023-06-06T01:10:17.489Z"
+  },
+  {
+    "articleNumber": "10144477",
+    "articleTitle": "Multi-Lane Coordinated Control Strategy of Connected and Automated Vehicles for On-Ramp Merging Area Based on Cooperative Game",
+    "authors": [
+      "Lan Yang",
+      "Jiahao Zhan",
+      "Wen-Long Shang",
+      "Shan Fang",
+      "Guoyuan Wu",
+      "Xiangmo Zhao",
+      "Muhammet Deveci"
+    ],
+    "abstract": "Ramp merging represents a bottleneck scenario that causes traffic congestion, accidents, and increases emissions. Connected and Automated Vehicles (CAVs) can realize the coordinated control of ramp merging through vehicle-to-infrastructure (V2I) for relieving above problems. Considering the previous studies on centralized ramp merging only involved single mainline, this paper proposes a multi-lane...",
+    "date": "2023-06-06T01:10:17.489Z"
+  },
+  {
+    "articleNumber": "10144479",
+    "articleTitle": "MSN: Multi-Style Network for Trajectory Prediction",
+    "authors": [
+      "Conghao Wong",
+      "Beihao Xia",
+      "Qinmu Peng",
+      "Wei Yuan",
+      "Xinge You"
+    ],
+    "abstract": "Trajectory prediction aims to forecast agents’ possible future locations considering their observations along with the video context. It is strongly needed by many autonomous platforms like tracking, detection, robot navigation, and self-driving cars. Whether it is agents’ internal personality factors, interactive behaviors with the neighborhood, or the influence of surroundings, they all impact a...",
+    "date": "2023-06-06T01:10:17.489Z"
+  },
+  {
+    "articleNumber": "10144487",
+    "articleTitle": "IIDS: Intelligent Intrusion Detection System for Sustainable Development in Autonomous Vehicles",
+    "authors": [
+      "Sudha Anbalagan",
+      "Gunasekaran Raja",
+      "Sugeerthi Gurumoorthy",
+      "R. Deepak Suresh",
+      "Kapal Dev"
+    ],
+    "abstract": "Connected and Autonomous Vehicles (CAVs) enable various capabilities and functionalities like automated driving assistance, navigation and path planning, cruise control, independent decision making, and low-carbon transportation in the real-time environment. However, the increased CAVs usage renders the potential vulnerabilities in the Internet of Vehicles (IoV) environment, making it susceptible ...",
+    "date": "2023-06-06T01:10:17.489Z"
+  },
+  {
     "articleNumber": "10143390",
     "articleTitle": "Parking Prediction in Smart Cities: A Survey",
     "authors": [

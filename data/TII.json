@@ -1,5 +1,43 @@
 [
   {
+    "articleNumber": "10143761",
+    "articleTitle": "An Adaptive Optimization Algorithm in LSTM for SOC Estimation Based on Improved Borges Derivative",
+    "authors": [
+      "Kai Jia",
+      "Zhe Gao",
+      "Ruicheng Ma",
+      "Haoyu Chai",
+      "Siqi Sun"
+    ],
+    "abstract": "This paper presents an optimization algorithm in the long short-term memory (LSTM) network for state of charge (SOC) estimation based on the fractal derivative. The improved Borges derivative as a fractal derivative is introduced to the parameter optimization in LSTM networks, and the integer-order derivatives in the adaptive momentum estimation (Adam) algorithm are generalized to the improved Bor...",
+    "date": "2023-06-06T01:10:37.452Z"
+  },
+  {
+    "articleNumber": "10143727",
+    "articleTitle": "Privacy-Aware Remote Identification for Unmanned Aerial Vehicles: Current Solutions, Potential Threats, and Future Directions",
+    "authors": [
+      "Pietro Tedeschi",
+      "Fatima Ali Al Nuaimi",
+      "Ali Ismail Awad",
+      "Enrico Natalizio"
+    ],
+    "abstract": "The Federal Aviation Administration (FAA) recently introduced a new standard, namely, remote identification, to improve accountability for unmanned aerial vehicles (UAVs) operations. This rule requires UAV operators to broadcast messages revealing sensitive data, such as identity and location on the wireless channel. However, this leads to security and privacy concerns among UAV operators. Unautho...",
+    "date": "2023-06-06T01:10:37.452Z"
+  },
+  {
+    "articleNumber": "10143663",
+    "articleTitle": "Enhanced Deep Predictive Modelling of Wastewater Plants With Limited Data",
+    "authors": [
+      "Maira Alvi",
+      "Tim French",
+      "Rachel Cardell-Oliver",
+      "Damien Batstone",
+      "Naveed Akhtar"
+    ],
+    "abstract": "Deep Learning is being widely utilized in industrial process monitoring, control, and optimization. However, in the wastewater industry, its applications are still under-explored. This is because deep learning requires a large amount of labeled training data to induce effective predictive models. Due to the high cost of sensors and frequency and delay in sampling and laboratory analytics, wastewat...",
+    "date": "2023-06-06T01:10:37.452Z"
+  },
+  {
     "articleNumber": "10143278",
     "articleTitle": "ICOE: A Lightweight Group-consensus based Off-chain Execution Model for Smart Contract based Industrial Applications",
     "authors": [

@@ -2,11 +2,265 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/T-ITS.rss</id>
     <title>IEEE Transactions on Intelligent Transportation Systems</title>
-    <updated>2023-06-05T16:14:51.690Z</updated>
+    <updated>2023-06-06T01:10:17.496Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/T-ITS.rss"/>
     <subtitle>IEEE Transactions on Intelligent Transportation Systems</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[NLE-DM: Natural-Language Explanations for Decision Making of Autonomous Driving Based on Semantic Scene Understanding]]></title>
+        <id>https://ieeexplore.ieee.org/document/10144484</id>
+        <link href="https://ieeexplore.ieee.org/document/10144484"/>
+        <updated>2023-06-06T01:10:17.489Z</updated>
+        <summary type="html"><![CDATA[In recent years, the advancement of deep-learning technologies has greatly promoted the research progress of autonomous driving. However, deep neural network is like a black box. Given a specific input, it is difficult to explain the output of the network. Without explainable results, it would be unsafe to deploy deep networks in unseen environments or environments with potential unexpected situat...]]></summary>
+        <author>
+            <name>Yuchao Feng</name>
+        </author>
+        <author>
+            <name>Wei Hua</name>
+        </author>
+        <author>
+            <name>Yuxiang Sun</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Self-Attentive Local Aggregation Learning With Prototype Guided Regularization for Point Cloud Semantic Segmentation of High-Speed Railways]]></title>
+        <id>https://ieeexplore.ieee.org/document/10144473</id>
+        <link href="https://ieeexplore.ieee.org/document/10144473"/>
+        <updated>2023-06-06T01:10:17.489Z</updated>
+        <summary type="html"><![CDATA[Point cloud semantic segmentation for railway infrastructures is an essential step towards establishing railway digital twins. Deep learning-based methods have shown great potential in this field compared to traditional methods that rely on hand-crafted features. However, deep learning-based methods for railway point clouds still face typical challenges that need to be addressed. In this regard, w...]]></summary>
+        <author>
+            <name>Zhipeng Wang</name>
+        </author>
+        <author>
+            <name>Yixuan Geng</name>
+        </author>
+        <author>
+            <name>Limin Jia</name>
+        </author>
+        <author>
+            <name>Yong Qin</name>
+        </author>
+        <author>
+            <name>Yuanyuan Chai</name>
+        </author>
+        <author>
+            <name>Lei Tong</name>
+        </author>
+        <author>
+            <name>Keyan Liu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hierarchical Velocity Optimization for Connected Automated Vehicles With Cellular Vehicle-to-Everything Communication at Continuous Signalized Intersections]]></title>
+        <id>https://ieeexplore.ieee.org/document/10144482</id>
+        <link href="https://ieeexplore.ieee.org/document/10144482"/>
+        <updated>2023-06-06T01:10:17.489Z</updated>
+        <summary type="html"><![CDATA[The rapid development of intelligent connected technologies and cellular vehicle-to-everything communication (C-V2X) provide new opportunities to solve the connected automated vehicle (CAV) traffic problem for eco-driving at continuous signalized intersections. With C-V2X, a hierarchical velocity optimization design based on hybrid model predictive control technique (HVO-HMPC) is presented to redu...]]></summary>
+        <author>
+            <name>Xizheng Zhang</name>
+        </author>
+        <author>
+            <name>Sichen Fang</name>
+        </author>
+        <author>
+            <name>Yongpeng Shen</name>
+        </author>
+        <author>
+            <name>Xiaofang Yuan</name>
+        </author>
+        <author>
+            <name>Zhangyu Lu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flight Delay Prediction With Priority Information of Weather and Non-Weather Features]]></title>
+        <id>https://ieeexplore.ieee.org/document/10144486</id>
+        <link href="https://ieeexplore.ieee.org/document/10144486"/>
+        <updated>2023-06-06T01:10:17.489Z</updated>
+        <summary type="html"><![CDATA[Flight delay prediction is a major topic in intelligent airport management systems, which emphasizes the use of historical data and potential features to estimate whether a future flight will delay. However, many factors affect flight delays, and these factors can be categorized into weather features (e.g., temperature, humidity, and wind speed) and non-weather features (day-of-month, day-of-week,...]]></summary>
+        <author>
+            <name>Qiang Li</name>
+        </author>
+        <author>
+            <name>Ranzhe Jing</name>
+        </author>
+        <author>
+            <name>Zhijie Sasha Dong</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[QoS-Aware User Association and Transmission Scheduling for Millimeter-Wave Train-Ground Communications]]></title>
+        <id>https://ieeexplore.ieee.org/document/10144480</id>
+        <link href="https://ieeexplore.ieee.org/document/10144480"/>
+        <updated>2023-06-06T01:10:17.489Z</updated>
+        <summary type="html"><![CDATA[With the development of wireless communication, people have put forward higher requirements for train-ground communications in the high-speed railway (HSR) scenarios. With the help of mobile relays (MRs) installed on the roof of the train, the application of Millimeter-Wave (mm-wave) communication which has rich spectrum resources to the train-ground communication system can realize high data rate...]]></summary>
+        <author>
+            <name>Xiangfei Zhang</name>
+        </author>
+        <author>
+            <name>Yong Niu</name>
+        </author>
+        <author>
+            <name>Tao Yang</name>
+        </author>
+        <author>
+            <name>Xian Xiao</name>
+        </author>
+        <author>
+            <name>Jianwen Ding</name>
+        </author>
+        <author>
+            <name>Sheng Chen</name>
+        </author>
+        <author>
+            <name>Zhangdui Zhong</name>
+        </author>
+        <author>
+            <name>Ning Wang</name>
+        </author>
+        <author>
+            <name>Bo Ai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CoTV: Cooperative Control for Traffic Light Signals and Connected Autonomous Vehicles Using Deep Reinforcement Learning]]></title>
+        <id>https://ieeexplore.ieee.org/document/10144471</id>
+        <link href="https://ieeexplore.ieee.org/document/10144471"/>
+        <updated>2023-06-06T01:10:17.489Z</updated>
+        <summary type="html"><![CDATA[The target of reducing travel time only is insufficient to support the development of future smart transportation systems. To align with the United Nations Sustainable Development Goals (UN-SDG), a further reduction of fuel and emissions, improvements of traffic safety, and the ease of infrastructure deployment and maintenance should also be considered. Different from existing work focusing on opt...]]></summary>
+        <author>
+            <name>Jiaying Guo</name>
+        </author>
+        <author>
+            <name>Long Cheng</name>
+        </author>
+        <author>
+            <name>Shen Wang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sustainability Assessment of Regional Transportation: An Innovative Fuzzy Group Decision-Making Model]]></title>
+        <id>https://ieeexplore.ieee.org/document/10144475</id>
+        <link href="https://ieeexplore.ieee.org/document/10144475"/>
+        <updated>2023-06-06T01:10:17.489Z</updated>
+        <summary type="html"><![CDATA[In this paper, an innovative fuzzy group decision-making model is designed for assessing regional transportation sustainability, focusing on the correlation between various attributes of the evaluation system. The focus of this model is the partitioned Maclaurin symmetric mean operator because of its better applicability when considering attribute correlation and attribute grouping. The modified s...]]></summary>
+        <author>
+            <name>Zengxian Li</name>
+        </author>
+        <author>
+            <name>Aijun Liu</name>
+        </author>
+        <author>
+            <name>Wen-Long Shang</name>
+        </author>
+        <author>
+            <name>Jiaxin Li</name>
+        </author>
+        <author>
+            <name>Hui Lu</name>
+        </author>
+        <author>
+            <name>Haoran Zhang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DVHN: A Deep Hashing Framework for Large-Scale Vehicle Re-Identification]]></title>
+        <id>https://ieeexplore.ieee.org/document/10144488</id>
+        <link href="https://ieeexplore.ieee.org/document/10144488"/>
+        <updated>2023-06-06T01:10:17.489Z</updated>
+        <summary type="html"><![CDATA[Vehicle re-identification is a pervasive technology in real-world intelligence transportation systems. Conventional methods generally perform re-identification tasks by representing vehicle images as real-valued feature vectors and then ranking the gallery images by computing the corresponding Euclidean distances. Despite achieving remarkable retrieval accuracy, these high-dimensional real-valued ...]]></summary>
+        <author>
+            <name>Yongbiao Chen</name>
+        </author>
+        <author>
+            <name>Sheng Zhang</name>
+        </author>
+        <author>
+            <name>Fangxin Liu</name>
+        </author>
+        <author>
+            <name>Chenggang Wu</name>
+        </author>
+        <author>
+            <name>Kaicheng Guo</name>
+        </author>
+        <author>
+            <name>Zhengwei Qi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multi-Lane Coordinated Control Strategy of Connected and Automated Vehicles for On-Ramp Merging Area Based on Cooperative Game]]></title>
+        <id>https://ieeexplore.ieee.org/document/10144477</id>
+        <link href="https://ieeexplore.ieee.org/document/10144477"/>
+        <updated>2023-06-06T01:10:17.489Z</updated>
+        <summary type="html"><![CDATA[Ramp merging represents a bottleneck scenario that causes traffic congestion, accidents, and increases emissions. Connected and Automated Vehicles (CAVs) can realize the coordinated control of ramp merging through vehicle-to-infrastructure (V2I) for relieving above problems. Considering the previous studies on centralized ramp merging only involved single mainline, this paper proposes a multi-lane...]]></summary>
+        <author>
+            <name>Lan Yang</name>
+        </author>
+        <author>
+            <name>Jiahao Zhan</name>
+        </author>
+        <author>
+            <name>Wen-Long Shang</name>
+        </author>
+        <author>
+            <name>Shan Fang</name>
+        </author>
+        <author>
+            <name>Guoyuan Wu</name>
+        </author>
+        <author>
+            <name>Xiangmo Zhao</name>
+        </author>
+        <author>
+            <name>Muhammet Deveci</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MSN: Multi-Style Network for Trajectory Prediction]]></title>
+        <id>https://ieeexplore.ieee.org/document/10144479</id>
+        <link href="https://ieeexplore.ieee.org/document/10144479"/>
+        <updated>2023-06-06T01:10:17.489Z</updated>
+        <summary type="html"><![CDATA[Trajectory prediction aims to forecast agents’ possible future locations considering their observations along with the video context. It is strongly needed by many autonomous platforms like tracking, detection, robot navigation, and self-driving cars. Whether it is agents’ internal personality factors, interactive behaviors with the neighborhood, or the influence of surroundings, they all impact a...]]></summary>
+        <author>
+            <name>Conghao Wong</name>
+        </author>
+        <author>
+            <name>Beihao Xia</name>
+        </author>
+        <author>
+            <name>Qinmu Peng</name>
+        </author>
+        <author>
+            <name>Wei Yuan</name>
+        </author>
+        <author>
+            <name>Xinge You</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IIDS: Intelligent Intrusion Detection System for Sustainable Development in Autonomous Vehicles]]></title>
+        <id>https://ieeexplore.ieee.org/document/10144487</id>
+        <link href="https://ieeexplore.ieee.org/document/10144487"/>
+        <updated>2023-06-06T01:10:17.489Z</updated>
+        <summary type="html"><![CDATA[Connected and Autonomous Vehicles (CAVs) enable various capabilities and functionalities like automated driving assistance, navigation and path planning, cruise control, independent decision making, and low-carbon transportation in the real-time environment. However, the increased CAVs usage renders the potential vulnerabilities in the Internet of Vehicles (IoV) environment, making it susceptible ...]]></summary>
+        <author>
+            <name>Sudha Anbalagan</name>
+        </author>
+        <author>
+            <name>Gunasekaran Raja</name>
+        </author>
+        <author>
+            <name>Sugeerthi Gurumoorthy</name>
+        </author>
+        <author>
+            <name>R. Deepak Suresh</name>
+        </author>
+        <author>
+            <name>Kapal Dev</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Parking Prediction in Smart Cities: A Survey]]></title>
         <id>https://ieeexplore.ieee.org/document/10143390</id>
