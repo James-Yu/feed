@@ -1,5 +1,17 @@
 [
   {
+    "articleNumber": "10144649",
+    "articleTitle": "Temporal Perceiver: A General Architecture for Arbitrary Boundary Detection",
+    "authors": [
+      "Jing Tan",
+      "Yuhong Wang",
+      "Gangshan Wu",
+      "Limin Wang"
+    ],
+    "abstract": "Generic Boundary Detection (GBD) aims at locating the general boundaries that divide videos into semantically coherent and taxonomy-free units, and could serve as an important pre-processing step for long-form video understanding. Previous works often separately handle these different types of generic boundaries with specific designs of deep networks from simple CNN to LSTM. Instead, in this paper...",
+    "date": "2023-06-07T01:11:34.944Z"
+  },
+  {
     "articleNumber": "10143709",
     "articleTitle": "UniFormer: Unifying Convolution and Self-Attention for Visual Recognition",
     "authors": [

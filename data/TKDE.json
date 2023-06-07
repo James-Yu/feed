@@ -1,5 +1,18 @@
 [
   {
+    "articleNumber": "10144670",
+    "articleTitle": "Broad Learning Autoencoder with Graph Structure for Data Clustering",
+    "authors": [
+      "Zhiwen Yu",
+      "Zhijie Zhong",
+      "Kaixiang Yang",
+      "Wenming Cao",
+      "C. L. Philip Chen"
+    ],
+    "abstract": "Broad learning system (BLS) is a simple yet efficient learning algorithm that only needs to train a three-layer feedforward neural network. Although various BLS variants have been designed for supervised learning, none have been used for unsupervised learning. This paper proposes BLS-AE, a novel data clustering scheme that seamlessly combines BLS and auto-encoder. Then, graph regularization is int...",
+    "date": "2023-06-07T01:11:30.119Z"
+  },
+  {
     "articleNumber": "10144355",
     "articleTitle": "Efficient Privacy-Preserving Spatial Data Query in Cloud Computing",
     "authors": [

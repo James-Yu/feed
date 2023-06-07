@@ -2,11 +2,284 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/IoTJ.rss</id>
     <title>IEEE Internet of Things Journal</title>
-    <updated>2023-06-06T16:14:42.471Z</updated>
+    <updated>2023-06-07T01:11:38.983Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/IoTJ.rss"/>
     <subtitle>IEEE Internet of Things Journal</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[A Few-shot Based Model-Agnostic Meta-Learning for Intrusion Detection in Security of Internet of Things]]></title>
+        <id>https://ieeexplore.ieee.org/document/10144578</id>
+        <link href="https://ieeexplore.ieee.org/document/10144578"/>
+        <updated>2023-06-07T01:11:38.976Z</updated>
+        <summary type="html"><![CDATA[Currently, the effective technologies used to protect the security of the Internet of Things include blockchain and intrusion detection systems. The traditional IoT intrusion detection systems based on supervised learning usually requires a large amount of data for training, with high costs, and most of them can only work in several specific types of attacks. Faced with the variability of current ...]]></summary>
+        <author>
+            <name>Chaomeng Lu</name>
+        </author>
+        <author>
+            <name>Xufeng Wang</name>
+        </author>
+        <author>
+            <name>Aimin Yang</name>
+        </author>
+        <author>
+            <name>Yikai Liu</name>
+        </author>
+        <author>
+            <name>Ziao Dong</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Integrating Usage Control into Distributed Ledger Technology for Internet of Things Privacy]]></title>
+        <id>https://ieeexplore.ieee.org/document/10144624</id>
+        <link href="https://ieeexplore.ieee.org/document/10144624"/>
+        <updated>2023-06-07T01:11:38.976Z</updated>
+        <summary type="html"><![CDATA[The Internet of Things brings new ways to collect privacy-sensitive data from billions of devices. Well-tailored distributed ledger technologies (DLTs) can provide high transaction processing capacities to IoT devices in a decentralized fashion. However, privacy aspects are often neglected or unsatisfying, with a focus mainly on performance and security. In this paper, we introduce decentralized u...]]></summary>
+        <author>
+            <name>Nathanaël Denis</name>
+        </author>
+        <author>
+            <name>Maryline Laurent</name>
+        </author>
+        <author>
+            <name>Sophie Chabridon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Privacy-preserving and Traceable Blockchain-based Charging Payment Scheme for Electric Vehicles]]></title>
+        <id>https://ieeexplore.ieee.org/document/10144579</id>
+        <link href="https://ieeexplore.ieee.org/document/10144579"/>
+        <updated>2023-06-07T01:11:38.977Z</updated>
+        <summary type="html"><![CDATA[With the rapid development of the global clean energy industry, the electric vehicle (EV) has gradually replaced the traditional fuel vehicle as a promising modern transportation tool due to its environmental friendliness and competitive prices. Its widespread adoption has led to a substantial increase in demand for subsidiary facilities such as charging piles and stations. Despite the convenience...]]></summary>
+        <author>
+            <name>Yan Wu</name>
+        </author>
+        <author>
+            <name>Can Zhang</name>
+        </author>
+        <author>
+            <name>Liehuang Zhu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learning-Assisted Partial Offloading for Dynamic NOMA-MEC Systems with Imperfect SIC and Reconfiguration Energy Cost]]></title>
+        <id>https://ieeexplore.ieee.org/document/10144629</id>
+        <link href="https://ieeexplore.ieee.org/document/10144629"/>
+        <updated>2023-06-07T01:11:38.977Z</updated>
+        <summary type="html"><![CDATA[In this paper, we investigate the long-term energy minimization for non-orthogonal multiple access (NOMA) based mobile edge computing (MEC) systems with user mobility, continuous tasks arrival, and time-varying channel when the reconfiguration energy cost caused by dynamic voltage frequency scaling (DVFS) technology and the effect of imperfect successive interference cancellation (SIC) decoding in...]]></summary>
+        <author>
+            <name>Baoshan Lu</name>
+        </author>
+        <author>
+            <name>Shijun Lin</name>
+        </author>
+        <author>
+            <name>Junli Fang</name>
+        </author>
+        <author>
+            <name>Xuemin Hong</name>
+        </author>
+        <author>
+            <name>Jianghong Shi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multi-agent Federated Reinforcement Learning for Resource Allocation in UAV-enabled Internet of Medical Things Networks]]></title>
+        <id>https://ieeexplore.ieee.org/document/10144626</id>
+        <link href="https://ieeexplore.ieee.org/document/10144626"/>
+        <updated>2023-06-07T01:11:38.977Z</updated>
+        <summary type="html"><![CDATA[In the 5G/B5G network paradigms, intelligent medical devices known as the Internet of Medical Things (IoMT) have been used in the healthcare industry to monitor remote users’ health status, such as elderly monitoring, injuries, stress, and patients with chronic diseases. Since IoMT devices have limited resources, mobile edge computing (MEC) has been deployed in 5G networks to enable them to offloa...]]></summary>
+        <author>
+            <name>Abegaz Mohammed Seid</name>
+        </author>
+        <author>
+            <name>Aiman Erbad</name>
+        </author>
+        <author>
+            <name>Hayla Nahom Abishu</name>
+        </author>
+        <author>
+            <name>Abdullatif Albaseer</name>
+        </author>
+        <author>
+            <name>Mohamed Abdallah</name>
+        </author>
+        <author>
+            <name>Mohsen Guizani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anti-jamming Transmission in NOMA-based Satellite-enabled IoT: A Game-theoretic Framework in Hostile Environments]]></title>
+        <id>https://ieeexplore.ieee.org/document/10144632</id>
+        <link href="https://ieeexplore.ieee.org/document/10144632"/>
+        <updated>2023-06-07T01:11:38.977Z</updated>
+        <summary type="html"><![CDATA[Satellite-enabled Internet of Things (IoT) (SatIoT) has drawn increasing attentions due to the ubiquitous coverage, high capacity and massive connectivity. The inherent openness and broadcast nature of the SatIoT are vulnerable to security threats, particularly the jamming attacks for interrupting transmissions. Non-orthogonal multiple access (NOMA) scheme has the potential to be applied in anti-j...]]></summary>
+        <author>
+            <name>Chen Han</name>
+        </author>
+        <author>
+            <name>Aijun Liu</name>
+        </author>
+        <author>
+            <name>Zhixiang Gao</name>
+        </author>
+        <author>
+            <name>Kang An</name>
+        </author>
+        <author>
+            <name>Gan Zheng</name>
+        </author>
+        <author>
+            <name>Symeon Chatzinotas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A High-Reliability Edge-side Mobile Terminal Shared Computing Architecture Based on Task Triple-stage Full-cycle Monitoring]]></title>
+        <id>https://ieeexplore.ieee.org/document/10144619</id>
+        <link href="https://ieeexplore.ieee.org/document/10144619"/>
+        <updated>2023-06-07T01:11:38.977Z</updated>
+        <summary type="html"><![CDATA[Edge computing has emerged as a promising paradigm for addressing the challenges of latency, bandwidth, and energy consumption in the era of big data and the intelligent Internet of Things. However, the limited computing resources of edge devices and their vulnerability to failures pose significant challenges to the reliability and availability of edge computing systems. To this end, we propose a ...]]></summary>
+        <author>
+            <name>Bobo Ju</name>
+        </author>
+        <author>
+            <name>Yang Liu</name>
+        </author>
+        <author>
+            <name>Liang Song</name>
+        </author>
+        <author>
+            <name>Guixiang Gan</name>
+        </author>
+        <author>
+            <name>Zengwen Li</name>
+        </author>
+        <author>
+            <name>Linhua Jiang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Engineering Challenges of Stationary Wireless Smart Ocean Observation Systems]]></title>
+        <id>https://ieeexplore.ieee.org/document/10144633</id>
+        <link href="https://ieeexplore.ieee.org/document/10144633"/>
+        <updated>2023-06-07T01:11:38.977Z</updated>
+        <summary type="html"><![CDATA[The ocean is vital for humankind but may cause catastrophes when unhealthy. Although there have been efforts to build ocean monitoring systems, the understanding of the underwater environment is limited due to the cost and challenges of obtaining real-time marine data. One potential solution is to build stationary ocean observation systems based on wireless communication due to its affordable cost...]]></summary>
+        <author>
+            <name>Ngoc-Thanh Nguyen</name>
+        </author>
+        <author>
+            <name>Rogardt Heldal</name>
+        </author>
+        <author>
+            <name>Keila Lima</name>
+        </author>
+        <author>
+            <name>Tosin Daniel Oyetoyan</name>
+        </author>
+        <author>
+            <name>Patrizio Pelliccione</name>
+        </author>
+        <author>
+            <name>Lars Michael Kristensen</name>
+        </author>
+        <author>
+            <name>Kjetil Waldeland Hoydal</name>
+        </author>
+        <author>
+            <name>Pål Asle Reiersgaard</name>
+        </author>
+        <author>
+            <name>Yngve Kvinnsland</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Towards Green and Efficient Blockchain for Energy Trading: A Non-cooperative Game Approach]]></title>
+        <id>https://ieeexplore.ieee.org/document/10144613</id>
+        <link href="https://ieeexplore.ieee.org/document/10144613"/>
+        <updated>2023-06-07T01:11:38.977Z</updated>
+        <summary type="html"><![CDATA[Blockchain has gained significant adoption in energy trading, offering benefits for both economy and environment. Consensus, in particular, is a decisive factor for blockchain-based energy trading systems to operate efficiently and securely. However, the consensuses currently applied have been criticized for being too energy intensive or not sufficiently decentralized, which counteracts the positi...]]></summary>
+        <author>
+            <name>Zheng Bao</name>
+        </author>
+        <author>
+            <name>Changbing Tang</name>
+        </author>
+        <author>
+            <name>Xiaodong Xie</name>
+        </author>
+        <author>
+            <name>Guanrong Chen</name>
+        </author>
+        <author>
+            <name>Feilong Lin</name>
+        </author>
+        <author>
+            <name>Zhonglong Zheng</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Human-Centric Resource Allocation for the Metaverse with Multi-Access Edge Computing]]></title>
+        <id>https://ieeexplore.ieee.org/document/10144631</id>
+        <link href="https://ieeexplore.ieee.org/document/10144631"/>
+        <updated>2023-06-07T01:11:38.977Z</updated>
+        <summary type="html"><![CDATA[Multi-access edge computing (MEC) is a promising solution to the computation-intensive, low-latency rendering tasks of the metaverse. However, how to optimally allocate limited communication and computation resources at the edge to a large number of users in the metaverse is quite challenging. In this paper, we propose an adaptive edge resource allocation method based on multi-agent soft actor-cri...]]></summary>
+        <author>
+            <name>Zijian Long</name>
+        </author>
+        <author>
+            <name>Haiwei Dong</name>
+        </author>
+        <author>
+            <name>Abdulmotaleb El Saddik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Collaborative Computation Offloading for Photovoltaic Power Prediction in Energy Internet: A Similarity-Aware Stable Matching Approach]]></title>
+        <id>https://ieeexplore.ieee.org/document/10144617</id>
+        <link href="https://ieeexplore.ieee.org/document/10144617"/>
+        <updated>2023-06-07T01:11:38.977Z</updated>
+        <summary type="html"><![CDATA[The advances of communication technology and edge intelligence are deriving new computation offloading modes in the energy Internet by integrating computing capabilities of cloud servers, edge gateways, and terminal nodes into forecasting the renewable energy generation. However, the largely dispersed data generated by abundant photovoltaic (PV) stations and limited transmission capacity will degr...]]></summary>
+        <author>
+            <name>Bingxin Tian</name>
+        </author>
+        <author>
+            <name>Li Wang</name>
+        </author>
+        <author>
+            <name>Liang Li</name>
+        </author>
+        <author>
+            <name>Lianming Xu</name>
+        </author>
+        <author>
+            <name>Luyang Hou</name>
+        </author>
+        <author>
+            <name>Aiguo Fei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Novel Differential Coherent FFH/DS Acquisition Strategy for LEO Satellite-enabled Internet of Things]]></title>
+        <id>https://ieeexplore.ieee.org/document/10144612</id>
+        <link href="https://ieeexplore.ieee.org/document/10144612"/>
+        <updated>2023-06-07T01:11:38.977Z</updated>
+        <summary type="html"><![CDATA[With the expanding demands for the space-air-ground integrated Internet of Things (IoT), the low earth orbit (LEO) satellite can be regarded as an important complement to IoT networks. Due to the transparency of satellite orbit information and the exposing nature of transmitting links, satellite-ground communication is extremely vulnerable to eavesdropping and jamming attacks. To establish a trans...]]></summary>
+        <author>
+            <name>Xin Jin</name>
+        </author>
+        <author>
+            <name>Xuanhe Yang</name>
+        </author>
+        <author>
+            <name>Shixun Luo</name>
+        </author>
+        <author>
+            <name>Shuai Wang</name>
+        </author>
+        <author>
+            <name>Jianping An</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CWEmd: A light-weight Similarity Measurement for Resource Constraint Vehicular Networks]]></title>
         <id>https://ieeexplore.ieee.org/document/10144306</id>

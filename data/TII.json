@@ -1,5 +1,29 @@
 [
   {
+    "articleNumber": "10144671",
+    "articleTitle": "An Update-strategy-based Gaussian Process Regression Method for Aeroengines Fault Prediction",
+    "authors": [
+      "Li Cai",
+      "Hongpeng Yin",
+      "Jingdong Lin",
+      "Dandan Zhao"
+    ],
+    "abstract": "Health state prediction and fault time prediction are two key tasks in the fault prediction field. However, existing fault prediction techniques perform these tasks hierarchically and separately without considering the time-varying dynamics of the system operation process, which reduces the prediction efficiency and accuracy. Therefore, a Gaussian process regression prediction method based on the ...",
+    "date": "2023-06-07T01:11:42.978Z"
+  },
+  {
+    "articleNumber": "10144658",
+    "articleTitle": "Application of an oversampling method based on GMM and boundary optimization in imbalance-bearing fault diagnosis",
+    "authors": [
+      "Zhenya Wang",
+      "Tao Liu",
+      "Xing Wu",
+      "Chang Liu"
+    ],
+    "abstract": "Synthetic minority oversampling (SMOTE) has been widely used in dealing with the imbalance classification in the mechanical fault diagnosis field. However, the classical SMOTE model generates poor quality data, which leads to a low diagnostic accuracy of the classification model. This paper proposes an oversampling generation model based on the Gaussian mixture model (GMM) and boundary joint optim...",
+    "date": "2023-06-07T01:11:42.978Z"
+  },
+  {
     "articleNumber": "10143761",
     "articleTitle": "An Adaptive Optimization Algorithm in LSTM for SOC Estimation Based on Improved Borges Derivative",
     "authors": [
