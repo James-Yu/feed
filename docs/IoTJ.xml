@@ -2,11 +2,240 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/IoTJ.rss</id>
     <title>IEEE Internet of Things Journal</title>
-    <updated>2023-06-07T16:15:11.381Z</updated>
+    <updated>2023-06-08T01:09:12.464Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/IoTJ.rss"/>
     <subtitle>IEEE Internet of Things Journal</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Securing IOTA Blockchain Against Tangle Vulnerability by Using Large Deviation Theory]]></title>
+        <id>https://ieeexplore.ieee.org/document/10145922</id>
+        <link href="https://ieeexplore.ieee.org/document/10145922"/>
+        <updated>2023-06-08T01:09:12.456Z</updated>
+        <summary type="html"><![CDATA[IOTA has emerged as a promising blockchain platform specially designed for the Internet of Things (IoT). Its distributed ledger, called tangle, adopts a directed acyclic graph (DAG) structure to achieve fast transaction confirmation and high scalability. While the tangle tremendously mitigates blockchain performance concerns relative to a traditional single chain, it simultaneously increases the p...]]></summary>
+        <author>
+            <name>Yinfeng Chen</name>
+        </author>
+        <author>
+            <name>Yu Guo</name>
+        </author>
+        <author>
+            <name>Mingyue Wang</name>
+        </author>
+        <author>
+            <name>Enliang Xu</name>
+        </author>
+        <author>
+            <name>Hongcheng Xie</name>
+        </author>
+        <author>
+            <name>Rongfang Bie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Realtime Factor-graph Optimized Pedestrian Navigation Method]]></title>
+        <id>https://ieeexplore.ieee.org/document/10145924</id>
+        <link href="https://ieeexplore.ieee.org/document/10145924"/>
+        <updated>2023-06-08T01:09:12.456Z</updated>
+        <summary type="html"><![CDATA[Inertial Measurement Units (IMUs) are widely used in Internet of Things (IoT) applications to determine precise self-location for humans. However, biases in accelerometers and gyroscopes can cause significant accumulative positioning errors. Additionally, traditional methods employing the Kalman filter introduce nonlinear errors, which further exacerbate positioning inaccuracies. In this paper, we...]]></summary>
+        <author>
+            <name>Cheng Yuan</name>
+        </author>
+        <author>
+            <name>Jizhou Lai</name>
+        </author>
+        <author>
+            <name>Pin Lyu</name>
+        </author>
+        <author>
+            <name>Rui Liu</name>
+        </author>
+        <author>
+            <name>Jingyi Zhu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Two-Tier Resource Allocation for Multi-Tenant Network Slicing: A Federated Deep Reinforcement Learning Approach]]></title>
+        <id>https://ieeexplore.ieee.org/document/10145918</id>
+        <link href="https://ieeexplore.ieee.org/document/10145918"/>
+        <updated>2023-06-08T01:09:12.456Z</updated>
+        <summary type="html"><![CDATA[Fifth-generation (5G) wireless networks enable gigabit-per-second data speeds, minimal latency, and reliable Internet of Things (IoT) connectivity. Thus, network slicing (NS) has gained enormous interest due to its ability to improve resource allocation. Due to the exponential growth of IoT data, it is difficult for the infrastructure providers (InPs) to determine the appropriate resource to alloc...]]></summary>
+        <author>
+            <name>Ruijie Ou</name>
+        </author>
+        <author>
+            <name>Guolin Sun</name>
+        </author>
+        <author>
+            <name>Daniel Ayepah-Mensah</name>
+        </author>
+        <author>
+            <name>Gordon Owusu Boateng</name>
+        </author>
+        <author>
+            <name>Guisong Liu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AoI Minimization Scheme for Short Packet Communications in the Energy-Constrained IIoT]]></title>
+        <id>https://ieeexplore.ieee.org/document/10146018</id>
+        <link href="https://ieeexplore.ieee.org/document/10146018"/>
+        <updated>2023-06-08T01:09:12.456Z</updated>
+        <summary type="html"><![CDATA[This paper is motivated by the requirement of high information freshness in the industrial Internet of Things (IIoT). An industrial robot sends short status packets to a control center (CC), and the timeliness of status updates is measured by the age of information (AoI). Due to the dynamic change of the wireless channel, the robot needs to send a pilot for channel estimation during each coherence...]]></summary>
+        <author>
+            <name>Baoquan Yu</name>
+        </author>
+        <author>
+            <name>Yueming Cai</name>
+        </author>
+        <author>
+            <name>Xianbang Diao</name>
+        </author>
+        <author>
+            <name>Yong Chen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Novel Short-Term Traffic Prediction Model based on SVD and ARIMA with Blockchain in Industrial Internet of Things]]></title>
+        <id>https://ieeexplore.ieee.org/document/10145923</id>
+        <link href="https://ieeexplore.ieee.org/document/10145923"/>
+        <updated>2023-06-08T01:09:12.456Z</updated>
+        <summary type="html"><![CDATA[With the construction and development of smart cities, accurate and real-time traffic prediction plays a vital role in urban traffic. However, traffic data has the characteristics of non-linearity, non-stationary and complex structure, so traffic prediction has always been a challenging problem. The traditional statistical model is good at dealing with linear data and poor at dealing with nonlinea...]]></summary>
+        <author>
+            <name>Ying Miao</name>
+        </author>
+        <author>
+            <name>Xiuhong Bai</name>
+        </author>
+        <author>
+            <name>Yuxuan Cao</name>
+        </author>
+        <author>
+            <name>Yuwen Liu</name>
+        </author>
+        <author>
+            <name>Fei Dai</name>
+        </author>
+        <author>
+            <name>Fan Wang</name>
+        </author>
+        <author>
+            <name>Lianyong Qi</name>
+        </author>
+        <author>
+            <name>Wanchun Dou</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[User Association and Power Allocation for User-Centric Smart-Duplex Networks via Tree-Structured Deep Reinforcement Learning]]></title>
+        <id>https://ieeexplore.ieee.org/document/10146016</id>
+        <link href="https://ieeexplore.ieee.org/document/10146016"/>
+        <updated>2023-06-08T01:09:12.456Z</updated>
+        <summary type="html"><![CDATA[This paper considers a smart-duplex (SD) powered user-centric ultra dense networks (UC-UDN), where each user is served cooperatively by multiple access points (APs) adopting the de-cellular concept to achieve desired quality-of-service (QoS). The average QoS satisfaction ratio maximization problem for the considered SD UC-UDN is formulated as a Markov decision process (MDP) with large discrete act...]]></summary>
+        <author>
+            <name>Dan Wang</name>
+        </author>
+        <author>
+            <name>Ran Li</name>
+        </author>
+        <author>
+            <name>Chuan Huang</name>
+        </author>
+        <author>
+            <name>Xiaodong Xu</name>
+        </author>
+        <author>
+            <name>Hao Chen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RIS-Assisted Jamming Rejection and Path Planning for UAV-Borne IoT Platform: A New Deep Reinforcement Learning Framework]]></title>
+        <id>https://ieeexplore.ieee.org/document/10146001</id>
+        <link href="https://ieeexplore.ieee.org/document/10146001"/>
+        <updated>2023-06-08T01:09:12.456Z</updated>
+        <summary type="html"><![CDATA[This paper presents a new deep reinforcement learning (DRL)-based approach to the trajectory planning and jamming rejection of an unmanned aerial vehicle (UAV) for the Internet-of-Things (IoT) applications. Jamming can prevent timely delivery of sensing data and reception of operation instructions. With the assistance of a reconfigurable intelligent surface (RIS), we propose to augment the radio e...]]></summary>
+        <author>
+            <name>Shuyan Hu</name>
+        </author>
+        <author>
+            <name>Xin Yuan</name>
+        </author>
+        <author>
+            <name>Wei Ni</name>
+        </author>
+        <author>
+            <name>Xin Wang</name>
+        </author>
+        <author>
+            <name>Abbas Jamalipour</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Improved Global-Local Fusion Network for Depression Detection Telemedicine Framework]]></title>
+        <id>https://ieeexplore.ieee.org/document/10146009</id>
+        <link href="https://ieeexplore.ieee.org/document/10146009"/>
+        <updated>2023-06-08T01:09:12.456Z</updated>
+        <summary type="html"><![CDATA[In recent years, remote depression detection is becoming a new favorite of the Internet of Things because of its promise. However, deployable and sensitive information security has not been properly addressed. Thus, a novel depression detection framework is proposed to successfully solve the above problems. This paper concentrates solely on the development and execution of our proposed core algori...]]></summary>
+        <author>
+            <name>Lan Zhang</name>
+        </author>
+        <author>
+            <name>Jian Zhao</name>
+        </author>
+        <author>
+            <name>Lang He</name>
+        </author>
+        <author>
+            <name>Jian Jia</name>
+        </author>
+        <author>
+            <name>Xianjia Meng</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FedMint: Intelligent Bilateral Client Selection in Federated Learning with Newcomer IoT Devices]]></title>
+        <id>https://ieeexplore.ieee.org/document/10145997</id>
+        <link href="https://ieeexplore.ieee.org/document/10145997"/>
+        <updated>2023-06-08T01:09:12.456Z</updated>
+        <summary type="html"><![CDATA[Federated Learning (FL) is a novel distributed privacy-preserving learning paradigm, which enables the collaboration among several participants (e.g., Internet of Things devices) for the training of machine learning models. However, selecting the participants that would contribute to this collaborative training is highly challenging. Adopting a random selection strategy would entail substantial pr...]]></summary>
+        <author>
+            <name>Osama Wehbi</name>
+        </author>
+        <author>
+            <name>Sarhad Arisdakessian</name>
+        </author>
+        <author>
+            <name>Omar Abdel Wahab</name>
+        </author>
+        <author>
+            <name>Hadi Otrok</name>
+        </author>
+        <author>
+            <name>Safa Otoum</name>
+        </author>
+        <author>
+            <name>Azzam Mourad</name>
+        </author>
+        <author>
+            <name>Mohsen Guizani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Analysis of Double Q-learning Based Energy Management Strategies for TEG-powered IoT Devices]]></title>
+        <id>https://ieeexplore.ieee.org/document/10145999</id>
+        <link href="https://ieeexplore.ieee.org/document/10145999"/>
+        <updated>2023-06-08T01:09:12.456Z</updated>
+        <summary type="html"><![CDATA[The study presents a self-learning controller for managing the energy in an Internet-of-Things (IoT) device powered by energy harvested from a thermoelectric generator (TEG). The device’s controller is based on a double Q-learning (DQL) method; the hardware incorporates a TEG energy harvesting subsystem with a DC/DC converter, a load module with a microcontroller, and a LoRaWAN communications inte...]]></summary>
+        <author>
+            <name>Michal Prauzek</name>
+        </author>
+        <author>
+            <name>Jaromir Konecny</name>
+        </author>
+        <author>
+            <name>Tereza Paterova</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Few-shot Based Model-Agnostic Meta-Learning for Intrusion Detection in Security of Internet of Things]]></title>
         <id>https://ieeexplore.ieee.org/document/10144578</id>

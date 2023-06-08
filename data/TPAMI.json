@@ -1,5 +1,51 @@
 [
   {
+    "articleNumber": "10145811",
+    "articleTitle": "MO-MIX: Multi-Objective Multi-Agent Cooperative Decision-Making With Deep Reinforcement Learning",
+    "authors": [
+      "Tianmeng Hu",
+      "Biao Luo",
+      "Chunhua Yang",
+      "Tingwen Huang"
+    ],
+    "abstract": "Deep reinforcement learning (RL) has been applied extensively to solve complex decision-making problems. In many real-world scenarios, tasks often have several conflicting objectives and may require multiple agents to cooperate, which are the multi-objective multi-agent decision-making problems. However, only few works have been conducted on this intersection. Existing approaches are limited to se...",
+    "date": "2023-06-08T01:09:06.638Z"
+  },
+  {
+    "articleNumber": "10145799",
+    "articleTitle": "Learning Hidden Graphs from Samples",
+    "authors": [
+      "Ahmad Abniki",
+      "Hamid Beigy"
+    ],
+    "abstract": "Several real-world problems, like molecular biology and chemical reactions, have hidden graphs, and we need to learn the hidden graph using edge-detecting samples. In this problem, the learner receives examples explaining whether a set of vertices induces an edge of the hidden graph. This paper examines the learnability of this problem using the PAC and Agnostic PAC learning models. By computing t...",
+    "date": "2023-06-08T01:09:06.638Z"
+  },
+  {
+    "articleNumber": "10145843",
+    "articleTitle": "MURF: Mutually Reinforcing Multi-modal Image Registration and Fusion",
+    "authors": [
+      "Han Xu",
+      "Jiteng Yuan",
+      "Jiayi Ma"
+    ],
+    "abstract": "Existing image fusion methods are typically limited to aligned source images and have to “tolerate” parallaxes when images are unaligned. Simultaneously, the large variances between different modalities pose a significant challenge for multi-modal image registration. This study proposes a novel method called MURF, where for the first time, image registration and fusion are mutually reinforced rath...",
+    "date": "2023-06-08T01:09:06.638Z"
+  },
+  {
+    "articleNumber": "10145800",
+    "articleTitle": "MLink: Linking Black-Box Models from Multiple Domains for Collaborative Inference",
+    "authors": [
+      "Mu Yuan",
+      "Lan Zhang",
+      "Zimu Zheng",
+      "Yi-Nan Zhang",
+      "Xiang-Yang Li"
+    ],
+    "abstract": "The cost efficiency of model inference is critical to real-world machine learning (ML) applications, especially for delay-sensitive tasks and resource-limited devices. A typical dilemma is: in order to provide complex intelligent services (e.g. smart city), we need inference results of multiple ML models, but the cost budget (e.g. GPU memory) is not enough to run all of them. In this work, we stud...",
+    "date": "2023-06-08T01:09:06.638Z"
+  },
+  {
     "articleNumber": "10144649",
     "articleTitle": "Temporal Perceiver: A General Architecture for Arbitrary Boundary Detection",
     "authors": [

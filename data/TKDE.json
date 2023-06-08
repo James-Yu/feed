@@ -1,5 +1,48 @@
 [
   {
+    "articleNumber": "10145599",
+    "articleTitle": "Neural Moderation of ASMR Erotica Content in Social Networks",
+    "authors": [
+      "Yixin Chen",
+      "Di Jiang",
+      "Conghui Tan",
+      "Yuanfeng Song",
+      "Chen Zhang",
+      "Lei Chen"
+    ],
+    "abstract": "With the popularity of video/audio streaming applications in recent years, the wide spread of Autonomous Sensory Meridian Response (ASMR) erotica content is becoming a serious issue in social networks. Due to the subtle nature of ASMR erotica and its relative rareness in real scenario, detecting ASMR erotica contents is a challenging task. In this paper, we propose a novel neural framework for ASM...",
+    "date": "2023-06-08T01:09:00.101Z"
+  },
+  {
+    "articleNumber": "10145850",
+    "articleTitle": "Exploiting Group-level Behavior Pattern for Session-based Recommendation",
+    "authors": [
+      "Ziyang Wang",
+      "Wei Wei",
+      "Shanshan Feng",
+      "Xian-Ling Mao",
+      "Minghui Qiu",
+      "Dangyang Chen",
+      "Rui Fang"
+    ],
+    "abstract": "Session-based recommendation (SBR) is a challenging task, which aims to predict users&#39; future interests based on anonymous behavior sequences. Existing methods leverage powerful representation learning approaches to encode sessions into a low-dimensional space. However, despite such achievements, the existing studies focus on the instance-level session learning, while neglecting the group-level us...",
+    "date": "2023-06-08T01:09:00.101Z"
+  },
+  {
+    "articleNumber": "10145833",
+    "articleTitle": "CityTrans: Domain-Adversarial Training with Knowledge Transfer for Spatio-Temporal Prediction across Cities",
+    "authors": [
+      "Xiaocao Ouyang",
+      "Yan Yang",
+      "Wei Zhou",
+      "Yiling Zhang",
+      "Hao Wang",
+      "Wei Huang"
+    ],
+    "abstract": "As the spatio-temporal data of a city is not always available, insufficient data would lead to poor performance in some urban prediction tasks. Existing works utilize transfer learning to solve the data scarcity problem, but they ignore the differences in data distributions across cities, which leads to the ineffectiveness of knowledge transfer. In this paper, we propose a domain adversarial model...",
+    "date": "2023-06-08T01:09:00.101Z"
+  },
+  {
     "articleNumber": "10144670",
     "articleTitle": "Broad Learning Autoencoder with Graph Structure for Data Clustering",
     "authors": [

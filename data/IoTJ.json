@@ -1,5 +1,138 @@
 [
   {
+    "articleNumber": "10145922",
+    "articleTitle": "Securing IOTA Blockchain Against Tangle Vulnerability by Using Large Deviation Theory",
+    "authors": [
+      "Yinfeng Chen",
+      "Yu Guo",
+      "Mingyue Wang",
+      "Enliang Xu",
+      "Hongcheng Xie",
+      "Rongfang Bie"
+    ],
+    "abstract": "IOTA has emerged as a promising blockchain platform specially designed for the Internet of Things (IoT). Its distributed ledger, called tangle, adopts a directed acyclic graph (DAG) structure to achieve fast transaction confirmation and high scalability. While the tangle tremendously mitigates blockchain performance concerns relative to a traditional single chain, it simultaneously increases the p...",
+    "date": "2023-06-08T01:09:12.456Z"
+  },
+  {
+    "articleNumber": "10145924",
+    "articleTitle": "A Realtime Factor-graph Optimized Pedestrian Navigation Method",
+    "authors": [
+      "Cheng Yuan",
+      "Jizhou Lai",
+      "Pin Lyu",
+      "Rui Liu",
+      "Jingyi Zhu"
+    ],
+    "abstract": "Inertial Measurement Units (IMUs) are widely used in Internet of Things (IoT) applications to determine precise self-location for humans. However, biases in accelerometers and gyroscopes can cause significant accumulative positioning errors. Additionally, traditional methods employing the Kalman filter introduce nonlinear errors, which further exacerbate positioning inaccuracies. In this paper, we...",
+    "date": "2023-06-08T01:09:12.456Z"
+  },
+  {
+    "articleNumber": "10145918",
+    "articleTitle": "Two-Tier Resource Allocation for Multi-Tenant Network Slicing: A Federated Deep Reinforcement Learning Approach",
+    "authors": [
+      "Ruijie Ou",
+      "Guolin Sun",
+      "Daniel Ayepah-Mensah",
+      "Gordon Owusu Boateng",
+      "Guisong Liu"
+    ],
+    "abstract": "Fifth-generation (5G) wireless networks enable gigabit-per-second data speeds, minimal latency, and reliable Internet of Things (IoT) connectivity. Thus, network slicing (NS) has gained enormous interest due to its ability to improve resource allocation. Due to the exponential growth of IoT data, it is difficult for the infrastructure providers (InPs) to determine the appropriate resource to alloc...",
+    "date": "2023-06-08T01:09:12.456Z"
+  },
+  {
+    "articleNumber": "10146018",
+    "articleTitle": "AoI Minimization Scheme for Short Packet Communications in the Energy-Constrained IIoT",
+    "authors": [
+      "Baoquan Yu",
+      "Yueming Cai",
+      "Xianbang Diao",
+      "Yong Chen"
+    ],
+    "abstract": "This paper is motivated by the requirement of high information freshness in the industrial Internet of Things (IIoT). An industrial robot sends short status packets to a control center (CC), and the timeliness of status updates is measured by the age of information (AoI). Due to the dynamic change of the wireless channel, the robot needs to send a pilot for channel estimation during each coherence...",
+    "date": "2023-06-08T01:09:12.456Z"
+  },
+  {
+    "articleNumber": "10145923",
+    "articleTitle": "A Novel Short-Term Traffic Prediction Model based on SVD and ARIMA with Blockchain in Industrial Internet of Things",
+    "authors": [
+      "Ying Miao",
+      "Xiuhong Bai",
+      "Yuxuan Cao",
+      "Yuwen Liu",
+      "Fei Dai",
+      "Fan Wang",
+      "Lianyong Qi",
+      "Wanchun Dou"
+    ],
+    "abstract": "With the construction and development of smart cities, accurate and real-time traffic prediction plays a vital role in urban traffic. However, traffic data has the characteristics of non-linearity, non-stationary and complex structure, so traffic prediction has always been a challenging problem. The traditional statistical model is good at dealing with linear data and poor at dealing with nonlinea...",
+    "date": "2023-06-08T01:09:12.456Z"
+  },
+  {
+    "articleNumber": "10146016",
+    "articleTitle": "User Association and Power Allocation for User-Centric Smart-Duplex Networks via Tree-Structured Deep Reinforcement Learning",
+    "authors": [
+      "Dan Wang",
+      "Ran Li",
+      "Chuan Huang",
+      "Xiaodong Xu",
+      "Hao Chen"
+    ],
+    "abstract": "This paper considers a smart-duplex (SD) powered user-centric ultra dense networks (UC-UDN), where each user is served cooperatively by multiple access points (APs) adopting the de-cellular concept to achieve desired quality-of-service (QoS). The average QoS satisfaction ratio maximization problem for the considered SD UC-UDN is formulated as a Markov decision process (MDP) with large discrete act...",
+    "date": "2023-06-08T01:09:12.456Z"
+  },
+  {
+    "articleNumber": "10146001",
+    "articleTitle": "RIS-Assisted Jamming Rejection and Path Planning for UAV-Borne IoT Platform: A New Deep Reinforcement Learning Framework",
+    "authors": [
+      "Shuyan Hu",
+      "Xin Yuan",
+      "Wei Ni",
+      "Xin Wang",
+      "Abbas Jamalipour"
+    ],
+    "abstract": "This paper presents a new deep reinforcement learning (DRL)-based approach to the trajectory planning and jamming rejection of an unmanned aerial vehicle (UAV) for the Internet-of-Things (IoT) applications. Jamming can prevent timely delivery of sensing data and reception of operation instructions. With the assistance of a reconfigurable intelligent surface (RIS), we propose to augment the radio e...",
+    "date": "2023-06-08T01:09:12.456Z"
+  },
+  {
+    "articleNumber": "10146009",
+    "articleTitle": "An Improved Global-Local Fusion Network for Depression Detection Telemedicine Framework",
+    "authors": [
+      "Lan Zhang",
+      "Jian Zhao",
+      "Lang He",
+      "Jian Jia",
+      "Xianjia Meng"
+    ],
+    "abstract": "In recent years, remote depression detection is becoming a new favorite of the Internet of Things because of its promise. However, deployable and sensitive information security has not been properly addressed. Thus, a novel depression detection framework is proposed to successfully solve the above problems. This paper concentrates solely on the development and execution of our proposed core algori...",
+    "date": "2023-06-08T01:09:12.456Z"
+  },
+  {
+    "articleNumber": "10145997",
+    "articleTitle": "FedMint: Intelligent Bilateral Client Selection in Federated Learning with Newcomer IoT Devices",
+    "authors": [
+      "Osama Wehbi",
+      "Sarhad Arisdakessian",
+      "Omar Abdel Wahab",
+      "Hadi Otrok",
+      "Safa Otoum",
+      "Azzam Mourad",
+      "Mohsen Guizani"
+    ],
+    "abstract": "Federated Learning (FL) is a novel distributed privacy-preserving learning paradigm, which enables the collaboration among several participants (e.g., Internet of Things devices) for the training of machine learning models. However, selecting the participants that would contribute to this collaborative training is highly challenging. Adopting a random selection strategy would entail substantial pr...",
+    "date": "2023-06-08T01:09:12.456Z"
+  },
+  {
+    "articleNumber": "10145999",
+    "articleTitle": "An Analysis of Double Q-learning Based Energy Management Strategies for TEG-powered IoT Devices",
+    "authors": [
+      "Michal Prauzek",
+      "Jaromir Konecny",
+      "Tereza Paterova"
+    ],
+    "abstract": "The study presents a self-learning controller for managing the energy in an Internet-of-Things (IoT) device powered by energy harvested from a thermoelectric generator (TEG). The device’s controller is based on a double Q-learning (DQL) method; the hardware incorporates a TEG energy harvesting subsystem with a DC/DC converter, a load module with a microcontroller, and a LoRaWAN communications inte...",
+    "date": "2023-06-08T01:09:12.456Z"
+  },
+  {
     "articleNumber": "10144578",
     "articleTitle": "A Few-shot Based Model-Agnostic Meta-Learning for Intrusion Detection in Security of Internet of Things",
     "authors": [

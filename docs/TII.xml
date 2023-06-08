@@ -2,11 +2,59 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/TII.rss</id>
     <title>IEEE Transactions on Industrial Informatics</title>
-    <updated>2023-06-07T16:15:15.467Z</updated>
+    <updated>2023-06-08T01:09:17.990Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/TII.rss"/>
     <subtitle>IEEE Transactions on Industrial Informatics</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Output-Feedback Control in Nonlinear Singular Systems With Exogenous Disturbance Based on State Decomposition Technique]]></title>
+        <id>https://ieeexplore.ieee.org/document/10145600</id>
+        <link href="https://ieeexplore.ieee.org/document/10145600"/>
+        <updated>2023-06-08T01:09:17.984Z</updated>
+        <summary type="html"><![CDATA[In this research, a state decomposition technology (SDT) is used to address the output-feedback control challenge for nonlinear singular systems with exogenous disturbance. The objective is to design an output-feedback controller to enhance system performance. First, a disturbance estimator is built to estimate and compensate for the adverse impacts of exogenous disturbance on the system. Second, ...]]></summary>
+        <author>
+            <name>Fang Gao</name>
+        </author>
+        <author>
+            <name>Wenbin Chen</name>
+        </author>
+        <author>
+            <name>Min Wu</name>
+        </author>
+        <author>
+            <name>Jinhua She</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Data-Driven Decentralized Online System Identification-Based Integral Model-Predictive Voltage and Frequency Control in Microgrids]]></title>
+        <id>https://ieeexplore.ieee.org/document/10145853</id>
+        <link href="https://ieeexplore.ieee.org/document/10145853"/>
+        <updated>2023-06-08T01:09:17.984Z</updated>
+        <summary type="html"><![CDATA[This article proposes a decentralized online system identification-based integral model-predictive control strategy for the voltage and frequency regulation in the microgrids (MGs). The main advantage of the proposed architecture is that the approach is inherently adaptive to the changing system conditions and does not require the knowledge of system parameters. In addition, as the decentralized s...]]></summary>
+        <author>
+            <name>Aravind Ingalalli</name>
+        </author>
+        <author>
+            <name>Sukumar Kamalasadan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uncertainty-Aware Ensemble Combination Method for Quality Monitoring Fault Diagnosis in Safety-Related Products]]></title>
+        <id>https://ieeexplore.ieee.org/document/10145852</id>
+        <link href="https://ieeexplore.ieee.org/document/10145852"/>
+        <updated>2023-06-08T01:09:17.984Z</updated>
+        <summary type="html"><![CDATA[With the advent of Industry 4.0 (I4.0) leading to the proliferation of industrial process data, deep learning (DL) techniques have become instrumental in developing intelligent fault diagnosis (FD) applications. However, de- spite their potentially superior process monitoring capa- bilities, DL-based FD models are poorly calibrated and generate point estimate predictions without the associated unc...]]></summary>
+        <author>
+            <name>Jefkine Kafunah</name>
+        </author>
+        <author>
+            <name>Muhammad Intizar Ali</name>
+        </author>
+        <author>
+            <name>John G. Breslin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[An Update-strategy-based Gaussian Process Regression Method for Aeroengines Fault Prediction]]></title>
         <id>https://ieeexplore.ieee.org/document/10144671</id>

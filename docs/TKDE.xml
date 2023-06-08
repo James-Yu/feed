@@ -2,11 +2,89 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/TKDE.rss</id>
     <title>IEEE Transactions on Knowledge and Data Engineering</title>
-    <updated>2023-06-07T16:15:01.934Z</updated>
+    <updated>2023-06-08T01:09:00.106Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/TKDE.rss"/>
     <subtitle>IEEE Transactions on Knowledge and Data Engineering</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Neural Moderation of ASMR Erotica Content in Social Networks]]></title>
+        <id>https://ieeexplore.ieee.org/document/10145599</id>
+        <link href="https://ieeexplore.ieee.org/document/10145599"/>
+        <updated>2023-06-08T01:09:00.101Z</updated>
+        <summary type="html"><![CDATA[With the popularity of video/audio streaming applications in recent years, the wide spread of Autonomous Sensory Meridian Response (ASMR) erotica content is becoming a serious issue in social networks. Due to the subtle nature of ASMR erotica and its relative rareness in real scenario, detecting ASMR erotica contents is a challenging task. In this paper, we propose a novel neural framework for ASM...]]></summary>
+        <author>
+            <name>Yixin Chen</name>
+        </author>
+        <author>
+            <name>Di Jiang</name>
+        </author>
+        <author>
+            <name>Conghui Tan</name>
+        </author>
+        <author>
+            <name>Yuanfeng Song</name>
+        </author>
+        <author>
+            <name>Chen Zhang</name>
+        </author>
+        <author>
+            <name>Lei Chen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exploiting Group-level Behavior Pattern for Session-based Recommendation]]></title>
+        <id>https://ieeexplore.ieee.org/document/10145850</id>
+        <link href="https://ieeexplore.ieee.org/document/10145850"/>
+        <updated>2023-06-08T01:09:00.101Z</updated>
+        <summary type="html"><![CDATA[Session-based recommendation (SBR) is a challenging task, which aims to predict users&#39; future interests based on anonymous behavior sequences. Existing methods leverage powerful representation learning approaches to encode sessions into a low-dimensional space. However, despite such achievements, the existing studies focus on the instance-level session learning, while neglecting the group-level us...]]></summary>
+        <author>
+            <name>Ziyang Wang</name>
+        </author>
+        <author>
+            <name>Wei Wei</name>
+        </author>
+        <author>
+            <name>Shanshan Feng</name>
+        </author>
+        <author>
+            <name>Xian-Ling Mao</name>
+        </author>
+        <author>
+            <name>Minghui Qiu</name>
+        </author>
+        <author>
+            <name>Dangyang Chen</name>
+        </author>
+        <author>
+            <name>Rui Fang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CityTrans: Domain-Adversarial Training with Knowledge Transfer for Spatio-Temporal Prediction across Cities]]></title>
+        <id>https://ieeexplore.ieee.org/document/10145833</id>
+        <link href="https://ieeexplore.ieee.org/document/10145833"/>
+        <updated>2023-06-08T01:09:00.101Z</updated>
+        <summary type="html"><![CDATA[As the spatio-temporal data of a city is not always available, insufficient data would lead to poor performance in some urban prediction tasks. Existing works utilize transfer learning to solve the data scarcity problem, but they ignore the differences in data distributions across cities, which leads to the ineffectiveness of knowledge transfer. In this paper, we propose a domain adversarial model...]]></summary>
+        <author>
+            <name>Xiaocao Ouyang</name>
+        </author>
+        <author>
+            <name>Yan Yang</name>
+        </author>
+        <author>
+            <name>Wei Zhou</name>
+        </author>
+        <author>
+            <name>Yiling Zhang</name>
+        </author>
+        <author>
+            <name>Hao Wang</name>
+        </author>
+        <author>
+            <name>Wei Huang</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Broad Learning Autoencoder with Graph Structure for Data Clustering]]></title>
         <id>https://ieeexplore.ieee.org/document/10144670</id>

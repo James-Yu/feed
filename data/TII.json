@@ -1,5 +1,38 @@
 [
   {
+    "articleNumber": "10145600",
+    "articleTitle": "Output-Feedback Control in Nonlinear Singular Systems With Exogenous Disturbance Based on State Decomposition Technique",
+    "authors": [
+      "Fang Gao",
+      "Wenbin Chen",
+      "Min Wu",
+      "Jinhua She"
+    ],
+    "abstract": "In this research, a state decomposition technology (SDT) is used to address the output-feedback control challenge for nonlinear singular systems with exogenous disturbance. The objective is to design an output-feedback controller to enhance system performance. First, a disturbance estimator is built to estimate and compensate for the adverse impacts of exogenous disturbance on the system. Second, ...",
+    "date": "2023-06-08T01:09:17.984Z"
+  },
+  {
+    "articleNumber": "10145853",
+    "articleTitle": "Data-Driven Decentralized Online System Identification-Based Integral Model-Predictive Voltage and Frequency Control in Microgrids",
+    "authors": [
+      "Aravind Ingalalli",
+      "Sukumar Kamalasadan"
+    ],
+    "abstract": "This article proposes a decentralized online system identification-based integral model-predictive control strategy for the voltage and frequency regulation in the microgrids (MGs). The main advantage of the proposed architecture is that the approach is inherently adaptive to the changing system conditions and does not require the knowledge of system parameters. In addition, as the decentralized s...",
+    "date": "2023-06-08T01:09:17.984Z"
+  },
+  {
+    "articleNumber": "10145852",
+    "articleTitle": "Uncertainty-Aware Ensemble Combination Method for Quality Monitoring Fault Diagnosis in Safety-Related Products",
+    "authors": [
+      "Jefkine Kafunah",
+      "Muhammad Intizar Ali",
+      "John G. Breslin"
+    ],
+    "abstract": "With the advent of Industry 4.0 (I4.0) leading to the proliferation of industrial process data, deep learning (DL) techniques have become instrumental in developing intelligent fault diagnosis (FD) applications. However, de- spite their potentially superior process monitoring capa- bilities, DL-based FD models are poorly calibrated and generate point estimate predictions without the associated unc...",
+    "date": "2023-06-08T01:09:17.984Z"
+  },
+  {
     "articleNumber": "10144671",
     "articleTitle": "An Update-strategy-based Gaussian Process Regression Method for Aeroengines Fault Prediction",
     "authors": [
