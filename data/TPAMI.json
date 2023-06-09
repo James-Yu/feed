@@ -1,5 +1,51 @@
 [
   {
+    "articleNumber": "10147035",
+    "articleTitle": "C2F-TCN: A Framework for Semi- and Fully-Supervised Temporal Action Segmentation",
+    "authors": [
+      "Dipika Singhania",
+      "Rahul Rahaman",
+      "Angela Yao"
+    ],
+    "abstract": "Temporal action segmentation tags action labels for every frame in an input untrimmed video containing multiple actions in a sequence. For the task of temporal action segmentation, we propose an encoder-decoder style architecture named C2F-TCN featuring a “coarse-to-fine” ensemble of decoder outputs. The C2F-TCN framework is enhanced with a novel model agnostic temporal feature augmentation strate...",
+    "date": "2023-06-09T01:11:37.370Z"
+  },
+  {
+    "articleNumber": "10146429",
+    "articleTitle": "Blind Image Deconvolution Using Variational Deep Image Prior",
+    "authors": [
+      "Dong Huo",
+      "Abbas Masoumzadeh",
+      "Rafsanjany Kushol",
+      "Yee-Hong Yang"
+    ],
+    "abstract": "Conventional deconvolution methods utilize hand-crafted image priors to constrain the optimization. While deep-learning-based methods have simplified the optimization by end-to-end training, they fail to generalize well to blurs unseen in the training dataset. Thus, training image-specific models is important for higher generalization. Deep image prior (DIP) provides an approach to optimize the we...",
+    "date": "2023-06-09T01:11:37.370Z"
+  },
+  {
+    "articleNumber": "10146482",
+    "articleTitle": "Cross-Modal Causal Relational Reasoning for Event-Level Visual Question Answering",
+    "authors": [
+      "Yang Liu",
+      "Guanbin Li",
+      "Liang Lin"
+    ],
+    "abstract": "Existing visual question answering methods often suffer from cross-modal spurious correlations and oversimplified event-level reasoning processes that fail to capture event temporality, causality, and dynamics spanning over the video. In this work, to address the task of event-level visual question answering, we propose a framework for cross-modal causal relational reasoning. In particular, a set ...",
+    "date": "2023-06-09T01:11:37.370Z"
+  },
+  {
+    "articleNumber": "10146459",
+    "articleTitle": "GP-UNIT: Generative Prior for Versatile Unsupervised Image-to-Image Translation",
+    "authors": [
+      "Shuai Yang",
+      "Liming Jiang",
+      "Ziwei Liu",
+      "Chen Change Loy"
+    ],
+    "abstract": "Recent advances in deep learning have witnessed many successful unsupervised image-to-image translation models that learn correspondences between two visual domains without paired data. However, it is still a great challenge to build robust mappings between various domains especially for those with drastic visual discrepancies. In this paper, we introduce a novel versatile framework, Generative Pr...",
+    "date": "2023-06-09T01:11:37.370Z"
+  },
+  {
     "articleNumber": "10145811",
     "articleTitle": "MO-MIX: Multi-Objective Multi-Agent Cooperative Decision-Making With Deep Reinforcement Learning",
     "authors": [

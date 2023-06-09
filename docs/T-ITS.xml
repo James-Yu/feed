@@ -2,11 +2,109 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/T-ITS.rss</id>
     <title>IEEE Transactions on Intelligent Transportation Systems</title>
-    <updated>2023-06-08T16:14:40.288Z</updated>
+    <updated>2023-06-09T01:11:25.688Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/T-ITS.rss"/>
     <subtitle>IEEE Transactions on Intelligent Transportation Systems</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[A Novel Scalable Framework to Reconstruct Vehicular Trajectories From Unreliable GPS Datasets]]></title>
+        <id>https://ieeexplore.ieee.org/document/10147029</id>
+        <link href="https://ieeexplore.ieee.org/document/10147029"/>
+        <updated>2023-06-09T01:11:25.681Z</updated>
+        <summary type="html"><![CDATA[Vehicle trajectory data is paramount in many applications and research areas, such as vehicular networks and Intelligent Transportation Systems (ITS). However, data gathered from location acquisition devices generally contain positional errors that hinder its applicability, and therefore processing techniques are necessary to improve the quality of trajectory data. For instance, physical constrain...]]></summary>
+        <author>
+            <name>Roniel Soares de Sousa</name>
+        </author>
+        <author>
+            <name>Azzedine Boukerche</name>
+        </author>
+        <author>
+            <name>Antonio A. F. Loureiro</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HRST-LR: A Hessian Regularization Spatio-Temporal Low Rank Algorithm for Traffic Data Imputation]]></title>
+        <id>https://ieeexplore.ieee.org/document/10146198</id>
+        <link href="https://ieeexplore.ieee.org/document/10146198"/>
+        <updated>2023-06-09T01:11:25.681Z</updated>
+        <summary type="html"><![CDATA[Intelligent Transportation Systems (ITSs) are vital for alleviating traffic congestion and improving traffic efficiency. Due to the delay of network transmission and failure of detectors, massive missing traffic data are often produced in ITSs, which evidently decreases the accuracy of decision-making in road traffic management. Hence, how establishing a precise and efficient estimation of missing...]]></summary>
+        <author>
+            <name>Xiuqin Xu</name>
+        </author>
+        <author>
+            <name>Mingwei Lin</name>
+        </author>
+        <author>
+            <name>Xin Luo</name>
+        </author>
+        <author>
+            <name>Zeshui Xu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unsupervised Cross-Spectrum Depth Estimation by Visible-Light and Thermal Cameras]]></title>
+        <id>https://ieeexplore.ieee.org/document/10146199</id>
+        <link href="https://ieeexplore.ieee.org/document/10146199"/>
+        <updated>2023-06-09T01:11:25.681Z</updated>
+        <summary type="html"><![CDATA[Cross-spectrum depth estimation aims to provide a reliable depth map under variant-illumination conditions with a pair of dual-spectrum images. It is valuable for autonomous driving applications when vehicles are equipped with two cameras of different modalities. However, images captured by different-modality cameras can be photometrically quite different, which makes cross-spectrum depth estimati...]]></summary>
+        <author>
+            <name>Yubin Guo</name>
+        </author>
+        <author>
+            <name>Xinlei Qi</name>
+        </author>
+        <author>
+            <name>Jin Xie</name>
+        </author>
+        <author>
+            <name>Cheng-Zhong Xu</name>
+        </author>
+        <author>
+            <name>Hui Kong</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Survey of Lateral Stability Criterion and Control Application for Autonomous Vehicles]]></title>
+        <id>https://ieeexplore.ieee.org/document/10147032</id>
+        <link href="https://ieeexplore.ieee.org/document/10147032"/>
+        <updated>2023-06-09T01:11:25.681Z</updated>
+        <summary type="html"><![CDATA[The increasing requirements for vehicle driving safety improvement have led to numerous and in-depth studies on vehicle stability, especially for autonomous vehicles. The main concerns of vehicle stability research in autonomous vehicles include the vehicle stability analyzing, criterion constructing and controller designing. Therefore, this paper provides a comprehensive review of state-of-the-ar...]]></summary>
+        <author>
+            <name>Zhewei Zhu</name>
+        </author>
+        <author>
+            <name>Xiaolin Tang</name>
+        </author>
+        <author>
+            <name>Yechen Qin</name>
+        </author>
+        <author>
+            <name>Yiwei Huang</name>
+        </author>
+        <author>
+            <name>Ehsan Hashemi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prediction Based Trajectory Planning for Safe Interactions Between Autonomous Vehicles and Moving Pedestrians in Shared Spaces]]></title>
+        <id>https://ieeexplore.ieee.org/document/10146343</id>
+        <link href="https://ieeexplore.ieee.org/document/10146343"/>
+        <updated>2023-06-09T01:11:25.681Z</updated>
+        <summary type="html"><![CDATA[It is an essential issue for autonomous vehicles to keep driving safety while sharing spaces with other road users, especially moving pedestrians. An ideal trajectory planning of autonomous vehicles should be collision-free and feasible for the vehicles to execute. Previous efforts on trajectory planning mainly focused on traditional roads, and the research into pedestrian-vehicle interaction in s...]]></summary>
+        <author>
+            <name>Bo Yang</name>
+        </author>
+        <author>
+            <name>Song Yan</name>
+        </author>
+        <author>
+            <name>Zheng Wang</name>
+        </author>
+        <author>
+            <name>Kimihiko Nakano</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NLE-DM: Natural-Language Explanations for Decision Making of Autonomous Driving Based on Semantic Scene Understanding]]></title>
         <id>https://ieeexplore.ieee.org/document/10144484</id>

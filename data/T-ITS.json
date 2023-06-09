@@ -1,5 +1,66 @@
 [
   {
+    "articleNumber": "10147029",
+    "articleTitle": "A Novel Scalable Framework to Reconstruct Vehicular Trajectories From Unreliable GPS Datasets",
+    "authors": [
+      "Roniel Soares de Sousa",
+      "Azzedine Boukerche",
+      "Antonio A. F. Loureiro"
+    ],
+    "abstract": "Vehicle trajectory data is paramount in many applications and research areas, such as vehicular networks and Intelligent Transportation Systems (ITS). However, data gathered from location acquisition devices generally contain positional errors that hinder its applicability, and therefore processing techniques are necessary to improve the quality of trajectory data. For instance, physical constrain...",
+    "date": "2023-06-09T01:11:25.681Z"
+  },
+  {
+    "articleNumber": "10146198",
+    "articleTitle": "HRST-LR: A Hessian Regularization Spatio-Temporal Low Rank Algorithm for Traffic Data Imputation",
+    "authors": [
+      "Xiuqin Xu",
+      "Mingwei Lin",
+      "Xin Luo",
+      "Zeshui Xu"
+    ],
+    "abstract": "Intelligent Transportation Systems (ITSs) are vital for alleviating traffic congestion and improving traffic efficiency. Due to the delay of network transmission and failure of detectors, massive missing traffic data are often produced in ITSs, which evidently decreases the accuracy of decision-making in road traffic management. Hence, how establishing a precise and efficient estimation of missing...",
+    "date": "2023-06-09T01:11:25.681Z"
+  },
+  {
+    "articleNumber": "10146199",
+    "articleTitle": "Unsupervised Cross-Spectrum Depth Estimation by Visible-Light and Thermal Cameras",
+    "authors": [
+      "Yubin Guo",
+      "Xinlei Qi",
+      "Jin Xie",
+      "Cheng-Zhong Xu",
+      "Hui Kong"
+    ],
+    "abstract": "Cross-spectrum depth estimation aims to provide a reliable depth map under variant-illumination conditions with a pair of dual-spectrum images. It is valuable for autonomous driving applications when vehicles are equipped with two cameras of different modalities. However, images captured by different-modality cameras can be photometrically quite different, which makes cross-spectrum depth estimati...",
+    "date": "2023-06-09T01:11:25.681Z"
+  },
+  {
+    "articleNumber": "10147032",
+    "articleTitle": "A Survey of Lateral Stability Criterion and Control Application for Autonomous Vehicles",
+    "authors": [
+      "Zhewei Zhu",
+      "Xiaolin Tang",
+      "Yechen Qin",
+      "Yiwei Huang",
+      "Ehsan Hashemi"
+    ],
+    "abstract": "The increasing requirements for vehicle driving safety improvement have led to numerous and in-depth studies on vehicle stability, especially for autonomous vehicles. The main concerns of vehicle stability research in autonomous vehicles include the vehicle stability analyzing, criterion constructing and controller designing. Therefore, this paper provides a comprehensive review of state-of-the-ar...",
+    "date": "2023-06-09T01:11:25.681Z"
+  },
+  {
+    "articleNumber": "10146343",
+    "articleTitle": "Prediction Based Trajectory Planning for Safe Interactions Between Autonomous Vehicles and Moving Pedestrians in Shared Spaces",
+    "authors": [
+      "Bo Yang",
+      "Song Yan",
+      "Zheng Wang",
+      "Kimihiko Nakano"
+    ],
+    "abstract": "It is an essential issue for autonomous vehicles to keep driving safety while sharing spaces with other road users, especially moving pedestrians. An ideal trajectory planning of autonomous vehicles should be collision-free and feasible for the vehicles to execute. Previous efforts on trajectory planning mainly focused on traditional roads, and the research into pedestrian-vehicle interaction in s...",
+    "date": "2023-06-09T01:11:25.681Z"
+  },
+  {
     "articleNumber": "10144484",
     "articleTitle": "NLE-DM: Natural-Language Explanations for Decision Making of Autonomous Driving Based on Semantic Scene Understanding",
     "authors": [

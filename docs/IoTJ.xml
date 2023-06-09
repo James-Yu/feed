@@ -2,11 +2,235 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/IoTJ.rss</id>
     <title>IEEE Internet of Things Journal</title>
-    <updated>2023-06-08T16:14:55.672Z</updated>
+    <updated>2023-06-09T01:11:43.132Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/IoTJ.rss"/>
     <subtitle>IEEE Internet of Things Journal</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Drone-hosted Computation for Emergency Response]]></title>
+        <id>https://ieeexplore.ieee.org/document/10146415</id>
+        <link href="https://ieeexplore.ieee.org/document/10146415"/>
+        <updated>2023-06-09T01:11:43.124Z</updated>
+        <summary type="html"><![CDATA[Ad hoc computing needs at remote locations or locations with insufficient resources due to reasons such as natural disasters require flexible solutions that are readily deployed on demand. We consider one such scenario where unmanned aerial vehicles (UAVs) or drones can be used to provide necessary coverage in terms of computational support. Specifically, we consider an environment where ground-ba...]]></summary>
+        <author>
+            <name>Otto B. Piramuthu</name>
+        </author>
+        <author>
+            <name>Matthew Caesar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anti-jamming Strategy for Satellite Internet of Things: Beam Switching and Optimization]]></title>
+        <id>https://ieeexplore.ieee.org/document/10146389</id>
+        <link href="https://ieeexplore.ieee.org/document/10146389"/>
+        <updated>2023-06-09T01:11:43.124Z</updated>
+        <summary type="html"><![CDATA[Recently, the satellite network is emerged to guarantee the demand of seamless connectivity of Internet of Things (IoT) devices, which can provide services for IoT devices at anytime and anywhere. However, the satellite suffers from jamming attack due to its highly exposed satellite-ground links and spot-beams, which may cause severe security problems. In order to combat the jamming attack, we fir...]]></summary>
+        <author>
+            <name>Rui Han</name>
+        </author>
+        <author>
+            <name>Meiqi Liu</name>
+        </author>
+        <author>
+            <name>Jiaxing Wang</name>
+        </author>
+        <author>
+            <name>Lin Bai</name>
+        </author>
+        <author>
+            <name>Jianwei Liu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Channel-State Information-Driven Data Rate Optimization for Multi-UAV IoT Networks]]></title>
+        <id>https://ieeexplore.ieee.org/document/10146245</id>
+        <link href="https://ieeexplore.ieee.org/document/10146245"/>
+        <updated>2023-06-09T01:11:43.124Z</updated>
+        <summary type="html"><![CDATA[One of the primary requirements in cellular-enabled multi-UAV Internet of Things (IoT) networks is to preserve data rates according to the IoT users’ (IUs) requirements. The mobility of IUs, 3D movement of UAVs, environmental conditions, and bandwidth allocation to the IUs increase the challenges to maintain the data rates due to the continual change in the channel-state. A constant extraction of ...]]></summary>
+        <author>
+            <name>Abhishek Bera</name>
+        </author>
+        <author>
+            <name>Sudip Misra</name>
+        </author>
+        <author>
+            <name>Chandranath Chatterjee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UAV-RIS Assisted Coordinated Multipoint Finite Blocklength Transmission for MTC networks]]></title>
+        <id>https://ieeexplore.ieee.org/document/10146396</id>
+        <link href="https://ieeexplore.ieee.org/document/10146396"/>
+        <updated>2023-06-09T01:11:43.124Z</updated>
+        <summary type="html"><![CDATA[The integration of unmanned aerial vehicles (UAVs) and reconfigurable intelligent surfaces (RISs) is a promising solution to provide flexibility in deploying the networks while reconstructing the wireless propagation environment proactively and cost-effectively. We propose a UAV-RIS assisted finite blocklength transmission framework for machine-type communications (MTC), where downlink non-orthogo...]]></summary>
+        <author>
+            <name>Suyu Lv</name>
+        </author>
+        <author>
+            <name>Xiaodong Xu</name>
+        </author>
+        <author>
+            <name>Shujun Han</name>
+        </author>
+        <author>
+            <name>Ping Zhang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SPIN: Synchronization Signal Based Positioning Algorithm for IoT Non-Terrestrial Networks]]></title>
+        <id>https://ieeexplore.ieee.org/document/10146371</id>
+        <link href="https://ieeexplore.ieee.org/document/10146371"/>
+        <updated>2023-06-09T01:11:43.124Z</updated>
+        <summary type="html"><![CDATA[Non-terrestrial networks (NTNs) complement the terrestrial cellular networks by extending coverage to the user equipments (UEs) located in unserved and underserved areas. One of the most critical problems faced by NTN UEs is the lack of uplink (UL) synchronization and the associated initial access failure resulting from the high Doppler frequency offset caused by satellite velocity. While NTN new ...]]></summary>
+        <author>
+            <name>Vishnu Rajendran Chandrika</name>
+        </author>
+        <author>
+            <name>Jiayin Chen</name>
+        </author>
+        <author>
+            <name>Lutz Lampe</name>
+        </author>
+        <author>
+            <name>Gus Vos</name>
+        </author>
+        <author>
+            <name>Serkan Dost</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TDLoc: Passive Localization for MIMO-OFDM System via Tensor Decomposition]]></title>
+        <id>https://ieeexplore.ieee.org/document/10146397</id>
+        <link href="https://ieeexplore.ieee.org/document/10146397"/>
+        <updated>2023-06-09T01:11:43.124Z</updated>
+        <summary type="html"><![CDATA[Passive localization is an important aspect of integrated sensing and communication (ISAC). However, it is challenging to estimate the target position and velocity accurately from the receiving signals due to complex multipath propagation. This paper presents TDLoc, a multiple input multiple output orthogonal frequency division multiplexing (MIMO-OFDM) based passive localization and tracking syste...]]></summary>
+        <author>
+            <name>Bobai Zhao</name>
+        </author>
+        <author>
+            <name>Keke Hu</name>
+        </author>
+        <author>
+            <name>Fuxi Wen</name>
+        </author>
+        <author>
+            <name>Shulin Cui</name>
+        </author>
+        <author>
+            <name>Yuan Shen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fairness-Guaranteed DER Coordination under False Data Injection Attacks]]></title>
+        <id>https://ieeexplore.ieee.org/document/10146416</id>
+        <link href="https://ieeexplore.ieee.org/document/10146416"/>
+        <updated>2023-06-09T01:11:43.124Z</updated>
+        <summary type="html"><![CDATA[The development of the Internet of Energy (IoE) is facilitated by the integration of information technology and the growing utilization of distributed energy resources (DERs). The usage of DERs, particularly photovoltaic systems and battery energy storage systems, in IoE has revealed the potential for DERs to be leveraged for grid control. To encourage DER owners to participate in grid management,...]]></summary>
+        <author>
+            <name>Yaodan Hu</name>
+        </author>
+        <author>
+            <name>Xiaochen Xian</name>
+        </author>
+        <author>
+            <name>Yier Jin</name>
+        </author>
+        <author>
+            <name>Shuo Wang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[T-Slot Antennas-Embedded ZigBee Wireless Sensor Network System for IoT-Enabled Monitoring and Control Systems]]></title>
+        <id>https://ieeexplore.ieee.org/document/10146383</id>
+        <link href="https://ieeexplore.ieee.org/document/10146383"/>
+        <updated>2023-06-09T01:11:43.124Z</updated>
+        <summary type="html"><![CDATA[This research proposes a 2.4 GHz T-slot antennas-embedded ZigBee wireless sensor network system, consisting of an IoT gateway board and a sensor node board, for Internet of Things (IoT) applications. Simulations were first carried out to optimize the parameters for the T-shaped slot patch antenna. The prototypes of the IoT gateway and sensor node boards were subsequently fabricated and measurement...]]></summary>
+        <author>
+            <name>Adisak Romputtal</name>
+        </author>
+        <author>
+            <name>Chuwong Phongcharoenpanich</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IoMT-Assisted Medical Vehicle Routing Based on UAV-Borne Human Crowd Sensing and Deep Learning in Smart Cities]]></title>
+        <id>https://ieeexplore.ieee.org/document/10146434</id>
+        <link href="https://ieeexplore.ieee.org/document/10146434"/>
+        <updated>2023-06-09T01:11:43.124Z</updated>
+        <summary type="html"><![CDATA[An emergency medical vehicle can save the patient’s life if it arrives at his location as quickly as possible. Unmanned aerial vehicles (UAVs) offer wide visibility and mobility, making them a viable choice for smart cities and intelligent transportation systems (ITS) as edge devices for the internet of things (IoT). Based on population behavior and overcrowding, video surveillance through the int...]]></summary>
+        <author>
+            <name>Khosro Rezaee</name>
+        </author>
+        <author>
+            <name>Mohammad R. Khosravi</name>
+        </author>
+        <author>
+            <name>Hani Attar</name>
+        </author>
+        <author>
+            <name>Varun G. Menon</name>
+        </author>
+        <author>
+            <name>Mohammad Ayoub Khan</name>
+        </author>
+        <author>
+            <name>Haitham Issa</name>
+        </author>
+        <author>
+            <name>Lianyong Qi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hitting Moving Targets: Intelligent Prevention of IoT Intrusions on the Fly]]></title>
+        <id>https://ieeexplore.ieee.org/document/10146398</id>
+        <link href="https://ieeexplore.ieee.org/document/10146398"/>
+        <updated>2023-06-09T01:11:43.124Z</updated>
+        <summary type="html"><![CDATA[Massive Internet of Things (IoT) devices have been playing a critical role in both the cyber and physical worlds. Various cyber attacks pose significant risks to IoT. Machine learning based intrusion detection system (IDS) has earned much research attention. However, the intrusion prevention system (IPS) is rarely explored. Realtime intrusion prevention is quite challenging because the decision ha...]]></summary>
+        <author>
+            <name>Shuaishuai Tan</name>
+        </author>
+        <author>
+            <name>Wenyin Liu</name>
+        </author>
+        <author>
+            <name>Qingkuan Dong</name>
+        </author>
+        <author>
+            <name>Sammy Chan</name>
+        </author>
+        <author>
+            <name>Shui Yu</name>
+        </author>
+        <author>
+            <name>Xiaoxiong Zhong</name>
+        </author>
+        <author>
+            <name>Daojing He</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Towards Secure and Efficient Collaborative Cached Data Auditing for Distributed Fog Computing]]></title>
+        <id>https://ieeexplore.ieee.org/document/10146409</id>
+        <link href="https://ieeexplore.ieee.org/document/10146409"/>
+        <updated>2023-06-09T01:11:43.124Z</updated>
+        <summary type="html"><![CDATA[Fog computing is one of the promising models for mobile edge computing, and greatly reduces the latency of applications by establishing a distributed fog caching system on IoT devices. However, with the popularity and application of fog computing, there are growing concerns about the integrity and security of cached data. Different from centralized cloud servers, fog nodes are distributed and have...]]></summary>
+        <author>
+            <name>Yifang Zhang</name>
+        </author>
+        <author>
+            <name>Shengling Wang</name>
+        </author>
+        <author>
+            <name>Xidi Qu</name>
+        </author>
+        <author>
+            <name>Chunxiao Li</name>
+        </author>
+        <author>
+            <name>Enliang Xu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Securing IOTA Blockchain Against Tangle Vulnerability by Using Large Deviation Theory]]></title>
         <id>https://ieeexplore.ieee.org/document/10145922</id>

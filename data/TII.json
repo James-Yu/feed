@@ -1,5 +1,19 @@
 [
   {
+    "articleNumber": "10146475",
+    "articleTitle": "Causal-Trivial Attention Graph Neural Network for Fault Diagnosis of Complex Industrial Processes",
+    "authors": [
+      "Hao Wang",
+      "Ruonan Liu",
+      "Steven X. Ding",
+      "Qinghua Hu",
+      "Zengxiang Li",
+      "Hongkuan Zhou"
+    ],
+    "abstract": "In modern industrial systems, components have complex interactions with each other, which makes it become a challenging task to identify the operational conditions of industrial systems. Considering that an industrial system, the embedded components and their interactions can be expressed as nodes and edges in a graph, respectively. Therefore, graph representation algorithms are powerful tools for...",
+    "date": "2023-06-09T01:11:48.270Z"
+  },
+  {
     "articleNumber": "10145600",
     "articleTitle": "Output-Feedback Control in Nonlinear Singular Systems With Exogenous Disturbance Based on State Decomposition Technique",
     "authors": [

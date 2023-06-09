@@ -1,5 +1,142 @@
 [
   {
+    "articleNumber": "10146415",
+    "articleTitle": "Drone-hosted Computation for Emergency Response",
+    "authors": [
+      "Otto B. Piramuthu",
+      "Matthew Caesar"
+    ],
+    "abstract": "Ad hoc computing needs at remote locations or locations with insufficient resources due to reasons such as natural disasters require flexible solutions that are readily deployed on demand. We consider one such scenario where unmanned aerial vehicles (UAVs) or drones can be used to provide necessary coverage in terms of computational support. Specifically, we consider an environment where ground-ba...",
+    "date": "2023-06-09T01:11:43.124Z"
+  },
+  {
+    "articleNumber": "10146389",
+    "articleTitle": "Anti-jamming Strategy for Satellite Internet of Things: Beam Switching and Optimization",
+    "authors": [
+      "Rui Han",
+      "Meiqi Liu",
+      "Jiaxing Wang",
+      "Lin Bai",
+      "Jianwei Liu"
+    ],
+    "abstract": "Recently, the satellite network is emerged to guarantee the demand of seamless connectivity of Internet of Things (IoT) devices, which can provide services for IoT devices at anytime and anywhere. However, the satellite suffers from jamming attack due to its highly exposed satellite-ground links and spot-beams, which may cause severe security problems. In order to combat the jamming attack, we fir...",
+    "date": "2023-06-09T01:11:43.124Z"
+  },
+  {
+    "articleNumber": "10146245",
+    "articleTitle": "Channel-State Information-Driven Data Rate Optimization for Multi-UAV IoT Networks",
+    "authors": [
+      "Abhishek Bera",
+      "Sudip Misra",
+      "Chandranath Chatterjee"
+    ],
+    "abstract": "One of the primary requirements in cellular-enabled multi-UAV Internet of Things (IoT) networks is to preserve data rates according to the IoT users’ (IUs) requirements. The mobility of IUs, 3D movement of UAVs, environmental conditions, and bandwidth allocation to the IUs increase the challenges to maintain the data rates due to the continual change in the channel-state. A constant extraction of ...",
+    "date": "2023-06-09T01:11:43.124Z"
+  },
+  {
+    "articleNumber": "10146396",
+    "articleTitle": "UAV-RIS Assisted Coordinated Multipoint Finite Blocklength Transmission for MTC networks",
+    "authors": [
+      "Suyu Lv",
+      "Xiaodong Xu",
+      "Shujun Han",
+      "Ping Zhang"
+    ],
+    "abstract": "The integration of unmanned aerial vehicles (UAVs) and reconfigurable intelligent surfaces (RISs) is a promising solution to provide flexibility in deploying the networks while reconstructing the wireless propagation environment proactively and cost-effectively. We propose a UAV-RIS assisted finite blocklength transmission framework for machine-type communications (MTC), where downlink non-orthogo...",
+    "date": "2023-06-09T01:11:43.124Z"
+  },
+  {
+    "articleNumber": "10146371",
+    "articleTitle": "SPIN: Synchronization Signal Based Positioning Algorithm for IoT Non-Terrestrial Networks",
+    "authors": [
+      "Vishnu Rajendran Chandrika",
+      "Jiayin Chen",
+      "Lutz Lampe",
+      "Gus Vos",
+      "Serkan Dost"
+    ],
+    "abstract": "Non-terrestrial networks (NTNs) complement the terrestrial cellular networks by extending coverage to the user equipments (UEs) located in unserved and underserved areas. One of the most critical problems faced by NTN UEs is the lack of uplink (UL) synchronization and the associated initial access failure resulting from the high Doppler frequency offset caused by satellite velocity. While NTN new ...",
+    "date": "2023-06-09T01:11:43.124Z"
+  },
+  {
+    "articleNumber": "10146397",
+    "articleTitle": "TDLoc: Passive Localization for MIMO-OFDM System via Tensor Decomposition",
+    "authors": [
+      "Bobai Zhao",
+      "Keke Hu",
+      "Fuxi Wen",
+      "Shulin Cui",
+      "Yuan Shen"
+    ],
+    "abstract": "Passive localization is an important aspect of integrated sensing and communication (ISAC). However, it is challenging to estimate the target position and velocity accurately from the receiving signals due to complex multipath propagation. This paper presents TDLoc, a multiple input multiple output orthogonal frequency division multiplexing (MIMO-OFDM) based passive localization and tracking syste...",
+    "date": "2023-06-09T01:11:43.124Z"
+  },
+  {
+    "articleNumber": "10146416",
+    "articleTitle": "Fairness-Guaranteed DER Coordination under False Data Injection Attacks",
+    "authors": [
+      "Yaodan Hu",
+      "Xiaochen Xian",
+      "Yier Jin",
+      "Shuo Wang"
+    ],
+    "abstract": "The development of the Internet of Energy (IoE) is facilitated by the integration of information technology and the growing utilization of distributed energy resources (DERs). The usage of DERs, particularly photovoltaic systems and battery energy storage systems, in IoE has revealed the potential for DERs to be leveraged for grid control. To encourage DER owners to participate in grid management,...",
+    "date": "2023-06-09T01:11:43.124Z"
+  },
+  {
+    "articleNumber": "10146383",
+    "articleTitle": "T-Slot Antennas-Embedded ZigBee Wireless Sensor Network System for IoT-Enabled Monitoring and Control Systems",
+    "authors": [
+      "Adisak Romputtal",
+      "Chuwong Phongcharoenpanich"
+    ],
+    "abstract": "This research proposes a 2.4 GHz T-slot antennas-embedded ZigBee wireless sensor network system, consisting of an IoT gateway board and a sensor node board, for Internet of Things (IoT) applications. Simulations were first carried out to optimize the parameters for the T-shaped slot patch antenna. The prototypes of the IoT gateway and sensor node boards were subsequently fabricated and measurement...",
+    "date": "2023-06-09T01:11:43.124Z"
+  },
+  {
+    "articleNumber": "10146434",
+    "articleTitle": "IoMT-Assisted Medical Vehicle Routing Based on UAV-Borne Human Crowd Sensing and Deep Learning in Smart Cities",
+    "authors": [
+      "Khosro Rezaee",
+      "Mohammad R. Khosravi",
+      "Hani Attar",
+      "Varun G. Menon",
+      "Mohammad Ayoub Khan",
+      "Haitham Issa",
+      "Lianyong Qi"
+    ],
+    "abstract": "An emergency medical vehicle can save the patient’s life if it arrives at his location as quickly as possible. Unmanned aerial vehicles (UAVs) offer wide visibility and mobility, making them a viable choice for smart cities and intelligent transportation systems (ITS) as edge devices for the internet of things (IoT). Based on population behavior and overcrowding, video surveillance through the int...",
+    "date": "2023-06-09T01:11:43.124Z"
+  },
+  {
+    "articleNumber": "10146398",
+    "articleTitle": "Hitting Moving Targets: Intelligent Prevention of IoT Intrusions on the Fly",
+    "authors": [
+      "Shuaishuai Tan",
+      "Wenyin Liu",
+      "Qingkuan Dong",
+      "Sammy Chan",
+      "Shui Yu",
+      "Xiaoxiong Zhong",
+      "Daojing He"
+    ],
+    "abstract": "Massive Internet of Things (IoT) devices have been playing a critical role in both the cyber and physical worlds. Various cyber attacks pose significant risks to IoT. Machine learning based intrusion detection system (IDS) has earned much research attention. However, the intrusion prevention system (IPS) is rarely explored. Realtime intrusion prevention is quite challenging because the decision ha...",
+    "date": "2023-06-09T01:11:43.124Z"
+  },
+  {
+    "articleNumber": "10146409",
+    "articleTitle": "Towards Secure and Efficient Collaborative Cached Data Auditing for Distributed Fog Computing",
+    "authors": [
+      "Yifang Zhang",
+      "Shengling Wang",
+      "Xidi Qu",
+      "Chunxiao Li",
+      "Enliang Xu"
+    ],
+    "abstract": "Fog computing is one of the promising models for mobile edge computing, and greatly reduces the latency of applications by establishing a distributed fog caching system on IoT devices. However, with the popularity and application of fog computing, there are growing concerns about the integrity and security of cached data. Different from centralized cloud servers, fog nodes are distributed and have...",
+    "date": "2023-06-09T01:11:43.124Z"
+  },
+  {
     "articleNumber": "10145922",
     "articleTitle": "Securing IOTA Blockchain Against Tangle Vulnerability by Using Large Deviation Theory",
     "authors": [

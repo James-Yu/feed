@@ -1,5 +1,33 @@
 [
   {
+    "articleNumber": "10146484",
+    "articleTitle": "Two-stage Asymmetric Similarity Preserving Hashing for Cross-modal Retrieval",
+    "authors": [
+      "Junfan Huang",
+      "Peipei Kang",
+      "Na Han",
+      "Yonghao Chen",
+      "Xiaozhao Fang",
+      "Hongbo Gao",
+      "Guoxu Zhou"
+    ],
+    "abstract": "Hashing-based techniques present appealing solutions for cross-modal retrieval due to its low storage requirements and excellent query efficiency. The majority of cross-modal hashing methods typically adopt equal-length encoding scheme to represent multimodal data and achieve cross-modal similarity search. However, such scheme can be regarded as a relatively strict limitation, because it sacrifice...",
+    "date": "2023-06-09T01:11:31.397Z"
+  },
+  {
+    "articleNumber": "10147034",
+    "articleTitle": "Balanced Class-Incremental 3D Object Classification and Retrieval",
+    "authors": [
+      "An-An Liu",
+      "Haochun Lu",
+      "Heyu Zhou",
+      "Tianbao Li",
+      "Mohan Kankanhalli"
+    ],
+    "abstract": "Most existing 3D object classification and retrieval algorithms rely on one-off supervised learning on closed 3D object sets and tend to provide rigid convolutional neural networks with little scalability. Such limitations substantially restrict their potential to learn newly emerged 3D object classes continually in the real world. Aiming to go beyond these limitations, we innovatively propose two...",
+    "date": "2023-06-09T01:11:31.397Z"
+  },
+  {
     "articleNumber": "10145599",
     "articleTitle": "Neural Moderation of ASMR Erotica Content in Social Networks",
     "authors": [

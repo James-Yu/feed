@@ -2,11 +2,81 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/TPAMI.rss</id>
     <title>IEEE Transactions on Pattern Analysis and Machine Intelligence</title>
-    <updated>2023-06-08T16:14:51.042Z</updated>
+    <updated>2023-06-09T01:11:37.375Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/TPAMI.rss"/>
     <subtitle>IEEE Transactions on Pattern Analysis and Machine Intelligence</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[C2F-TCN: A Framework for Semi- and Fully-Supervised Temporal Action Segmentation]]></title>
+        <id>https://ieeexplore.ieee.org/document/10147035</id>
+        <link href="https://ieeexplore.ieee.org/document/10147035"/>
+        <updated>2023-06-09T01:11:37.370Z</updated>
+        <summary type="html"><![CDATA[Temporal action segmentation tags action labels for every frame in an input untrimmed video containing multiple actions in a sequence. For the task of temporal action segmentation, we propose an encoder-decoder style architecture named C2F-TCN featuring a “coarse-to-fine” ensemble of decoder outputs. The C2F-TCN framework is enhanced with a novel model agnostic temporal feature augmentation strate...]]></summary>
+        <author>
+            <name>Dipika Singhania</name>
+        </author>
+        <author>
+            <name>Rahul Rahaman</name>
+        </author>
+        <author>
+            <name>Angela Yao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blind Image Deconvolution Using Variational Deep Image Prior]]></title>
+        <id>https://ieeexplore.ieee.org/document/10146429</id>
+        <link href="https://ieeexplore.ieee.org/document/10146429"/>
+        <updated>2023-06-09T01:11:37.370Z</updated>
+        <summary type="html"><![CDATA[Conventional deconvolution methods utilize hand-crafted image priors to constrain the optimization. While deep-learning-based methods have simplified the optimization by end-to-end training, they fail to generalize well to blurs unseen in the training dataset. Thus, training image-specific models is important for higher generalization. Deep image prior (DIP) provides an approach to optimize the we...]]></summary>
+        <author>
+            <name>Dong Huo</name>
+        </author>
+        <author>
+            <name>Abbas Masoumzadeh</name>
+        </author>
+        <author>
+            <name>Rafsanjany Kushol</name>
+        </author>
+        <author>
+            <name>Yee-Hong Yang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cross-Modal Causal Relational Reasoning for Event-Level Visual Question Answering]]></title>
+        <id>https://ieeexplore.ieee.org/document/10146482</id>
+        <link href="https://ieeexplore.ieee.org/document/10146482"/>
+        <updated>2023-06-09T01:11:37.370Z</updated>
+        <summary type="html"><![CDATA[Existing visual question answering methods often suffer from cross-modal spurious correlations and oversimplified event-level reasoning processes that fail to capture event temporality, causality, and dynamics spanning over the video. In this work, to address the task of event-level visual question answering, we propose a framework for cross-modal causal relational reasoning. In particular, a set ...]]></summary>
+        <author>
+            <name>Yang Liu</name>
+        </author>
+        <author>
+            <name>Guanbin Li</name>
+        </author>
+        <author>
+            <name>Liang Lin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GP-UNIT: Generative Prior for Versatile Unsupervised Image-to-Image Translation]]></title>
+        <id>https://ieeexplore.ieee.org/document/10146459</id>
+        <link href="https://ieeexplore.ieee.org/document/10146459"/>
+        <updated>2023-06-09T01:11:37.370Z</updated>
+        <summary type="html"><![CDATA[Recent advances in deep learning have witnessed many successful unsupervised image-to-image translation models that learn correspondences between two visual domains without paired data. However, it is still a great challenge to build robust mappings between various domains especially for those with drastic visual discrepancies. In this paper, we introduce a novel versatile framework, Generative Pr...]]></summary>
+        <author>
+            <name>Shuai Yang</name>
+        </author>
+        <author>
+            <name>Liming Jiang</name>
+        </author>
+        <author>
+            <name>Ziwei Liu</name>
+        </author>
+        <author>
+            <name>Chen Change Loy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MO-MIX: Multi-Objective Multi-Agent Cooperative Decision-Making With Deep Reinforcement Learning]]></title>
         <id>https://ieeexplore.ieee.org/document/10145811</id>
