@@ -1,5 +1,55 @@
 [
   {
+    "articleNumber": "10147320",
+    "articleTitle": "Learning Probabilistic Coordinate Fields for Robust Correspondences",
+    "authors": [
+      "Weiyue Zhao",
+      "Hao Lu",
+      "Xinyi Ye",
+      "Zhiguo Cao",
+      "Xin Li"
+    ],
+    "abstract": "We introduce Probabilistic Coordinate Fields (PCFs), a novel geometric-invariant coordinate representation for image correspondence problems. In contrast to standard Cartesian coordinates, PCFs encode coordinates in correspondence-specific barycentric coordinate systems (BCS) with affine invariance. To know when and where to trust the encoded coordinates, we implement PCFs in a probabilistic netwo...",
+    "date": "2023-06-10T01:04:18.984Z"
+  },
+  {
+    "articleNumber": "10147235",
+    "articleTitle": "Self-Prior Guided Pixel Adversarial Networks for Blind Image Inpainting",
+    "authors": [
+      "Juan Wang",
+      "Chunfeng Yuan",
+      "Bing Li",
+      "Ying Deng",
+      "Weiming Hu",
+      "Stephen Maybank"
+    ],
+    "abstract": "Blind image inpainting involves two critical aspects, i.e., “where to inpaint” and “how to inpaint”. Knowing “where to inpaint” can eliminate the interference arising from corrupted pixel values; a good “how to inpaint” strategy yields high-quality inpainted results robust to various corruptions. In existing methods, these two aspects usually lack explicit and separate consideration. This paper fu...",
+    "date": "2023-06-10T01:04:18.984Z"
+  },
+  {
+    "articleNumber": "10147324",
+    "articleTitle": "POVNet: Image-Based Virtual Try-On Through Accurate Warping and Residual",
+    "authors": [
+      "Kedan Li",
+      "Jeffrey Zhang",
+      "David Forsyth"
+    ],
+    "abstract": "Virtual dressing room applications help online shoppers visualize outfits. Such a system, to be commercially viable, must satisfy a set of performance criteria. The system must produce high quality images that faithfully preserve garment properties, allow users to mix and match garments of various types and support human models varying in skin tone, hair color, body shape, and so on. This paper de...",
+    "date": "2023-06-10T01:04:18.984Z"
+  },
+  {
+    "articleNumber": "10147250",
+    "articleTitle": "What Makes for Hierarchical Vision Transformer?",
+    "authors": [
+      "Yuxin Fang",
+      "Xinggang Wang",
+      "Rui Wu",
+      "Wenyu Liu"
+    ],
+    "abstract": "Recent studies indicate that hierarchical Vision Transformer (ViT) with a macro architecture of interleaved non-overlapped window-based self-attention & shifted-window operation can achieve state-of-the-art performance in various visual recognition tasks, and challenges the ubiquitous convolutional neural networks (CNNs) using densely slid kernels. In most recently proposed hierarchical ViTs, self...",
+    "date": "2023-06-10T01:04:18.984Z"
+  },
+  {
     "articleNumber": "10147035",
     "articleTitle": "C2F-TCN: A Framework for Semi- and Fully-Supervised Temporal Action Segmentation",
     "authors": [

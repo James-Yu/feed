@@ -1,5 +1,172 @@
 [
   {
+    "articleNumber": "10147285",
+    "articleTitle": "Contrastive Self-supervised Clustering for Specific Emitter Identification",
+    "authors": [
+      "Xiaoyang Hao",
+      "Zhixi Feng",
+      "Ruoyu Liu",
+      "Shuyuan Yang",
+      "Licheng Jiao",
+      "Rong Luo"
+    ],
+    "abstract": "Specific Emitter Identification (SEI) is crucial for attacking and defending Internet of Things (IoT) devices in untrusted scenarios or battlefield environments. However, existing SEI methods usually require annotation information, which is often unavailable in non-cooperative communications and untrusted scenarios. In this paper, we propose a signal contrastive self-supervised clustering (SCSC) m...",
+    "date": "2023-06-10T01:04:23.026Z"
+  },
+  {
+    "articleNumber": "10147361",
+    "articleTitle": "ResMon: Domain-adaptive Wireless Respiration State Monitoring via Few-shot Bayesian Deep Learning",
+    "authors": [
+      "Lili Zheng",
+      "Suzhi Bi",
+      "Shuoyao Wang",
+      "Zhi Quan",
+      "Xian Li",
+      "Xiaohui Lin",
+      "Hui Wang"
+    ],
+    "abstract": "Under the outbreak of the COVID-19 pandemic, respiration state monitoring plays an important role in assisting respiratory disease diagnosis and treatment. Thanks to the non-intrusive nature and low deployment cost, Wi-Fi based wireless respiration state monitoring methods have gained increasing popularity. By analyzing the variation of channel state information (CSI) of Wi-Fi signals, the respira...",
+    "date": "2023-06-10T01:04:23.026Z"
+  },
+  {
+    "articleNumber": "10147288",
+    "articleTitle": "Multicarrier Spread Spectrum for Mega-Constellation Satellite Networks: Challenges, Opportunities, and Future Trends",
+    "authors": [
+      "Weihao Yan",
+      "Jianping An",
+      "Jinpeng Song",
+      "Yixuan Li",
+      "Shuai Wang"
+    ],
+    "abstract": "With the emerging concept of satellite mega-const-ellations (SatCons), connections are about to become faster and broader, building an engine to boost innovation and productiv-ity for every industry. In the following decades, over a hundred of SatCons with enormous application potentials are on the cusp of deployment, and their long-term success hinges on reliable information exchanges. We identif...",
+    "date": "2023-06-10T01:04:23.026Z"
+  },
+  {
+    "articleNumber": "10147259",
+    "articleTitle": "Gather or Scatter: Stackelberg Game Based Task Decision for Blockchain-Assisted Socially-Aware Crowdsensing Framework",
+    "authors": [
+      "Sijie Huang",
+      "Guoju Gao",
+      "He Huang",
+      "Yu-E Sun",
+      "Yang Du",
+      "Mingjun Xiao",
+      "Jie Wu",
+      "Yihuai Wang"
+    ],
+    "abstract": "Mobile Crowdsensing (MC), an excellent solution to large-scale spatio-temporal data sensing problems, has recently received lots of attention from both industry and academia. In the MC system, any requester can acquire the sensing data for his points of interest (PoIs) by offering some payments to attract a group of mobile users capable of completing these PoI-related sensing tasks. However, the c...",
+    "date": "2023-06-10T01:04:23.026Z"
+  },
+  {
+    "articleNumber": "10147269",
+    "articleTitle": "Unsupervised Domain Adaptation for RF-based Gesture Recognition",
+    "authors": [
+      "Bin-Bin Zhang",
+      "Dongheng Zhang",
+      "Yadong Li",
+      "Yang Hu",
+      "Yan Chen"
+    ],
+    "abstract": "Human gesture recognition with Radio Frequency (RF) signals has attained acclaim due to the omnipresence, privacy protection, and broad coverage nature of RF signals. These gesture recognition systems rely on neural networks trained with a large number of labeled data. However, the recognition model trained with data under certain conditions would suffer from significant performance degradation wh...",
+    "date": "2023-06-10T01:04:23.026Z"
+  },
+  {
+    "articleNumber": "10147234",
+    "articleTitle": "Peer-to-Peer Energy Trading with Active Participation of Distributed Generation",
+    "authors": [
+      "Monika Mishra",
+      "Amit Singh",
+      "Rakesh Kumar Misra",
+      "Devender Singh"
+    ],
+    "abstract": "Peer-to-peer (P2P) energy trading fosters direct energy exchange between prosumers in a cost-effective manner. However, there are many challenges in implementing the P2P framework on a large scale. The prominent one is maintaining the distribution network operation under prescribed limits. This work proposes a novel P2P energy-sharing framework using a modified Nash bargaining-based cooperative ga...",
+    "date": "2023-06-10T01:04:23.026Z"
+  },
+  {
+    "articleNumber": "10147287",
+    "articleTitle": "Optimum Performance Analysis and Receiver Design for OFDM based Frequency-Splitting SWIPT with Strong Nonlinear Effects",
+    "authors": [
+      "Akashkumar Rajaram",
+      "João Guerreiro",
+      "Rui Dinis",
+      "Dushantha Nalin K. Jayakody",
+      "Marko Beko"
+    ],
+    "abstract": "Multicarrier based frequency splitting simultaneous wireless information and power transmission (FS-SWIPT) signals are very prone to nonlinear effects due to the combination of high-power energy harvesting (EH) subcarriers with low-power data subcarriers. In this paper, we study the impact of nonlinear effects in FS-SWIPT signals, as well as ways to minimize these effects on the data transmission ...",
+    "date": "2023-06-10T01:04:23.026Z"
+  },
+  {
+    "articleNumber": "10147339",
+    "articleTitle": "Distributed Neural Learning Algorithms for Multi-agent Reinforcement Learning",
+    "authors": [
+      "Pengcheng Dai",
+      "Hongzhe Liu",
+      "Wenwu Yu",
+      "He Wang"
+    ],
+    "abstract": "In this paper, the fully distributed neural learning algorithms by neural network approximation for networked multi-agent reinforcement learning (NMARL) are studied. To tackle the convergence analysis of methods in NMARL with tremendous state-action space, most of the existing distributed algorithms are designed by linear function approximation, which however would fall into a situation of poor ex...",
+    "date": "2023-06-10T01:04:23.026Z"
+  },
+  {
+    "articleNumber": "10147378",
+    "articleTitle": "Self-Attention-based Uplink Radio Resource Prediction in 5G Dual Connectivity",
+    "authors": [
+      "Jewon Jung",
+      "Sugi Lee",
+      "Jaemin Shin",
+      "Yusung Kim"
+    ],
+    "abstract": "Mobile communication technology is evolving rapidly and becoming increasingly ubiquitous, thereby increasing the demand for uplink data-intensive applications (e.g., personal broadcasting and live augmented/virtual reality videos). Recently, to facilitate a cost-effective and smooth transition from 4G to 5G networks, most carriers leverage existing 4G infrastructures using a dual connectivity (DC)...",
+    "date": "2023-06-10T01:04:23.026Z"
+  },
+  {
+    "articleNumber": "10147253",
+    "articleTitle": "Multi-Task and Multi-Objective Joint Resource Optimization for UAV-Assisted Air-Ground Integrated Networks under Emergency Scenarios",
+    "authors": [
+      "Xiaoqin Song",
+      "Mengqian Cheng",
+      "Lei Lei",
+      "Yang Yang"
+    ],
+    "abstract": "To face the challenges in emergency scenarios, a multi-task and multi-objective optimization algorithm for computation offloading and relay communication is investigated for the air-ground integrated networks, composed of unmanned aerial vehicles (UAVs), emergency vehicle users (EVUs) and ground sensor nodes (GSNs). We propose an HFL-DDQN algorithm, which combines horizontal federated learning (HF...",
+    "date": "2023-06-10T01:04:23.026Z"
+  },
+  {
+    "articleNumber": "10147376",
+    "articleTitle": "Highly Efficient Bidirectional Multi-factor Authentication and Key Agreement for Real-time Access to Sensor Data",
+    "authors": [
+      "An Braeken"
+    ],
+    "abstract": "This paper presents an authentication and key agreement protocol for users who want to have access to constrained sensor nodes deployed in the field, e.g. doctor with healthcare nodes of patient. Both sensor and user device provide direct multi-factor authentication relying on physical unclonable functions and biometrics respectively. In addition, our scheme offers protection against the presence ...",
+    "date": "2023-06-10T01:04:23.026Z"
+  },
+  {
+    "articleNumber": "10147242",
+    "articleTitle": "Federated Deep Reinforcement Learning-Based Intelligent Dynamic Services in UAV-Assisted MEC",
+    "authors": [
+      "Peng Hou",
+      "Xiaohan Jiang",
+      "Zongshan Wang",
+      "Sen Liu",
+      "Zhihui Lu"
+    ],
+    "abstract": "Unmanned Aerial Vehicles (UAVs)-assisted Multi-access Edge Computing (MEC) has emerged as a promising solution in B5G/6G networks. The high flexibility and seamless connectivity of UAVs make them well-suited for providing enhanced communications coverage and efficient computing support. Particularly in situations where ground facilities may be compromised or communication is unreliable. In this pa...",
+    "date": "2023-06-10T01:04:23.026Z"
+  },
+  {
+    "articleNumber": "10147341",
+    "articleTitle": "MM-Tap: Adaptive and Scalable Tap Localization on Ubiquitous Surfaces with mm-level Accuracy",
+    "authors": [
+      "Yandao Huang",
+      "Cong Li",
+      "Fuwen Chen",
+      "Qian Zhang",
+      "Kaishun Wu"
+    ],
+    "abstract": "Transforming physical surfaces into virtual interfaces can extend the interaction capability of many exciting metaverse applications in the future. Recent advances in vibration-based tap sensing show promise for this vision using passive vibration signals. However, current approaches based on Time-Difference-of-Arrival (TDoA) triangulation suffer the impact of fluctuant wave velocity due to the di...",
+    "date": "2023-06-10T01:04:23.026Z"
+  },
+  {
     "articleNumber": "10146415",
     "articleTitle": "Drone-hosted Computation for Emergency Response",
     "authors": [

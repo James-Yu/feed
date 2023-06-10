@@ -2,11 +2,291 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/IoTJ.rss</id>
     <title>IEEE Internet of Things Journal</title>
-    <updated>2023-06-09T16:14:40.647Z</updated>
+    <updated>2023-06-10T01:04:23.033Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/IoTJ.rss"/>
     <subtitle>IEEE Internet of Things Journal</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Contrastive Self-supervised Clustering for Specific Emitter Identification]]></title>
+        <id>https://ieeexplore.ieee.org/document/10147285</id>
+        <link href="https://ieeexplore.ieee.org/document/10147285"/>
+        <updated>2023-06-10T01:04:23.026Z</updated>
+        <summary type="html"><![CDATA[Specific Emitter Identification (SEI) is crucial for attacking and defending Internet of Things (IoT) devices in untrusted scenarios or battlefield environments. However, existing SEI methods usually require annotation information, which is often unavailable in non-cooperative communications and untrusted scenarios. In this paper, we propose a signal contrastive self-supervised clustering (SCSC) m...]]></summary>
+        <author>
+            <name>Xiaoyang Hao</name>
+        </author>
+        <author>
+            <name>Zhixi Feng</name>
+        </author>
+        <author>
+            <name>Ruoyu Liu</name>
+        </author>
+        <author>
+            <name>Shuyuan Yang</name>
+        </author>
+        <author>
+            <name>Licheng Jiao</name>
+        </author>
+        <author>
+            <name>Rong Luo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ResMon: Domain-adaptive Wireless Respiration State Monitoring via Few-shot Bayesian Deep Learning]]></title>
+        <id>https://ieeexplore.ieee.org/document/10147361</id>
+        <link href="https://ieeexplore.ieee.org/document/10147361"/>
+        <updated>2023-06-10T01:04:23.026Z</updated>
+        <summary type="html"><![CDATA[Under the outbreak of the COVID-19 pandemic, respiration state monitoring plays an important role in assisting respiratory disease diagnosis and treatment. Thanks to the non-intrusive nature and low deployment cost, Wi-Fi based wireless respiration state monitoring methods have gained increasing popularity. By analyzing the variation of channel state information (CSI) of Wi-Fi signals, the respira...]]></summary>
+        <author>
+            <name>Lili Zheng</name>
+        </author>
+        <author>
+            <name>Suzhi Bi</name>
+        </author>
+        <author>
+            <name>Shuoyao Wang</name>
+        </author>
+        <author>
+            <name>Zhi Quan</name>
+        </author>
+        <author>
+            <name>Xian Li</name>
+        </author>
+        <author>
+            <name>Xiaohui Lin</name>
+        </author>
+        <author>
+            <name>Hui Wang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multicarrier Spread Spectrum for Mega-Constellation Satellite Networks: Challenges, Opportunities, and Future Trends]]></title>
+        <id>https://ieeexplore.ieee.org/document/10147288</id>
+        <link href="https://ieeexplore.ieee.org/document/10147288"/>
+        <updated>2023-06-10T01:04:23.026Z</updated>
+        <summary type="html"><![CDATA[With the emerging concept of satellite mega-const-ellations (SatCons), connections are about to become faster and broader, building an engine to boost innovation and productiv-ity for every industry. In the following decades, over a hundred of SatCons with enormous application potentials are on the cusp of deployment, and their long-term success hinges on reliable information exchanges. We identif...]]></summary>
+        <author>
+            <name>Weihao Yan</name>
+        </author>
+        <author>
+            <name>Jianping An</name>
+        </author>
+        <author>
+            <name>Jinpeng Song</name>
+        </author>
+        <author>
+            <name>Yixuan Li</name>
+        </author>
+        <author>
+            <name>Shuai Wang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gather or Scatter: Stackelberg Game Based Task Decision for Blockchain-Assisted Socially-Aware Crowdsensing Framework]]></title>
+        <id>https://ieeexplore.ieee.org/document/10147259</id>
+        <link href="https://ieeexplore.ieee.org/document/10147259"/>
+        <updated>2023-06-10T01:04:23.026Z</updated>
+        <summary type="html"><![CDATA[Mobile Crowdsensing (MC), an excellent solution to large-scale spatio-temporal data sensing problems, has recently received lots of attention from both industry and academia. In the MC system, any requester can acquire the sensing data for his points of interest (PoIs) by offering some payments to attract a group of mobile users capable of completing these PoI-related sensing tasks. However, the c...]]></summary>
+        <author>
+            <name>Sijie Huang</name>
+        </author>
+        <author>
+            <name>Guoju Gao</name>
+        </author>
+        <author>
+            <name>He Huang</name>
+        </author>
+        <author>
+            <name>Yu-E Sun</name>
+        </author>
+        <author>
+            <name>Yang Du</name>
+        </author>
+        <author>
+            <name>Mingjun Xiao</name>
+        </author>
+        <author>
+            <name>Jie Wu</name>
+        </author>
+        <author>
+            <name>Yihuai Wang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unsupervised Domain Adaptation for RF-based Gesture Recognition]]></title>
+        <id>https://ieeexplore.ieee.org/document/10147269</id>
+        <link href="https://ieeexplore.ieee.org/document/10147269"/>
+        <updated>2023-06-10T01:04:23.026Z</updated>
+        <summary type="html"><![CDATA[Human gesture recognition with Radio Frequency (RF) signals has attained acclaim due to the omnipresence, privacy protection, and broad coverage nature of RF signals. These gesture recognition systems rely on neural networks trained with a large number of labeled data. However, the recognition model trained with data under certain conditions would suffer from significant performance degradation wh...]]></summary>
+        <author>
+            <name>Bin-Bin Zhang</name>
+        </author>
+        <author>
+            <name>Dongheng Zhang</name>
+        </author>
+        <author>
+            <name>Yadong Li</name>
+        </author>
+        <author>
+            <name>Yang Hu</name>
+        </author>
+        <author>
+            <name>Yan Chen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Peer-to-Peer Energy Trading with Active Participation of Distributed Generation]]></title>
+        <id>https://ieeexplore.ieee.org/document/10147234</id>
+        <link href="https://ieeexplore.ieee.org/document/10147234"/>
+        <updated>2023-06-10T01:04:23.026Z</updated>
+        <summary type="html"><![CDATA[Peer-to-peer (P2P) energy trading fosters direct energy exchange between prosumers in a cost-effective manner. However, there are many challenges in implementing the P2P framework on a large scale. The prominent one is maintaining the distribution network operation under prescribed limits. This work proposes a novel P2P energy-sharing framework using a modified Nash bargaining-based cooperative ga...]]></summary>
+        <author>
+            <name>Monika Mishra</name>
+        </author>
+        <author>
+            <name>Amit Singh</name>
+        </author>
+        <author>
+            <name>Rakesh Kumar Misra</name>
+        </author>
+        <author>
+            <name>Devender Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Optimum Performance Analysis and Receiver Design for OFDM based Frequency-Splitting SWIPT with Strong Nonlinear Effects]]></title>
+        <id>https://ieeexplore.ieee.org/document/10147287</id>
+        <link href="https://ieeexplore.ieee.org/document/10147287"/>
+        <updated>2023-06-10T01:04:23.026Z</updated>
+        <summary type="html"><![CDATA[Multicarrier based frequency splitting simultaneous wireless information and power transmission (FS-SWIPT) signals are very prone to nonlinear effects due to the combination of high-power energy harvesting (EH) subcarriers with low-power data subcarriers. In this paper, we study the impact of nonlinear effects in FS-SWIPT signals, as well as ways to minimize these effects on the data transmission ...]]></summary>
+        <author>
+            <name>Akashkumar Rajaram</name>
+        </author>
+        <author>
+            <name>João Guerreiro</name>
+        </author>
+        <author>
+            <name>Rui Dinis</name>
+        </author>
+        <author>
+            <name>Dushantha Nalin K. Jayakody</name>
+        </author>
+        <author>
+            <name>Marko Beko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Distributed Neural Learning Algorithms for Multi-agent Reinforcement Learning]]></title>
+        <id>https://ieeexplore.ieee.org/document/10147339</id>
+        <link href="https://ieeexplore.ieee.org/document/10147339"/>
+        <updated>2023-06-10T01:04:23.026Z</updated>
+        <summary type="html"><![CDATA[In this paper, the fully distributed neural learning algorithms by neural network approximation for networked multi-agent reinforcement learning (NMARL) are studied. To tackle the convergence analysis of methods in NMARL with tremendous state-action space, most of the existing distributed algorithms are designed by linear function approximation, which however would fall into a situation of poor ex...]]></summary>
+        <author>
+            <name>Pengcheng Dai</name>
+        </author>
+        <author>
+            <name>Hongzhe Liu</name>
+        </author>
+        <author>
+            <name>Wenwu Yu</name>
+        </author>
+        <author>
+            <name>He Wang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Self-Attention-based Uplink Radio Resource Prediction in 5G Dual Connectivity]]></title>
+        <id>https://ieeexplore.ieee.org/document/10147378</id>
+        <link href="https://ieeexplore.ieee.org/document/10147378"/>
+        <updated>2023-06-10T01:04:23.026Z</updated>
+        <summary type="html"><![CDATA[Mobile communication technology is evolving rapidly and becoming increasingly ubiquitous, thereby increasing the demand for uplink data-intensive applications (e.g., personal broadcasting and live augmented/virtual reality videos). Recently, to facilitate a cost-effective and smooth transition from 4G to 5G networks, most carriers leverage existing 4G infrastructures using a dual connectivity (DC)...]]></summary>
+        <author>
+            <name>Jewon Jung</name>
+        </author>
+        <author>
+            <name>Sugi Lee</name>
+        </author>
+        <author>
+            <name>Jaemin Shin</name>
+        </author>
+        <author>
+            <name>Yusung Kim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multi-Task and Multi-Objective Joint Resource Optimization for UAV-Assisted Air-Ground Integrated Networks under Emergency Scenarios]]></title>
+        <id>https://ieeexplore.ieee.org/document/10147253</id>
+        <link href="https://ieeexplore.ieee.org/document/10147253"/>
+        <updated>2023-06-10T01:04:23.026Z</updated>
+        <summary type="html"><![CDATA[To face the challenges in emergency scenarios, a multi-task and multi-objective optimization algorithm for computation offloading and relay communication is investigated for the air-ground integrated networks, composed of unmanned aerial vehicles (UAVs), emergency vehicle users (EVUs) and ground sensor nodes (GSNs). We propose an HFL-DDQN algorithm, which combines horizontal federated learning (HF...]]></summary>
+        <author>
+            <name>Xiaoqin Song</name>
+        </author>
+        <author>
+            <name>Mengqian Cheng</name>
+        </author>
+        <author>
+            <name>Lei Lei</name>
+        </author>
+        <author>
+            <name>Yang Yang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Highly Efficient Bidirectional Multi-factor Authentication and Key Agreement for Real-time Access to Sensor Data]]></title>
+        <id>https://ieeexplore.ieee.org/document/10147376</id>
+        <link href="https://ieeexplore.ieee.org/document/10147376"/>
+        <updated>2023-06-10T01:04:23.026Z</updated>
+        <summary type="html"><![CDATA[This paper presents an authentication and key agreement protocol for users who want to have access to constrained sensor nodes deployed in the field, e.g. doctor with healthcare nodes of patient. Both sensor and user device provide direct multi-factor authentication relying on physical unclonable functions and biometrics respectively. In addition, our scheme offers protection against the presence ...]]></summary>
+        <author>
+            <name>An Braeken</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Federated Deep Reinforcement Learning-Based Intelligent Dynamic Services in UAV-Assisted MEC]]></title>
+        <id>https://ieeexplore.ieee.org/document/10147242</id>
+        <link href="https://ieeexplore.ieee.org/document/10147242"/>
+        <updated>2023-06-10T01:04:23.026Z</updated>
+        <summary type="html"><![CDATA[Unmanned Aerial Vehicles (UAVs)-assisted Multi-access Edge Computing (MEC) has emerged as a promising solution in B5G/6G networks. The high flexibility and seamless connectivity of UAVs make them well-suited for providing enhanced communications coverage and efficient computing support. Particularly in situations where ground facilities may be compromised or communication is unreliable. In this pa...]]></summary>
+        <author>
+            <name>Peng Hou</name>
+        </author>
+        <author>
+            <name>Xiaohan Jiang</name>
+        </author>
+        <author>
+            <name>Zongshan Wang</name>
+        </author>
+        <author>
+            <name>Sen Liu</name>
+        </author>
+        <author>
+            <name>Zhihui Lu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MM-Tap: Adaptive and Scalable Tap Localization on Ubiquitous Surfaces with mm-level Accuracy]]></title>
+        <id>https://ieeexplore.ieee.org/document/10147341</id>
+        <link href="https://ieeexplore.ieee.org/document/10147341"/>
+        <updated>2023-06-10T01:04:23.026Z</updated>
+        <summary type="html"><![CDATA[Transforming physical surfaces into virtual interfaces can extend the interaction capability of many exciting metaverse applications in the future. Recent advances in vibration-based tap sensing show promise for this vision using passive vibration signals. However, current approaches based on Time-Difference-of-Arrival (TDoA) triangulation suffer the impact of fluctuant wave velocity due to the di...]]></summary>
+        <author>
+            <name>Yandao Huang</name>
+        </author>
+        <author>
+            <name>Cong Li</name>
+        </author>
+        <author>
+            <name>Fuwen Chen</name>
+        </author>
+        <author>
+            <name>Qian Zhang</name>
+        </author>
+        <author>
+            <name>Kaishun Wu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Drone-hosted Computation for Emergency Response]]></title>
         <id>https://ieeexplore.ieee.org/document/10146415</id>

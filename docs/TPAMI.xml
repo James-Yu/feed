@@ -2,11 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/TPAMI.rss</id>
     <title>IEEE Transactions on Pattern Analysis and Machine Intelligence</title>
-    <updated>2023-06-09T16:14:35.888Z</updated>
+    <updated>2023-06-10T01:04:18.988Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/TPAMI.rss"/>
     <subtitle>IEEE Transactions on Pattern Analysis and Machine Intelligence</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Learning Probabilistic Coordinate Fields for Robust Correspondences]]></title>
+        <id>https://ieeexplore.ieee.org/document/10147320</id>
+        <link href="https://ieeexplore.ieee.org/document/10147320"/>
+        <updated>2023-06-10T01:04:18.984Z</updated>
+        <summary type="html"><![CDATA[We introduce Probabilistic Coordinate Fields (PCFs), a novel geometric-invariant coordinate representation for image correspondence problems. In contrast to standard Cartesian coordinates, PCFs encode coordinates in correspondence-specific barycentric coordinate systems (BCS) with affine invariance. To know when and where to trust the encoded coordinates, we implement PCFs in a probabilistic netwo...]]></summary>
+        <author>
+            <name>Weiyue Zhao</name>
+        </author>
+        <author>
+            <name>Hao Lu</name>
+        </author>
+        <author>
+            <name>Xinyi Ye</name>
+        </author>
+        <author>
+            <name>Zhiguo Cao</name>
+        </author>
+        <author>
+            <name>Xin Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Self-Prior Guided Pixel Adversarial Networks for Blind Image Inpainting]]></title>
+        <id>https://ieeexplore.ieee.org/document/10147235</id>
+        <link href="https://ieeexplore.ieee.org/document/10147235"/>
+        <updated>2023-06-10T01:04:18.984Z</updated>
+        <summary type="html"><![CDATA[Blind image inpainting involves two critical aspects, i.e., “where to inpaint” and “how to inpaint”. Knowing “where to inpaint” can eliminate the interference arising from corrupted pixel values; a good “how to inpaint” strategy yields high-quality inpainted results robust to various corruptions. In existing methods, these two aspects usually lack explicit and separate consideration. This paper fu...]]></summary>
+        <author>
+            <name>Juan Wang</name>
+        </author>
+        <author>
+            <name>Chunfeng Yuan</name>
+        </author>
+        <author>
+            <name>Bing Li</name>
+        </author>
+        <author>
+            <name>Ying Deng</name>
+        </author>
+        <author>
+            <name>Weiming Hu</name>
+        </author>
+        <author>
+            <name>Stephen Maybank</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[POVNet: Image-Based Virtual Try-On Through Accurate Warping and Residual]]></title>
+        <id>https://ieeexplore.ieee.org/document/10147324</id>
+        <link href="https://ieeexplore.ieee.org/document/10147324"/>
+        <updated>2023-06-10T01:04:18.984Z</updated>
+        <summary type="html"><![CDATA[Virtual dressing room applications help online shoppers visualize outfits. Such a system, to be commercially viable, must satisfy a set of performance criteria. The system must produce high quality images that faithfully preserve garment properties, allow users to mix and match garments of various types and support human models varying in skin tone, hair color, body shape, and so on. This paper de...]]></summary>
+        <author>
+            <name>Kedan Li</name>
+        </author>
+        <author>
+            <name>Jeffrey Zhang</name>
+        </author>
+        <author>
+            <name>David Forsyth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Makes for Hierarchical Vision Transformer?]]></title>
+        <id>https://ieeexplore.ieee.org/document/10147250</id>
+        <link href="https://ieeexplore.ieee.org/document/10147250"/>
+        <updated>2023-06-10T01:04:18.984Z</updated>
+        <summary type="html"><![CDATA[Recent studies indicate that hierarchical Vision Transformer (ViT) with a macro architecture of interleaved non-overlapped window-based self-attention & shifted-window operation can achieve state-of-the-art performance in various visual recognition tasks, and challenges the ubiquitous convolutional neural networks (CNNs) using densely slid kernels. In most recently proposed hierarchical ViTs, self...]]></summary>
+        <author>
+            <name>Yuxin Fang</name>
+        </author>
+        <author>
+            <name>Xinggang Wang</name>
+        </author>
+        <author>
+            <name>Rui Wu</name>
+        </author>
+        <author>
+            <name>Wenyu Liu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[C2F-TCN: A Framework for Semi- and Fully-Supervised Temporal Action Segmentation]]></title>
         <id>https://ieeexplore.ieee.org/document/10147035</id>
