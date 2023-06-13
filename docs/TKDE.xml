@@ -2,11 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/TKDE.rss</id>
     <title>IEEE Transactions on Knowledge and Data Engineering</title>
-    <updated>2023-06-12T16:13:56.046Z</updated>
+    <updated>2023-06-13T01:10:56.160Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/TKDE.rss"/>
     <subtitle>IEEE Transactions on Knowledge and Data Engineering</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Knowledge Graph Contrastive Learning Based on Relation-Symmetrical Structure]]></title>
+        <id>https://ieeexplore.ieee.org/document/10149041</id>
+        <link href="https://ieeexplore.ieee.org/document/10149041"/>
+        <updated>2023-06-13T01:10:56.155Z</updated>
+        <summary type="html"><![CDATA[Knowledge graph embedding (KGE) aims at learning powerful representations to benefit various artificial intelligence applications. Meanwhile, contrastive learning has been widely leveraged in graph learning as an effective mechanism to enhance the discriminative capacity of the learned representations. However, the complex structures of KG make it hard to construct appropriate contrastive pairs. O...]]></summary>
+        <author>
+            <name>Ke Liang</name>
+        </author>
+        <author>
+            <name>Yue Liu</name>
+        </author>
+        <author>
+            <name>Sihang Zhou</name>
+        </author>
+        <author>
+            <name>Wenxuan Tu</name>
+        </author>
+        <author>
+            <name>Yi Wen</name>
+        </author>
+        <author>
+            <name>Xihong Yang</name>
+        </author>
+        <author>
+            <name>Xiangjun Dong</name>
+        </author>
+        <author>
+            <name>Xinwang Liu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Two-stage Asymmetric Similarity Preserving Hashing for Cross-modal Retrieval]]></title>
         <id>https://ieeexplore.ieee.org/document/10146484</id>

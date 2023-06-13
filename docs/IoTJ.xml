@@ -2,11 +2,438 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/IoTJ.rss</id>
     <title>IEEE Internet of Things Journal</title>
-    <updated>2023-06-12T16:14:07.049Z</updated>
+    <updated>2023-06-13T01:11:06.841Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/IoTJ.rss"/>
     <subtitle>IEEE Internet of Things Journal</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Centimeter-Level 3D Mobile Online Visible Light Positioning System With Single LED-Lamp]]></title>
+        <id>https://ieeexplore.ieee.org/document/10149079</id>
+        <link href="https://ieeexplore.ieee.org/document/10149079"/>
+        <updated>2023-06-13T01:11:06.832Z</updated>
+        <summary type="html"><![CDATA[In this paper, we consider a practical indoor 3D mobile online visible light positioning (VLP) system, where the orientation of the UE is arbitrary. Based on the received signal strength (RSS) of multiple photo-detectors (PDs), we formulate the 3D VLP problem as a non-linear least squares (NLS) optimization problem, and then propose a sequential quadratic programming (SQP) positioning algorithm to...]]></summary>
+        <author>
+            <name>Shuai Ma</name>
+        </author>
+        <author>
+            <name>Bing Li</name>
+        </author>
+        <author>
+            <name>GuanJie Zhang</name>
+        </author>
+        <author>
+            <name>Hang Li</name>
+        </author>
+        <author>
+            <name>Chen Qiu</name>
+        </author>
+        <author>
+            <name>Chuang Yu</name>
+        </author>
+        <author>
+            <name>Shiyin Li</name>
+        </author>
+        <author>
+            <name>Chao Shen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RelCLAS: A Reliable Malicious KGC-Resistant Certificateless Aggregate Signature Protocol for Vehicular Ad Hoc Networks]]></title>
+        <id>https://ieeexplore.ieee.org/document/10149078</id>
+        <link href="https://ieeexplore.ieee.org/document/10149078"/>
+        <updated>2023-06-13T01:11:06.832Z</updated>
+        <summary type="html"><![CDATA[Vehicular ad hoc network (VANET) enables a more efficient and secure traffic environment by integrating several emerging technologies. The technology of certificateless aggregate signature (CLAS) is widely utilized to guarantee secure communications in VANET. However, the legitimation of vehicles’ public keys cannot be verified effectively in existing CLAS protocols for VANET. Thus, a malicious ke...]]></summary>
+        <author>
+            <name>Xincheng Li</name>
+        </author>
+        <author>
+            <name>Xinchun Yin</name>
+        </author>
+        <author>
+            <name>Jianting Ning</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Multi-CUAV Multi-UAV Electricity Scheduling Scheme: From Charging Location Selection to Electricity Transaction]]></title>
+        <id>https://ieeexplore.ieee.org/document/10147902</id>
+        <link href="https://ieeexplore.ieee.org/document/10147902"/>
+        <updated>2023-06-13T01:11:06.832Z</updated>
+        <summary type="html"><![CDATA[In Unmanned Aerial Vehicle (UAV) performing tasks, the UAV often faces electricity shortages. The traditional scheme to charge a UAV needs to return to the ground. Using the charging UAV (CUAV) can avoid the waste of electricity caused by the return. However, the existing works only consider a fixed charging location for electricity replenishment. Moreover, fewer works focus on the matching relati...]]></summary>
+        <author>
+            <name>Peilei Xue</name>
+        </author>
+        <author>
+            <name>Xinghua Li</name>
+        </author>
+        <author>
+            <name>Zhongyuan Jiang</name>
+        </author>
+        <author>
+            <name>Bin Luo</name>
+        </author>
+        <author>
+            <name>Yinbin Miao</name>
+        </author>
+        <author>
+            <name>Ximeng Liu</name>
+        </author>
+        <author>
+            <name>Robert H. Deng</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[QB-IMD: A secure medical data processing system with privacy protection based on quantum blockchain for IoMT]]></title>
+        <id>https://ieeexplore.ieee.org/document/10149070</id>
+        <link href="https://ieeexplore.ieee.org/document/10149070"/>
+        <updated>2023-06-13T01:11:06.832Z</updated>
+        <summary type="html"><![CDATA[Security and privacy are issues that cannot be ignored when collecting and processing medical data in the Internet of Medical Things (IoMT). Blockchain technology is a decentralized ledger system that has diverse application scenarios in the medical field. Blockchain technology relies on traditional cryptography to ensure data integrity and verifiability, but the creation of quantum computing has ...]]></summary>
+        <author>
+            <name>Zhiguo Qu</name>
+        </author>
+        <author>
+            <name>Yunyi Meng</name>
+        </author>
+        <author>
+            <name>Bo Liu</name>
+        </author>
+        <author>
+            <name>Ghulam Muhammad</name>
+        </author>
+        <author>
+            <name>Prayag Tiwari</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enabling Integrity and Compliance Auditing in Blockchain-based GDPR-compliant Data Management]]></title>
+        <id>https://ieeexplore.ieee.org/document/10149085</id>
+        <link href="https://ieeexplore.ieee.org/document/10149085"/>
+        <updated>2023-06-13T01:11:06.832Z</updated>
+        <summary type="html"><![CDATA[The General Data Protection Regulation (GDPR) is a European Union (EU) data protection and privacy law. According to the GDPR, the data on a hosting platform must meet semantic consistency and data integrity requirements. Semantic consistency means that the data operation should comply with the GDPR, while data integrity is meant to ensure that the outsourcing data should be intact. The two terms ...]]></summary>
+        <author>
+            <name>Lipeng Wang</name>
+        </author>
+        <author>
+            <name>Zhi Guan</name>
+        </author>
+        <author>
+            <name>Zhong Chen</name>
+        </author>
+        <author>
+            <name>Mingsheng Hu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reinforcement Learning Based Power Control for Reliable Mission-Critical Wireless Transmission]]></title>
+        <id>https://ieeexplore.ieee.org/document/10148061</id>
+        <link href="https://ieeexplore.ieee.org/document/10148061"/>
+        <updated>2023-06-13T01:11:06.832Z</updated>
+        <summary type="html"><![CDATA[In this paper, we investigate sequential power allocation over fast varying channels for mission-critical applications, aiming to minimize the expected sum power while guaranteeing the transmission success probability. In particular, a reinforcement learning framework is constructed with appropriate reward design so that the optimal policy maximizes the Lagrangian of the primal problem, where the ...]]></summary>
+        <author>
+            <name>Chongtao Guo</name>
+        </author>
+        <author>
+            <name>Zhengchao Li</name>
+        </author>
+        <author>
+            <name>Le Liang</name>
+        </author>
+        <author>
+            <name>Geoffrey Ye Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multi-Task Learning using Feature Extraction Network for Smart Tourism Applications]]></title>
+        <id>https://ieeexplore.ieee.org/document/10149115</id>
+        <link href="https://ieeexplore.ieee.org/document/10149115"/>
+        <updated>2023-06-13T01:11:06.832Z</updated>
+        <summary type="html"><![CDATA[Recently around half of the world’s current popu-lation resides in urban areas and benefit from rich services in smart city. Majority of smart city services are recommendation related services, and with the development of internet, most recommendation services in smart economy are online recommendations. Online travel platforms (like Booking, Airbnb, Ctrip and Fliggy) provide people sufficient res...]]></summary>
+        <author>
+            <name>Yu Li</name>
+        </author>
+        <author>
+            <name>Fanxiang Zeng</name>
+        </author>
+        <author>
+            <name>Nan Zhang</name>
+        </author>
+        <author>
+            <name>ZuLong Chen</name>
+        </author>
+        <author>
+            <name>Li Zhou</name>
+        </author>
+        <author>
+            <name>MaoLei Huang</name>
+        </author>
+        <author>
+            <name>Tianqi Zhu</name>
+        </author>
+        <author>
+            <name>Jing Wang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Towards Autonomic Internet of Things: Recent Advances, Evaluation Criteria and Future Research Directions]]></title>
+        <id>https://ieeexplore.ieee.org/document/10149092</id>
+        <link href="https://ieeexplore.ieee.org/document/10149092"/>
+        <updated>2023-06-13T01:11:06.832Z</updated>
+        <summary type="html"><![CDATA[With the rise of the Internet of Things (IoT), tiny devices capable of computation and data transmission are being deployed across various technological domains. Due to the wide deployment of these devices, manual setup and management are infeasible and inefficient. To address this inefficiency, intelligent procedures must be established to enable autonomy that allows devices and networks to opera...]]></summary>
+        <author>
+            <name>Qazi Mamoon Ashraf</name>
+        </author>
+        <author>
+            <name>Mohammad Tahir</name>
+        </author>
+        <author>
+            <name>Mohamed Hadi Habaebi</name>
+        </author>
+        <author>
+            <name>Jouni Isoaho</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IRS-Assisted Anti-Jamming Transmission for an Integrated Satellite-UAV-Terrestrial Network with Imperfect CSI: A Game-Based Perspective]]></title>
+        <id>https://ieeexplore.ieee.org/document/10149096</id>
+        <link href="https://ieeexplore.ieee.org/document/10149096"/>
+        <updated>2023-06-13T01:11:06.832Z</updated>
+        <summary type="html"><![CDATA[In this paper, an intelligent reflecting surface (IRS)-assisted integrated satellite-unmanned aerial vehicle (UAV)-terrestrial (SUT) Internet of Things (IoT) network faced with a smart jammer under imperfect channel state information (CSI) conditions is considered. We propose a Stackelberg game model to describe the adversarial relationship between the satellite, UAV, and IRS and the jammer, which...]]></summary>
+        <author>
+            <name>Chengjian Liao</name>
+        </author>
+        <author>
+            <name>Kui Xu</name>
+        </author>
+        <author>
+            <name>Xiaochen Xia</name>
+        </author>
+        <author>
+            <name>Guojie Hu</name>
+        </author>
+        <author>
+            <name>Chunguo Li</name>
+        </author>
+        <author>
+            <name>Yurong Wang</name>
+        </author>
+        <author>
+            <name>Wei Xie</name>
+        </author>
+        <author>
+            <name>Xiaoqin Yang</name>
+        </author>
+        <author>
+            <name>Yue Shi</name>
+        </author>
+        <author>
+            <name>Liang Wan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hedera: A Permissionless and Scalable Hybrid Blockchain Consensus Algorithm in Multi-Access Edge Computing for IoT]]></title>
+        <id>https://ieeexplore.ieee.org/document/10148099</id>
+        <link href="https://ieeexplore.ieee.org/document/10148099"/>
+        <updated>2023-06-13T01:11:06.832Z</updated>
+        <summary type="html"><![CDATA[Abstract-Multi-access edge computing network (MEC), as one of the key infrastructures of IoT, provides cloud computing capabilities at the edge of radio access network (RAN) by integrating telecommunication and IT services. Integrating blockchain into the MEC network can provide users with secure, private, and traceable edge computing services at the near end, thereby improving IoT security, priva...]]></summary>
+        <author>
+            <name>Yu Tang</name>
+        </author>
+        <author>
+            <name>Jiawen Yan</name>
+        </author>
+        <author>
+            <name>Chinmay Chakraborty</name>
+        </author>
+        <author>
+            <name>Yi Sun</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Securing IoT-based Smart Healthcare Systems by using Advanced Lightweight Privacy-Preserving Authentication Scheme]]></title>
+        <id>https://ieeexplore.ieee.org/document/10148997</id>
+        <link href="https://ieeexplore.ieee.org/document/10148997"/>
+        <updated>2023-06-13T01:11:06.832Z</updated>
+        <summary type="html"><![CDATA[In the healthcare network, the Internet of Things (IoT) devices are connected to the network for enabling remote monitoring of patients’ health. IoT device security, however, is a serious concern because typical security measures might not be appropriate for IoT devices, making them naturally vulnerable to physical and copying attacks. Therefore, device authentication is a very essential security ...]]></summary>
+        <author>
+            <name>Sangjukta Das</name>
+        </author>
+        <author>
+            <name>Suyel Namasudra</name>
+        </author>
+        <author>
+            <name>Suman Deb</name>
+        </author>
+        <author>
+            <name>Pablo Moreno Ger</name>
+        </author>
+        <author>
+            <name>Ruben Gonzalez Crespo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fair Communications in UAV Networks for Rescue Applications]]></title>
+        <id>https://ieeexplore.ieee.org/document/10147898</id>
+        <link href="https://ieeexplore.ieee.org/document/10147898"/>
+        <updated>2023-06-13T01:11:06.832Z</updated>
+        <summary type="html"><![CDATA[We study the deployment of a UAV network to provide urgent communications to people trapped in a disaster zone, where each UAV is an aerial base station in the air. Unlike most existing studies that assumed that each user communicates with a UAV directly, we introduce D2D communications, in which a user within the communication range of a UAV can serve as a hotspot (e.g., WiFi hotspot), and provid...]]></summary>
+        <author>
+            <name>Qunli Shen</name>
+        </author>
+        <author>
+            <name>Jian Peng</name>
+        </author>
+        <author>
+            <name>Wenzheng Xu</name>
+        </author>
+        <author>
+            <name>Yueying Sun</name>
+        </author>
+        <author>
+            <name>Weifa Liang</name>
+        </author>
+        <author>
+            <name>Liangyin Chen</name>
+        </author>
+        <author>
+            <name>Qijun Zhao</name>
+        </author>
+        <author>
+            <name>Xiaohua Jia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IoT-Enabled Fault Prediction and Maintenance for Smart Charging Piles]]></title>
+        <id>https://ieeexplore.ieee.org/document/10149006</id>
+        <link href="https://ieeexplore.ieee.org/document/10149006"/>
+        <updated>2023-06-13T01:11:06.832Z</updated>
+        <summary type="html"><![CDATA[With the application of the Internet of Things (IoT), smart charging piles, which are important facilities for new energy electric vehicles (NEVs), have become an important part of the smart grid. Since the smart charging piles are generally deployed in complex environments and prone to failure, it’s significant to perform efficient fault diagnosis and timely maintenance for them. One of the key p...]]></summary>
+        <author>
+            <name>Hongyan Dui</name>
+        </author>
+        <author>
+            <name>Xinghui Dong</name>
+        </author>
+        <author>
+            <name>Liwei Chen</name>
+        </author>
+        <author>
+            <name>Yujie Wang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TMETA: Trust Management for the Cold Start of IoT Services with Digital-Twin-Aided Blockchain]]></title>
+        <id>https://ieeexplore.ieee.org/document/10148060</id>
+        <link href="https://ieeexplore.ieee.org/document/10148060"/>
+        <updated>2023-06-13T01:11:06.832Z</updated>
+        <summary type="html"><![CDATA[There is growing attention in the metaverse from a variety of fields, and many Internet-of-Things (IoT) companies are exploring the possibility of integrating their existing business into the metaverse space. However, it still remains challenging to put the metaverse into practice. Among those challenges, trust management is critical to guarantee secure interactions and effective sharing among met...]]></summary>
+        <author>
+            <name>Chenyu Wang</name>
+        </author>
+        <author>
+            <name>Zhipeng Cai</name>
+        </author>
+        <author>
+            <name>Daehee Seo</name>
+        </author>
+        <author>
+            <name>Yingshu Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HFSA: A Semi-asynchronous Hierarchical Federated Recommendation System in Smart City]]></title>
+        <id>https://ieeexplore.ieee.org/document/10149002</id>
+        <link href="https://ieeexplore.ieee.org/document/10149002"/>
+        <updated>2023-06-13T01:11:06.832Z</updated>
+        <summary type="html"><![CDATA[In modern society, recommendation systems already become an indispensable component, especially in smart cities. Their recommendation performance is greatly affected by the available analyzing data, but centralized massive data can cause data privacy issues. Hence, federated learning is applied to achieve a higher recommendation accuracy without sharing raw data. To improve the performance and rel...]]></summary>
+        <author>
+            <name>Youhuizi Li</name>
+        </author>
+        <author>
+            <name>Haitao Yu</name>
+        </author>
+        <author>
+            <name>Yan Zeng</name>
+        </author>
+        <author>
+            <name>Qianqian Pan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tensor-enabled Communication-efficient and Trustworthy Federated Learning for Heterogeneous Intelligent Space-air-ground Integrated IoT]]></title>
+        <id>https://ieeexplore.ieee.org/document/10149205</id>
+        <link href="https://ieeexplore.ieee.org/document/10149205"/>
+        <updated>2023-06-13T01:11:06.832Z</updated>
+        <summary type="html"><![CDATA[Federated Learning (FL) could provide a promising privacy-preserving intelligent learning paradigm for Space-Air-Ground Integrated Internet of Things (SAGI-IoT) by breaking down data islands and solving the dilemma between data privacy and data sharing. Currently, adaptivity, communication efficiency and model security are the three main challenges faced by FL, and they are rarely considered by ex...]]></summary>
+        <author>
+            <name>Ruonan Zhao</name>
+        </author>
+        <author>
+            <name>Laurence T. Yang</name>
+        </author>
+        <author>
+            <name>Debin Liu</name>
+        </author>
+        <author>
+            <name>Wanli Lu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dual Reinforcement Learning based Attack Path Prediction for 5G Industrial Cyber-Physical Systems]]></title>
+        <id>https://ieeexplore.ieee.org/document/10149069</id>
+        <link href="https://ieeexplore.ieee.org/document/10149069"/>
+        <updated>2023-06-13T01:11:06.832Z</updated>
+        <summary type="html"><![CDATA[5G industrial cyber-physical systems have attracted substantial research interests due to their capability in the interconnection of everything. However, integrating the 5G network may expose systems to more potential risks. To reveal attack propagation, an attack path prediction approach based on dual reinforcement learning is proposed. First, a dual-network model is established, incorporating th...]]></summary>
+        <author>
+            <name>Xinge Li</name>
+        </author>
+        <author>
+            <name>Xiaoya Hu</name>
+        </author>
+        <author>
+            <name>Tao Jiang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Group Signature Scheme with Selective Linkability and Traceability for Blockchain-Based Data Sharing Systems in E-health Services]]></title>
+        <id>https://ieeexplore.ieee.org/document/10148059</id>
+        <link href="https://ieeexplore.ieee.org/document/10148059"/>
+        <updated>2023-06-13T01:11:06.832Z</updated>
+        <summary type="html"><![CDATA[Recently, with the rapid improvement of e-health technology, a large amount of precious medical data has been accumulated in different entities, such as hospitals, clinics, and medical institutions, promoting the development of data sharing in e-health services. However, most of them lacks fine-grained functionalities: selective linkability and traceability, which are critical in an e-health envir...]]></summary>
+        <author>
+            <name>Zijian Bao</name>
+        </author>
+        <author>
+            <name>Debiao He</name>
+        </author>
+        <author>
+            <name>Huaqun Wang</name>
+        </author>
+        <author>
+            <name>Min Luo</name>
+        </author>
+        <author>
+            <name>Cong Peng</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Personalized Federated Continual Learning for Task-incremental Biometrics]]></title>
+        <id>https://ieeexplore.ieee.org/document/10148063</id>
+        <link href="https://ieeexplore.ieee.org/document/10148063"/>
+        <updated>2023-06-13T01:11:06.832Z</updated>
+        <summary type="html"><![CDATA[In the age of Internet of Things where information is explosively growing, people pay more attention on personal privacy. In the real-world task-incremental scenario for biometrics, every edge device faces continuous task flows of private data without communication with others. Security and Performance are the primary concerns in identity authentication, and Federated Continual Learning (FCL) is a...]]></summary>
+        <author>
+            <name>Dongdong Li</name>
+        </author>
+        <author>
+            <name>Nan Huang</name>
+        </author>
+        <author>
+            <name>Zhe Wang</name>
+        </author>
+        <author>
+            <name>Hai Yang</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Contrastive Self-supervised Clustering for Specific Emitter Identification]]></title>
         <id>https://ieeexplore.ieee.org/document/10147285</id>

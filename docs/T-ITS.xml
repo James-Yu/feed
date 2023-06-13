@@ -2,11 +2,431 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/T-ITS.rss</id>
     <title>IEEE Transactions on Intelligent Transportation Systems</title>
-    <updated>2023-06-12T16:13:50.737Z</updated>
+    <updated>2023-06-13T01:10:50.897Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/T-ITS.rss"/>
     <subtitle>IEEE Transactions on Intelligent Transportation Systems</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Pedestrian Behavior Prediction Using Deep Learning Methods for Urban Scenarios: A Review]]></title>
+        <id>https://ieeexplore.ieee.org/document/10149114</id>
+        <link href="https://ieeexplore.ieee.org/document/10149114"/>
+        <updated>2023-06-13T01:10:50.889Z</updated>
+        <summary type="html"><![CDATA[The prediction of pedestrian behavior is essential for automated driving in urban traffic and has attracted increasing attention in the vehicle industry. This task is challenging because pedestrian behavior is driven by various factors, including their individual properties, the interactions with other road users, and the interactions with the environment. Deep learning approaches have become incr...]]></summary>
+        <author>
+            <name>Chi Zhang</name>
+        </author>
+        <author>
+            <name>Christian Berger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Optimal Trajectory Planning for Mitigated Motion Sickness: Simulator Study Assessment]]></title>
+        <id>https://ieeexplore.ieee.org/document/10149136</id>
+        <link href="https://ieeexplore.ieee.org/document/10149136"/>
+        <updated>2023-06-13T01:10:50.889Z</updated>
+        <summary type="html"><![CDATA[In the transition from partial to high automation, occupants will no longer be actively involved in driving. This will allow the use of travel time for work or leisure, where high comfort levels preventing motion sickness are required. In this paper, an optimal trajectory planning algorithm is presented in order to minimise motion sickness in automated vehicles. A predefined path is provided as an...]]></summary>
+        <author>
+            <name>Vishrut Jain</name>
+        </author>
+        <author>
+            <name>Sandeep Suresh Kumar</name>
+        </author>
+        <author>
+            <name>Georgios Papaioannou</name>
+        </author>
+        <author>
+            <name>Riender Happee</name>
+        </author>
+        <author>
+            <name>Barys Shyrokau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Integral Sliding Mode Control-Based Robust Bidirectional Platoon Control of Vehicles With the Unknown Acceleration and Mismatched Disturbance]]></title>
+        <id>https://ieeexplore.ieee.org/document/10149145</id>
+        <link href="https://ieeexplore.ieee.org/document/10149145"/>
+        <updated>2023-06-13T01:10:50.889Z</updated>
+        <summary type="html"><![CDATA[This paper proposes integral sliding mode control (ISMC)-based robust bidirectional platoon control methods in the longitudinal platoon for vehicles with unknown acceleration and mismatched disturbance. A finite time robust estimator (FTRE) is presented to estimate the practically unknown acceleration and mismatched disturbance of adjacent vehicles. In addition, the matched disturbance in the vehi...]]></summary>
+        <author>
+            <name>Junseok Boo</name>
+        </author>
+        <author>
+            <name>Dongkyoung Chwa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vehicle Trajectory-Based Traffic Volume Prediction on Urban Roads With Fast-Communication License Plate Recognition Data]]></title>
+        <id>https://ieeexplore.ieee.org/document/10149039</id>
+        <link href="https://ieeexplore.ieee.org/document/10149039"/>
+        <updated>2023-06-13T01:10:50.889Z</updated>
+        <summary type="html"><![CDATA[Real-time traffic volume prediction is critical for proactive traffic control and road guidance via fast-communication networks. However, existing research relies on historical traffic volume and fails to consider vehicle travel route choices, leading to lower prediction accuracy and insufficient capture of real-time travel dynamics. To address this limitation, we propose a novel approach for real...]]></summary>
+        <author>
+            <name>Xiaofeng Shan</name>
+        </author>
+        <author>
+            <name>Weijie Yu</name>
+        </author>
+        <author>
+            <name>Zhibin Li</name>
+        </author>
+        <author>
+            <name>Chishe Wang</name>
+        </author>
+        <author>
+            <name>Yifeng Ren</name>
+        </author>
+        <author>
+            <name>Jiajie Zhang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Human Inspired Autonomous Intersection Handling Using Game Theory]]></title>
+        <id>https://ieeexplore.ieee.org/document/10149130</id>
+        <link href="https://ieeexplore.ieee.org/document/10149130"/>
+        <updated>2023-06-13T01:10:50.889Z</updated>
+        <summary type="html"><![CDATA[Left turning for autonomous vehicles at intersections is challenging due to the various driving behaviors from different human drivers and the strong interaction between the autonomous vehicle and human traffic participants. This paper proposes a planning and decision making framework for intersection left-turning which considers the interaction between autonomous vehicles and human drivers as wel...]]></summary>
+        <author>
+            <name>Keqi Shu</name>
+        </author>
+        <author>
+            <name>Reza Valiollahi Mehrizi</name>
+        </author>
+        <author>
+            <name>Shen Li</name>
+        </author>
+        <author>
+            <name>Mohammad Pirani</name>
+        </author>
+        <author>
+            <name>Amir Khajepour</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coupling Control of Traffic Signal and Entry Lane at Isolated Intersections Under the Mixed-Autonomy Traffic Environment]]></title>
+        <id>https://ieeexplore.ieee.org/document/10149131</id>
+        <link href="https://ieeexplore.ieee.org/document/10149131"/>
+        <updated>2023-06-13T01:10:50.889Z</updated>
+        <summary type="html"><![CDATA[There is a growing number of studies on the traffic control strategies of signal timings and vehicle trajectories at signalized intersections, while lane assignments are widely pre-specified and fixed. Meanwhile, existing strategies generally require a fully connected and automated vehicles (CAVs) environment. To fill up the gaps, this study contributes to a two-dimensional (spatiotemporal) contro...]]></summary>
+        <author>
+            <name>Rongjian Dai</name>
+        </author>
+        <author>
+            <name>Chuan Ding</name>
+        </author>
+        <author>
+            <name>Xinkai Wu</name>
+        </author>
+        <author>
+            <name>Bin Yu</name>
+        </author>
+        <author>
+            <name>Guangquan Lu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Object SLAM With Robust Quadric Initialization and Mapping for Dynamic Outdoors]]></title>
+        <id>https://ieeexplore.ieee.org/document/10149129</id>
+        <link href="https://ieeexplore.ieee.org/document/10149129"/>
+        <updated>2023-06-13T01:10:50.889Z</updated>
+        <summary type="html"><![CDATA[Object SLAM is a popular approach for autonomous driving and robotics, but accurate object perception in outdoor environments remains a challenge. State-of-the-art object SLAM algorithms rely on assumptions and are sensitive to observation noise, limiting their application in real-world scenarios. To address these challenges, we propose a novel object SLAM system that utilizes a quadric initializa...]]></summary>
+        <author>
+            <name>Rui Tian</name>
+        </author>
+        <author>
+            <name>Yunzhou Zhang</name>
+        </author>
+        <author>
+            <name>Zhenzhong Cao</name>
+        </author>
+        <author>
+            <name>Jinpeng Zhang</name>
+        </author>
+        <author>
+            <name>Linghao Yang</name>
+        </author>
+        <author>
+            <name>Sonya Coleman</name>
+        </author>
+        <author>
+            <name>Dermot Kerr</name>
+        </author>
+        <author>
+            <name>Kun Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mining the Critical Factors of Hazardous Material Road Transportation Accidents From Chinese Investigation Reports]]></title>
+        <id>https://ieeexplore.ieee.org/document/10149147</id>
+        <link href="https://ieeexplore.ieee.org/document/10149147"/>
+        <updated>2023-06-13T01:10:50.889Z</updated>
+        <summary type="html"><![CDATA[Rather than reducing losses after an accident, identifying critical accident factors is a better approach because it can be used to prevent accidents. Hazard materials (HAZMAT) road transportation is a complex sociotechnical system that involves three major procedures. Staff, vehicles, and tanks directly participate in this transport system, while different companies and government departments man...]]></summary>
+        <author>
+            <name>Zi-Jian Ni</name>
+        </author>
+        <author>
+            <name>Qi Zhang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DataFITS: A Heterogeneous Data Fusion Framework for Traffic and Incident Prediction]]></title>
+        <id>https://ieeexplore.ieee.org/document/10149132</id>
+        <link href="https://ieeexplore.ieee.org/document/10149132"/>
+        <updated>2023-06-13T01:10:50.889Z</updated>
+        <summary type="html"><![CDATA[This paper introduces DataFITS (Data Fusion on Intelligent Transportation System), an open-source framework that collects and fuses traffic-related data from various sources, creating a comprehensive dataset. We hypothesize that a heterogeneous data fusion framework can enhance information coverage and quality for traffic models, increasing the efficiency and reliability of Intelligent Transportat...]]></summary>
+        <author>
+            <name>Philipp Zißner</name>
+        </author>
+        <author>
+            <name>Paulo H. L. Rettore</name>
+        </author>
+        <author>
+            <name>Bruno P. Santos</name>
+        </author>
+        <author>
+            <name>Johannes F. Loevenich</name>
+        </author>
+        <author>
+            <name>Roberto Rigolin F. Lopes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fast One-to-Many Multicriteria Shortest Path Search]]></title>
+        <id>https://ieeexplore.ieee.org/document/10149133</id>
+        <link href="https://ieeexplore.ieee.org/document/10149133"/>
+        <updated>2023-06-13T01:10:50.889Z</updated>
+        <summary type="html"><![CDATA[Shortest path problem has been successfully applied in numerous domains. Unfortunately, its complexity increases drastically when several objective criteria must be considered. Apart from the relatively slow classic search algorithms, attempts to accelerate multicriteria shortest path search are mostly represented by goal-directed one-to-one search methods and pruning heuristics. The one-to-many v...]]></summary>
+        <author>
+            <name>Temirlan Kurbanov</name>
+        </author>
+        <author>
+            <name>Marek Cuchý</name>
+        </author>
+        <author>
+            <name>Jiří Vokřínek</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Latent Hazard Notification for Highly Automated Driving: Expected Safety Benefits and Driver Behavioral Adaptation]]></title>
+        <id>https://ieeexplore.ieee.org/document/10149141</id>
+        <link href="https://ieeexplore.ieee.org/document/10149141"/>
+        <updated>2023-06-13T01:10:50.889Z</updated>
+        <summary type="html"><![CDATA[Although latent hazard notification for highly automated driving is expected to enhance traffic safety, its practical effects have yet to be verified. This study systemically investigated the expected safety benefits and driver behavioral adaptation based on structural equation modeling. First, we developed a notification system to inform drivers of latent hazards with auditory alerts and conducte...]]></summary>
+        <author>
+            <name>Qingkun Li</name>
+        </author>
+        <author>
+            <name>Yizi Su</name>
+        </author>
+        <author>
+            <name>Wenjun Wang</name>
+        </author>
+        <author>
+            <name>Zhenyuan Wang</name>
+        </author>
+        <author>
+            <name>Jibo He</name>
+        </author>
+        <author>
+            <name>Guofa Li</name>
+        </author>
+        <author>
+            <name>Chao Zeng</name>
+        </author>
+        <author>
+            <name>Bo Cheng</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Detecting State of Charge False Reporting Attacks via Reinforcement Learning Approach]]></title>
+        <id>https://ieeexplore.ieee.org/document/10149139</id>
+        <link href="https://ieeexplore.ieee.org/document/10149139"/>
+        <updated>2023-06-13T01:10:50.889Z</updated>
+        <summary type="html"><![CDATA[The increased push for green transportation has been apparent to address the alarming increase in atmospheric  ${CO}_2$  levels, especially in the last five years. The success and popularity of Electric Vehicles (EVs) have led many carmakers to shift to developing clean cars in the next decade. Moreover, many countries around the globe have set aggressive EV target adoption numbers, with some even...]]></summary>
+        <author>
+            <name>Mhd Ali Alomrani</name>
+        </author>
+        <author>
+            <name>Mosaddek Hossain Kamal Tushar</name>
+        </author>
+        <author>
+            <name>Deepa Kundur</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Path Increment Map Matching Method for High-Frequency Trajectory]]></title>
+        <id>https://ieeexplore.ieee.org/document/10149110</id>
+        <link href="https://ieeexplore.ieee.org/document/10149110"/>
+        <updated>2023-06-13T01:10:50.889Z</updated>
+        <summary type="html"><![CDATA[Aiming at the problems of low matching accuracy and slow matching speed of high-frequency trajectory data in complex urban road networks, this paper proposes a matching method based on path increment. This method consists of two parts: combined filtering and incremental matching. Firstly, the road network is simplified through combined filtering, and then the incremental matching is carried out by...]]></summary>
+        <author>
+            <name>Wang Haoyan</name>
+        </author>
+        <author>
+            <name>Liu Yuangang</name>
+        </author>
+        <author>
+            <name>Li Shaohua</name>
+        </author>
+        <author>
+            <name>Liang Bo</name>
+        </author>
+        <author>
+            <name>He Zongyi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deep Reinforcement Learning Assisted Beam Tracking and Data Transmission for 5G V2X Networks]]></title>
+        <id>https://ieeexplore.ieee.org/document/10149134</id>
+        <link href="https://ieeexplore.ieee.org/document/10149134"/>
+        <updated>2023-06-13T01:10:50.889Z</updated>
+        <summary type="html"><![CDATA[Beam tracking is a core issue in 5G vehicle-to-everything (V2X) networks. Specifically, higher beamforming gain is required to compensate for the path loss at higher frequencies, e.g., 5G FR2, to realize high data rate vehicle-to-infrastructure (V2I) communications. However, shorter time slots at higher frequencies, high velocity of vehicles, and unpredictable localization errors make this problem...]]></summary>
+        <author>
+            <name>Junliang Ye</name>
+        </author>
+        <author>
+            <name>Hamid Gharavi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Towards Reliable Design and Operation of Electric Road Systems for Heavy-Duty Vehicles Under Realistic Traffic Scenarios]]></title>
+        <id>https://ieeexplore.ieee.org/document/10149138</id>
+        <link href="https://ieeexplore.ieee.org/document/10149138"/>
+        <updated>2023-06-13T01:10:50.889Z</updated>
+        <summary type="html"><![CDATA[Decarbonizing heavy-duty vehicles through electrification is a demanding task due to their large energy and power requirements. One promising solution to address this problem are electric road systems (ERS), which provide dynamic charging and traction power for electric vehicles. While their technological feasibility has been proven in numerous pilot projects, its reliability under realistic traff...]]></summary>
+        <author>
+            <name>Kil Young Lee</name>
+        </author>
+        <author>
+            <name>Florian Bühs</name>
+        </author>
+        <author>
+            <name>Dietmar Göhlich</name>
+        </author>
+        <author>
+            <name>Sangyoung Park</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Enhanced Backtracking Search Algorithm for the Flight Planning of a Multi-Drones-Assisted Commercial Parcel Delivery System]]></title>
+        <id>https://ieeexplore.ieee.org/document/10149142</id>
+        <link href="https://ieeexplore.ieee.org/document/10149142"/>
+        <updated>2023-06-13T01:10:50.889Z</updated>
+        <summary type="html"><![CDATA[Using drones to carry out commercial parcel delivery can significantly promote the transformation and upgrading of the logistics industry thanks to the saving of human labor source, which is becoming a new component of intelligent transportation systems. However, the flight distance of drones is often constrained due to the limited battery capacity. To address this challenge, this paper designs a ...]]></summary>
+        <author>
+            <name>Yiying Zhang</name>
+        </author>
+        <author>
+            <name>Guanzhong Zhou</name>
+        </author>
+        <author>
+            <name>Peng Hang</name>
+        </author>
+        <author>
+            <name>Chao Huang</name>
+        </author>
+        <author>
+            <name>Hailong Huang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Upper Bounds of Cellular Vehicle-to-Vehicle Communication Latency for Platoon-Based Autonomous Driving]]></title>
+        <id>https://ieeexplore.ieee.org/document/10149027</id>
+        <link href="https://ieeexplore.ieee.org/document/10149027"/>
+        <updated>2023-06-13T01:10:50.889Z</updated>
+        <summary type="html"><![CDATA[Cellular vehicle-to-vehicle (V2V) communications can support advanced cooperative driving applications such as vehicle platooning and extended sensing. As the safety critical applications require ultra-low communication latency and deterministic service guarantee, it is vital to characterize the latency upper bound of cellular V2V communications. However, the contention-based Medium Access Control...]]></summary>
+        <author>
+            <name>Xiaosha Chen</name>
+        </author>
+        <author>
+            <name>Supeng Leng</name>
+        </author>
+        <author>
+            <name>Jianhua He</name>
+        </author>
+        <author>
+            <name>Longyu Zhou</name>
+        </author>
+        <author>
+            <name>Hao Liu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adaptive and Simultaneous Trajectory Prediction for Heterogeneous Agents via Transferable Hierarchical Transformer Network]]></title>
+        <id>https://ieeexplore.ieee.org/document/10149109</id>
+        <link href="https://ieeexplore.ieee.org/document/10149109"/>
+        <updated>2023-06-13T01:10:50.889Z</updated>
+        <summary type="html"><![CDATA[Simultaneously and accurately predicting trajectories of multiple heterogeneous agents is crucial for intelligent transportation systems (ITS) applications, e.g., connected and autonomous vehicles. Existing model-based and data-driven methods can achieve good prediction accuracy, but most of them neglect the domain shift issue and prevalent imperfect data problems, i.e., few-shot learning and zero...]]></summary>
+        <author>
+            <name>Maosi Geng</name>
+        </author>
+        <author>
+            <name>Junyi Li</name>
+        </author>
+        <author>
+            <name>Chuangjia Li</name>
+        </author>
+        <author>
+            <name>Ningke Xie</name>
+        </author>
+        <author>
+            <name>Xiqun Chen</name>
+        </author>
+        <author>
+            <name>Der-Horng Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maximal Weighted Coverage Deployment of UAV-Enabled Rechargeable Visual Sensor Networks]]></title>
+        <id>https://ieeexplore.ieee.org/document/10149148</id>
+        <link href="https://ieeexplore.ieee.org/document/10149148"/>
+        <updated>2023-06-13T01:10:50.889Z</updated>
+        <summary type="html"><![CDATA[Due to the generation and transmission of video data, the high energy consumption rates of wireless nodes result in short lifetime of a visual sensor network, which has been commonly deployed in 3D space. In many applications, lots of targets need to be covered, but the budgets of both deployment and maintenance are limited. Therefore, how to maximize total weighted target coverage while prolongin...]]></summary>
+        <author>
+            <name>Xiaojian Zhu</name>
+        </author>
+        <author>
+            <name>MengChu Zhou</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Novel Ship Speed and Heading Estimation Approach Using Radar Sequential Images]]></title>
+        <id>https://ieeexplore.ieee.org/document/10149135</id>
+        <link href="https://ieeexplore.ieee.org/document/10149135"/>
+        <updated>2023-06-13T01:10:50.889Z</updated>
+        <summary type="html"><![CDATA[This paper proposes an approach to estimate ship dynamic features (i.e., speed and heading) using radar sequential images, which can be used to assess the ship-ship collision risk in vessel traffic service (VTS) center. The proposed approach estimates the ship speed and heading in three steps, including ship detection, tracking, and data fusion. First, the ship target, together with its center coo...]]></summary>
+        <author>
+            <name>Xueqian Xu</name>
+        </author>
+        <author>
+            <name>Bing Wu</name>
+        </author>
+        <author>
+            <name>Lei Xie</name>
+        </author>
+        <author>
+            <name>Ângelo P. Teixeira</name>
+        </author>
+        <author>
+            <name>Xinping Yan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Connectivity Aware Path Planning for a Fleet of UAVs in an Urban Environment]]></title>
+        <id>https://ieeexplore.ieee.org/document/10149137</id>
+        <link href="https://ieeexplore.ieee.org/document/10149137"/>
+        <updated>2023-06-13T01:10:50.889Z</updated>
+        <summary type="html"><![CDATA[Unmanned Aerial Vehicles (UAVs) are known for their highly dynamic nature, as a result of which their applications demand high design consideration in urban areas. It is imperative to have trajectories that avoid UAV-to-UAV and UAV-to-obstacle collision to ensure the safety of a fleet and people on the ground. Moreover, many applications, like temporary network provision, require continuous backha...]]></summary>
+        <author>
+            <name>Nouman Bashir</name>
+        </author>
+        <author>
+            <name>Saadi Boudjit</name>
+        </author>
+        <author>
+            <name>Gabriel Dauphin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Novel Scalable Framework to Reconstruct Vehicular Trajectories From Unreliable GPS Datasets]]></title>
         <id>https://ieeexplore.ieee.org/document/10147029</id>

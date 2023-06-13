@@ -1,5 +1,264 @@
 [
   {
+    "articleNumber": "10149114",
+    "articleTitle": "Pedestrian Behavior Prediction Using Deep Learning Methods for Urban Scenarios: A Review",
+    "authors": [
+      "Chi Zhang",
+      "Christian Berger"
+    ],
+    "abstract": "The prediction of pedestrian behavior is essential for automated driving in urban traffic and has attracted increasing attention in the vehicle industry. This task is challenging because pedestrian behavior is driven by various factors, including their individual properties, the interactions with other road users, and the interactions with the environment. Deep learning approaches have become incr...",
+    "date": "2023-06-13T01:10:50.889Z"
+  },
+  {
+    "articleNumber": "10149136",
+    "articleTitle": "Optimal Trajectory Planning for Mitigated Motion Sickness: Simulator Study Assessment",
+    "authors": [
+      "Vishrut Jain",
+      "Sandeep Suresh Kumar",
+      "Georgios Papaioannou",
+      "Riender Happee",
+      "Barys Shyrokau"
+    ],
+    "abstract": "In the transition from partial to high automation, occupants will no longer be actively involved in driving. This will allow the use of travel time for work or leisure, where high comfort levels preventing motion sickness are required. In this paper, an optimal trajectory planning algorithm is presented in order to minimise motion sickness in automated vehicles. A predefined path is provided as an...",
+    "date": "2023-06-13T01:10:50.889Z"
+  },
+  {
+    "articleNumber": "10149145",
+    "articleTitle": "Integral Sliding Mode Control-Based Robust Bidirectional Platoon Control of Vehicles With the Unknown Acceleration and Mismatched Disturbance",
+    "authors": [
+      "Junseok Boo",
+      "Dongkyoung Chwa"
+    ],
+    "abstract": "This paper proposes integral sliding mode control (ISMC)-based robust bidirectional platoon control methods in the longitudinal platoon for vehicles with unknown acceleration and mismatched disturbance. A finite time robust estimator (FTRE) is presented to estimate the practically unknown acceleration and mismatched disturbance of adjacent vehicles. In addition, the matched disturbance in the vehi...",
+    "date": "2023-06-13T01:10:50.889Z"
+  },
+  {
+    "articleNumber": "10149039",
+    "articleTitle": "Vehicle Trajectory-Based Traffic Volume Prediction on Urban Roads With Fast-Communication License Plate Recognition Data",
+    "authors": [
+      "Xiaofeng Shan",
+      "Weijie Yu",
+      "Zhibin Li",
+      "Chishe Wang",
+      "Yifeng Ren",
+      "Jiajie Zhang"
+    ],
+    "abstract": "Real-time traffic volume prediction is critical for proactive traffic control and road guidance via fast-communication networks. However, existing research relies on historical traffic volume and fails to consider vehicle travel route choices, leading to lower prediction accuracy and insufficient capture of real-time travel dynamics. To address this limitation, we propose a novel approach for real...",
+    "date": "2023-06-13T01:10:50.889Z"
+  },
+  {
+    "articleNumber": "10149130",
+    "articleTitle": "Human Inspired Autonomous Intersection Handling Using Game Theory",
+    "authors": [
+      "Keqi Shu",
+      "Reza Valiollahi Mehrizi",
+      "Shen Li",
+      "Mohammad Pirani",
+      "Amir Khajepour"
+    ],
+    "abstract": "Left turning for autonomous vehicles at intersections is challenging due to the various driving behaviors from different human drivers and the strong interaction between the autonomous vehicle and human traffic participants. This paper proposes a planning and decision making framework for intersection left-turning which considers the interaction between autonomous vehicles and human drivers as wel...",
+    "date": "2023-06-13T01:10:50.889Z"
+  },
+  {
+    "articleNumber": "10149131",
+    "articleTitle": "Coupling Control of Traffic Signal and Entry Lane at Isolated Intersections Under the Mixed-Autonomy Traffic Environment",
+    "authors": [
+      "Rongjian Dai",
+      "Chuan Ding",
+      "Xinkai Wu",
+      "Bin Yu",
+      "Guangquan Lu"
+    ],
+    "abstract": "There is a growing number of studies on the traffic control strategies of signal timings and vehicle trajectories at signalized intersections, while lane assignments are widely pre-specified and fixed. Meanwhile, existing strategies generally require a fully connected and automated vehicles (CAVs) environment. To fill up the gaps, this study contributes to a two-dimensional (spatiotemporal) contro...",
+    "date": "2023-06-13T01:10:50.889Z"
+  },
+  {
+    "articleNumber": "10149129",
+    "articleTitle": "Object SLAM With Robust Quadric Initialization and Mapping for Dynamic Outdoors",
+    "authors": [
+      "Rui Tian",
+      "Yunzhou Zhang",
+      "Zhenzhong Cao",
+      "Jinpeng Zhang",
+      "Linghao Yang",
+      "Sonya Coleman",
+      "Dermot Kerr",
+      "Kun Li"
+    ],
+    "abstract": "Object SLAM is a popular approach for autonomous driving and robotics, but accurate object perception in outdoor environments remains a challenge. State-of-the-art object SLAM algorithms rely on assumptions and are sensitive to observation noise, limiting their application in real-world scenarios. To address these challenges, we propose a novel object SLAM system that utilizes a quadric initializa...",
+    "date": "2023-06-13T01:10:50.889Z"
+  },
+  {
+    "articleNumber": "10149147",
+    "articleTitle": "Mining the Critical Factors of Hazardous Material Road Transportation Accidents From Chinese Investigation Reports",
+    "authors": [
+      "Zi-Jian Ni",
+      "Qi Zhang"
+    ],
+    "abstract": "Rather than reducing losses after an accident, identifying critical accident factors is a better approach because it can be used to prevent accidents. Hazard materials (HAZMAT) road transportation is a complex sociotechnical system that involves three major procedures. Staff, vehicles, and tanks directly participate in this transport system, while different companies and government departments man...",
+    "date": "2023-06-13T01:10:50.889Z"
+  },
+  {
+    "articleNumber": "10149132",
+    "articleTitle": "DataFITS: A Heterogeneous Data Fusion Framework for Traffic and Incident Prediction",
+    "authors": [
+      "Philipp Zißner",
+      "Paulo H. L. Rettore",
+      "Bruno P. Santos",
+      "Johannes F. Loevenich",
+      "Roberto Rigolin F. Lopes"
+    ],
+    "abstract": "This paper introduces DataFITS (Data Fusion on Intelligent Transportation System), an open-source framework that collects and fuses traffic-related data from various sources, creating a comprehensive dataset. We hypothesize that a heterogeneous data fusion framework can enhance information coverage and quality for traffic models, increasing the efficiency and reliability of Intelligent Transportat...",
+    "date": "2023-06-13T01:10:50.889Z"
+  },
+  {
+    "articleNumber": "10149133",
+    "articleTitle": "Fast One-to-Many Multicriteria Shortest Path Search",
+    "authors": [
+      "Temirlan Kurbanov",
+      "Marek Cuchý",
+      "Jiří Vokřínek"
+    ],
+    "abstract": "Shortest path problem has been successfully applied in numerous domains. Unfortunately, its complexity increases drastically when several objective criteria must be considered. Apart from the relatively slow classic search algorithms, attempts to accelerate multicriteria shortest path search are mostly represented by goal-directed one-to-one search methods and pruning heuristics. The one-to-many v...",
+    "date": "2023-06-13T01:10:50.889Z"
+  },
+  {
+    "articleNumber": "10149141",
+    "articleTitle": "Latent Hazard Notification for Highly Automated Driving: Expected Safety Benefits and Driver Behavioral Adaptation",
+    "authors": [
+      "Qingkun Li",
+      "Yizi Su",
+      "Wenjun Wang",
+      "Zhenyuan Wang",
+      "Jibo He",
+      "Guofa Li",
+      "Chao Zeng",
+      "Bo Cheng"
+    ],
+    "abstract": "Although latent hazard notification for highly automated driving is expected to enhance traffic safety, its practical effects have yet to be verified. This study systemically investigated the expected safety benefits and driver behavioral adaptation based on structural equation modeling. First, we developed a notification system to inform drivers of latent hazards with auditory alerts and conducte...",
+    "date": "2023-06-13T01:10:50.889Z"
+  },
+  {
+    "articleNumber": "10149139",
+    "articleTitle": "Detecting State of Charge False Reporting Attacks via Reinforcement Learning Approach",
+    "authors": [
+      "Mhd Ali Alomrani",
+      "Mosaddek Hossain Kamal Tushar",
+      "Deepa Kundur"
+    ],
+    "abstract": "The increased push for green transportation has been apparent to address the alarming increase in atmospheric  ${CO}_2$  levels, especially in the last five years. The success and popularity of Electric Vehicles (EVs) have led many carmakers to shift to developing clean cars in the next decade. Moreover, many countries around the globe have set aggressive EV target adoption numbers, with some even...",
+    "date": "2023-06-13T01:10:50.889Z"
+  },
+  {
+    "articleNumber": "10149110",
+    "articleTitle": "A Path Increment Map Matching Method for High-Frequency Trajectory",
+    "authors": [
+      "Wang Haoyan",
+      "Liu Yuangang",
+      "Li Shaohua",
+      "Liang Bo",
+      "He Zongyi"
+    ],
+    "abstract": "Aiming at the problems of low matching accuracy and slow matching speed of high-frequency trajectory data in complex urban road networks, this paper proposes a matching method based on path increment. This method consists of two parts: combined filtering and incremental matching. Firstly, the road network is simplified through combined filtering, and then the incremental matching is carried out by...",
+    "date": "2023-06-13T01:10:50.889Z"
+  },
+  {
+    "articleNumber": "10149134",
+    "articleTitle": "Deep Reinforcement Learning Assisted Beam Tracking and Data Transmission for 5G V2X Networks",
+    "authors": [
+      "Junliang Ye",
+      "Hamid Gharavi"
+    ],
+    "abstract": "Beam tracking is a core issue in 5G vehicle-to-everything (V2X) networks. Specifically, higher beamforming gain is required to compensate for the path loss at higher frequencies, e.g., 5G FR2, to realize high data rate vehicle-to-infrastructure (V2I) communications. However, shorter time slots at higher frequencies, high velocity of vehicles, and unpredictable localization errors make this problem...",
+    "date": "2023-06-13T01:10:50.889Z"
+  },
+  {
+    "articleNumber": "10149138",
+    "articleTitle": "Towards Reliable Design and Operation of Electric Road Systems for Heavy-Duty Vehicles Under Realistic Traffic Scenarios",
+    "authors": [
+      "Kil Young Lee",
+      "Florian Bühs",
+      "Dietmar Göhlich",
+      "Sangyoung Park"
+    ],
+    "abstract": "Decarbonizing heavy-duty vehicles through electrification is a demanding task due to their large energy and power requirements. One promising solution to address this problem are electric road systems (ERS), which provide dynamic charging and traction power for electric vehicles. While their technological feasibility has been proven in numerous pilot projects, its reliability under realistic traff...",
+    "date": "2023-06-13T01:10:50.889Z"
+  },
+  {
+    "articleNumber": "10149142",
+    "articleTitle": "An Enhanced Backtracking Search Algorithm for the Flight Planning of a Multi-Drones-Assisted Commercial Parcel Delivery System",
+    "authors": [
+      "Yiying Zhang",
+      "Guanzhong Zhou",
+      "Peng Hang",
+      "Chao Huang",
+      "Hailong Huang"
+    ],
+    "abstract": "Using drones to carry out commercial parcel delivery can significantly promote the transformation and upgrading of the logistics industry thanks to the saving of human labor source, which is becoming a new component of intelligent transportation systems. However, the flight distance of drones is often constrained due to the limited battery capacity. To address this challenge, this paper designs a ...",
+    "date": "2023-06-13T01:10:50.889Z"
+  },
+  {
+    "articleNumber": "10149027",
+    "articleTitle": "The Upper Bounds of Cellular Vehicle-to-Vehicle Communication Latency for Platoon-Based Autonomous Driving",
+    "authors": [
+      "Xiaosha Chen",
+      "Supeng Leng",
+      "Jianhua He",
+      "Longyu Zhou",
+      "Hao Liu"
+    ],
+    "abstract": "Cellular vehicle-to-vehicle (V2V) communications can support advanced cooperative driving applications such as vehicle platooning and extended sensing. As the safety critical applications require ultra-low communication latency and deterministic service guarantee, it is vital to characterize the latency upper bound of cellular V2V communications. However, the contention-based Medium Access Control...",
+    "date": "2023-06-13T01:10:50.889Z"
+  },
+  {
+    "articleNumber": "10149109",
+    "articleTitle": "Adaptive and Simultaneous Trajectory Prediction for Heterogeneous Agents via Transferable Hierarchical Transformer Network",
+    "authors": [
+      "Maosi Geng",
+      "Junyi Li",
+      "Chuangjia Li",
+      "Ningke Xie",
+      "Xiqun Chen",
+      "Der-Horng Lee"
+    ],
+    "abstract": "Simultaneously and accurately predicting trajectories of multiple heterogeneous agents is crucial for intelligent transportation systems (ITS) applications, e.g., connected and autonomous vehicles. Existing model-based and data-driven methods can achieve good prediction accuracy, but most of them neglect the domain shift issue and prevalent imperfect data problems, i.e., few-shot learning and zero...",
+    "date": "2023-06-13T01:10:50.889Z"
+  },
+  {
+    "articleNumber": "10149148",
+    "articleTitle": "Maximal Weighted Coverage Deployment of UAV-Enabled Rechargeable Visual Sensor Networks",
+    "authors": [
+      "Xiaojian Zhu",
+      "MengChu Zhou"
+    ],
+    "abstract": "Due to the generation and transmission of video data, the high energy consumption rates of wireless nodes result in short lifetime of a visual sensor network, which has been commonly deployed in 3D space. In many applications, lots of targets need to be covered, but the budgets of both deployment and maintenance are limited. Therefore, how to maximize total weighted target coverage while prolongin...",
+    "date": "2023-06-13T01:10:50.889Z"
+  },
+  {
+    "articleNumber": "10149135",
+    "articleTitle": "A Novel Ship Speed and Heading Estimation Approach Using Radar Sequential Images",
+    "authors": [
+      "Xueqian Xu",
+      "Bing Wu",
+      "Lei Xie",
+      "Ângelo P. Teixeira",
+      "Xinping Yan"
+    ],
+    "abstract": "This paper proposes an approach to estimate ship dynamic features (i.e., speed and heading) using radar sequential images, which can be used to assess the ship-ship collision risk in vessel traffic service (VTS) center. The proposed approach estimates the ship speed and heading in three steps, including ship detection, tracking, and data fusion. First, the ship target, together with its center coo...",
+    "date": "2023-06-13T01:10:50.889Z"
+  },
+  {
+    "articleNumber": "10149137",
+    "articleTitle": "A Connectivity Aware Path Planning for a Fleet of UAVs in an Urban Environment",
+    "authors": [
+      "Nouman Bashir",
+      "Saadi Boudjit",
+      "Gabriel Dauphin"
+    ],
+    "abstract": "Unmanned Aerial Vehicles (UAVs) are known for their highly dynamic nature, as a result of which their applications demand high design consideration in urban areas. It is imperative to have trajectories that avoid UAV-to-UAV and UAV-to-obstacle collision to ensure the safety of a fleet and people on the ground. Moreover, many applications, like temporary network provision, require continuous backha...",
+    "date": "2023-06-13T01:10:50.889Z"
+  },
+  {
     "articleNumber": "10147029",
     "articleTitle": "A Novel Scalable Framework to Reconstruct Vehicular Trajectories From Unreliable GPS Datasets",
     "authors": [

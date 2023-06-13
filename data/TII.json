@@ -1,5 +1,45 @@
 [
   {
+    "articleNumber": "10148828",
+    "articleTitle": "Non-Iterative Positive Constrained Control of Cable-Driven Parallel Robots",
+    "authors": [
+      "Adel Ameri",
+      "S. Mahdi Fazeli",
+      "Amir Molaei",
+      "Mohammad A. Khosravi",
+      "Masoud Hassani"
+    ],
+    "abstract": "In cable-driven parallel robots (CDPRs), the controller should generate positive output forces, as cables only support tensile forces. In fully-constrained CDPRs, positive tension distribution in cables is guaranteed using optimization-based techniques, which have unpredictable worst-case computation time. Furthermore, the optimization-based methods fail to handle situations where the initial pose...",
+    "date": "2023-06-13T01:11:11.509Z"
+  },
+  {
+    "articleNumber": "10148840",
+    "articleTitle": "Decision Fusion Scheme Based on Mode Decomposition and Evidence Theory for Fault Diagnosis of Drilling Process",
+    "authors": [
+      "Aoxue Yang",
+      "Min Wu",
+      "Chengda Lu",
+      "Wanke Yu",
+      "Jie Hu",
+      "Yosuke Nakanishi"
+    ],
+    "abstract": "Data-driven fault diagnosis methods have been widely applied at present. In actual processes, there usually exist multiple failure modes, the data frequency spectrum varies in different failure modes, which would bring challenges for feature extraction and subsequent fault diagnosis. In this paper, a decision fusion scheme based on mode decomposition and evidence theory is proposed for fault diagn...",
+    "date": "2023-06-13T01:11:11.509Z"
+  },
+  {
+    "articleNumber": "10148815",
+    "articleTitle": "A Fault Tolerant Control Scheme of Grid Connected VSI for Balanced Power Injection",
+    "authors": [
+      "Abanishwar Chakrabarti",
+      "Navonita Sharma",
+      "Prabir R. Kasari",
+      "Bikram Das",
+      "Sujit K. Biswas"
+    ],
+    "abstract": "A retrofit solution is proposed in this article for providing fault-tolerant capability in the existing three-leg grid synchronized converter operating at unity Displacement Factor, during open circuit fault of one of its phases. During such a fault, the scheme controls the current in the two operative phases of the converter for equal magnitude with a mutual phase shift of 60°. This 60° phase-shi...",
+    "date": "2023-06-13T01:11:11.509Z"
+  },
+  {
     "articleNumber": "10146475",
     "articleTitle": "Causal-Trivial Attention Graph Neural Network for Fault Diagnosis of Complex Industrial Processes",
     "authors": [

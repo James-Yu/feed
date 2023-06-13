@@ -1,5 +1,21 @@
 [
   {
+    "articleNumber": "10149041",
+    "articleTitle": "Knowledge Graph Contrastive Learning Based on Relation-Symmetrical Structure",
+    "authors": [
+      "Ke Liang",
+      "Yue Liu",
+      "Sihang Zhou",
+      "Wenxuan Tu",
+      "Yi Wen",
+      "Xihong Yang",
+      "Xiangjun Dong",
+      "Xinwang Liu"
+    ],
+    "abstract": "Knowledge graph embedding (KGE) aims at learning powerful representations to benefit various artificial intelligence applications. Meanwhile, contrastive learning has been widely leveraged in graph learning as an effective mechanism to enhance the discriminative capacity of the learned representations. However, the complex structures of KG make it hard to construct appropriate contrastive pairs. O...",
+    "date": "2023-06-13T01:10:56.155Z"
+  },
+  {
     "articleNumber": "10146484",
     "articleTitle": "Two-stage Asymmetric Similarity Preserving Hashing for Cross-modal Retrieval",
     "authors": [

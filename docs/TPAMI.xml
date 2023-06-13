@@ -2,11 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/TPAMI.rss</id>
     <title>IEEE Transactions on Pattern Analysis and Machine Intelligence</title>
-    <updated>2023-06-12T16:14:02.003Z</updated>
+    <updated>2023-06-13T01:11:01.780Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/TPAMI.rss"/>
     <subtitle>IEEE Transactions on Pattern Analysis and Machine Intelligence</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Fast Rolling Shutter Correction in the Wild]]></title>
+        <id>https://ieeexplore.ieee.org/document/10148802</id>
+        <link href="https://ieeexplore.ieee.org/document/10148802"/>
+        <updated>2023-06-13T01:11:01.775Z</updated>
+        <summary type="html"><![CDATA[This paper addresses the problem of rolling shutter correction (RSC) in uncalibrated videos. Existing works remove rolling shutter (RS) distortion by explicitly computing the camera motion and depth as intermediate products, followed by motion compensation. In contrast, we first show that each distorted pixel can be implicitly rectified back to the corresponding global shutter (GS) projection by r...]]></summary>
+        <author>
+            <name>Delin Qu</name>
+        </author>
+        <author>
+            <name>Bangyan Liao</name>
+        </author>
+        <author>
+            <name>Huiqing Zhang</name>
+        </author>
+        <author>
+            <name>Omar Ait-Aider</name>
+        </author>
+        <author>
+            <name>Yizhen Lao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unbiased Scene Graph Generation via Two-stage Causal Modeling]]></title>
+        <id>https://ieeexplore.ieee.org/document/10148798</id>
+        <link href="https://ieeexplore.ieee.org/document/10148798"/>
+        <updated>2023-06-13T01:11:01.775Z</updated>
+        <summary type="html"><![CDATA[Despite the impressive performance of recent unbiased Scene Graph Generation (SGG) methods, the current debiasing literature mainly focuses on the long-tailed distribution problem, whereas it overlooks another source of bias, i.e., semantic confusion, which makes the SGG model prone to yield false predictions for similar relationships. In this paper, we explore a debiasing procedure for the SGG ta...]]></summary>
+        <author>
+            <name>Shuzhou Sun</name>
+        </author>
+        <author>
+            <name>Shuaifeng Zhi</name>
+        </author>
+        <author>
+            <name>Qing Liao</name>
+        </author>
+        <author>
+            <name>Janne Heikkilä</name>
+        </author>
+        <author>
+            <name>Li Liu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HRegNet: A Hierarchical Network for Efficient and Accurate Outdoor LiDAR Point Cloud Registration]]></title>
+        <id>https://ieeexplore.ieee.org/document/10148795</id>
+        <link href="https://ieeexplore.ieee.org/document/10148795"/>
+        <updated>2023-06-13T01:11:01.775Z</updated>
+        <summary type="html"><![CDATA[Point cloud registration is a fundamental problem in 3D computer vision. Outdoor LiDAR point clouds are typically large-scale and complexly distributed, which makes the registration challenging. In this paper, we propose an efficient hierarchical network named HRegNet for large-scale outdoor LiDAR point cloud registration. Instead of using all points in the point clouds, HRegNet performs registrat...]]></summary>
+        <author>
+            <name>Fan Lu</name>
+        </author>
+        <author>
+            <name>Guang Chen</name>
+        </author>
+        <author>
+            <name>Yinlong Liu</name>
+        </author>
+        <author>
+            <name>Lijun Zhang</name>
+        </author>
+        <author>
+            <name>Sanqing Qu</name>
+        </author>
+        <author>
+            <name>Shu Liu</name>
+        </author>
+        <author>
+            <name>Rongqi Gu</name>
+        </author>
+        <author>
+            <name>Changjun Jiang</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learning Probabilistic Coordinate Fields for Robust Correspondences]]></title>
         <id>https://ieeexplore.ieee.org/document/10147320</id>

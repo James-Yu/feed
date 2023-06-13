@@ -1,5 +1,47 @@
 [
   {
+    "articleNumber": "10148802",
+    "articleTitle": "Fast Rolling Shutter Correction in the Wild",
+    "authors": [
+      "Delin Qu",
+      "Bangyan Liao",
+      "Huiqing Zhang",
+      "Omar Ait-Aider",
+      "Yizhen Lao"
+    ],
+    "abstract": "This paper addresses the problem of rolling shutter correction (RSC) in uncalibrated videos. Existing works remove rolling shutter (RS) distortion by explicitly computing the camera motion and depth as intermediate products, followed by motion compensation. In contrast, we first show that each distorted pixel can be implicitly rectified back to the corresponding global shutter (GS) projection by r...",
+    "date": "2023-06-13T01:11:01.775Z"
+  },
+  {
+    "articleNumber": "10148798",
+    "articleTitle": "Unbiased Scene Graph Generation via Two-stage Causal Modeling",
+    "authors": [
+      "Shuzhou Sun",
+      "Shuaifeng Zhi",
+      "Qing Liao",
+      "Janne Heikkilä",
+      "Li Liu"
+    ],
+    "abstract": "Despite the impressive performance of recent unbiased Scene Graph Generation (SGG) methods, the current debiasing literature mainly focuses on the long-tailed distribution problem, whereas it overlooks another source of bias, i.e., semantic confusion, which makes the SGG model prone to yield false predictions for similar relationships. In this paper, we explore a debiasing procedure for the SGG ta...",
+    "date": "2023-06-13T01:11:01.775Z"
+  },
+  {
+    "articleNumber": "10148795",
+    "articleTitle": "HRegNet: A Hierarchical Network for Efficient and Accurate Outdoor LiDAR Point Cloud Registration",
+    "authors": [
+      "Fan Lu",
+      "Guang Chen",
+      "Yinlong Liu",
+      "Lijun Zhang",
+      "Sanqing Qu",
+      "Shu Liu",
+      "Rongqi Gu",
+      "Changjun Jiang"
+    ],
+    "abstract": "Point cloud registration is a fundamental problem in 3D computer vision. Outdoor LiDAR point clouds are typically large-scale and complexly distributed, which makes the registration challenging. In this paper, we propose an efficient hierarchical network named HRegNet for large-scale outdoor LiDAR point cloud registration. Instead of using all points in the point clouds, HRegNet performs registrat...",
+    "date": "2023-06-13T01:11:01.775Z"
+  },
+  {
     "articleNumber": "10147320",
     "articleTitle": "Learning Probabilistic Coordinate Fields for Robust Correspondences",
     "authors": [
