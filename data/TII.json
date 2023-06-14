@@ -1,5 +1,54 @@
 [
   {
+    "articleNumber": "10151693",
+    "articleTitle": "Control System Level Intrusion Detection on J1939 Heavy-Duty Vehicle Buses",
+    "authors": [
+      "Camil Jichici",
+      "Adriana Berdich",
+      "Adrian Musuroi",
+      "Bogdan Groza"
+    ],
+    "abstract": "As the security vulnerabilities of Controller Area Networks (CAN) become well known, heavy-duty vehicles implementing the SAE J1939 specification layer on this bus are immediate targets. Recently released standards provide clear cybersecurity requirements, but the exact methods to be implemented are not specified and remain up to the manufacturers. In this work we address adversary actions and cou...",
+    "date": "2023-06-14T01:06:13.448Z"
+  },
+  {
+    "articleNumber": "10149470",
+    "articleTitle": "New Method of Edge Computing Based Data Adaptive Return in Internet of Vehicles",
+    "authors": [
+      "De-gan Zhang",
+      "Jie Zhang",
+      "Chen-hao Ni",
+      "Ting Zhang",
+      "Peng-zhen Zhao",
+      "Wen-miao Dong"
+    ],
+    "abstract": "Edge computing technology can be used to the Internet of Vehicles (IOV) to solve the mobile characteristics of vehicles and the limited communication range between roadside units and vehicles. New method of edge computing based data adaptive return in IOV is proposed in this paper. The transmission strategy can be determined by adaptive estimating the vehicle movement, the amount of data returned,...",
+    "date": "2023-06-14T01:06:13.448Z"
+  },
+  {
+    "articleNumber": "10151694",
+    "articleTitle": "Climate-Adaptive Transmission Network Expansion Planning Considering Evolutions of Resources",
+    "authors": [
+      "Yixuan Chen",
+      "Zongpeng Song",
+      "Yunhe Hou"
+    ],
+    "abstract": "Weather-sensitive resources are the main source of uncertainties in power systems. However, the unpredictable climate change further introduces ambiguity (i.e., unknown probability distribution) into the system, since the weather-sensitive resources would evolve with the climate and gradually exhibit a different probability distribution from the past in an uncertain manner. Lack of considering thi...",
+    "date": "2023-06-14T01:06:13.448Z"
+  },
+  {
+    "articleNumber": "10151691",
+    "articleTitle": "An Automatic Parameter Setting Variational Mode Decomposition Method for Vibration Signals",
+    "authors": [
+      "Aina Wang",
+      "Pan Qin",
+      "Xi-Ming Sun",
+      "Yingshun Li"
+    ],
+    "abstract": "Variational mode decomposition (VMD) provides a feasible approach to decompose vibration signals obtained from complex machinery for further applications. The mode frequency bandwidth control parameter and the total number of modes are critical parameters for VMD. Thus, optimally and automatically setting the two parameters is an essential issue for VMD for various practical vibration signal sourc...",
+    "date": "2023-06-14T01:06:13.448Z"
+  },
+  {
     "articleNumber": "10148828",
     "articleTitle": "Non-Iterative Positive Constrained Control of Cable-Driven Parallel Robots",
     "authors": [

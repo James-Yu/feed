@@ -1,5 +1,71 @@
 [
   {
+    "articleNumber": "10149528",
+    "articleTitle": "Graph Neural Network Meets Sparse Representation: Graph Sparse Neural Networks Via Exclusive Group Lasso",
+    "authors": [
+      "Bo Jiang",
+      "Beibei Wang",
+      "Si Chen",
+      "Jin Tang",
+      "Bin Luo"
+    ],
+    "abstract": "Existing GNNs usually conduct the layer-wise message propagation via the ‘full’ aggregation of all neighborhood information which are usually sensitive to the structural noises existed in the graphs, such as incorrect or undesired redundant edge connections. To overcome this issue, we propose to exploit Sparse Representation (SR) theory into GNNs and propose Graph Sparse Neural Networks (GSNNs) wh...",
+    "date": "2023-06-14T01:06:04.906Z"
+  },
+  {
+    "articleNumber": "10149489",
+    "articleTitle": "CIPS-3D++: End-to-End Real-Time High-Resolution 3D-Aware GANs for GAN Inversion and Stylization",
+    "authors": [
+      "Peng Zhou",
+      "Lingxi Xie",
+      "Bingbing Ni",
+      "Qi Tian"
+    ],
+    "abstract": "Style-based GANs achieve state-of-the-art results for generating high-quality images, but lack explicit and precise control over camera poses. Recently proposed NeRF-based GANs have made great progress towards 3D-aware image generation. However, the methods either rely on convolution operators which are not rotationally invariant, or utilize complex yet suboptimal training procedures to integrate ...",
+    "date": "2023-06-14T01:06:04.906Z"
+  },
+  {
+    "articleNumber": "10149393",
+    "articleTitle": "Few-Shot Multi-Agent Perception with Ranking-Based Feature Learning",
+    "authors": [
+      "Chenyou Fan",
+      "Junjie Hu",
+      "Jianwei Huang"
+    ],
+    "abstract": "In this article, we focus on performing few-shot learning (FSL) under multi-agent scenarios in which participating agents only have scarce labeled data and need to collaborate to predict labels of query observations. We aim at designing a coordination and learning framework in which multiple agents, such as drones and robots, can collectively perceive the environment accurately and efficiently und...",
+    "date": "2023-06-14T01:06:04.906Z"
+  },
+  {
+    "articleNumber": "10149455",
+    "articleTitle": "Vicinity Vision Transformer",
+    "authors": [
+      "Weixuan Sun",
+      "Zhen Qin",
+      "Hui Deng",
+      "Jianyuan Wang",
+      "Yi Zhang",
+      "Kaihao Zhang",
+      "Nick Barnes",
+      "Stan Birchfield",
+      "Lingpeng Kong",
+      "Yiran Zhong"
+    ],
+    "abstract": "Vision transformers have shown great success on numerous computer vision tasks. However, their central component, softmax attention, prohibits vision transformers from scaling up to high-resolution images, due to both the computational complexity and memory footprint being quadratic. Linear attention was introduced in natural language processing (NLP) which reorders the self-attention mechanism to...",
+    "date": "2023-06-14T01:06:04.906Z"
+  },
+  {
+    "articleNumber": "10149494",
+    "articleTitle": "Differentiable Logic Policy for Interpretable Deep Reinforcement Learning: A Study from an Optimization Perspective",
+    "authors": [
+      "Xin Li",
+      "Haojie Lei",
+      "Li Zhang",
+      "Mingzhong Wang"
+    ],
+    "abstract": "The interpretability of policies remains an important challenge in Deep Reinforcement Learning (DRL). This paper explores interpretable DRL via representing policy by Differentiable Inductive Logic Programming (DILP) and provides a theoretical and empirical study of DILP-based policy learning from an optimization perspective. We first identified a fundamental fact that DILP-based policy learning s...",
+    "date": "2023-06-14T01:06:04.906Z"
+  },
+  {
     "articleNumber": "10148802",
     "articleTitle": "Fast Rolling Shutter Correction in the Wild",
     "authors": [

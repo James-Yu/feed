@@ -1,5 +1,21 @@
 [
   {
+    "articleNumber": "10151673",
+    "articleTitle": "Spatio-Temporal Joint Graph Convolutional Networks for Traffic Forecasting",
+    "authors": [
+      "Chuanpan Zheng",
+      "Xiaoliang Fan",
+      "Shirui Pan",
+      "Haibing Jin",
+      "Zhaopeng Peng",
+      "Zonghan Wu",
+      "Cheng Wang",
+      "Philip S. Yu"
+    ],
+    "abstract": "Recent studies have shifted their focus towards formulating traffic forecasting as a spatio-temporal graph modeling problem. Typically, they constructed a static spatial graph at each time step and then connected each node with itself between adjacent time steps to create a spatio-temporal graph. However, this approach failed to explicitly reflect the correlations between different nodes at differ...",
+    "date": "2023-06-14T01:06:00.021Z"
+  },
+  {
     "articleNumber": "10149041",
     "articleTitle": "Knowledge Graph Contrastive Learning Based on Relation-Symmetrical Structure",
     "authors": [

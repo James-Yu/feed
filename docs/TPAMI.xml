@@ -2,11 +2,124 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/TPAMI.rss</id>
     <title>IEEE Transactions on Pattern Analysis and Machine Intelligence</title>
-    <updated>2023-06-13T16:14:57.905Z</updated>
+    <updated>2023-06-14T01:06:04.910Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/TPAMI.rss"/>
     <subtitle>IEEE Transactions on Pattern Analysis and Machine Intelligence</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Graph Neural Network Meets Sparse Representation: Graph Sparse Neural Networks Via Exclusive Group Lasso]]></title>
+        <id>https://ieeexplore.ieee.org/document/10149528</id>
+        <link href="https://ieeexplore.ieee.org/document/10149528"/>
+        <updated>2023-06-14T01:06:04.906Z</updated>
+        <summary type="html"><![CDATA[Existing GNNs usually conduct the layer-wise message propagation via the ‘full’ aggregation of all neighborhood information which are usually sensitive to the structural noises existed in the graphs, such as incorrect or undesired redundant edge connections. To overcome this issue, we propose to exploit Sparse Representation (SR) theory into GNNs and propose Graph Sparse Neural Networks (GSNNs) wh...]]></summary>
+        <author>
+            <name>Bo Jiang</name>
+        </author>
+        <author>
+            <name>Beibei Wang</name>
+        </author>
+        <author>
+            <name>Si Chen</name>
+        </author>
+        <author>
+            <name>Jin Tang</name>
+        </author>
+        <author>
+            <name>Bin Luo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CIPS-3D++: End-to-End Real-Time High-Resolution 3D-Aware GANs for GAN Inversion and Stylization]]></title>
+        <id>https://ieeexplore.ieee.org/document/10149489</id>
+        <link href="https://ieeexplore.ieee.org/document/10149489"/>
+        <updated>2023-06-14T01:06:04.906Z</updated>
+        <summary type="html"><![CDATA[Style-based GANs achieve state-of-the-art results for generating high-quality images, but lack explicit and precise control over camera poses. Recently proposed NeRF-based GANs have made great progress towards 3D-aware image generation. However, the methods either rely on convolution operators which are not rotationally invariant, or utilize complex yet suboptimal training procedures to integrate ...]]></summary>
+        <author>
+            <name>Peng Zhou</name>
+        </author>
+        <author>
+            <name>Lingxi Xie</name>
+        </author>
+        <author>
+            <name>Bingbing Ni</name>
+        </author>
+        <author>
+            <name>Qi Tian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Few-Shot Multi-Agent Perception with Ranking-Based Feature Learning]]></title>
+        <id>https://ieeexplore.ieee.org/document/10149393</id>
+        <link href="https://ieeexplore.ieee.org/document/10149393"/>
+        <updated>2023-06-14T01:06:04.906Z</updated>
+        <summary type="html"><![CDATA[In this article, we focus on performing few-shot learning (FSL) under multi-agent scenarios in which participating agents only have scarce labeled data and need to collaborate to predict labels of query observations. We aim at designing a coordination and learning framework in which multiple agents, such as drones and robots, can collectively perceive the environment accurately and efficiently und...]]></summary>
+        <author>
+            <name>Chenyou Fan</name>
+        </author>
+        <author>
+            <name>Junjie Hu</name>
+        </author>
+        <author>
+            <name>Jianwei Huang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vicinity Vision Transformer]]></title>
+        <id>https://ieeexplore.ieee.org/document/10149455</id>
+        <link href="https://ieeexplore.ieee.org/document/10149455"/>
+        <updated>2023-06-14T01:06:04.906Z</updated>
+        <summary type="html"><![CDATA[Vision transformers have shown great success on numerous computer vision tasks. However, their central component, softmax attention, prohibits vision transformers from scaling up to high-resolution images, due to both the computational complexity and memory footprint being quadratic. Linear attention was introduced in natural language processing (NLP) which reorders the self-attention mechanism to...]]></summary>
+        <author>
+            <name>Weixuan Sun</name>
+        </author>
+        <author>
+            <name>Zhen Qin</name>
+        </author>
+        <author>
+            <name>Hui Deng</name>
+        </author>
+        <author>
+            <name>Jianyuan Wang</name>
+        </author>
+        <author>
+            <name>Yi Zhang</name>
+        </author>
+        <author>
+            <name>Kaihao Zhang</name>
+        </author>
+        <author>
+            <name>Nick Barnes</name>
+        </author>
+        <author>
+            <name>Stan Birchfield</name>
+        </author>
+        <author>
+            <name>Lingpeng Kong</name>
+        </author>
+        <author>
+            <name>Yiran Zhong</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Differentiable Logic Policy for Interpretable Deep Reinforcement Learning: A Study from an Optimization Perspective]]></title>
+        <id>https://ieeexplore.ieee.org/document/10149494</id>
+        <link href="https://ieeexplore.ieee.org/document/10149494"/>
+        <updated>2023-06-14T01:06:04.906Z</updated>
+        <summary type="html"><![CDATA[The interpretability of policies remains an important challenge in Deep Reinforcement Learning (DRL). This paper explores interpretable DRL via representing policy by Differentiable Inductive Logic Programming (DILP) and provides a theoretical and empirical study of DILP-based policy learning from an optimization perspective. We first identified a fundamental fact that DILP-based policy learning s...]]></summary>
+        <author>
+            <name>Xin Li</name>
+        </author>
+        <author>
+            <name>Haojie Lei</name>
+        </author>
+        <author>
+            <name>Li Zhang</name>
+        </author>
+        <author>
+            <name>Mingzhong Wang</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fast Rolling Shutter Correction in the Wild]]></title>
         <id>https://ieeexplore.ieee.org/document/10148802</id>
