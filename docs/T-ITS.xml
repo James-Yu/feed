@@ -2,11 +2,99 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/T-ITS.rss</id>
     <title>IEEE Transactions on Intelligent Transportation Systems</title>
-    <updated>2023-06-14T16:15:29.482Z</updated>
+    <updated>2023-06-15T01:06:11.361Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/T-ITS.rss"/>
     <subtitle>IEEE Transactions on Intelligent Transportation Systems</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[AnchorPoint: Query Design for Transformer-Based 3D Object Detection and Tracking]]></title>
+        <id>https://ieeexplore.ieee.org/document/10153343</id>
+        <link href="https://ieeexplore.ieee.org/document/10153343"/>
+        <updated>2023-06-15T01:06:11.355Z</updated>
+        <summary type="html"><![CDATA[With the success of Transformers in natural language processing, object detection with Transformers (DETR) has attracted widespread attentions. In previous Transformer-based 2D detectors, the object queries are a set of learning embeddings. However, it is very hard to apply these detectors to the 3D domain due to the lack of explicit physical meanings and position priors of learned object queries....]]></summary>
+        <author>
+            <name>Hao Liu</name>
+        </author>
+        <author>
+            <name>Yanni Ma</name>
+        </author>
+        <author>
+            <name>Hanyun Wang</name>
+        </author>
+        <author>
+            <name>Chaobo Zhang</name>
+        </author>
+        <author>
+            <name>Yulan Guo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learning Ship Activity Patterns in Maritime Data Streams: Enhancing CEP Rule Learning by Temporal and Spatial Relations and Domain-Specific Functions]]></title>
+        <id>https://ieeexplore.ieee.org/document/10153334</id>
+        <link href="https://ieeexplore.ieee.org/document/10153334"/>
+        <updated>2023-06-15T01:06:11.355Z</updated>
+        <summary type="html"><![CDATA[Maritime surveillance systems are of particular importance for the smooth and safe operation of maritime traffic. Such systems must efficiently analyze the continuous stream of incoming ship movement data to provide an up-to-date picture of the situation at sea. Complex Event Processing (CEP) is a software technology dedicated to the analysis of data streams in real time and seems to be promising ...]]></summary>
+        <author>
+            <name>Ralf Bruns</name>
+        </author>
+        <author>
+            <name>Jürgen Dunkel</name>
+        </author>
+        <author>
+            <name>Serif Seremet</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vessel Monitoring in Emission Control Areas: A Preliminary Exploration of Rental-Based Operations]]></title>
+        <id>https://ieeexplore.ieee.org/document/10153445</id>
+        <link href="https://ieeexplore.ieee.org/document/10153445"/>
+        <updated>2023-06-15T01:06:11.355Z</updated>
+        <summary type="html"><![CDATA[In the context of establishing emission control areas (ECAs) in many ports to meet the challenges posed by air pollution, the use of drone-carrying sniffers to perform emission monitoring missions has become a new monitoring mode for ECAs. The operational management problem of drones in ECAs, namely, drone scheduling problem (DSP), is eliciting the attention of researchers. To consider the influen...]]></summary>
+        <author>
+            <name>Tian-Yu Zuo</name>
+        </author>
+        <author>
+            <name>Xiaosong Luo</name>
+        </author>
+        <author>
+            <name>Weishun Deng</name>
+        </author>
+        <author>
+            <name>Poly Z. H. Sun</name>
+        </author>
+        <author>
+            <name>Rob Law</name>
+        </author>
+        <author>
+            <name>Edmond Q. Wu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fuel Rate Prediction for Heavy-Duty Trucks]]></title>
+        <id>https://ieeexplore.ieee.org/document/10153345</id>
+        <link href="https://ieeexplore.ieee.org/document/10153345"/>
+        <updated>2023-06-15T01:06:11.355Z</updated>
+        <summary type="html"><![CDATA[Fuel cost contributes significantly to the high operation cost of heavy-duty trucks. Developing fuel rate prediction models is the cornerstone of fuel consumption optimization approaches for heavy-duty trucks. However, limited by accurate features directly related to the truck’s fuel consumption, state-of-the-art models show poor performance and are rarely deployed in practice. In this paper, we u...]]></summary>
+        <author>
+            <name>Liangkai Liu</name>
+        </author>
+        <author>
+            <name>Wei Li</name>
+        </author>
+        <author>
+            <name>Dawei Wang</name>
+        </author>
+        <author>
+            <name>Yi Wu</name>
+        </author>
+        <author>
+            <name>Ruigang Yang</name>
+        </author>
+        <author>
+            <name>Weisong Shi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pedestrian Behavior Prediction Using Deep Learning Methods for Urban Scenarios: A Review]]></title>
         <id>https://ieeexplore.ieee.org/document/10149114</id>

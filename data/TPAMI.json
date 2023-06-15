@@ -1,5 +1,40 @@
 [
   {
+    "articleNumber": "10151955",
+    "articleTitle": "PWLU: Learning Specialized Activation Functions with the Piecewise Linear Unit",
+    "authors": [
+      "Zezhou Zhu",
+      "Yucong Zhou",
+      "Yuan Dong",
+      "Zhao Zhong"
+    ],
+    "abstract": "The choice of activation functions is crucial to deep neural networks. ReLU is a popular hand-designed activation function. Swish, the automatically searched activation function, outperforms ReLU on many challenging datasets. However, the search method has two main drawbacks. First, the tree-based search space is highly discrete and restricted, which is difficult to search. Second, the sample-base...",
+    "date": "2023-06-15T01:06:20.775Z"
+  },
+  {
+    "articleNumber": "10151910",
+    "articleTitle": "Compositional Scene Representation Learning via Reconstruction: A Survey",
+    "authors": [
+      "Jinyang Yuan",
+      "Tonglin Chen",
+      "Bin Li",
+      "Xiangyang Xue"
+    ],
+    "abstract": "Visual scenes are composed of visual concepts and have the property of combinatorial explosion. An important reason for humans to efficiently learn from diverse visual scenes is the ability of compositional perception, and it is desirable for artificial intelligence to have similar abilities. Compositional scene representation learning is a task that enables such abilities. In recent years, variou...",
+    "date": "2023-06-15T01:06:20.775Z"
+  },
+  {
+    "articleNumber": "10152465",
+    "articleTitle": "CQ$^{+}$ Training: Minimizing Accuracy Loss in Conversion from Convolutional Neural Networks to Spiking Neural Networks",
+    "authors": [
+      "Zhanglu Yan",
+      "Jun Zhou",
+      "Weng-Fai Wong"
+    ],
+    "abstract": "Spiking neural networks (SNNs) are attractive for energy-constrained use-cases due to their binarized activation, eliminating the need for weight multiplication. However, its lag in accuracy compared to traditional convolutional network networks (CNNs) has limited its deployment. In this paper, we propose CQ+ training (extended ”clamped” and ”quantized” training), an SNN-compatible CNN training al...",
+    "date": "2023-06-15T01:06:20.775Z"
+  },
+  {
     "articleNumber": "10149528",
     "articleTitle": "Graph Neural Network Meets Sparse Representation: Graph Sparse Neural Networks Via Exclusive Group Lasso",
     "authors": [

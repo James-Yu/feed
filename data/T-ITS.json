@@ -1,5 +1,57 @@
 [
   {
+    "articleNumber": "10153343",
+    "articleTitle": "AnchorPoint: Query Design for Transformer-Based 3D Object Detection and Tracking",
+    "authors": [
+      "Hao Liu",
+      "Yanni Ma",
+      "Hanyun Wang",
+      "Chaobo Zhang",
+      "Yulan Guo"
+    ],
+    "abstract": "With the success of Transformers in natural language processing, object detection with Transformers (DETR) has attracted widespread attentions. In previous Transformer-based 2D detectors, the object queries are a set of learning embeddings. However, it is very hard to apply these detectors to the 3D domain due to the lack of explicit physical meanings and position priors of learned object queries....",
+    "date": "2023-06-15T01:06:11.355Z"
+  },
+  {
+    "articleNumber": "10153334",
+    "articleTitle": "Learning Ship Activity Patterns in Maritime Data Streams: Enhancing CEP Rule Learning by Temporal and Spatial Relations and Domain-Specific Functions",
+    "authors": [
+      "Ralf Bruns",
+      "Jürgen Dunkel",
+      "Serif Seremet"
+    ],
+    "abstract": "Maritime surveillance systems are of particular importance for the smooth and safe operation of maritime traffic. Such systems must efficiently analyze the continuous stream of incoming ship movement data to provide an up-to-date picture of the situation at sea. Complex Event Processing (CEP) is a software technology dedicated to the analysis of data streams in real time and seems to be promising ...",
+    "date": "2023-06-15T01:06:11.355Z"
+  },
+  {
+    "articleNumber": "10153445",
+    "articleTitle": "Vessel Monitoring in Emission Control Areas: A Preliminary Exploration of Rental-Based Operations",
+    "authors": [
+      "Tian-Yu Zuo",
+      "Xiaosong Luo",
+      "Weishun Deng",
+      "Poly Z. H. Sun",
+      "Rob Law",
+      "Edmond Q. Wu"
+    ],
+    "abstract": "In the context of establishing emission control areas (ECAs) in many ports to meet the challenges posed by air pollution, the use of drone-carrying sniffers to perform emission monitoring missions has become a new monitoring mode for ECAs. The operational management problem of drones in ECAs, namely, drone scheduling problem (DSP), is eliciting the attention of researchers. To consider the influen...",
+    "date": "2023-06-15T01:06:11.355Z"
+  },
+  {
+    "articleNumber": "10153345",
+    "articleTitle": "Fuel Rate Prediction for Heavy-Duty Trucks",
+    "authors": [
+      "Liangkai Liu",
+      "Wei Li",
+      "Dawei Wang",
+      "Yi Wu",
+      "Ruigang Yang",
+      "Weisong Shi"
+    ],
+    "abstract": "Fuel cost contributes significantly to the high operation cost of heavy-duty trucks. Developing fuel rate prediction models is the cornerstone of fuel consumption optimization approaches for heavy-duty trucks. However, limited by accurate features directly related to the truck’s fuel consumption, state-of-the-art models show poor performance and are rarely deployed in practice. In this paper, we u...",
+    "date": "2023-06-15T01:06:11.355Z"
+  },
+  {
     "articleNumber": "10149114",
     "articleTitle": "Pedestrian Behavior Prediction Using Deep Learning Methods for Urban Scenarios: A Review",
     "authors": [

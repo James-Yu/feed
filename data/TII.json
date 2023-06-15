@@ -1,5 +1,16 @@
 [
   {
+    "articleNumber": "10151900",
+    "articleTitle": "Conjoint Enhancement of VSG Dynamic Output Responses by Disturbance-Oriented Adaptive Parameters",
+    "authors": [
+      "Apurti Jain",
+      "Mukesh Kumar Pathak",
+      "Narayana Prasad Padhy"
+    ],
+    "abstract": "Virtual synchronous generator(VSG) is an encouraging concept to ensure provision of inertia, following large integration of renewable sources in system. However, apart from VSG contribution in improving system&#39;s frequency stability, it is also important to ensure long term robust and stable operation of VSG itself. In this regard, active power loop(APL) of VSG constituting variable control paramet...",
+    "date": "2023-06-15T01:06:29.257Z"
+  },
+  {
     "articleNumber": "10151693",
     "articleTitle": "Control System Level Intrusion Detection on J1939 Heavy-Duty Vehicle Buses",
     "authors": [

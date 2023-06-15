@@ -2,11 +2,392 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/IoTJ.rss</id>
     <title>IEEE Internet of Things Journal</title>
-    <updated>2023-06-14T16:15:43.620Z</updated>
+    <updated>2023-06-15T01:06:24.713Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/IoTJ.rss"/>
     <subtitle>IEEE Internet of Things Journal</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[SKAFS: Symmetric Key Authentication Protocol with Forward Secrecy for Edge Computing]]></title>
+        <id>https://ieeexplore.ieee.org/document/10153424</id>
+        <link href="https://ieeexplore.ieee.org/document/10153424"/>
+        <updated>2023-06-15T01:06:24.706Z</updated>
+        <summary type="html"><![CDATA[The IoT-edge-cloud paradigm enables resource-constrained IoT devices to offload their computation, thereby meeting the required quality-of-service for real-time applications. However, the deployment of IoT devices in public places such as smart cities exposes them to various security threats, including physical attacks. To address these security concerns, we propose a Physical Unclonable Function ...]]></summary>
+        <author>
+            <name>Mohamed Seifelnasr</name>
+        </author>
+        <author>
+            <name>Riham AlTawy</name>
+        </author>
+        <author>
+            <name>Amr Youssef</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Intelligent Edge Dual-Structure Ensemble Method for Data Stream Detection and Releasing]]></title>
+        <id>https://ieeexplore.ieee.org/document/10153419</id>
+        <link href="https://ieeexplore.ieee.org/document/10153419"/>
+        <updated>2023-06-15T01:06:24.706Z</updated>
+        <summary type="html"><![CDATA[Edge intelligence is a critical enabler of intelligent application services in the Internet of Things (IoT). However, due to complex environmental factors, edge devices are subject to constant dynamic changes, which can result in security threats and sensitive information leakage. Therefore, it is essential to investigate data stream online analysis and detection strategies and implement an online...]]></summary>
+        <author>
+            <name>Jiangjiang Zhang</name>
+        </author>
+        <author>
+            <name>Bei Gong</name>
+        </author>
+        <author>
+            <name>Qian Wang</name>
+        </author>
+        <author>
+            <name>Yong Wu</name>
+        </author>
+        <author>
+            <name>Guiping Zheng</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Backdoor-Resistant Public Data Integrity Verification Scheme based on Smart Contracts]]></title>
+        <id>https://ieeexplore.ieee.org/document/10153425</id>
+        <link href="https://ieeexplore.ieee.org/document/10153425"/>
+        <updated>2023-06-15T01:06:24.706Z</updated>
+        <summary type="html"><![CDATA[This paper analyzes existing smart contract-based public data integrity verification schemes and identifies certain weaknesses. First, the fair arbitration mechanism deployed in these schemes fails to meet the users’ requirements as it may not promptly notify users of data corruption or loss. Second, to ensure outsourced data confidentiality, existing data integrity schemes use a conventional encr...]]></summary>
+        <author>
+            <name>Shanshan Li</name>
+        </author>
+        <author>
+            <name>Chunxiang Xu</name>
+        </author>
+        <author>
+            <name>Yuan Zhang</name>
+        </author>
+        <author>
+            <name>Yicong Du</name>
+        </author>
+        <author>
+            <name>Anjia Yang</name>
+        </author>
+        <author>
+            <name>Xinsheng Wen</name>
+        </author>
+        <author>
+            <name>Kefei Chen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Workload-Aware Scheduling of Real-Time Jobs in Cloud Computing to Minimize Energy Consumption]]></title>
+        <id>https://ieeexplore.ieee.org/document/10153408</id>
+        <link href="https://ieeexplore.ieee.org/document/10153408"/>
+        <updated>2023-06-15T01:06:24.706Z</updated>
+        <summary type="html"><![CDATA[Cloud computing is a powerful paradigm that can provide high-quality computation services to customers. Because its energy consumption has a large effect on its service price, this study investigates how to minimize the energy consumption while achieving adequate response times for requested computations. Such a problem is formulated as a nonlinear integer program. By deriving a state transition e...]]></summary>
+        <author>
+            <name>Biao Hu</name>
+        </author>
+        <author>
+            <name>Yinbin Shi</name>
+        </author>
+        <author>
+            <name>Gang Chen</name>
+        </author>
+        <author>
+            <name>Zhengcai Cao</name>
+        </author>
+        <author>
+            <name>MengChu Zhou</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Access Control Method Against Unauthorized and Non-compliant Behaviors of Real-time Data in Industrial IoT]]></title>
+        <id>https://ieeexplore.ieee.org/document/10153417</id>
+        <link href="https://ieeexplore.ieee.org/document/10153417"/>
+        <updated>2023-06-15T01:06:24.706Z</updated>
+        <summary type="html"><![CDATA[There is a large amount of real-time data, e.g. measurement data and instructions, among controllers, sensors, and actuators in the industrial IoT. These data are vulnerable to unauthorized access and tampering. In addition, once the controller is controlled by malicious code, it may send out dangerous instruction that is not compliant with the preset control process, which seriously interferes wi...]]></summary>
+        <author>
+            <name>Jingpei Wang</name>
+        </author>
+        <author>
+            <name>Ming Zhu</name>
+        </author>
+        <author>
+            <name>Mohan Li</name>
+        </author>
+        <author>
+            <name>Yanbin Sun</name>
+        </author>
+        <author>
+            <name>Zhihong Tian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Layerwise Quantum Deep Reinforcement Learning for Joint Optimization of UAV Trajectory and Resource Allocation]]></title>
+        <id>https://ieeexplore.ieee.org/document/10153404</id>
+        <link href="https://ieeexplore.ieee.org/document/10153404"/>
+        <updated>2023-06-15T01:06:24.706Z</updated>
+        <summary type="html"><![CDATA[This study proposes a layerwise quantum-based deep reinforcement learning (LQ-DRL) method for optimizing continuous large space and time series problems using deep layer training. The actions in LQ-DRL are optimized using a layerwise quantum embedding that leverages the advantages of quantum computing to maximize reward and reduce training loss. Moreover, this study employs a local loss to minimiz...]]></summary>
+        <author>
+            <name>Silvirianti</name>
+        </author>
+        <author>
+            <name>Bhaskara Narottama</name>
+        </author>
+        <author>
+            <name>Soo Young Shin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Estimation of Dispersive High-Doppler Channels in the RIS-Aided mmWave Internet of Vehicles]]></title>
+        <id>https://ieeexplore.ieee.org/document/10153406</id>
+        <link href="https://ieeexplore.ieee.org/document/10153406"/>
+        <updated>2023-06-15T01:06:24.706Z</updated>
+        <summary type="html"><![CDATA[Reconfigurable intelligent surfaces (RISs) have emerged as a promising candidate for improving the spectral-and energy-efficiency of millimeter-wave (mmWave) Internet of vehicles (IoV) communications, but the conception of their accurate channel estimation poses. Hence the existing estimation methods mainly focus on time-invariant channels, while ignoring the Doppler effect induced by the high-vel...]]></summary>
+        <author>
+            <name>Jiaxin Chen</name>
+        </author>
+        <author>
+            <name>Wenqian Shen</name>
+        </author>
+        <author>
+            <name>Shixun Luo</name>
+        </author>
+        <author>
+            <name>Siqi Ma</name>
+        </author>
+        <author>
+            <name>Chengwen Xing</name>
+        </author>
+        <author>
+            <name>Lajos Hanzo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IoT Privacy-preserving Data Mining with Dynamic Incentive Mechanism]]></title>
+        <id>https://ieeexplore.ieee.org/document/10153418</id>
+        <link href="https://ieeexplore.ieee.org/document/10153418"/>
+        <updated>2023-06-15T01:06:24.706Z</updated>
+        <summary type="html"><![CDATA[With the rise of the Internet of Things (IoT), IoT data analytics has gradually stepping into the spotlight of data mining. Existing research has primarily focused on enhancing the precision of IoT data mining, while the privacy protection aspects have not been fulfilled so far. The deployment of IoT data mining is contingent on the protection of data privacy and its economic worth to all parties....]]></summary>
+        <author>
+            <name>Yuan Gao</name>
+        </author>
+        <author>
+            <name>Liquan Chen</name>
+        </author>
+        <author>
+            <name>Jinguang Han</name>
+        </author>
+        <author>
+            <name>Ge Wu</name>
+        </author>
+        <author>
+            <name>Willy Susilo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Latency Minimization for Wireless Federated Learning with Heterogeneous Local Model Updates]]></title>
+        <id>https://ieeexplore.ieee.org/document/10153411</id>
+        <link href="https://ieeexplore.ieee.org/document/10153411"/>
+        <updated>2023-06-15T01:06:24.706Z</updated>
+        <summary type="html"><![CDATA[In this paper, we study the latency minimization problem for a wireless federated learning (FL) system with heterogeneous computation capability, where different edge devices perform different numbers of local model updates in each communication round. We formulate a total latency minimization problem with probabilistic device selection, taking into account both the communication and computation l...]]></summary>
+        <author>
+            <name>Jingyang Zhu</name>
+        </author>
+        <author>
+            <name>Yuanming Shi</name>
+        </author>
+        <author>
+            <name>Min Fu</name>
+        </author>
+        <author>
+            <name>Yong Zhou</name>
+        </author>
+        <author>
+            <name>Youlong Wu</name>
+        </author>
+        <author>
+            <name>Liqun Fu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamic Decision Tree Ensembles for Energy-Efficient Inference on IoT Edge Nodes]]></title>
+        <id>https://ieeexplore.ieee.org/document/10153433</id>
+        <link href="https://ieeexplore.ieee.org/document/10153433"/>
+        <updated>2023-06-15T01:06:24.706Z</updated>
+        <summary type="html"><![CDATA[With the increasing popularity of Internet of Things (IoT) devices, there is a growing need for energy-efficient Machine Learning (ML) models that can run on constrained edge nodes. Decision tree ensembles, such as Random Forests (RFs) and Gradient Boosting (GBTs), are particularly suited for this task, given their relatively low complexity compared to other alternatives. However, their inference ...]]></summary>
+        <author>
+            <name>Francesco Daghero</name>
+        </author>
+        <author>
+            <name>Alessio Burrello</name>
+        </author>
+        <author>
+            <name>Enrico Macii</name>
+        </author>
+        <author>
+            <name>Paolo Montuschi</name>
+        </author>
+        <author>
+            <name>Massimo Poncino</name>
+        </author>
+        <author>
+            <name>Daniele Jahier Pagliari</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fast Adaptive Task Offloading and Resource Allocation in Large-Scale MEC Systems via Multi-Agent Graph Reinforcement Learning]]></title>
+        <id>https://ieeexplore.ieee.org/document/10153416</id>
+        <link href="https://ieeexplore.ieee.org/document/10153416"/>
+        <updated>2023-06-15T01:06:24.706Z</updated>
+        <summary type="html"><![CDATA[In multi-access edge computing, when many mobile devices (MDs) offload their tasks to an edge server (ES), its resources might become constrained. These tasks may take a long time to complete or even be thrown away. Since the unknown information of both the ESs and other MDs, it is difficult for each MD to determine its offloading policy independently. Furthermore, most offloading methods have poo...]]></summary>
+        <author>
+            <name>Zhen Gao</name>
+        </author>
+        <author>
+            <name>Lei Yang</name>
+        </author>
+        <author>
+            <name>Yu Dai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MLCNNwav: Multi-level Convolutional Neural Network with Wavelet Transformations for Sensor-based Human Activity Recognition]]></title>
+        <id>https://ieeexplore.ieee.org/document/10153422</id>
+        <link href="https://ieeexplore.ieee.org/document/10153422"/>
+        <updated>2023-06-15T01:06:24.706Z</updated>
+        <summary type="html"><![CDATA[Human activity recognition (HAR) is a rapidly growing field of research that aims to automatically identify and classify human motions and activities from different tracking devices, such as cameras and sensors. One of the most widely used sensor modalities for HAR is the smartphone, which has various sensors, such as gyroscopes, accelerometers, and GPS, that can provide rich information about a p...]]></summary>
+        <author>
+            <name>Abdelghani Dahou</name>
+        </author>
+        <author>
+            <name>Mohammed A. A. Al-qaness</name>
+        </author>
+        <author>
+            <name>Mohamed Abd Elaziz</name>
+        </author>
+        <author>
+            <name>Ahmed M. Helmi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Federated Learning over Wireless Networks: Challenges and Solutions]]></title>
+        <id>https://ieeexplore.ieee.org/document/10153432</id>
+        <link href="https://ieeexplore.ieee.org/document/10153432"/>
+        <updated>2023-06-15T01:06:24.706Z</updated>
+        <summary type="html"><![CDATA[Motivated by ever-increasing computational resources at edge devices and increasing privacy concerns, a new machine learning framework called Federated Learning (FL) has been proposed. FL enables user devices, such as mobile and Internet of Things (IoT) devices, to collaboratively train a machine learning model by only sending the model parameters instead of raw data. FL is considered the key enab...]]></summary>
+        <author>
+            <name>Mahdi Beitollahi</name>
+        </author>
+        <author>
+            <name>Ning Lu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Non-Intrusive Driving Behavior Characterization From Road-Side Cameras]]></title>
+        <id>https://ieeexplore.ieee.org/document/10153396</id>
+        <link href="https://ieeexplore.ieee.org/document/10153396"/>
+        <updated>2023-06-15T01:06:24.706Z</updated>
+        <summary type="html"><![CDATA[In this paper, we demonstrate that Deep Learning (DL) and spatiotemporal reasoning can effectively identify driving behavior based on the videos captured by roadside cameras. The use of roadside infrastructure for such determination is twofold: (1) a global view of the vehicles and their interactions, and (2) no involvement or awareness of the vehicles or their drivers, so the determination is ine...]]></summary>
+        <author>
+            <name>Pavana Pradeep Kumar</name>
+        </author>
+        <author>
+            <name>Krishna Kant</name>
+        </author>
+        <author>
+            <name>Amitangshu Pal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Variant Parallelism: Lightweight Deep Convolutional Models for Distributed Inference on IoT Devices]]></title>
+        <id>https://ieeexplore.ieee.org/document/10153399</id>
+        <link href="https://ieeexplore.ieee.org/document/10153399"/>
+        <updated>2023-06-15T01:06:24.706Z</updated>
+        <summary type="html"><![CDATA[Two major techniques are commonly used to meet real-time inference limitations when distributing models across resource-constrained IoT devices: (1) model parallelism () and (2) class parallelism (). In, transmitting bulky intermediate data (orders of magnitude larger than input) between devices imposes huge communication overhead. Although solves this problem, it has limitations on the number of ...]]></summary>
+        <author>
+            <name>Navidreza Asadi</name>
+        </author>
+        <author>
+            <name>Maziar Goudarzi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Reliable Physical Layer Key Generation Scheme Based on RSS and LSTM Network in VANET]]></title>
+        <id>https://ieeexplore.ieee.org/document/10153426</id>
+        <link href="https://ieeexplore.ieee.org/document/10153426"/>
+        <updated>2023-06-15T01:06:24.706Z</updated>
+        <summary type="html"><![CDATA[With the rapid development of information and communication technology, Vehicular AD hoc Networks (VANET) has attracted more and more attention. In order to provide traffic safety services, vehicles frequently share information related to road traffic, such as vehicle motion data and traffic flow data. Reliable key generation is the basis of VANET security system construction. At present, most key...]]></summary>
+        <author>
+            <name>Zhihua Wang</name>
+        </author>
+        <author>
+            <name>Yu Liu</name>
+        </author>
+        <author>
+            <name>Jiarui Wang</name>
+        </author>
+        <author>
+            <name>Zeminghui Li</name>
+        </author>
+        <author>
+            <name>Zhenyu Li</name>
+        </author>
+        <author>
+            <name>Xiaolong Yang</name>
+        </author>
+        <author>
+            <name>Fazhi Qi</name>
+        </author>
+        <author>
+            <name>Hongyong Jia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Random Access Protocol for Massive Internet-of-Things Connectivity in Space-Air-Ground Integrated Networks]]></title>
+        <id>https://ieeexplore.ieee.org/document/10153409</id>
+        <link href="https://ieeexplore.ieee.org/document/10153409"/>
+        <updated>2023-06-15T01:06:24.706Z</updated>
+        <summary type="html"><![CDATA[Space-air-ground integrated networks (SAGIN) are receiving a lot of attention as a candidate for an extension to non-terrestrial networks beyond the limit of terrestrial networks. SAGIN can be a means to satisfy various quality-of-service (QoS) by providing several communication links in different characteristics. To fully utilize the advantage of SAGIN, a protocol for informing user equipment (UE...]]></summary>
+        <author>
+            <name>Joohan Park</name>
+        </author>
+        <author>
+            <name>Jiseung Youn</name>
+        </author>
+        <author>
+            <name>Joohyun Oh</name>
+        </author>
+        <author>
+            <name>Jeongju Im</name>
+        </author>
+        <author>
+            <name>Seyoung Ahn</name>
+        </author>
+        <author>
+            <name>Soohyeong Kim</name>
+        </author>
+        <author>
+            <name>Sunghyun Cho</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Joint Optimization of Deployment and Flight Planning of Multi-UAVs for Long-distance Data Collection from Large-scale IoT Devices]]></title>
+        <id>https://ieeexplore.ieee.org/document/10153427</id>
+        <link href="https://ieeexplore.ieee.org/document/10153427"/>
+        <updated>2023-06-15T01:06:24.706Z</updated>
+        <summary type="html"><![CDATA[Internet of Things (IoT) devices have been widely deployed to build smart cities. How to efficiently collect data from large-scale IoT devices is a valuable and challenging research topic. Benefiting from agility, flexibility, and deployability, an unmanned aerial vehicle (UAV) has great potential to be an aerial base station. However, given the limited battery capacity, the flight time of a UAV i...]]></summary>
+        <author>
+            <name>Yiying Zhang</name>
+        </author>
+        <author>
+            <name>Yue Huang</name>
+        </author>
+        <author>
+            <name>Chao Huang</name>
+        </author>
+        <author>
+            <name>Hailong Huang</name>
+        </author>
+        <author>
+            <name>Anh-Tu Nguyen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Multimodal High-order Relationship Inference Network for Fashion Compatibility Modeling in Internet of Multimedia Things]]></title>
         <id>https://ieeexplore.ieee.org/document/10149524</id>
@@ -21168,375 +21549,6 @@
         </author>
         <author>
             <name>Bo Yang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Universal Defense Strategy for Data-Driven Power System Stability Assessment Models Under Adversarial Examples]]></title>
-        <id>https://ieeexplore.ieee.org/document/9868826</id>
-        <link href="https://ieeexplore.ieee.org/document/9868826"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[Based on the machine learning (ML) technique, the data-driven power system stability assessment (SA) has received significant research interests in recent years. However, even with a high SA accuracy performance, the data-driven SA models may be vulnerable to adversarial examples (caused by some physical noises or adversarial attacks), which are very close to the original input but can result in a...]]></summary>
-        <author>
-            <name>Chao Ren</name>
-        </author>
-        <author>
-            <name>Yan Xu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smart Online Protection System for Power Transmission Towers: An IoT-Aided Design and Implementation]]></title>
-        <id>https://ieeexplore.ieee.org/document/9847229</id>
-        <link href="https://ieeexplore.ieee.org/document/9847229"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[Transmission lines and towers have a crucial role in guaranteeing power system reliability and stability. Presently, physical patrol by staff is the major protection method for transmission towers which is practically ineffective and might lead to undesired results due to environmental, climate, and human factors. This has motivated regional power utilities to search for a systematic and intellige...]]></summary>
-        <author>
-            <name>Hossein Tarahi</name>
-        </author>
-        <author>
-            <name>Hossein Haghighat</name>
-        </author>
-        <author>
-            <name>Naser Ghandhari</name>
-        </author>
-        <author>
-            <name>Farshad Adinehpour</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Radio Channel Measurements and Characterization in Substation Scenarios for Power Grid Internet of Things]]></title>
-        <id>https://ieeexplore.ieee.org/document/9847227</id>
-        <link href="https://ieeexplore.ieee.org/document/9847227"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[Wireless communication technologies play a key role to support the implementation of Power grid Internet of Things (PIoT). An in-depth knowledge of the radio channel is vital to the application of wireless communication technologies in PIoT. This article investigates the radio channel measurements and characterization for PIoT substation scenarios. A novel channel sounder is designed for achieving...]]></summary>
-        <author>
-            <name>Tao Zhou</name>
-        </author>
-        <author>
-            <name>Yiteng Lin</name>
-        </author>
-        <author>
-            <name>Zhichao Yang</name>
-        </author>
-        <author>
-            <name>Bo Ai</name>
-        </author>
-        <author>
-            <name>Liu Liu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Programmable Crypto-Control for IoT Networks: An Application in Networked Microgrids]]></title>
-        <id>https://ieeexplore.ieee.org/document/9844127</id>
-        <link href="https://ieeexplore.ieee.org/document/9844127"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[In collaborative networked microgrids (NMs), distributed energy resources (DERs) utilize intelligent Internet of Things (IoT)-based controllers to coordinately support various smart community functions. Meanwhile, privacy and security issues occur when IoT-based controllers interact with each other. This article presents a cryptography-based, programmable control (crypto-control) scheme to provabl...]]></summary>
-        <author>
-            <name>Lizhi Wang</name>
-        </author>
-        <author>
-            <name>Peng Zhang</name>
-        </author>
-        <author>
-            <name>Zefan Tang</name>
-        </author>
-        <author>
-            <name>Yanyuan Qin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Targeted Dissemination of Incident Information With Combinatorial Traffic-Communication Optimization]]></title>
-        <id>https://ieeexplore.ieee.org/document/9832423</id>
-        <link href="https://ieeexplore.ieee.org/document/9832423"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[The dissemination of traffic incident information (TII) will greatly help to decrease fuel consumption and congestion under future Internet of Vehicles (IoV) environments. Compared with the current semitargeted dissemination strategies of TII that focus on communication performance, we propose a complete targeted-dissemination strategy by jointly considering the impact of the dissemination on the ...]]></summary>
-        <author>
-            <name>Xuelian Cai</name>
-        </author>
-        <author>
-            <name>Hehe Zhang</name>
-        </author>
-        <author>
-            <name>Wenwei Yue</name>
-        </author>
-        <author>
-            <name>Yue Chen</name>
-        </author>
-        <author>
-            <name>Changle Li</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Double-Layer Optimization of Industrial-Park Energy System Based on Discrete Hybrid Automaton]]></title>
-        <id>https://ieeexplore.ieee.org/document/9830608</id>
-        <link href="https://ieeexplore.ieee.org/document/9830608"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[Combing advanced measurement infrastructure (AMI) and information and communications technology (ICT), the Internet of Things (IoT) has been widely used in the energy system. The continuous state modeling method cannot effectively deal with the various operation scenarios in the park multiple energy system. This article proposes a hybrid state system modeling method based on the discrete hybrid au...]]></summary>
-        <author>
-            <name>Di Qiu</name>
-        </author>
-        <author>
-            <name>Dong Liu</name>
-        </author>
-        <author>
-            <name>Fei Gao</name>
-        </author>
-        <author>
-            <name>Hai Lu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Electric Vehicle Charge Cycle Management System for ComEd Real-Time Pricing Scheme: An IoT Solution]]></title>
-        <id>https://ieeexplore.ieee.org/document/9828390</id>
-        <link href="https://ieeexplore.ieee.org/document/9828390"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[In this article, an electric vehicle (EV) charge cycle management system (CCMS) for ComEd real-time pricing (RTP) scheme is presented. It is an embedded system for an EV smart charger. As an energy management system, implemented system seeks to reduce charge cycle cost per kWh. Charge cycle management is performed in three steps: first, prices are forecasted along the available time horizon throug...]]></summary>
-        <author>
-            <name>Miguel Ángel Dávila Rojas</name>
-        </author>
-        <author>
-            <name>César Leonardo Trujillo Rodríguez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Evaluation for Risk of Cascading Failures in Power Grids by Inverse-Community Structure]]></title>
-        <id>https://ieeexplore.ieee.org/document/9817092</id>
-        <link href="https://ieeexplore.ieee.org/document/9817092"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[Recently, the development of the Internet of Things (IoT) enables more comprehensive and intelligent analysis and defense for cascading failures in power grids. This article summarizes power grids as temporal weighted networks (TWNs) which are different from conventional temporal networks. For TWN, the topological structure is fixed but weight distribution is time varying. Then it is noted that fo...]]></summary>
-        <author>
-            <name>Xiaoliang Wang</name>
-        </author>
-        <author>
-            <name>Fei Xue</name>
-        </author>
-        <author>
-            <name>Qigang Wu</name>
-        </author>
-        <author>
-            <name>Shaofeng Lu</name>
-        </author>
-        <author>
-            <name>Lin Jiang</name>
-        </author>
-        <author>
-            <name>Yue Hu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coordinative Optimization Between Multiple Data Center Operators and a System Operator Based on Two-Level Distributed Scheduling Algorithm]]></title>
-        <id>https://ieeexplore.ieee.org/document/9815044</id>
-        <link href="https://ieeexplore.ieee.org/document/9815044"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[Data centers (DCs) have been playing a significant role in demand response (DR) programs in recent years due to their considerable DR capability. DCs are in the charge of the DC operator (DCO), who is responsible for making a reasonable allocation of computing tasks to provide DR resources. To relieve the transmission pressure of power systems, the system operator (SO) encourages DCOs to participa...]]></summary>
-        <author>
-            <name>Ouzhu Han</name>
-        </author>
-        <author>
-            <name>Tao Ding</name>
-        </author>
-        <author>
-            <name>Chenggang Mu</name>
-        </author>
-        <author>
-            <name>Wenhao Jia</name>
-        </author>
-        <author>
-            <name>Zhoujun Ma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Cross-Domain Optimization Framework of PMU and Communication Placement for Multidomain Resiliency and Cost Reduction]]></title>
-        <id>https://ieeexplore.ieee.org/document/9803817</id>
-        <link href="https://ieeexplore.ieee.org/document/9803817"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[Phasor measurement units (PMUs) play a crucial role in real-time monitoring and control of power grids. They rely on a communication network to transfer measurement data to the phasor data concentrator (PDC) for further processing and analysis. In this article, a resilient cross-domain PMU and communication link placement method for minimizing the overall installation cost of the wide-area measure...]]></summary>
-        <author>
-            <name>Shamsun Nahar Edib</name>
-        </author>
-        <author>
-            <name>Yuzhang Lin</name>
-        </author>
-        <author>
-            <name>Vinod M. Vokkarane</name>
-        </author>
-        <author>
-            <name>Xiaoyuan Fan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Resiliency Metrics for Monitoring and Analysis of Cyber-Power Distribution System With IoTs]]></title>
-        <id>https://ieeexplore.ieee.org/document/9795924</id>
-        <link href="https://ieeexplore.ieee.org/document/9795924"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[The electric grid operation is constantly threatened with natural disasters and cyber intrusions. The introduction of Internet of Things (IoT)-based distributed energy resources (DERs) in the distribution system provides opportunities for flexible services to enable efficient, reliable, and resilient operation. At the same time, IoT-based DERs comes with cyber vulnerabilities and requires cyber-po...]]></summary>
-        <author>
-            <name>Partha S. Sarker</name>
-        </author>
-        <author>
-            <name>Sajan K. Sadanandan</name>
-        </author>
-        <author>
-            <name>Anurag K. Srivastava</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Data-Driven Automatic Generation Control of Interconnected Power Grids Subject to Deception Attacks]]></title>
-        <id>https://ieeexplore.ieee.org/document/9795689</id>
-        <link href="https://ieeexplore.ieee.org/document/9795689"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[In this article, a data-driven adaptive control (DDAC) technique is proposed for the automatic generation control (AGC) problem of an interconnected power grid subject to deception attack (DA). The emergence of the Internet of Things (IoT) and the advancement of communication technologies have provided an opportunity for power system operators and designers to compensate for the lack of an appropr...]]></summary>
-        <author>
-            <name>Yasin Asadi</name>
-        </author>
-        <author>
-            <name>Malihe Maghfoori Farsangi</name>
-        </author>
-        <author>
-            <name>Ali Moradi Amani</name>
-        </author>
-        <author>
-            <name>Ehsan Bijami</name>
-        </author>
-        <author>
-            <name>Hassan Haes Alhelou</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Contract-Based Charging Protocol for Electric Vehicles With Vehicular Fog Computing: An Integrated Charging and Computing Perspective]]></title>
-        <id>https://ieeexplore.ieee.org/document/9793844</id>
-        <link href="https://ieeexplore.ieee.org/document/9793844"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[Electric vehicles (EVs), one of the most effective solutions to reduce gas emission and realize fossil fuels replacement, are enjoying growing popularity from governments to customers. The development of EVs leads to significant advances in vehicle automation and electrification, but meanwhile poses additional heavy charging and data processing burden on current smart grid. Considering the mutual ...]]></summary>
-        <author>
-            <name>Zhiwei Wei</name>
-        </author>
-        <author>
-            <name>Bing Li</name>
-        </author>
-        <author>
-            <name>Rongqing Zhang</name>
-        </author>
-        <author>
-            <name>Xiang Cheng</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Research on Cyber Attacks and Defensive Measures of Power Communication Network]]></title>
-        <id>https://ieeexplore.ieee.org/document/9792263</id>
-        <link href="https://ieeexplore.ieee.org/document/9792263"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[With the wide application of information and communication technologies, a great number of cyber vulnerabilities threaten the security and stability of the power system. Therefore, this article analyzed the intrusion paths, the invasion mechanisms, and the possible consequences of most potential attacks in power communication networks (PCNs); a method for classifying and evaluating defense measure...]]></summary>
-        <author>
-            <name>Yingjun Wu</name>
-        </author>
-        <author>
-            <name>Yingtao Ru</name>
-        </author>
-        <author>
-            <name>Zhiwei Lin</name>
-        </author>
-        <author>
-            <name>Chengjun Liu</name>
-        </author>
-        <author>
-            <name>Tao Xue</name>
-        </author>
-        <author>
-            <name>Xiang Zhao</name>
-        </author>
-        <author>
-            <name>Jinfan Chen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Robust Event Classification Using Imperfect Real-World PMU Data]]></title>
-        <id>https://ieeexplore.ieee.org/document/9780546</id>
-        <link href="https://ieeexplore.ieee.org/document/9780546"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[This article studies robust event classification using imperfect real-world phasor measurement unit (PMU) data. By analyzing the real-world PMU data, we find that it is challenging to directly use this data set for event classifiers due to the low data quality observed in PMU measurements and event logs. To address these challenges, we develop a novel machine learning framework for training robust...]]></summary>
-        <author>
-            <name>Yunchuan Liu</name>
-        </author>
-        <author>
-            <name>Lei Yang</name>
-        </author>
-        <author>
-            <name>Amir Ghasemkhani</name>
-        </author>
-        <author>
-            <name>Hanif Livani</name>
-        </author>
-        <author>
-            <name>Virgilio A. Centeno</name>
-        </author>
-        <author>
-            <name>Pin-Yu Chen</name>
-        </author>
-        <author>
-            <name>Junshan Zhang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Charging Cost-Aware Fleet Management for Shared On-Demand Green Logistic System]]></title>
-        <id>https://ieeexplore.ieee.org/document/9779353</id>
-        <link href="https://ieeexplore.ieee.org/document/9779353"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[With the advancement of transportation electrification and Internet of Things (IoT), the cloud-based shared on-demand logistic fleet management platforms, such as Lalamove and Gogovan, become more and more popular. Under this setting, the scheduling platform needs to dispatch vehicles while dealing with the increasing charging demands of the logistic fleet and serving the dynamically arrived logis...]]></summary>
-        <author>
-            <name>Yuan Huang</name>
-        </author>
-        <author>
-            <name>Zhaohao Ding</name>
-        </author>
-        <author>
-            <name>Wei-Jen Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Asynchronous and Adaptive State Estimation of Integrated Electricity–Gas Energy Systems]]></title>
-        <id>https://ieeexplore.ieee.org/document/9777940</id>
-        <link href="https://ieeexplore.ieee.org/document/9777940"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[The combination of Internet of Things technology and power grid technology greatly strengthens the situational awareness in integrated energy systems. However, present development fails to consider the internal dynamic characteristics of the natural gas system. This is addressed in the present study by proposing an asynchronous distributed dynamic state estimation (SE) method for integrated electr...]]></summary>
-        <author>
-            <name>Haixiang Zang</name>
-        </author>
-        <author>
-            <name>Minghao Geng</name>
-        </author>
-        <author>
-            <name>Manyun Huang</name>
-        </author>
-        <author>
-            <name>Zhinong Wei</name>
-        </author>
-        <author>
-            <name>Sheng Chen</name>
-        </author>
-        <author>
-            <name>Guoqiang Sun</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Health-Aware Energy Management Strategy Toward Internet of Storage]]></title>
-        <id>https://ieeexplore.ieee.org/document/9770936</id>
-        <link href="https://ieeexplore.ieee.org/document/9770936"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[The rapid development of the Internet of Things (IoT) has given rise to a novel business model, i.e., Internet of Storage (IoS), in which distributed in-home storage systems can be shared and equivalently aggregated as a utility-scale storage. While the existing literature has focused on the scheduling of distributed storage, few studies have quantified the accelerated degradation induced by stora...]]></summary>
-        <author>
-            <name>Chen Yin</name>
-        </author>
-        <author>
-            <name>Jianxiao Wang</name>
-        </author>
-        <author>
-            <name>Wenyuan Tang</name>
-        </author>
-        <author>
-            <name>Gengyin Li</name>
-        </author>
-        <author>
-            <name>Ming Zhou</name>
         </author>
     </entry>
 </feed>
