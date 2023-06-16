@@ -2,11 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/TPAMI.rss</id>
     <title>IEEE Transactions on Pattern Analysis and Machine Intelligence</title>
-    <updated>2023-06-15T16:14:15.622Z</updated>
+    <updated>2023-06-16T01:06:51.238Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/TPAMI.rss"/>
     <subtitle>IEEE Transactions on Pattern Analysis and Machine Intelligence</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Bilateral Relation Distillation for Weakly Supervised Temporal Action Localization]]></title>
+        <id>https://ieeexplore.ieee.org/document/10153964</id>
+        <link href="https://ieeexplore.ieee.org/document/10153964"/>
+        <updated>2023-06-16T01:06:51.229Z</updated>
+        <summary type="html"><![CDATA[Weakly supervised temporal action localization (WSTAL), which aims to locate the time interval of actions in an untrimmed video with only video-level action labels, has attracted increasing research interest in the past few years. However, a model trained with such labels will tend to focus on segments that contributions most to the video-level classification, leading to inaccurate and incomplete ...]]></summary>
+        <author>
+            <name>Zhe Xu</name>
+        </author>
+        <author>
+            <name>Kun Wei</name>
+        </author>
+        <author>
+            <name>Erkun Yang</name>
+        </author>
+        <author>
+            <name>Cheng Deng</name>
+        </author>
+        <author>
+            <name>Wei Liu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PAR $^{2}$ Net: End-to-end Panoramic Image Reflection Removal]]></title>
+        <id>https://ieeexplore.ieee.org/document/10153662</id>
+        <link href="https://ieeexplore.ieee.org/document/10153662"/>
+        <updated>2023-06-16T01:06:51.229Z</updated>
+        <summary type="html"><![CDATA[In this paper, we investigate the problem of panoramic image reflection removal to relieve the content ambiguity between the reflection layer and the transmission scene. Although a partial view of the reflection scene is attainable in the panoramic image and provides additional information for reflection removal, it is not trivial to directly apply this for getting rid of undesired reflections due...]]></summary>
+        <author>
+            <name>Yuchen Hong</name>
+        </author>
+        <author>
+            <name>Qian Zheng</name>
+        </author>
+        <author>
+            <name>Lingran Zhao</name>
+        </author>
+        <author>
+            <name>Xudong Jiang</name>
+        </author>
+        <author>
+            <name>Alex C. Kot</name>
+        </author>
+        <author>
+            <name>Boxin Shi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Super Sparse 3D Object Detection]]></title>
+        <id>https://ieeexplore.ieee.org/document/10153690</id>
+        <link href="https://ieeexplore.ieee.org/document/10153690"/>
+        <updated>2023-06-16T01:06:51.229Z</updated>
+        <summary type="html"><![CDATA[As the perception range of LiDAR expands, LiDAR-based 3D object detection contributes ever-increasingly to the long-range perception in autonomous driving. Mainstream 3D object detectors often build dense feature maps, where the cost is quadratic to the perception range, making them hardly scale up to the long-range settings. To enable efficient long-range detection, we first propose a fully spars...]]></summary>
+        <author>
+            <name>Lue Fan</name>
+        </author>
+        <author>
+            <name>Yuxue Yang</name>
+        </author>
+        <author>
+            <name>Feng Wang</name>
+        </author>
+        <author>
+            <name>Naiyan Wang</name>
+        </author>
+        <author>
+            <name>Zhaoxiang Zhang</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PWLU: Learning Specialized Activation Functions with the Piecewise Linear Unit]]></title>
         <id>https://ieeexplore.ieee.org/document/10151955</id>

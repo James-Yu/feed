@@ -2,11 +2,124 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/T-ITS.rss</id>
     <title>IEEE Transactions on Intelligent Transportation Systems</title>
-    <updated>2023-06-15T16:14:06.022Z</updated>
+    <updated>2023-06-16T01:06:41.088Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/T-ITS.rss"/>
     <subtitle>IEEE Transactions on Intelligent Transportation Systems</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Coupling Effect and Chain Evolution of Urban Rail Transit Emergencies]]></title>
+        <id>https://ieeexplore.ieee.org/document/10153927</id>
+        <link href="https://ieeexplore.ieee.org/document/10153927"/>
+        <updated>2023-06-16T01:06:41.081Z</updated>
+        <summary type="html"><![CDATA[Emergency events such as fire, flood and COVID-19 occurred in urban rail transit (URT) usually triggered chain effect and evolved into huge disaster. This kind of chain with complexity and uncertainty evolution brought great challenges to the safety management of the system. Thus, the coupling effects of emergencies and then its relationship with the chain evolution is necessary to analyze emphati...]]></summary>
+        <author>
+            <name>Guangyu Zhu</name>
+        </author>
+        <author>
+            <name>Ranran Sun</name>
+        </author>
+        <author>
+            <name>Jiaxin Fan</name>
+        </author>
+        <author>
+            <name>Furong Li</name>
+        </author>
+        <author>
+            <name>Yuhong Hou</name>
+        </author>
+        <author>
+            <name>Hui Yu</name>
+        </author>
+        <author>
+            <name>Peter Xiaoping Liu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Temporal Correlation Characteristics of Air-to-Ground Wireless Channel With UAV Wobble]]></title>
+        <id>https://ieeexplore.ieee.org/document/10153939</id>
+        <link href="https://ieeexplore.ieee.org/document/10153939"/>
+        <updated>2023-06-16T01:06:41.081Z</updated>
+        <summary type="html"><![CDATA[Air-to-ground (A2G) communication based on Unmanned aerial vehicle (UAV) is an important part of the future communication system. In this paper, an A2G channel model with UAV three-dimensional (3D) wobbles (pitch, roll, and yaw) based on the geometry-based stochastic model (GBSM) is proposed. On this basis, the UAV’s internal vibration is modeled as a sinusoidal random process, and the UAV wobble ...]]></summary>
+        <author>
+            <name>Xiaobo Yang</name>
+        </author>
+        <author>
+            <name>Daosen Zhai</name>
+        </author>
+        <author>
+            <name>Ruonan Zhang</name>
+        </author>
+        <author>
+            <name>Lei Liu</name>
+        </author>
+        <author>
+            <name>F. Richard Yu</name>
+        </author>
+        <author>
+            <name>Victor C. M. Leung</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Integrated Localization and Planning for Cruise Control of UGV Platoons in Infrastructure-Free Environments]]></title>
+        <id>https://ieeexplore.ieee.org/document/10153928</id>
+        <link href="https://ieeexplore.ieee.org/document/10153928"/>
+        <updated>2023-06-16T01:06:41.081Z</updated>
+        <summary type="html"><![CDATA[This paper investigates the cruise control problem of unmanned ground vehicle (UGV) platoons from the implementation perspective. Unlike most existing works related to platoon cruise control which rely on positioning infrastructures such as lane markings, roadside units, and global navigation satellite systems (GNSS), this paper explores a new problem: platoon cruise control in environments withou...]]></summary>
+        <author>
+            <name>Yuanzhe Wang</name>
+        </author>
+        <author>
+            <name>Chunyang Zhao</name>
+        </author>
+        <author>
+            <name>Jiahao Liang</name>
+        </author>
+        <author>
+            <name>Mingxing Wen</name>
+        </author>
+        <author>
+            <name>Yufeng Yue</name>
+        </author>
+        <author>
+            <name>Danwei Wang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intelligent Learning Algorithm and Intelligent Transportation-Based Energy Management Strategies for Hybrid Electric Vehicles: A Review]]></title>
+        <id>https://ieeexplore.ieee.org/document/10153931</id>
+        <link href="https://ieeexplore.ieee.org/document/10153931"/>
+        <updated>2023-06-16T01:06:41.081Z</updated>
+        <summary type="html"><![CDATA[As one of the alternatives to conventional fuel vehicles, hybrid electric vehicles (HEV) offer lower fuel consumption and fewer exhaust emissions. To improve the performance of the HEV, the energy management strategy (EMS) is one of the most critical technologies. Classic EMS can be broadly classified into rule-based and optimization-based. With the development of machine learning technology, the ...]]></summary>
+        <author>
+            <name>Jiongpeng Gan</name>
+        </author>
+        <author>
+            <name>Shen Li</name>
+        </author>
+        <author>
+            <name>Chongfeng Wei</name>
+        </author>
+        <author>
+            <name>Lei Deng</name>
+        </author>
+        <author>
+            <name>Xiaolin Tang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Match Maximization of Vehicle-to-Vehicle Energy Charging With Double-Sided Auction]]></title>
+        <id>https://ieeexplore.ieee.org/document/10153934</id>
+        <link href="https://ieeexplore.ieee.org/document/10153934"/>
+        <updated>2023-06-16T01:06:41.081Z</updated>
+        <summary type="html"><![CDATA[The future Intelligent Transportation System (ITS) will rely heavily on the advancement of the Internet of Things (IoT). Indeed, the IoT infrastructure paves the way toward connecting vehicles for various benefits including traffic monitoring, crowdsourcing, energy trading, and other ITS services. One of the use cases of the IoV is Vehicle-to-Vehicle (V2V) energy charging/discharging, which is exp...]]></summary>
+        <author>
+            <name>Abdulsalam Yassine</name>
+        </author>
+        <author>
+            <name>M. Shamim Hossain</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AnchorPoint: Query Design for Transformer-Based 3D Object Detection and Tracking]]></title>
         <id>https://ieeexplore.ieee.org/document/10153343</id>

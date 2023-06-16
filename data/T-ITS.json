@@ -1,5 +1,71 @@
 [
   {
+    "articleNumber": "10153927",
+    "articleTitle": "Coupling Effect and Chain Evolution of Urban Rail Transit Emergencies",
+    "authors": [
+      "Guangyu Zhu",
+      "Ranran Sun",
+      "Jiaxin Fan",
+      "Furong Li",
+      "Yuhong Hou",
+      "Hui Yu",
+      "Peter Xiaoping Liu"
+    ],
+    "abstract": "Emergency events such as fire, flood and COVID-19 occurred in urban rail transit (URT) usually triggered chain effect and evolved into huge disaster. This kind of chain with complexity and uncertainty evolution brought great challenges to the safety management of the system. Thus, the coupling effects of emergencies and then its relationship with the chain evolution is necessary to analyze emphati...",
+    "date": "2023-06-16T01:06:41.081Z"
+  },
+  {
+    "articleNumber": "10153939",
+    "articleTitle": "Temporal Correlation Characteristics of Air-to-Ground Wireless Channel With UAV Wobble",
+    "authors": [
+      "Xiaobo Yang",
+      "Daosen Zhai",
+      "Ruonan Zhang",
+      "Lei Liu",
+      "F. Richard Yu",
+      "Victor C. M. Leung"
+    ],
+    "abstract": "Air-to-ground (A2G) communication based on Unmanned aerial vehicle (UAV) is an important part of the future communication system. In this paper, an A2G channel model with UAV three-dimensional (3D) wobbles (pitch, roll, and yaw) based on the geometry-based stochastic model (GBSM) is proposed. On this basis, the UAV’s internal vibration is modeled as a sinusoidal random process, and the UAV wobble ...",
+    "date": "2023-06-16T01:06:41.081Z"
+  },
+  {
+    "articleNumber": "10153928",
+    "articleTitle": "Integrated Localization and Planning for Cruise Control of UGV Platoons in Infrastructure-Free Environments",
+    "authors": [
+      "Yuanzhe Wang",
+      "Chunyang Zhao",
+      "Jiahao Liang",
+      "Mingxing Wen",
+      "Yufeng Yue",
+      "Danwei Wang"
+    ],
+    "abstract": "This paper investigates the cruise control problem of unmanned ground vehicle (UGV) platoons from the implementation perspective. Unlike most existing works related to platoon cruise control which rely on positioning infrastructures such as lane markings, roadside units, and global navigation satellite systems (GNSS), this paper explores a new problem: platoon cruise control in environments withou...",
+    "date": "2023-06-16T01:06:41.081Z"
+  },
+  {
+    "articleNumber": "10153931",
+    "articleTitle": "Intelligent Learning Algorithm and Intelligent Transportation-Based Energy Management Strategies for Hybrid Electric Vehicles: A Review",
+    "authors": [
+      "Jiongpeng Gan",
+      "Shen Li",
+      "Chongfeng Wei",
+      "Lei Deng",
+      "Xiaolin Tang"
+    ],
+    "abstract": "As one of the alternatives to conventional fuel vehicles, hybrid electric vehicles (HEV) offer lower fuel consumption and fewer exhaust emissions. To improve the performance of the HEV, the energy management strategy (EMS) is one of the most critical technologies. Classic EMS can be broadly classified into rule-based and optimization-based. With the development of machine learning technology, the ...",
+    "date": "2023-06-16T01:06:41.081Z"
+  },
+  {
+    "articleNumber": "10153934",
+    "articleTitle": "Match Maximization of Vehicle-to-Vehicle Energy Charging With Double-Sided Auction",
+    "authors": [
+      "Abdulsalam Yassine",
+      "M. Shamim Hossain"
+    ],
+    "abstract": "The future Intelligent Transportation System (ITS) will rely heavily on the advancement of the Internet of Things (IoT). Indeed, the IoT infrastructure paves the way toward connecting vehicles for various benefits including traffic monitoring, crowdsourcing, energy trading, and other ITS services. One of the use cases of the IoV is Vehicle-to-Vehicle (V2V) energy charging/discharging, which is exp...",
+    "date": "2023-06-16T01:06:41.081Z"
+  },
+  {
     "articleNumber": "10153343",
     "articleTitle": "AnchorPoint: Query Design for Transformer-Based 3D Object Detection and Tracking",
     "authors": [

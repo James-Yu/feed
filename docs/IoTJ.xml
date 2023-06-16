@@ -2,11 +2,201 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/IoTJ.rss</id>
     <title>IEEE Internet of Things Journal</title>
-    <updated>2023-06-15T16:14:19.709Z</updated>
+    <updated>2023-06-16T01:06:55.843Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/IoTJ.rss"/>
     <subtitle>IEEE Internet of Things Journal</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Online Parallel Attack Detection Method for Industrial Control based on Multi-bandpass Filter]]></title>
+        <id>https://ieeexplore.ieee.org/document/10153783</id>
+        <link href="https://ieeexplore.ieee.org/document/10153783"/>
+        <updated>2023-06-16T01:06:55.833Z</updated>
+        <summary type="html"><![CDATA[Unlike conventional IT systems, industrial control systems (ICS) requires tailored attack detection methods due to its unique communication protocols. Existing attack detection methods lack the ability to consider both detection accuracy and time performance, particularly for highly stealthy fake data injection attacks (FDIA). To address these challenges, this work proposes an online parallel atta...]]></summary>
+        <author>
+            <name>Yanru Chen</name>
+        </author>
+        <author>
+            <name>Shijia Liu</name>
+        </author>
+        <author>
+            <name>Zilin Wang</name>
+        </author>
+        <author>
+            <name>Dizhi Wu</name>
+        </author>
+        <author>
+            <name>Yang Li</name>
+        </author>
+        <author>
+            <name>Bin Xing</name>
+        </author>
+        <author>
+            <name>Bing Guo</name>
+        </author>
+        <author>
+            <name>Liangyin Chen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Joint Trajectory Design and Resource Allocation for Secure Air-ground Integrated IoT Networks]]></title>
+        <id>https://ieeexplore.ieee.org/document/10153759</id>
+        <link href="https://ieeexplore.ieee.org/document/10153759"/>
+        <updated>2023-06-16T01:06:55.833Z</updated>
+        <summary type="html"><![CDATA[We investigate in this paper joint trajectory design and resource allocation for secure air-ground integrated Internet of Things (IoT) networks with unmanned aerial vehicle (UAV) jamming and device to device (D2D) enhancement. By jointly optimizing ground user scheduling, UAV flight trajectory and transmit power, we are able to maximize the minimum system secrecy rate of UAV and D2D communications...]]></summary>
+        <author>
+            <name>Shangwei Zhang</name>
+        </author>
+        <author>
+            <name>Zhenjiang Shi</name>
+        </author>
+        <author>
+            <name>Jiajia Liu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TAPU: A Transmission-Analytics Processing Unit for Accelerating Multi-functions in IoT Gateways]]></title>
+        <id>https://ieeexplore.ieee.org/document/10153603</id>
+        <link href="https://ieeexplore.ieee.org/document/10153603"/>
+        <updated>2023-06-16T01:06:55.833Z</updated>
+        <summary type="html"><![CDATA[IoT gateways integrate various sensors and compute initial decisions before transmitting data to the cloud for further processing. As the functions they need to support become increasingly complex, gateways must upgrade their hardware. Network functions and video analytics are two typical examples of hardware requirements: network functions need specialized hardware accelerators, while video analy...]]></summary>
+        <author>
+            <name>Huanghuang Liang</name>
+        </author>
+        <author>
+            <name>Qianlong Sang</name>
+        </author>
+        <author>
+            <name>Chuang Hu</name>
+        </author>
+        <author>
+            <name>Yili Gong</name>
+        </author>
+        <author>
+            <name>Dazhao Cheng</name>
+        </author>
+        <author>
+            <name>Xiaobo Zhou</name>
+        </author>
+        <author>
+            <name>Yu Wang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Privacy-preserving joint data and function homomorphic encryption for cloud software services]]></title>
+        <id>https://ieeexplore.ieee.org/document/10153762</id>
+        <link href="https://ieeexplore.ieee.org/document/10153762"/>
+        <updated>2023-06-16T01:06:55.833Z</updated>
+        <summary type="html"><![CDATA[With the widespread growth of cloud computing technology, cloud software services are ubiquitous these days. Using this technology, software providers can sell their products through cloud computing environments in the pay-as-you-use fashion. However, performing secure and accurate calculations in cloud computing environments has become extremely challenging. As the data to be processed by cloud s...]]></summary>
+        <author>
+            <name>Amin Hosseingholizadeh</name>
+        </author>
+        <author>
+            <name>Farhad Rahmati</name>
+        </author>
+        <author>
+            <name>Mohammad Ali</name>
+        </author>
+        <author>
+            <name>Hamid Damadi</name>
+        </author>
+        <author>
+            <name>Ximeng Liu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LiWi-HAR: Lightweight WiFi based Human Activity Recognition using Distributed AIoT]]></title>
+        <id>https://ieeexplore.ieee.org/document/10153790</id>
+        <link href="https://ieeexplore.ieee.org/document/10153790"/>
+        <updated>2023-06-16T01:06:55.833Z</updated>
+        <summary type="html"><![CDATA[Human activity recognition (HAR) based on WiFi channel state information (CSI) has received a lot of attentions recently due to its non-intrusive nature. Most CSI-based HAR systems use a WiFi router and a computing terminal for centralized processing, which makes it difficult to achieve real-time wide-range recognition. Recently, lightweight artificial intelligence internet of things (AIoT) device...]]></summary>
+        <author>
+            <name>Weixi Liang</name>
+        </author>
+        <author>
+            <name>Rongshan Tang</name>
+        </author>
+        <author>
+            <name>Sihan Jiang</name>
+        </author>
+        <author>
+            <name>Ruqi Wang</name>
+        </author>
+        <author>
+            <name>Yubin Zhao</name>
+        </author>
+        <author>
+            <name>Cheng-Zhong Xu</name>
+        </author>
+        <author>
+            <name>Xudong Long</name>
+        </author>
+        <author>
+            <name>Zhuolong Chen</name>
+        </author>
+        <author>
+            <name>Xiaofan Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Short-term Wind Speed and Power Forecasting for Smart City Power Grid with a Hybrid Machine Learning Framework]]></title>
+        <id>https://ieeexplore.ieee.org/document/10153767</id>
+        <link href="https://ieeexplore.ieee.org/document/10153767"/>
+        <updated>2023-06-16T01:06:55.833Z</updated>
+        <summary type="html"><![CDATA[To address foreseeable challenges during the penetration of wind energy into the power grid, including accurate wind power forecasting and smart power generation scheduling, this study proposes a novel short-term wind speed forecasting model, named EMD-KM-SXL, which is based on empirical mode decomposition (EMD), K-means clustering and machine learning, and a new two-stage short-term wind power fo...]]></summary>
+        <author>
+            <name>Zhongju Wang</name>
+        </author>
+        <author>
+            <name>Long Wang</name>
+        </author>
+        <author>
+            <name>Revanesh M</name>
+        </author>
+        <author>
+            <name>Chao Huang</name>
+        </author>
+        <author>
+            <name>Xiong Luo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CFSL: A Credible Federated Self-Learning Framework]]></title>
+        <id>https://ieeexplore.ieee.org/document/10153777</id>
+        <link href="https://ieeexplore.ieee.org/document/10153777"/>
+        <updated>2023-06-16T01:06:55.833Z</updated>
+        <summary type="html"><![CDATA[Federated learning can collaboratively train AI models while protecting data privacy. In practical industry environment, Non-IID characteristics of data affect the effectiveness of federated learning. Personalized federated learning can help resolve this, but it cannot adapt to unknown data. In addition, practical applications also call for trusted training environment and remain stable when there...]]></summary>
+        <author>
+            <name>Weishan Zhang</name>
+        </author>
+        <author>
+            <name>Zhicheng Bao</name>
+        </author>
+        <author>
+            <name>Yuru Liu</name>
+        </author>
+        <author>
+            <name>Liang Xu</name>
+        </author>
+        <author>
+            <name>Qinghua Lu</name>
+        </author>
+        <author>
+            <name>Huansheng Ning</name>
+        </author>
+        <author>
+            <name>Xiao Wang</name>
+        </author>
+        <author>
+            <name>Su Yang</name>
+        </author>
+        <author>
+            <name>Fei-Yue Wang</name>
+        </author>
+        <author>
+            <name>Zengxiang Li</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SKAFS: Symmetric Key Authentication Protocol with Forward Secrecy for Edge Computing]]></title>
         <id>https://ieeexplore.ieee.org/document/10153424</id>
@@ -21413,142 +21603,6 @@
         </author>
         <author>
             <name>Shahid Mumtaz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lightweight Deep Learning Model for Radar-Based Fall Detection With Metric Learning]]></title>
-        <id>https://ieeexplore.ieee.org/document/9987467</id>
-        <link href="https://ieeexplore.ieee.org/document/9987467"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[The radar-based fall detection system has grown in popularity because of its stability and privacy protection. Deep neural networks have been used in previous radar-based fall detection systems to improve detection accuracy. However, most of them need a lot of memory and have high computational complexity, making them impractical for Internet of Things (IoT) devices. In this article, we propose an...]]></summary>
-        <author>
-            <name>Zixuan Ou</name>
-        </author>
-        <author>
-            <name>Wenbin Ye</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Novel Attack Identification Mechanism in IoT-Based Converter-Composed DC Grids]]></title>
-        <id>https://ieeexplore.ieee.org/document/9940468</id>
-        <link href="https://ieeexplore.ieee.org/document/9940468"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[This article proposes a novel attack identification mechanism for Internet of Things-based (IoT-based) converter-composed dc grids, where each agent collects its own and neighbors’ measurement data for output regulation to meet a preceding power-sharing consensus. Independent from model-free or average-model-based attack detection theories, this mechanism is mainly inspired by converter stitching ...]]></summary>
-        <author>
-            <name>Sicheng Gong</name>
-        </author>
-        <author>
-            <name>Tomislav Dragičević</name>
-        </author>
-        <author>
-            <name>Nenad Mijatovic</name>
-        </author>
-        <author>
-            <name>Zhe Zhang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Game-Theoretic Decision Making for Intelligent Power Consumption Analysis]]></title>
-        <id>https://ieeexplore.ieee.org/document/9933807</id>
-        <link href="https://ieeexplore.ieee.org/document/9933807"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[With smart electricity distribution and dependable electric appliances, the revolutionary impact of the Internet of Things (IoT) technology has considerably improved the service-oriented features of the power grid industry. In the current study, a methodology for IoT-based electricity distribution for intelligent homes is described to detect power consumption efficiently. Although effective power ...]]></summary>
-        <author>
-            <name>Munish Bhatia</name>
-        </author>
-        <author>
-            <name>Tariq Ahamed Ahanger</name>
-        </author>
-        <author>
-            <name>Abdullah Alqahtani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CPES-QSM: A Quantitative Method Toward the Secure Operation of Cyber–Physical Energy Systems]]></title>
-        <id>https://ieeexplore.ieee.org/document/9904852</id>
-        <link href="https://ieeexplore.ieee.org/document/9904852"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[Power systems are evolving into cyber–physical energy systems (CPES) mainly due to the integration of modern communication and Internet of Things (IoT) devices. CPES security evaluation is challenging since the physical and cyber layers are often not considered holistically. Existing literature focuses on only optimizing the operation of either the physical or cyber layer while ignoring the intera...]]></summary>
-        <author>
-            <name>Juan Ospina</name>
-        </author>
-        <author>
-            <name>Venkatesh Venkataramanan</name>
-        </author>
-        <author>
-            <name>Charalambos Konstantinou</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Automatic Generation Control Strategy for Integrated Energy System Based on Ubiquitous Power Internet of Things]]></title>
-        <id>https://ieeexplore.ieee.org/document/9903811</id>
-        <link href="https://ieeexplore.ieee.org/document/9903811"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[The integrated energy system based on ubiquitous power Internet of Things (IoT) has the characteristics of ubiquitous connection of everything, complex energy conversion mode, and unbalanced supply-demand relationship. It brings strong random disturbance to the power grid, which deteriorates the comprehensive control performance of automatic generation control. Therefore, a novel deep reinforcemen...]]></summary>
-        <author>
-            <name>Lihui Xie</name>
-        </author>
-        <author>
-            <name>Junnan Wu</name>
-        </author>
-        <author>
-            <name>Yanying Li</name>
-        </author>
-        <author>
-            <name>Qiuye Sun</name>
-        </author>
-        <author>
-            <name>Lei Xi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Distributed Optimization for Integrated Energy Systems With Secure Multiparty Computation]]></title>
-        <id>https://ieeexplore.ieee.org/document/9900425</id>
-        <link href="https://ieeexplore.ieee.org/document/9900425"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[With increasing distributed energy resource integration, future power and energy systems will be more decentralized using advanced Internet of Things (IoT) technologies. Integrated energy systems (IESs) boost the whole energy efficiency by coordinating multiregional energy resources and networks. However, distributed coordination of the IES requires different subregions or energy hubs (EHs) to sha...]]></summary>
-        <author>
-            <name>Fangyuan Si</name>
-        </author>
-        <author>
-            <name>Ning Zhang</name>
-        </author>
-        <author>
-            <name>Yi Wang</name>
-        </author>
-        <author>
-            <name>Peng-Yong Kong</name>
-        </author>
-        <author>
-            <name>Wenjie Qiao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Situation Awareness of Energy Internet of Things in Smart City Based on Digital Twin: From Digitization to Informatization]]></title>
-        <id>https://ieeexplore.ieee.org/document/9875220</id>
-        <link href="https://ieeexplore.ieee.org/document/9875220"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[Rapid growth of diversity, uncertainty, and coupling effect of units in modern energy systems jointly challenges the traditional model-based situation awareness (SA) in Energy Internet of Things (EIoT). This work explores the digital twin of EIoT (EIoT-DT) and then provides a novel data-driven SA paradigm, named DT-SA, as a promising alternative. Based on the combination of the latest data technol...]]></summary>
-        <author>
-            <name>Xing He</name>
-        </author>
-        <author>
-            <name>Qian Ai</name>
-        </author>
-        <author>
-            <name>Jingbo Wang</name>
-        </author>
-        <author>
-            <name>Fei Tao</name>
-        </author>
-        <author>
-            <name>Bo Pan</name>
-        </author>
-        <author>
-            <name>Robert Qiu</name>
-        </author>
-        <author>
-            <name>Bo Yang</name>
         </author>
     </entry>
 </feed>

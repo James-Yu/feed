@@ -1,5 +1,45 @@
 [
   {
+    "articleNumber": "10153964",
+    "articleTitle": "Bilateral Relation Distillation for Weakly Supervised Temporal Action Localization",
+    "authors": [
+      "Zhe Xu",
+      "Kun Wei",
+      "Erkun Yang",
+      "Cheng Deng",
+      "Wei Liu"
+    ],
+    "abstract": "Weakly supervised temporal action localization (WSTAL), which aims to locate the time interval of actions in an untrimmed video with only video-level action labels, has attracted increasing research interest in the past few years. However, a model trained with such labels will tend to focus on segments that contributions most to the video-level classification, leading to inaccurate and incomplete ...",
+    "date": "2023-06-16T01:06:51.229Z"
+  },
+  {
+    "articleNumber": "10153662",
+    "articleTitle": "PAR $^{2}$ Net: End-to-end Panoramic Image Reflection Removal",
+    "authors": [
+      "Yuchen Hong",
+      "Qian Zheng",
+      "Lingran Zhao",
+      "Xudong Jiang",
+      "Alex C. Kot",
+      "Boxin Shi"
+    ],
+    "abstract": "In this paper, we investigate the problem of panoramic image reflection removal to relieve the content ambiguity between the reflection layer and the transmission scene. Although a partial view of the reflection scene is attainable in the panoramic image and provides additional information for reflection removal, it is not trivial to directly apply this for getting rid of undesired reflections due...",
+    "date": "2023-06-16T01:06:51.229Z"
+  },
+  {
+    "articleNumber": "10153690",
+    "articleTitle": "Super Sparse 3D Object Detection",
+    "authors": [
+      "Lue Fan",
+      "Yuxue Yang",
+      "Feng Wang",
+      "Naiyan Wang",
+      "Zhaoxiang Zhang"
+    ],
+    "abstract": "As the perception range of LiDAR expands, LiDAR-based 3D object detection contributes ever-increasingly to the long-range perception in autonomous driving. Mainstream 3D object detectors often build dense feature maps, where the cost is quadratic to the perception range, making them hardly scale up to the long-range settings. To enable efficient long-range detection, we first propose a fully spars...",
+    "date": "2023-06-16T01:06:51.229Z"
+  },
+  {
     "articleNumber": "10151955",
     "articleTitle": "PWLU: Learning Specialized Activation Functions with the Piecewise Linear Unit",
     "authors": [

@@ -1,5 +1,108 @@
 [
   {
+    "articleNumber": "10153783",
+    "articleTitle": "Online Parallel Attack Detection Method for Industrial Control based on Multi-bandpass Filter",
+    "authors": [
+      "Yanru Chen",
+      "Shijia Liu",
+      "Zilin Wang",
+      "Dizhi Wu",
+      "Yang Li",
+      "Bin Xing",
+      "Bing Guo",
+      "Liangyin Chen"
+    ],
+    "abstract": "Unlike conventional IT systems, industrial control systems (ICS) requires tailored attack detection methods due to its unique communication protocols. Existing attack detection methods lack the ability to consider both detection accuracy and time performance, particularly for highly stealthy fake data injection attacks (FDIA). To address these challenges, this work proposes an online parallel atta...",
+    "date": "2023-06-16T01:06:55.833Z"
+  },
+  {
+    "articleNumber": "10153759",
+    "articleTitle": "Joint Trajectory Design and Resource Allocation for Secure Air-ground Integrated IoT Networks",
+    "authors": [
+      "Shangwei Zhang",
+      "Zhenjiang Shi",
+      "Jiajia Liu"
+    ],
+    "abstract": "We investigate in this paper joint trajectory design and resource allocation for secure air-ground integrated Internet of Things (IoT) networks with unmanned aerial vehicle (UAV) jamming and device to device (D2D) enhancement. By jointly optimizing ground user scheduling, UAV flight trajectory and transmit power, we are able to maximize the minimum system secrecy rate of UAV and D2D communications...",
+    "date": "2023-06-16T01:06:55.833Z"
+  },
+  {
+    "articleNumber": "10153603",
+    "articleTitle": "TAPU: A Transmission-Analytics Processing Unit for Accelerating Multi-functions in IoT Gateways",
+    "authors": [
+      "Huanghuang Liang",
+      "Qianlong Sang",
+      "Chuang Hu",
+      "Yili Gong",
+      "Dazhao Cheng",
+      "Xiaobo Zhou",
+      "Yu Wang"
+    ],
+    "abstract": "IoT gateways integrate various sensors and compute initial decisions before transmitting data to the cloud for further processing. As the functions they need to support become increasingly complex, gateways must upgrade their hardware. Network functions and video analytics are two typical examples of hardware requirements: network functions need specialized hardware accelerators, while video analy...",
+    "date": "2023-06-16T01:06:55.833Z"
+  },
+  {
+    "articleNumber": "10153762",
+    "articleTitle": "Privacy-preserving joint data and function homomorphic encryption for cloud software services",
+    "authors": [
+      "Amin Hosseingholizadeh",
+      "Farhad Rahmati",
+      "Mohammad Ali",
+      "Hamid Damadi",
+      "Ximeng Liu"
+    ],
+    "abstract": "With the widespread growth of cloud computing technology, cloud software services are ubiquitous these days. Using this technology, software providers can sell their products through cloud computing environments in the pay-as-you-use fashion. However, performing secure and accurate calculations in cloud computing environments has become extremely challenging. As the data to be processed by cloud s...",
+    "date": "2023-06-16T01:06:55.833Z"
+  },
+  {
+    "articleNumber": "10153790",
+    "articleTitle": "LiWi-HAR: Lightweight WiFi based Human Activity Recognition using Distributed AIoT",
+    "authors": [
+      "Weixi Liang",
+      "Rongshan Tang",
+      "Sihan Jiang",
+      "Ruqi Wang",
+      "Yubin Zhao",
+      "Cheng-Zhong Xu",
+      "Xudong Long",
+      "Zhuolong Chen",
+      "Xiaofan Li"
+    ],
+    "abstract": "Human activity recognition (HAR) based on WiFi channel state information (CSI) has received a lot of attentions recently due to its non-intrusive nature. Most CSI-based HAR systems use a WiFi router and a computing terminal for centralized processing, which makes it difficult to achieve real-time wide-range recognition. Recently, lightweight artificial intelligence internet of things (AIoT) device...",
+    "date": "2023-06-16T01:06:55.833Z"
+  },
+  {
+    "articleNumber": "10153767",
+    "articleTitle": "Short-term Wind Speed and Power Forecasting for Smart City Power Grid with a Hybrid Machine Learning Framework",
+    "authors": [
+      "Zhongju Wang",
+      "Long Wang",
+      "Revanesh M",
+      "Chao Huang",
+      "Xiong Luo"
+    ],
+    "abstract": "To address foreseeable challenges during the penetration of wind energy into the power grid, including accurate wind power forecasting and smart power generation scheduling, this study proposes a novel short-term wind speed forecasting model, named EMD-KM-SXL, which is based on empirical mode decomposition (EMD), K-means clustering and machine learning, and a new two-stage short-term wind power fo...",
+    "date": "2023-06-16T01:06:55.833Z"
+  },
+  {
+    "articleNumber": "10153777",
+    "articleTitle": "CFSL: A Credible Federated Self-Learning Framework",
+    "authors": [
+      "Weishan Zhang",
+      "Zhicheng Bao",
+      "Yuru Liu",
+      "Liang Xu",
+      "Qinghua Lu",
+      "Huansheng Ning",
+      "Xiao Wang",
+      "Su Yang",
+      "Fei-Yue Wang",
+      "Zengxiang Li"
+    ],
+    "abstract": "Federated learning can collaboratively train AI models while protecting data privacy. In practical industry environment, Non-IID characteristics of data affect the effectiveness of federated learning. Personalized federated learning can help resolve this, but it cannot adapt to unknown data. In addition, practical applications also call for trusted training environment and remain stable when there...",
+    "date": "2023-06-16T01:06:55.833Z"
+  },
+  {
     "articleNumber": "10153424",
     "articleTitle": "SKAFS: Symmetric Key Authentication Protocol with Forward Secrecy for Edge Computing",
     "authors": [
@@ -12760,91 +12863,6 @@
       "Shahid Mumtaz"
     ],
     "abstract": "Unmanned aerial vehicle (UAV)-assisted Internet of Things (IoT) systems have been implemented for over a decade, from transportation to military surveillance, and is proven worthy of integration in the next generation of wireless protocols. Though UAVs have immense potential, they have major drawbacks when it comes to real-world implementation, such as energy capacity, loss of signal quality, and ...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9987467",
-    "articleTitle": "Lightweight Deep Learning Model for Radar-Based Fall Detection With Metric Learning",
-    "authors": [
-      "Zixuan Ou",
-      "Wenbin Ye"
-    ],
-    "abstract": "The radar-based fall detection system has grown in popularity because of its stability and privacy protection. Deep neural networks have been used in previous radar-based fall detection systems to improve detection accuracy. However, most of them need a lot of memory and have high computational complexity, making them impractical for Internet of Things (IoT) devices. In this article, we propose an...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9940468",
-    "articleTitle": "A Novel Attack Identification Mechanism in IoT-Based Converter-Composed DC Grids",
-    "authors": [
-      "Sicheng Gong",
-      "Tomislav Dragičević",
-      "Nenad Mijatovic",
-      "Zhe Zhang"
-    ],
-    "abstract": "This article proposes a novel attack identification mechanism for Internet of Things-based (IoT-based) converter-composed dc grids, where each agent collects its own and neighbors’ measurement data for output regulation to meet a preceding power-sharing consensus. Independent from model-free or average-model-based attack detection theories, this mechanism is mainly inspired by converter stitching ...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9933807",
-    "articleTitle": "Game-Theoretic Decision Making for Intelligent Power Consumption Analysis",
-    "authors": [
-      "Munish Bhatia",
-      "Tariq Ahamed Ahanger",
-      "Abdullah Alqahtani"
-    ],
-    "abstract": "With smart electricity distribution and dependable electric appliances, the revolutionary impact of the Internet of Things (IoT) technology has considerably improved the service-oriented features of the power grid industry. In the current study, a methodology for IoT-based electricity distribution for intelligent homes is described to detect power consumption efficiently. Although effective power ...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9904852",
-    "articleTitle": "CPES-QSM: A Quantitative Method Toward the Secure Operation of Cyber–Physical Energy Systems",
-    "authors": [
-      "Juan Ospina",
-      "Venkatesh Venkataramanan",
-      "Charalambos Konstantinou"
-    ],
-    "abstract": "Power systems are evolving into cyber–physical energy systems (CPES) mainly due to the integration of modern communication and Internet of Things (IoT) devices. CPES security evaluation is challenging since the physical and cyber layers are often not considered holistically. Existing literature focuses on only optimizing the operation of either the physical or cyber layer while ignoring the intera...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9903811",
-    "articleTitle": "Automatic Generation Control Strategy for Integrated Energy System Based on Ubiquitous Power Internet of Things",
-    "authors": [
-      "Lihui Xie",
-      "Junnan Wu",
-      "Yanying Li",
-      "Qiuye Sun",
-      "Lei Xi"
-    ],
-    "abstract": "The integrated energy system based on ubiquitous power Internet of Things (IoT) has the characteristics of ubiquitous connection of everything, complex energy conversion mode, and unbalanced supply-demand relationship. It brings strong random disturbance to the power grid, which deteriorates the comprehensive control performance of automatic generation control. Therefore, a novel deep reinforcemen...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9900425",
-    "articleTitle": "Distributed Optimization for Integrated Energy Systems With Secure Multiparty Computation",
-    "authors": [
-      "Fangyuan Si",
-      "Ning Zhang",
-      "Yi Wang",
-      "Peng-Yong Kong",
-      "Wenjie Qiao"
-    ],
-    "abstract": "With increasing distributed energy resource integration, future power and energy systems will be more decentralized using advanced Internet of Things (IoT) technologies. Integrated energy systems (IESs) boost the whole energy efficiency by coordinating multiregional energy resources and networks. However, distributed coordination of the IES requires different subregions or energy hubs (EHs) to sha...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9875220",
-    "articleTitle": "Situation Awareness of Energy Internet of Things in Smart City Based on Digital Twin: From Digitization to Informatization",
-    "authors": [
-      "Xing He",
-      "Qian Ai",
-      "Jingbo Wang",
-      "Fei Tao",
-      "Bo Pan",
-      "Robert Qiu",
-      "Bo Yang"
-    ],
-    "abstract": "Rapid growth of diversity, uncertainty, and coupling effect of units in modern energy systems jointly challenges the traditional model-based situation awareness (SA) in Energy Internet of Things (EIoT). This work explores the digital twin of EIoT (EIoT-DT) and then provides a novel data-driven SA paradigm, named DT-SA, as a promising alternative. Based on the combination of the latest data technol...",
     "date": "2023-04-27T04:15:53.706Z"
   }
 ]
