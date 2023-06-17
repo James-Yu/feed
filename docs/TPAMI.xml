@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/TPAMI.rss</id>
     <title>IEEE Transactions on Pattern Analysis and Machine Intelligence</title>
-    <updated>2023-06-16T16:14:25.995Z</updated>
+    <updated>2023-06-17T01:03:00.976Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/TPAMI.rss"/>
     <subtitle>IEEE Transactions on Pattern Analysis and Machine Intelligence</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Experimental Design for Overparameterized Learning with Application to Single Shot Deep Active Learning]]></title>
+        <id>https://ieeexplore.ieee.org/document/10154164</id>
+        <link href="https://ieeexplore.ieee.org/document/10154164"/>
+        <updated>2023-06-17T01:03:00.969Z</updated>
+        <summary type="html"><![CDATA[The impressive performance exhibited by modern machine learning models hinges on the ability to train such models on a very large amounts of labeled data. However, since access to large volumes of labeled data is often limited or expensive, it is desirable to alleviate this bottleneck by carefully curating the training set. Optimal experimental design is a well-established paradigm for selecting d...]]></summary>
+        <author>
+            <name>Neta Shoham</name>
+        </author>
+        <author>
+            <name>Haim Avron</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bilateral Relation Distillation for Weakly Supervised Temporal Action Localization]]></title>
         <id>https://ieeexplore.ieee.org/document/10153964</id>

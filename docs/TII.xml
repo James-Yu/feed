@@ -2,11 +2,118 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/TII.rss</id>
     <title>IEEE Transactions on Industrial Informatics</title>
-    <updated>2023-06-16T16:14:35.479Z</updated>
+    <updated>2023-06-17T01:03:11.803Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/TII.rss"/>
     <subtitle>IEEE Transactions on Industrial Informatics</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Deep Correspondence Matching Based Robust Point Cloud Registration of Profiled Parts]]></title>
+        <id>https://ieeexplore.ieee.org/document/10154591</id>
+        <link href="https://ieeexplore.ieee.org/document/10154591"/>
+        <updated>2023-06-17T01:03:11.793Z</updated>
+        <summary type="html"><![CDATA[Due to ability to estimate the spatial transformation of coordinate frames, point cloud registration is a fundamental technique in manufacturing. Previous methods prone to converge to wrong local minima, in the cases of large initialization, noise, outliers, and partiality. This study presents a new learning-based robust point cloud registration approach to predict a rigid transformation in a one-...]]></summary>
+        <author>
+            <name>Weixing Peng</name>
+        </author>
+        <author>
+            <name>Yaonan Wang</name>
+        </author>
+        <author>
+            <name>Hui Zhang</name>
+        </author>
+        <author>
+            <name>Yihong Cao</name>
+        </author>
+        <author>
+            <name>Jiawen Zhao</name>
+        </author>
+        <author>
+            <name>Yiming Jiang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Underwater Downwelling Radiance Fields Enable Three-Dimensional Attitude and Heading Determination]]></title>
+        <id>https://ieeexplore.ieee.org/document/10154171</id>
+        <link href="https://ieeexplore.ieee.org/document/10154171"/>
+        <updated>2023-06-17T01:03:11.793Z</updated>
+        <summary type="html"><![CDATA[Underwater autonomous navigation has long been a challenging problem due to the scarcity of information sources. The polarization navigation offers a feasible solution to this problem. The existing polarization navigation schemes, however, require that the horizontal attitude is known, which can only be used for two-dimensional orientation. To address the limitation, a three-dimensional (3D) attit...]]></summary>
+        <author>
+            <name>Pengwei Hu</name>
+        </author>
+        <author>
+            <name>Jian Yang</name>
+        </author>
+        <author>
+            <name>Jianzhong Qiao</name>
+        </author>
+        <author>
+            <name>Wenshuo Li</name>
+        </author>
+        <author>
+            <name>Lei Guo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Detection of False Data Injection Attack in Power System Based on Hellinger Distance]]></title>
+        <id>https://ieeexplore.ieee.org/document/10154119</id>
+        <link href="https://ieeexplore.ieee.org/document/10154119"/>
+        <updated>2023-06-17T01:03:11.793Z</updated>
+        <summary type="html"><![CDATA[The deep integration of sensor, computer and communication networks has dramatically improved the efficiency and operational performance of the electric grid. However, it also exposes the grid to rising threats of cyber-physical attacks. False data injection attack (FDIA) is one of the most representative attacks. To improve the security of grid operation, we propose a Hellinger-distance -based FD...]]></summary>
+        <author>
+            <name>Zhengwei Qu</name>
+        </author>
+        <author>
+            <name>Jingchuan Yang</name>
+        </author>
+        <author>
+            <name>Yunjing Wang</name>
+        </author>
+        <author>
+            <name>Popov Maxim Georgievitch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Feature Selection with Partial Autoencoding for Zero-Sample Fault Diagnosis]]></title>
+        <id>https://ieeexplore.ieee.org/document/10154159</id>
+        <link href="https://ieeexplore.ieee.org/document/10154159"/>
+        <updated>2023-06-17T01:03:11.793Z</updated>
+        <summary type="html"><![CDATA[Fault diagnosis is still a challenging task es- pecially for unseen faults, which could happen in the sys- tems. Zero-sample fault diagnosis alleviates this issue by utilizing information from seen faults and attributes defined by domain knowledge. However, existing methods suffer from irrelevant features in the original space while existing supervised feature selection methods yield unsatisfactor...]]></summary>
+        <author>
+            <name>Masanao Natsumeda</name>
+        </author>
+        <author>
+            <name>Takehisa Yairi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multi-Observation-Multi-Channel-Attribute-Based Multiuser Authentication for Industrial Wireless Edge Networks]]></title>
+        <id>https://ieeexplore.ieee.org/document/10154175</id>
+        <link href="https://ieeexplore.ieee.org/document/10154175"/>
+        <updated>2023-06-17T01:03:11.793Z</updated>
+        <summary type="html"><![CDATA[In order to truly promote the further development of the Industrial Internet of Things (IIoT), terminal authentication of the IIoT is essential. Physical-Layer Authentication (PLA) has recently attracted much attention for its high security and lightweight. Nevertheless, most existing PLA schemes in conjunction only the observation of a single receiver will lead to low-reliability and low-robustne...]]></summary>
+        <author>
+            <name>Rui Meng</name>
+        </author>
+        <author>
+            <name>Xiaodong Xu</name>
+        </author>
+        <author>
+            <name>Hangyu Zhao</name>
+        </author>
+        <author>
+            <name>Bizhu Wang</name>
+        </author>
+        <author>
+            <name>Gangyi Li</name>
+        </author>
+        <author>
+            <name>Bingxuan Xu</name>
+        </author>
+        <author>
+            <name>Ping Zhang</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Conjoint Enhancement of VSG Dynamic Output Responses by Disturbance-Oriented Adaptive Parameters]]></title>
         <id>https://ieeexplore.ieee.org/document/10151900</id>

@@ -1,5 +1,83 @@
 [
   {
+    "articleNumber": "10154015",
+    "articleTitle": "Ant Colony Optimization with Look-ahead Mechanism for Dynamic Traffic Signal Control of IoV Systems",
+    "authors": [
+      "Shubing Liao",
+      "Yaxin Wu",
+      "Kanghua Ma",
+      "Yunyun Niu"
+    ],
+    "abstract": "In the era of Internet of Vehicle (IoV), traffic data are obtained by wireless sensor networks (WSNs), which provides convenience for real-time traffic signal control and is expected to further improve the efficiency of the whole system. Traffic signal controllers designed for IoV systems usually fully depend on data transmitted from the IoV system and are limited to the penetration rate of connec...",
+    "date": "2023-06-17T01:03:06.630Z"
+  },
+  {
+    "articleNumber": "10153976",
+    "articleTitle": "Digital Twins for Smart Spaces - Beyond IoT Analytics",
+    "authors": [
+      "Naser Hossein Motlagh",
+      "Martha Arbayani Zaidan",
+      "Lauri Lovén",
+      "Pak Lun Fung",
+      "Tuomo Hänninen",
+      "Roberto Morabito",
+      "Petteri Nurmi",
+      "Sasu Tarkoma"
+    ],
+    "abstract": "Smart spaces, physical spaces that are integrated with sensor-enabled IoT devices, are a powerful paradigm for optimizing the operations of the space and improving its quality for the occupants. Managing the applications and services running in the space is a complex task as the operations of the devices and services are dependent on the physical characteristics of the space, the occupants of the ...",
+    "date": "2023-06-17T01:03:06.630Z"
+  },
+  {
+    "articleNumber": "10154556",
+    "articleTitle": "Scalable and Interactive Simulation for IoT Applications with TinySim",
+    "authors": [
+      "Gonglong Chen",
+      "Wei Dong",
+      "Fujian Qiu",
+      "Gaoyang Guan",
+      "Yi Gao",
+      "Siyu Zeng"
+    ],
+    "abstract": "Recent years, the rapid development of IoT (Internet of Things) technologies and applications have been witnessed. Three important features are characterized in modern IoT applications, i.e., device heterogeneity, long-range communication and cloud/edge-device integration. Difficulties are raised by the above features towards IoT application developers, e.g., predicting and evaluating the performa...",
+    "date": "2023-06-17T01:03:06.630Z"
+  },
+  {
+    "articleNumber": "10153975",
+    "articleTitle": "A Location Privacy Aware Taxi-Hailing System: Adaptive Differential Privacy-based Dynamic Incentive Method",
+    "authors": [
+      "Donghe Li",
+      "Qingyu Yang",
+      "Dou An",
+      "Yushuo Zhang"
+    ],
+    "abstract": "Nowadays location-based service (LBS) has become an important service in people’s daily life. Online taxi-hailing system (DiDi, Uber, etc.) is one of the most common LBS system. As the scale of online taxi services continues to expand, some problems have gradually emerged. Specifically, the uncertainty of taxis and passengers makes it difficult to match them effectively, and the passengers’ locati...",
+    "date": "2023-06-17T01:03:06.630Z"
+  },
+  {
+    "articleNumber": "10153977",
+    "articleTitle": "Attack-Resistant, Energy-Adaptive Monitoring for Smart Farms: Uncertainty-Aware Deep Reinforcement Learning Approach",
+    "authors": [
+      "Qisheng Zhang",
+      "Dian Chen",
+      "Yash Mahajan",
+      "Ing-Ray Chen",
+      "Dong Sam Ha",
+      "Jin-Hee Cho"
+    ],
+    "abstract": "This work proposes an energy-adaptive monitoring system for a smart farm using solar sensors attached to cows. The proposed system aims to achieve a high monitoring quality in the smart farm under fluctuating energy and cyber attacks disrupting the collection of sensed data from solar sensors, such as protocol non-compliance, false data injection, denial-of-service, and state manipulation. We adop...",
+    "date": "2023-06-17T01:03:06.630Z"
+  },
+  {
+    "articleNumber": "10153986",
+    "articleTitle": "Decentralized Blockchain-Based and Trust-Aware Task Offloading Strategy for Healthcare IoT",
+    "authors": [
+      "Junyu Ren",
+      "Tuanfa Qin"
+    ],
+    "abstract": "Although smart healthcare has achieved rapid development and has gained considerable attention from academia and industry, pressing challenges exist such as resource limitation and stringent security demand. To tackle the issues, a blockchain-based and trust-aware task-offloading strategy (BBTAS) is proposed in this work, whereby task offloading requests are published as blockchain transactions th...",
+    "date": "2023-06-17T01:03:06.630Z"
+  },
+  {
     "articleNumber": "10153783",
     "articleTitle": "Online Parallel Attack Detection Method for Industrial Control based on Multi-bandpass Filter",
     "authors": [
@@ -12794,75 +12872,6 @@
       "Chi-Hao Chen"
     ],
     "abstract": "Recently, low Earth orbit (LEO) satellites have been suggested as a promising solution for global coverage of 5G networks. However, long propagation delay makes obtained channel state information (CSI) (which is employed for efficient spectrum utilization) outdated before usage. Note that CSI is closely related to elevation angle and relative location. Although elevation angle and relative locatio...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9990047",
-    "articleTitle": "Wireless Distributed Consensus for Connected Autonomous Systems",
-    "authors": [
-      "Hao Xu",
-      "Yixuan Fan",
-      "Wenyu Li",
-      "Lei Zhang"
-    ],
-    "abstract": "Connected critical autonomous systems (C-CASs) are envisioned to significantly change our life and work styles through emerging vertical applications, such as autonomous vehicles and cooperative robots. However, as the scale of the connected nodes continues to grow, their heterogeneity and cybersecurity threats are more eminent, and conventional centralized communications and decision-making metho...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9990049",
-    "articleTitle": "Adversarial Attacks Against IoT Identification Systems",
-    "authors": [
-      "Jaidip Kotak",
-      "Yuval Elovici"
-    ],
-    "abstract": "While machine learning (ML)-based solutions for Internet of Things (IoT) device identification are effective in identifying IoT devices connected to the network, they may be vulnerable to adversarial attacks. Conventional approaches for crafting adversarial attacks from the computer vision (CV) domain are not applicable in the computer network domain as they interfere with the meaningful communica...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9990575",
-    "articleTitle": "Sparsity-Aware Channel Estimation for Fully Passive RIS-Based Wireless Communications: Theory to Experiments",
-    "authors": [
-      "Muhammad Miftahul Amri",
-      "Nguyen Minh Tran",
-      "Je Hyeon Park",
-      "Dong In Kim",
-      "Kae Won Choi"
-    ],
-    "abstract": "This article proposes a sparsity-aware channel estimation scheme for reconfigurable intelligent surface (RIS)-assisted wireless communications. We present an angular domain-channel sparsity model in a closed-form mathematical expression. A comprehensive formulation of the RIS channel estimation problem based on the sparsity analysis and RIS reflection model is also presented in this manuscript. Th...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9990579",
-    "articleTitle": "Heterogeneous Cluster-Based Information-Centric Sensor Networks With User Security Satisfaction",
-    "authors": [
-      "Anastassia Gharib",
-      "Mohamed Ibnkahla"
-    ],
-    "abstract": "In heterogeneous cluster-based information-centric wireless sensor networks (ICWSNs), sensor nodes acquire different application-specific data. They are clustered based on proximity, where cluster heads (CHs) act as cache nodes. Meanwhile, grouping sensor nodes based on the information type gathered can improve the ICWSN performance. Motivated by the heterogeneous nature of ICWSNs, application-spe...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9987469",
-    "articleTitle": "On the Physical-Layer Security of a Dual-Hop UAV-Based Network in the Presence of Per-Hop Eavesdropping and Imperfect CSI",
-    "authors": [
-      "Elmehdi Illi",
-      "Marwa Qaraqe",
-      "Faissal El Bouanani",
-      "Saif Al-Kuwari"
-    ],
-    "abstract": "In this article, the physical-layer security of a dual-hop unmanned aerial vehicle-based wireless network, subject to imperfect channel state information (CSI) and mobility effects, is analyzed. Specifically, a source node  $(S)$  communicates with a destination node  $(D)$  through a decode-and-forward relay  $(R)$ , in the presence of two wiretappers  $(E_{1}$  and  $E_{2}$ ) independently tryin...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9987503",
-    "articleTitle": "Antenna Selection and Device Grouping for Spectrum-Efficient UAV-Assisted IoT Systems",
-    "authors": [
-      "Dinh-Thuan Do",
-      "Chi-Bao Le",
-      "Alireza Vahid",
-      "Shahid Mumtaz"
-    ],
-    "abstract": "Unmanned aerial vehicle (UAV)-assisted Internet of Things (IoT) systems have been implemented for over a decade, from transportation to military surveillance, and is proven worthy of integration in the next generation of wireless protocols. Though UAVs have immense potential, they have major drawbacks when it comes to real-world implementation, such as energy capacity, loss of signal quality, and ...",
     "date": "2023-04-27T04:15:53.706Z"
   }
 ]

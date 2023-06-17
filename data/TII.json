@@ -1,5 +1,69 @@
 [
   {
+    "articleNumber": "10154591",
+    "articleTitle": "Deep Correspondence Matching Based Robust Point Cloud Registration of Profiled Parts",
+    "authors": [
+      "Weixing Peng",
+      "Yaonan Wang",
+      "Hui Zhang",
+      "Yihong Cao",
+      "Jiawen Zhao",
+      "Yiming Jiang"
+    ],
+    "abstract": "Due to ability to estimate the spatial transformation of coordinate frames, point cloud registration is a fundamental technique in manufacturing. Previous methods prone to converge to wrong local minima, in the cases of large initialization, noise, outliers, and partiality. This study presents a new learning-based robust point cloud registration approach to predict a rigid transformation in a one-...",
+    "date": "2023-06-17T01:03:11.793Z"
+  },
+  {
+    "articleNumber": "10154171",
+    "articleTitle": "Underwater Downwelling Radiance Fields Enable Three-Dimensional Attitude and Heading Determination",
+    "authors": [
+      "Pengwei Hu",
+      "Jian Yang",
+      "Jianzhong Qiao",
+      "Wenshuo Li",
+      "Lei Guo"
+    ],
+    "abstract": "Underwater autonomous navigation has long been a challenging problem due to the scarcity of information sources. The polarization navigation offers a feasible solution to this problem. The existing polarization navigation schemes, however, require that the horizontal attitude is known, which can only be used for two-dimensional orientation. To address the limitation, a three-dimensional (3D) attit...",
+    "date": "2023-06-17T01:03:11.793Z"
+  },
+  {
+    "articleNumber": "10154119",
+    "articleTitle": "Detection of False Data Injection Attack in Power System Based on Hellinger Distance",
+    "authors": [
+      "Zhengwei Qu",
+      "Jingchuan Yang",
+      "Yunjing Wang",
+      "Popov Maxim Georgievitch"
+    ],
+    "abstract": "The deep integration of sensor, computer and communication networks has dramatically improved the efficiency and operational performance of the electric grid. However, it also exposes the grid to rising threats of cyber-physical attacks. False data injection attack (FDIA) is one of the most representative attacks. To improve the security of grid operation, we propose a Hellinger-distance -based FD...",
+    "date": "2023-06-17T01:03:11.793Z"
+  },
+  {
+    "articleNumber": "10154159",
+    "articleTitle": "Feature Selection with Partial Autoencoding for Zero-Sample Fault Diagnosis",
+    "authors": [
+      "Masanao Natsumeda",
+      "Takehisa Yairi"
+    ],
+    "abstract": "Fault diagnosis is still a challenging task es- pecially for unseen faults, which could happen in the sys- tems. Zero-sample fault diagnosis alleviates this issue by utilizing information from seen faults and attributes defined by domain knowledge. However, existing methods suffer from irrelevant features in the original space while existing supervised feature selection methods yield unsatisfactor...",
+    "date": "2023-06-17T01:03:11.793Z"
+  },
+  {
+    "articleNumber": "10154175",
+    "articleTitle": "Multi-Observation-Multi-Channel-Attribute-Based Multiuser Authentication for Industrial Wireless Edge Networks",
+    "authors": [
+      "Rui Meng",
+      "Xiaodong Xu",
+      "Hangyu Zhao",
+      "Bizhu Wang",
+      "Gangyi Li",
+      "Bingxuan Xu",
+      "Ping Zhang"
+    ],
+    "abstract": "In order to truly promote the further development of the Industrial Internet of Things (IIoT), terminal authentication of the IIoT is essential. Physical-Layer Authentication (PLA) has recently attracted much attention for its high security and lightweight. Nevertheless, most existing PLA schemes in conjunction only the observation of a single receiver will lead to low-reliability and low-robustne...",
+    "date": "2023-06-17T01:03:11.793Z"
+  },
+  {
     "articleNumber": "10151900",
     "articleTitle": "Conjoint Enhancement of VSG Dynamic Output Responses by Disturbance-Oriented Adaptive Parameters",
     "authors": [

@@ -1,5 +1,15 @@
 [
   {
+    "articleNumber": "10154164",
+    "articleTitle": "Experimental Design for Overparameterized Learning with Application to Single Shot Deep Active Learning",
+    "authors": [
+      "Neta Shoham",
+      "Haim Avron"
+    ],
+    "abstract": "The impressive performance exhibited by modern machine learning models hinges on the ability to train such models on a very large amounts of labeled data. However, since access to large volumes of labeled data is often limited or expensive, it is desirable to alleviate this bottleneck by carefully curating the training set. Optimal experimental design is a well-established paradigm for selecting d...",
+    "date": "2023-06-17T01:03:00.969Z"
+  },
+  {
     "articleNumber": "10153964",
     "articleTitle": "Bilateral Relation Distillation for Weakly Supervised Temporal Action Localization",
     "authors": [

@@ -2,11 +2,143 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/IoTJ.rss</id>
     <title>IEEE Internet of Things Journal</title>
-    <updated>2023-06-16T16:14:30.721Z</updated>
+    <updated>2023-06-17T01:03:06.638Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/IoTJ.rss"/>
     <subtitle>IEEE Internet of Things Journal</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Ant Colony Optimization with Look-ahead Mechanism for Dynamic Traffic Signal Control of IoV Systems]]></title>
+        <id>https://ieeexplore.ieee.org/document/10154015</id>
+        <link href="https://ieeexplore.ieee.org/document/10154015"/>
+        <updated>2023-06-17T01:03:06.630Z</updated>
+        <summary type="html"><![CDATA[In the era of Internet of Vehicle (IoV), traffic data are obtained by wireless sensor networks (WSNs), which provides convenience for real-time traffic signal control and is expected to further improve the efficiency of the whole system. Traffic signal controllers designed for IoV systems usually fully depend on data transmitted from the IoV system and are limited to the penetration rate of connec...]]></summary>
+        <author>
+            <name>Shubing Liao</name>
+        </author>
+        <author>
+            <name>Yaxin Wu</name>
+        </author>
+        <author>
+            <name>Kanghua Ma</name>
+        </author>
+        <author>
+            <name>Yunyun Niu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Digital Twins for Smart Spaces - Beyond IoT Analytics]]></title>
+        <id>https://ieeexplore.ieee.org/document/10153976</id>
+        <link href="https://ieeexplore.ieee.org/document/10153976"/>
+        <updated>2023-06-17T01:03:06.630Z</updated>
+        <summary type="html"><![CDATA[Smart spaces, physical spaces that are integrated with sensor-enabled IoT devices, are a powerful paradigm for optimizing the operations of the space and improving its quality for the occupants. Managing the applications and services running in the space is a complex task as the operations of the devices and services are dependent on the physical characteristics of the space, the occupants of the ...]]></summary>
+        <author>
+            <name>Naser Hossein Motlagh</name>
+        </author>
+        <author>
+            <name>Martha Arbayani Zaidan</name>
+        </author>
+        <author>
+            <name>Lauri Lovén</name>
+        </author>
+        <author>
+            <name>Pak Lun Fung</name>
+        </author>
+        <author>
+            <name>Tuomo Hänninen</name>
+        </author>
+        <author>
+            <name>Roberto Morabito</name>
+        </author>
+        <author>
+            <name>Petteri Nurmi</name>
+        </author>
+        <author>
+            <name>Sasu Tarkoma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scalable and Interactive Simulation for IoT Applications with TinySim]]></title>
+        <id>https://ieeexplore.ieee.org/document/10154556</id>
+        <link href="https://ieeexplore.ieee.org/document/10154556"/>
+        <updated>2023-06-17T01:03:06.630Z</updated>
+        <summary type="html"><![CDATA[Recent years, the rapid development of IoT (Internet of Things) technologies and applications have been witnessed. Three important features are characterized in modern IoT applications, i.e., device heterogeneity, long-range communication and cloud/edge-device integration. Difficulties are raised by the above features towards IoT application developers, e.g., predicting and evaluating the performa...]]></summary>
+        <author>
+            <name>Gonglong Chen</name>
+        </author>
+        <author>
+            <name>Wei Dong</name>
+        </author>
+        <author>
+            <name>Fujian Qiu</name>
+        </author>
+        <author>
+            <name>Gaoyang Guan</name>
+        </author>
+        <author>
+            <name>Yi Gao</name>
+        </author>
+        <author>
+            <name>Siyu Zeng</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Location Privacy Aware Taxi-Hailing System: Adaptive Differential Privacy-based Dynamic Incentive Method]]></title>
+        <id>https://ieeexplore.ieee.org/document/10153975</id>
+        <link href="https://ieeexplore.ieee.org/document/10153975"/>
+        <updated>2023-06-17T01:03:06.630Z</updated>
+        <summary type="html"><![CDATA[Nowadays location-based service (LBS) has become an important service in people’s daily life. Online taxi-hailing system (DiDi, Uber, etc.) is one of the most common LBS system. As the scale of online taxi services continues to expand, some problems have gradually emerged. Specifically, the uncertainty of taxis and passengers makes it difficult to match them effectively, and the passengers’ locati...]]></summary>
+        <author>
+            <name>Donghe Li</name>
+        </author>
+        <author>
+            <name>Qingyu Yang</name>
+        </author>
+        <author>
+            <name>Dou An</name>
+        </author>
+        <author>
+            <name>Yushuo Zhang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Attack-Resistant, Energy-Adaptive Monitoring for Smart Farms: Uncertainty-Aware Deep Reinforcement Learning Approach]]></title>
+        <id>https://ieeexplore.ieee.org/document/10153977</id>
+        <link href="https://ieeexplore.ieee.org/document/10153977"/>
+        <updated>2023-06-17T01:03:06.630Z</updated>
+        <summary type="html"><![CDATA[This work proposes an energy-adaptive monitoring system for a smart farm using solar sensors attached to cows. The proposed system aims to achieve a high monitoring quality in the smart farm under fluctuating energy and cyber attacks disrupting the collection of sensed data from solar sensors, such as protocol non-compliance, false data injection, denial-of-service, and state manipulation. We adop...]]></summary>
+        <author>
+            <name>Qisheng Zhang</name>
+        </author>
+        <author>
+            <name>Dian Chen</name>
+        </author>
+        <author>
+            <name>Yash Mahajan</name>
+        </author>
+        <author>
+            <name>Ing-Ray Chen</name>
+        </author>
+        <author>
+            <name>Dong Sam Ha</name>
+        </author>
+        <author>
+            <name>Jin-Hee Cho</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Decentralized Blockchain-Based and Trust-Aware Task Offloading Strategy for Healthcare IoT]]></title>
+        <id>https://ieeexplore.ieee.org/document/10153986</id>
+        <link href="https://ieeexplore.ieee.org/document/10153986"/>
+        <updated>2023-06-17T01:03:06.630Z</updated>
+        <summary type="html"><![CDATA[Although smart healthcare has achieved rapid development and has gained considerable attention from academia and industry, pressing challenges exist such as resource limitation and stringent security demand. To tackle the issues, a blockchain-based and trust-aware task-offloading strategy (BBTAS) is proposed in this work, whereby task offloading requests are published as blockchain transactions th...]]></summary>
+        <author>
+            <name>Junyu Ren</name>
+        </author>
+        <author>
+            <name>Tuanfa Qin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Online Parallel Attack Detection Method for Industrial Control based on Multi-bandpass Filter]]></title>
         <id>https://ieeexplore.ieee.org/document/10153783</id>
@@ -21498,111 +21630,6 @@
         </author>
         <author>
             <name>Chi-Hao Chen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wireless Distributed Consensus for Connected Autonomous Systems]]></title>
-        <id>https://ieeexplore.ieee.org/document/9990047</id>
-        <link href="https://ieeexplore.ieee.org/document/9990047"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[Connected critical autonomous systems (C-CASs) are envisioned to significantly change our life and work styles through emerging vertical applications, such as autonomous vehicles and cooperative robots. However, as the scale of the connected nodes continues to grow, their heterogeneity and cybersecurity threats are more eminent, and conventional centralized communications and decision-making metho...]]></summary>
-        <author>
-            <name>Hao Xu</name>
-        </author>
-        <author>
-            <name>Yixuan Fan</name>
-        </author>
-        <author>
-            <name>Wenyu Li</name>
-        </author>
-        <author>
-            <name>Lei Zhang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adversarial Attacks Against IoT Identification Systems]]></title>
-        <id>https://ieeexplore.ieee.org/document/9990049</id>
-        <link href="https://ieeexplore.ieee.org/document/9990049"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[While machine learning (ML)-based solutions for Internet of Things (IoT) device identification are effective in identifying IoT devices connected to the network, they may be vulnerable to adversarial attacks. Conventional approaches for crafting adversarial attacks from the computer vision (CV) domain are not applicable in the computer network domain as they interfere with the meaningful communica...]]></summary>
-        <author>
-            <name>Jaidip Kotak</name>
-        </author>
-        <author>
-            <name>Yuval Elovici</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sparsity-Aware Channel Estimation for Fully Passive RIS-Based Wireless Communications: Theory to Experiments]]></title>
-        <id>https://ieeexplore.ieee.org/document/9990575</id>
-        <link href="https://ieeexplore.ieee.org/document/9990575"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[This article proposes a sparsity-aware channel estimation scheme for reconfigurable intelligent surface (RIS)-assisted wireless communications. We present an angular domain-channel sparsity model in a closed-form mathematical expression. A comprehensive formulation of the RIS channel estimation problem based on the sparsity analysis and RIS reflection model is also presented in this manuscript. Th...]]></summary>
-        <author>
-            <name>Muhammad Miftahul Amri</name>
-        </author>
-        <author>
-            <name>Nguyen Minh Tran</name>
-        </author>
-        <author>
-            <name>Je Hyeon Park</name>
-        </author>
-        <author>
-            <name>Dong In Kim</name>
-        </author>
-        <author>
-            <name>Kae Won Choi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Heterogeneous Cluster-Based Information-Centric Sensor Networks With User Security Satisfaction]]></title>
-        <id>https://ieeexplore.ieee.org/document/9990579</id>
-        <link href="https://ieeexplore.ieee.org/document/9990579"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[In heterogeneous cluster-based information-centric wireless sensor networks (ICWSNs), sensor nodes acquire different application-specific data. They are clustered based on proximity, where cluster heads (CHs) act as cache nodes. Meanwhile, grouping sensor nodes based on the information type gathered can improve the ICWSN performance. Motivated by the heterogeneous nature of ICWSNs, application-spe...]]></summary>
-        <author>
-            <name>Anastassia Gharib</name>
-        </author>
-        <author>
-            <name>Mohamed Ibnkahla</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On the Physical-Layer Security of a Dual-Hop UAV-Based Network in the Presence of Per-Hop Eavesdropping and Imperfect CSI]]></title>
-        <id>https://ieeexplore.ieee.org/document/9987469</id>
-        <link href="https://ieeexplore.ieee.org/document/9987469"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[In this article, the physical-layer security of a dual-hop unmanned aerial vehicle-based wireless network, subject to imperfect channel state information (CSI) and mobility effects, is analyzed. Specifically, a source node  $(S)$  communicates with a destination node  $(D)$  through a decode-and-forward relay  $(R)$ , in the presence of two wiretappers  $(E_{1}$  and  $E_{2}$ ) independently tryin...]]></summary>
-        <author>
-            <name>Elmehdi Illi</name>
-        </author>
-        <author>
-            <name>Marwa Qaraqe</name>
-        </author>
-        <author>
-            <name>Faissal El Bouanani</name>
-        </author>
-        <author>
-            <name>Saif Al-Kuwari</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Antenna Selection and Device Grouping for Spectrum-Efficient UAV-Assisted IoT Systems]]></title>
-        <id>https://ieeexplore.ieee.org/document/9987503</id>
-        <link href="https://ieeexplore.ieee.org/document/9987503"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[Unmanned aerial vehicle (UAV)-assisted Internet of Things (IoT) systems have been implemented for over a decade, from transportation to military surveillance, and is proven worthy of integration in the next generation of wireless protocols. Though UAVs have immense potential, they have major drawbacks when it comes to real-world implementation, such as energy capacity, loss of signal quality, and ...]]></summary>
-        <author>
-            <name>Dinh-Thuan Do</name>
-        </author>
-        <author>
-            <name>Chi-Bao Le</name>
-        </author>
-        <author>
-            <name>Alireza Vahid</name>
-        </author>
-        <author>
-            <name>Shahid Mumtaz</name>
         </author>
     </entry>
 </feed>
