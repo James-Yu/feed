@@ -1,5 +1,145 @@
 [
   {
+    "articleNumber": "10155465",
+    "articleTitle": "Age of Information-Based Computation Offloading and Transmission Scheduling in Mobile Edge Computing-Enabled IoT Networks",
+    "authors": [
+      "Yingying Jiang",
+      "Jia Liu",
+      "Iztok Humar",
+      "Min Chen",
+      "Salman A. Alqahtani",
+      "M. Shamim Hossain"
+    ],
+    "abstract": "The emergence of Mobile Edge Computing (MEC) technology has deployed edge clouds with strong computing capabilities closer to Internet of Thing (IoT) devices, which can effectively meet the demands for computing power and latency. However, in addition to the stringent latency requirements, more and more emerging IoT applications also have higher standards for the freshness and timeliness of collec...",
+    "date": "2023-06-20T01:04:49.771Z"
+  },
+  {
+    "articleNumber": "10155288",
+    "articleTitle": "Controlled Search: Building Inverted-Index PEKS with Less Leakage in Multi-User Setting",
+    "authors": [
+      "Guiyun Qin",
+      "Pengtao Liu",
+      "Chengyu Hu",
+      "Zengpeng Li",
+      "Shanqing Guo"
+    ],
+    "abstract": "The public key encryption with keyword search (PEKS) schemes are mostly applied to small data sets in mail forwarding systems. When retrieving large databases, the typical search mechanism makes them inefficient and impractical. When designing a PEKS scheme, except for remedying the vulnerability of Keyword Guessing Attacks (KGA), other leakage issues such as multi-pattern privacy and forward/back...",
+    "date": "2023-06-20T01:04:49.771Z"
+  },
+  {
+    "articleNumber": "10155303",
+    "articleTitle": "Marine IoT Systems with Space-Air-Sea Integrated Networks: Hybrid LEO and UAV Edge Computing",
+    "authors": [
+      "Sooyeob Jung",
+      "Seongah Jeong",
+      "Jinkyu Kang",
+      "Joonhyuk Kang"
+    ],
+    "abstract": "Marine Internet of Things (IoT) systems have grown substantially with the development of non-terrestrial networks (NTN) via aerial and space vehicles in the upcoming sixth-generation (6G), thereby assisting environment protection, military reconnaissance and sea transportation. Due to the unpredictable climate changes and the extreme channel conditions of maritime networks, however, it is challeng...",
+    "date": "2023-06-20T01:04:49.771Z"
+  },
+  {
+    "articleNumber": "10155309",
+    "articleTitle": "MADRL-based Joint Edge Caching and Bitrate Selection for Multicategory 360-degree Video Streaming",
+    "authors": [
+      "Jiaxin Zeng",
+      "Xiaobo Zhou",
+      "Keqiu Li"
+    ],
+    "abstract": "360-degree video streaming has gained increasing attraction in the current popular VR, AR, and MR applications, which can provide users with an immersive experience. In tile-based 360-degree video streaming, edge caching and bitrate selection strategies are jointly designed to improve users’ Quality of Experience (QoE), which incorporates video quality and rebuffer. However, the existing QoE-drive...",
+    "date": "2023-06-20T01:04:49.771Z"
+  },
+  {
+    "articleNumber": "10155317",
+    "articleTitle": "Opportunistic Block Validation for IoT Blockchain Networks",
+    "authors": [
+      "Seungchul Lee",
+      "Jae-Hoon Kim"
+    ],
+    "abstract": "The blockchain network architecture is a promising technology for constructing highly secure Internet of Things (IoT) networks. IoT networks typically consist of many sensors and actuators. Blockchain network technology can be applied to secure control robots in smart factories or for reliable drone delivery in smart cities. The distributed ledger and data block validation across blockchain networ...",
+    "date": "2023-06-20T01:04:49.771Z"
+  },
+  {
+    "articleNumber": "10155461",
+    "articleTitle": "PartialHD: Toward Efficient Hyperdimensional Computing by Partial Processing",
+    "authors": [
+      "Farhad Taheri",
+      "Siavash Bayat-Sarmadi",
+      "Hamed Rastaghi"
+    ],
+    "abstract": "Hyperdimensional (HD) computing is a brain inspired learning method that is widely employed in resource-constrained applications such as the internet of things (IoT) regarding its lightweight computation. Although HD computing has high efficiency in the IoT applications, it suffers from high computation due to the large vector size. Thus, several studies are proposed to speedup and increase the ef...",
+    "date": "2023-06-20T01:04:49.771Z"
+  },
+  {
+    "articleNumber": "10155304",
+    "articleTitle": "Verkle Accumulator-based Stateless Transaction Validation (VA-STV) Scheme for the Blockchain-based IoT Network",
+    "authors": [
+      "Zhaohui Guo",
+      "Zhen Gao",
+      "Qiang Liu",
+      "Lei Liu",
+      "Mianxiong Dong",
+      "Ning Zhang",
+      "Mohammed Atiquzzaman"
+    ],
+    "abstract": "The blockchain-based Internet of Things (IoT) has served widely across various industries for authentication, cooperation, and data sharing but faced the severe challenge of storage scalability. The storage burden gets worse for IoT devices with limited resources. The state data is essential for efficient transaction issuance and validation. This paper proposes the Verkle accumulator-based statele...",
+    "date": "2023-06-20T01:04:49.771Z"
+  },
+  {
+    "articleNumber": "10155306",
+    "articleTitle": "Motion Comfort Optimization for Autonomous Vehicles: Concepts, Methods, and Techniques",
+    "authors": [
+      "Mohammed Aledhari",
+      "Mohamed Rahouti",
+      "Junaid Qadir",
+      "Basheer Qolomany",
+      "Mohsen Guizani",
+      "Ala Al-Fuqaha"
+    ],
+    "abstract": "This article outlines the architecture of autonomous driving and related complementary frameworks from the perspective of human comfort. The technical elements for measuring Autonomous Vehicle (AV) user comfort and psychoanalysis are listed here. At the same time, this article introduces the technology related to the structure of automatic driving and the reaction time of automatic driving. We als...",
+    "date": "2023-06-20T01:04:49.771Z"
+  },
+  {
+    "articleNumber": "10155312",
+    "articleTitle": "Blockchain-Aided Anonymous Traceable and Revocable Access Control Scheme with Dynamic Policy Updating for the Cloud IoT",
+    "authors": [
+      "Leyou Zhang",
+      "Xinmin Li",
+      "Qing Wu",
+      "Fatemeh Rezaeibagha"
+    ],
+    "abstract": "The Internet of Things has been applied in various fields of industry, which has promoted the intelligent development of the industry and improved efficiency in industrial production. The devices involved in the IoT have generated useful and sensitive data over time and upload the data to the cloud to realize real-time data sharing. To ensure the confidentiality of data, many systems use attribute...",
+    "date": "2023-06-20T01:04:49.771Z"
+  },
+  {
+    "articleNumber": "10155558",
+    "articleTitle": "Auditable Blockchain Rewriting in Permissioned Setting with Mandatory Revocability for IoT",
+    "authors": [
+      "Wei Shao",
+      "Jinpeng Wang",
+      "Lianhai Wang",
+      "Chunfu Jia",
+      "Shujiang Xu",
+      "Shuhui Zhang"
+    ],
+    "abstract": "The Internet of Things (IoT) connects everyday devices and generates real-time data that have greatly prompted business and life efficiency. The integration of IoT and blockchain has made IoT data management and storage more trustworthy. However, despite that the immutability property contributes a lot to the trustable reputation of blockchain-based IoT systems, from a data processing perspective,...",
+    "date": "2023-06-20T01:04:49.771Z"
+  },
+  {
+    "articleNumber": "10155452",
+    "articleTitle": "A Millimeter-Wave Wideband Antenna Module with Switchable Fan-Beam Radiation for Wide Coverage of 5G IoT Applications",
+    "authors": [
+      "Yingyu Bi",
+      "Yujian Li",
+      "Hang Wong",
+      "Bing Xiao",
+      "Lei Ge",
+      "Junhong Wang"
+    ],
+    "abstract": "Millimeter wave (mm-wave) antenna modules with switchable beam radiation provide a potential solution for enabling flexible wireless links and high data rate in Internet of Things (IoT) networks. Aiming to simultaneously fulfill a wide coverage and follow the cost-effective principle of IoT devices, a novel mm-wave wideband antenna module with switchable fanbeam radiation is proposed based on an a...",
+    "date": "2023-06-20T01:04:49.771Z"
+  },
+  {
     "articleNumber": "10154015",
     "articleTitle": "Ant Colony Optimization with Look-ahead Mechanism for Dynamic Traffic Signal Control of IoV Systems",
     "authors": [
@@ -12736,142 +12876,6 @@
       "Yacine Challal"
     ],
     "abstract": "Massive machine-type communications (mMTCs) network slices in 5G aim to connect a massive number of MTC devices, opening the door for a widened attack surface. Network slices are well isolated, resulting in a low impact on other running slices when attackers control IoT devices belonging to an mMTC network slice (i.e., in-slice attack). However, the impact of the in-slice attacks on the shared inf...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9993725",
-    "articleTitle": "WiSensor: Passive Sensor Data Transmission by Way of Ambient Wi-Fi Channels",
-    "authors": [
-      "Xiaochen Feng",
-      "Yumei Wen",
-      "Zhuang Shao",
-      "Guoda Wang",
-      "Ping Li",
-      "Yao Wang",
-      "Tao Han",
-      "Xiaojun Ji"
-    ],
-    "abstract": "Recent developments in wireless sensor networks have empowered low-power, intelligent sensor nodes to be distributed over a large area. However, wireless sensor nodes that actively emit electromagnetic waves for energy-hungry communication are limited by the volumes and capacities of batteries, requiring periodic maintenance in widespread applications. To solve this problem, we propose a passive w...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9993719",
-    "articleTitle": "BLDSS: A Blockchain-Based Lightweight Searchable Data Sharing Scheme in Vehicular Social Networks",
-    "authors": [
-      "Yuanjian Zhou",
-      "Zhenfu Cao",
-      "Xiaolei Dong",
-      "Jun Zhou"
-    ],
-    "abstract": "Vehicular social networks (VSNs) are likely to play an increasingly important role of the future smart cities, supporting traffic management, real-time warning, and sharing data (e.g., condition, vehicular, and warning). However, there are existing security and privacy issues with vehicular data, which directly lead to the insufficient utilization of vehicular data. In this article, a blockchain-b...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9993702",
-    "articleTitle": "Robust Federated Learning Over Noisy Fading Channels",
-    "authors": [
-      "Suhail M. Shah",
-      "Liqun Su",
-      "Vincent K. N. Lau"
-    ],
-    "abstract": "The performance capabilities of models trained in a federated learning (FL) setting over wireless networks can be significantly affected by the underlying properties of the transmission channel. Even for shallow models, there can be an acute degradation in performance which necessitates the development of algorithms which are robust to transmission channel effects, such as noise and fading. In thi...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9993699",
-    "articleTitle": "LC-GAN: Improving Adversarial Robustness of Face Recognition Systems on Edge Devices",
-    "authors": [
-      "Peilun Du",
-      "Xiaolong Zheng",
-      "Liang Liu",
-      "Huadong Ma"
-    ],
-    "abstract": "Deep-learning-based (DL-based) face recognition has become an important application in the Internet of Things (IoT) environment. However, recent studies demonstrate that elaborate adversarial examples can mislead the results of DL-based face recognition on mobile and edge devices. Such vulnerability threats the robustness of face recognition systems and causes security issues. Generative adversari...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9993750",
-    "articleTitle": "A Data Integrity Authentication Scheme in WSNs Based on Double Watermark",
-    "authors": [
-      "Guangyong Gao",
-      "Tingting Han",
-      "Zhao Feng",
-      "Min Wang",
-      "Zhihua Xia"
-    ],
-    "abstract": "Aiming at data security in wireless sensor networks (WSNs), a data authentication scheme based on a double watermark is proposed in this article. Double watermark includes reversible watermark and irreversible watermark. The former generated by group head data is embedded into the effective precision bit of data, and the latter generated by the effective precision bit of the data themselves and a ...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9993727",
-    "articleTitle": "ASAA: Multihop and Multiuser Channel Hopping Protocols for Cognitive-Radio-Enabled Internet of Things",
-    "authors": [
-      "Djeane Debora Onthoni",
-      "Prasan Kumar Sahoo",
-      "Mohammed Atiquzzaman"
-    ],
-    "abstract": "The devices of the Internet of Things (IoT) are integrated and interconnected by using the traditional wireless communication technology. The unavailability of spectrum sharing occurs in traditional wireless communication due to the presence of a massive number of IoT devices. Thus, the cognitive radio network (CRN) is introduced as a promising technology to utilize the spectrum efficiently. Chann...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9991851",
-    "articleTitle": "Multilink and AUV-Assisted Energy-Efficient Underwater Emergency Communications",
-    "authors": [
-      "Zhengrui Huang",
-      "Shujie Wang"
-    ],
-    "abstract": "Recent development in wireless communications has provided many reliable solutions to emergency response issues, especially in scenarios with dysfunctional or congested base stations. Prior studies on underwater emergency communications, however, remain understudied, which poses a need for combining the merits of different underwater communication links (UCLs) and the manipulability of unmanned ve...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9991841",
-    "articleTitle": "Area–Time Efficient Implementation of NIST Lightweight Hash Functions Targeting IoT Applications",
-    "authors": [
-      "Safiullah Khan",
-      "Wai-Kong Lee",
-      "Angshuman Karmakar",
-      "Jose Maria Bermudo Mera",
-      "Abdul Majeed",
-      "Seong Oun Hwang"
-    ],
-    "abstract": "To mitigate cybersecurity breaches, secure communication is crucial for the Internet of Things (IoT) environment. Data integrity is one of the most significant characteristics of security, which can be achieved by employing cryptographic hash functions. In view of the demand from IoT applications, the National Institute of Standards and Technology (NIST) initiated a standardization process for lig...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9991994",
-    "articleTitle": "From Eye to Brain: A Proactive and Distributed Crowdsensing Framework for Federated Learning",
-    "authors": [
-      "Hongjia Wu",
-      "Hui Zeng",
-      "Tongqing Zhou",
-      "Zhiping Cai",
-      "Zehui Xiong",
-      "Dusit Niyato",
-      "Zhu Han"
-    ],
-    "abstract": "Massive amounts of high-quality data are the prerequisite and support for AI technologies. Due to the nature of privacy-preserving and low communication overheads, federated learning (FL) has garnered considerable attention in comparison with traditional data collection methods. However, the performance of FL is hampered by the lack of interested clients and limited local data due to selfishness a...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9990589",
-    "articleTitle": "Deep AI-Powered Cyber Threat Analysis in IIoT",
-    "authors": [
-      "Iram Bibi",
-      "Adnan Akhunzada",
-      "Neeraj Kumar"
-    ],
-    "abstract": "Distributed Industrial Internet of Things (IIoT) has entirely revolutionized the industrial sector that varies from autonomous industrial processes to automation of processes without human intervention. However, threat hunting and intelligence is the most complex task in distributed IIoT. Besides, there exist no standard architectures for hunting micro services orchestration in distributed IIoT sy...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9990587",
-    "articleTitle": "A CSI Prediction Scheme for Satellite-Terrestrial Networks",
-    "authors": [
-      "Guey-Yun Chang",
-      "Chia-Kai Hung",
-      "Chi-Hao Chen"
-    ],
-    "abstract": "Recently, low Earth orbit (LEO) satellites have been suggested as a promising solution for global coverage of 5G networks. However, long propagation delay makes obtained channel state information (CSI) (which is employed for efficient spectrum utilization) outdated before usage. Note that CSI is closely related to elevation angle and relative location. Although elevation angle and relative locatio...",
     "date": "2023-04-27T04:15:53.706Z"
   }
 ]

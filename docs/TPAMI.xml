@@ -2,11 +2,87 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/TPAMI.rss</id>
     <title>IEEE Transactions on Pattern Analysis and Machine Intelligence</title>
-    <updated>2023-06-19T16:14:34.623Z</updated>
+    <updated>2023-06-20T01:04:44.903Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/TPAMI.rss"/>
     <subtitle>IEEE Transactions on Pattern Analysis and Machine Intelligence</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Semantic and Temporal Contextual Correlation Learning for Weakly-Supervised Temporal Action Localization]]></title>
+        <id>https://ieeexplore.ieee.org/document/10155179</id>
+        <link href="https://ieeexplore.ieee.org/document/10155179"/>
+        <updated>2023-06-20T01:04:44.898Z</updated>
+        <summary type="html"><![CDATA[Weakly-supervised temporal action localization (WSTAL) aims to automatically identify and localize action instances in untrimmed videos with only video-level labels as supervision. In this task, there exist two challenges: (1) how to accurately discover the action categories in an untrimmed video (what to discover); (2) how to elaborately focus on the integral temporal interval of each action inst...]]></summary>
+        <author>
+            <name>Jie Fu</name>
+        </author>
+        <author>
+            <name>Junyu Gao</name>
+        </author>
+        <author>
+            <name>Changsheng Xu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An approach to robust ICP initialization]]></title>
+        <id>https://ieeexplore.ieee.org/document/10155262</id>
+        <link href="https://ieeexplore.ieee.org/document/10155262"/>
+        <updated>2023-06-20T01:04:44.898Z</updated>
+        <summary type="html"><![CDATA[In this note, we propose an approach to initialize the Iterative Closest Point (ICP) algorithm to match unlabelled point clouds related by rigid transformations. The method is based on matching the ellipsoids defined by the points&#39; covariance matrices and then testing the various principal half–axes matchings that differ by elements of a finite reflection group. We derive bounds on the robustness ...]]></summary>
+        <author>
+            <name>Alexander Kolpakov</name>
+        </author>
+        <author>
+            <name>Michael Werman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3D Visual Saliency: An Independent Perceptual Measure or A Derivative of 2D Image Saliency?]]></title>
+        <id>https://ieeexplore.ieee.org/document/10155236</id>
+        <link href="https://ieeexplore.ieee.org/document/10155236"/>
+        <updated>2023-06-20T01:04:44.898Z</updated>
+        <summary type="html"><![CDATA[While 3D visual saliency aims to predict regional importance of 3D surfaces in agreement with human visual perception and has been well researched in computer vision and graphics, latest work with eye-tracking experiments shows that state-of-the-art 3D visual saliency methods remain poor at predicting human fixations. Cues emerging prominently from these experiments suggest that 3D visual saliency...]]></summary>
+        <author>
+            <name>Ran Song</name>
+        </author>
+        <author>
+            <name>Wei Zhang</name>
+        </author>
+        <author>
+            <name>Yitian Zhao</name>
+        </author>
+        <author>
+            <name>Yonghuai Liu</name>
+        </author>
+        <author>
+            <name>Paul L. Rosin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Interpolated Joint Space Adversarial Training for Robust and Generalizable Defenses]]></title>
+        <id>https://ieeexplore.ieee.org/document/10155464</id>
+        <link href="https://ieeexplore.ieee.org/document/10155464"/>
+        <updated>2023-06-20T01:04:44.898Z</updated>
+        <summary type="html"><![CDATA[Adversarial training (AT) is considered to be one of the most reliable defenses against adversarial attacks. However, models trained with AT sacrifice standard accuracy and do not generalize well to unseen attacks. Some examples of recent works show generalization improvement with adversarial samples under unseen threat models are, on-manifold threat model or neural perceptual threat model. Howeve...]]></summary>
+        <author>
+            <name>Chun Pong Lau</name>
+        </author>
+        <author>
+            <name>Jiang Liu</name>
+        </author>
+        <author>
+            <name>Hossein Souri</name>
+        </author>
+        <author>
+            <name>Wei-An Lin</name>
+        </author>
+        <author>
+            <name>Soheil Feizi</name>
+        </author>
+        <author>
+            <name>Rama Chellappa</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Experimental Design for Overparameterized Learning with Application to Single Shot Deep Active Learning]]></title>
         <id>https://ieeexplore.ieee.org/document/10154164</id>

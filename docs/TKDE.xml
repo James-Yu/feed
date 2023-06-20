@@ -2,11 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/TKDE.rss</id>
     <title>IEEE Transactions on Knowledge and Data Engineering</title>
-    <updated>2023-06-19T16:14:29.399Z</updated>
+    <updated>2023-06-20T01:04:39.021Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/TKDE.rss"/>
     <subtitle>IEEE Transactions on Knowledge and Data Engineering</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Static and Streaming Discovery of Maximal Linear Representation Between Time Series]]></title>
+        <id>https://ieeexplore.ieee.org/document/10155259</id>
+        <link href="https://ieeexplore.ieee.org/document/10155259"/>
+        <updated>2023-06-20T01:04:39.013Z</updated>
+        <summary type="html"><![CDATA[Nowadays, many applications, like the Internet of Things and Industrial Internet, collect data points from sensors continuously to form long time series. Finding the correlation between time series is a fundamental task for many time series mining problems. However, it is meaningless to directly measure the global correlation between two long time series due to concept shift or noise data. To tack...]]></summary>
+        <author>
+            <name>Zeyu Wang</name>
+        </author>
+        <author>
+            <name>Zhenying He</name>
+        </author>
+        <author>
+            <name>Peng Wang</name>
+        </author>
+        <author>
+            <name>Yang Wang</name>
+        </author>
+        <author>
+            <name>Wei Wang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Temporal Heterogeneous Information Network Embedding via Semantic Evolution]]></title>
+        <id>https://ieeexplore.ieee.org/document/10155228</id>
+        <link href="https://ieeexplore.ieee.org/document/10155228"/>
+        <updated>2023-06-20T01:04:39.013Z</updated>
+        <summary type="html"><![CDATA[Real-world networks are often heterogeneous and constantly changing over time. Evolution reveals the trend of network development, which is vital for predicting its future state, and network embedding can effectively learn the information from it. Nevertheless, previous works only consider the impact of meta-path instances or node neighbors on the network dynamics but ignore the relationship betwe...]]></summary>
+        <author>
+            <name>Wei Zhou</name>
+        </author>
+        <author>
+            <name>Hong Huang</name>
+        </author>
+        <author>
+            <name>Ruize Shi</name>
+        </author>
+        <author>
+            <name>Xiran Song</name>
+        </author>
+        <author>
+            <name>Xue Lin</name>
+        </author>
+        <author>
+            <name>Xiao Wang</name>
+        </author>
+        <author>
+            <name>Hai Jin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FuFaction: Fuzzy Factual Inconsistency Correction on Crowdsourced Documents with Hybrid-Mask at the Hidden-State Level]]></title>
         <id>https://ieeexplore.ieee.org/document/10151941</id>

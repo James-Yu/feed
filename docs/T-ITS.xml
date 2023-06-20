@@ -2,11 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/T-ITS.rss</id>
     <title>IEEE Transactions on Intelligent Transportation Systems</title>
-    <updated>2023-06-19T16:14:24.112Z</updated>
+    <updated>2023-06-20T01:04:34.010Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/T-ITS.rss"/>
     <subtitle>IEEE Transactions on Intelligent Transportation Systems</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Uncertainty-Aware Decision-Making for Autonomous Driving at Uncontrolled Intersections]]></title>
+        <id>https://ieeexplore.ieee.org/document/10155311</id>
+        <link href="https://ieeexplore.ieee.org/document/10155311"/>
+        <updated>2023-06-20T01:04:34.004Z</updated>
+        <summary type="html"><![CDATA[Reinforcement learning (RL) has been widely used in the decision-making of autonomous vehicles (AVs) in recent studies. However, existing RL methods generally find the optimal policy by maximizing the expectation of future returns, which lacks distributional treatments of risky situations. Additionally, various uncertainties arising from the environment could also cause unreliable decisions, parti...]]></summary>
+        <author>
+            <name>Xiaolin Tang</name>
+        </author>
+        <author>
+            <name>Guichuan Zhong</name>
+        </author>
+        <author>
+            <name>Shen Li</name>
+        </author>
+        <author>
+            <name>Kai Yang</name>
+        </author>
+        <author>
+            <name>Keqi Shu</name>
+        </author>
+        <author>
+            <name>Dongpu Cao</name>
+        </author>
+        <author>
+            <name>Xianke Lin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neural Adaptive Quantitative Prescribed Performance Sectionalized Event-Triggered Control for Autonomous Underwater Vehicles]]></title>
+        <id>https://ieeexplore.ieee.org/document/10155286</id>
+        <link href="https://ieeexplore.ieee.org/document/10155286"/>
+        <updated>2023-06-20T01:04:34.004Z</updated>
+        <summary type="html"><![CDATA[In this paper, we study the quantitative design paradigm (QDP) of tracing control for a class of second-order system and further extend this to solve the trajectory tracking problem of autonomous underwater vehicles. The key merit of QDP is the capability of assigning some quantitative indices (e.g., overshoot and convergence time). To pursue performance enhancement with regard to tracking perform...]]></summary>
+        <author>
+            <name>Yi Shi</name>
+        </author>
+        <author>
+            <name>Wei Xie</name>
+        </author>
+        <author>
+            <name>Minglei Xiong</name>
+        </author>
+        <author>
+            <name>Weidong Zhang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Secure Vehicular Communications With Varying QoS and Environments: A Unified Cross-Layer Policy-Adaptation Approach]]></title>
+        <id>https://ieeexplore.ieee.org/document/10155301</id>
+        <link href="https://ieeexplore.ieee.org/document/10155301"/>
+        <updated>2023-06-20T01:04:34.004Z</updated>
+        <summary type="html"><![CDATA[With the ubiquitous connectivity in internet of vehicles, secure transmission is of vital importance for intelligent vehicle-to-everything (V2X) communications. However, in order to effectively guarantee the secrecy performance, once the short-term statistics of channel quality are low, which frequently happens because of the high mobility of vehicles, the throughput performance can be weakened by...]]></summary>
+        <author>
+            <name>Yuquan Xiao</name>
+        </author>
+        <author>
+            <name>Qinghe Du</name>
+        </author>
+        <author>
+            <name>Yunsheng Zhang</name>
+        </author>
+        <author>
+            <name>Chen Lu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Coupling Effect and Chain Evolution of Urban Rail Transit Emergencies]]></title>
         <id>https://ieeexplore.ieee.org/document/10153927</id>

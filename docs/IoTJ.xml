@@ -2,11 +2,244 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/IoTJ.rss</id>
     <title>IEEE Internet of Things Journal</title>
-    <updated>2023-06-19T16:14:39.419Z</updated>
+    <updated>2023-06-20T01:04:49.779Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/IoTJ.rss"/>
     <subtitle>IEEE Internet of Things Journal</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Age of Information-Based Computation Offloading and Transmission Scheduling in Mobile Edge Computing-Enabled IoT Networks]]></title>
+        <id>https://ieeexplore.ieee.org/document/10155465</id>
+        <link href="https://ieeexplore.ieee.org/document/10155465"/>
+        <updated>2023-06-20T01:04:49.771Z</updated>
+        <summary type="html"><![CDATA[The emergence of Mobile Edge Computing (MEC) technology has deployed edge clouds with strong computing capabilities closer to Internet of Thing (IoT) devices, which can effectively meet the demands for computing power and latency. However, in addition to the stringent latency requirements, more and more emerging IoT applications also have higher standards for the freshness and timeliness of collec...]]></summary>
+        <author>
+            <name>Yingying Jiang</name>
+        </author>
+        <author>
+            <name>Jia Liu</name>
+        </author>
+        <author>
+            <name>Iztok Humar</name>
+        </author>
+        <author>
+            <name>Min Chen</name>
+        </author>
+        <author>
+            <name>Salman A. Alqahtani</name>
+        </author>
+        <author>
+            <name>M. Shamim Hossain</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Controlled Search: Building Inverted-Index PEKS with Less Leakage in Multi-User Setting]]></title>
+        <id>https://ieeexplore.ieee.org/document/10155288</id>
+        <link href="https://ieeexplore.ieee.org/document/10155288"/>
+        <updated>2023-06-20T01:04:49.771Z</updated>
+        <summary type="html"><![CDATA[The public key encryption with keyword search (PEKS) schemes are mostly applied to small data sets in mail forwarding systems. When retrieving large databases, the typical search mechanism makes them inefficient and impractical. When designing a PEKS scheme, except for remedying the vulnerability of Keyword Guessing Attacks (KGA), other leakage issues such as multi-pattern privacy and forward/back...]]></summary>
+        <author>
+            <name>Guiyun Qin</name>
+        </author>
+        <author>
+            <name>Pengtao Liu</name>
+        </author>
+        <author>
+            <name>Chengyu Hu</name>
+        </author>
+        <author>
+            <name>Zengpeng Li</name>
+        </author>
+        <author>
+            <name>Shanqing Guo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Marine IoT Systems with Space-Air-Sea Integrated Networks: Hybrid LEO and UAV Edge Computing]]></title>
+        <id>https://ieeexplore.ieee.org/document/10155303</id>
+        <link href="https://ieeexplore.ieee.org/document/10155303"/>
+        <updated>2023-06-20T01:04:49.771Z</updated>
+        <summary type="html"><![CDATA[Marine Internet of Things (IoT) systems have grown substantially with the development of non-terrestrial networks (NTN) via aerial and space vehicles in the upcoming sixth-generation (6G), thereby assisting environment protection, military reconnaissance and sea transportation. Due to the unpredictable climate changes and the extreme channel conditions of maritime networks, however, it is challeng...]]></summary>
+        <author>
+            <name>Sooyeob Jung</name>
+        </author>
+        <author>
+            <name>Seongah Jeong</name>
+        </author>
+        <author>
+            <name>Jinkyu Kang</name>
+        </author>
+        <author>
+            <name>Joonhyuk Kang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MADRL-based Joint Edge Caching and Bitrate Selection for Multicategory 360-degree Video Streaming]]></title>
+        <id>https://ieeexplore.ieee.org/document/10155309</id>
+        <link href="https://ieeexplore.ieee.org/document/10155309"/>
+        <updated>2023-06-20T01:04:49.771Z</updated>
+        <summary type="html"><![CDATA[360-degree video streaming has gained increasing attraction in the current popular VR, AR, and MR applications, which can provide users with an immersive experience. In tile-based 360-degree video streaming, edge caching and bitrate selection strategies are jointly designed to improve users’ Quality of Experience (QoE), which incorporates video quality and rebuffer. However, the existing QoE-drive...]]></summary>
+        <author>
+            <name>Jiaxin Zeng</name>
+        </author>
+        <author>
+            <name>Xiaobo Zhou</name>
+        </author>
+        <author>
+            <name>Keqiu Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Opportunistic Block Validation for IoT Blockchain Networks]]></title>
+        <id>https://ieeexplore.ieee.org/document/10155317</id>
+        <link href="https://ieeexplore.ieee.org/document/10155317"/>
+        <updated>2023-06-20T01:04:49.771Z</updated>
+        <summary type="html"><![CDATA[The blockchain network architecture is a promising technology for constructing highly secure Internet of Things (IoT) networks. IoT networks typically consist of many sensors and actuators. Blockchain network technology can be applied to secure control robots in smart factories or for reliable drone delivery in smart cities. The distributed ledger and data block validation across blockchain networ...]]></summary>
+        <author>
+            <name>Seungchul Lee</name>
+        </author>
+        <author>
+            <name>Jae-Hoon Kim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PartialHD: Toward Efficient Hyperdimensional Computing by Partial Processing]]></title>
+        <id>https://ieeexplore.ieee.org/document/10155461</id>
+        <link href="https://ieeexplore.ieee.org/document/10155461"/>
+        <updated>2023-06-20T01:04:49.771Z</updated>
+        <summary type="html"><![CDATA[Hyperdimensional (HD) computing is a brain inspired learning method that is widely employed in resource-constrained applications such as the internet of things (IoT) regarding its lightweight computation. Although HD computing has high efficiency in the IoT applications, it suffers from high computation due to the large vector size. Thus, several studies are proposed to speedup and increase the ef...]]></summary>
+        <author>
+            <name>Farhad Taheri</name>
+        </author>
+        <author>
+            <name>Siavash Bayat-Sarmadi</name>
+        </author>
+        <author>
+            <name>Hamed Rastaghi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Verkle Accumulator-based Stateless Transaction Validation (VA-STV) Scheme for the Blockchain-based IoT Network]]></title>
+        <id>https://ieeexplore.ieee.org/document/10155304</id>
+        <link href="https://ieeexplore.ieee.org/document/10155304"/>
+        <updated>2023-06-20T01:04:49.771Z</updated>
+        <summary type="html"><![CDATA[The blockchain-based Internet of Things (IoT) has served widely across various industries for authentication, cooperation, and data sharing but faced the severe challenge of storage scalability. The storage burden gets worse for IoT devices with limited resources. The state data is essential for efficient transaction issuance and validation. This paper proposes the Verkle accumulator-based statele...]]></summary>
+        <author>
+            <name>Zhaohui Guo</name>
+        </author>
+        <author>
+            <name>Zhen Gao</name>
+        </author>
+        <author>
+            <name>Qiang Liu</name>
+        </author>
+        <author>
+            <name>Lei Liu</name>
+        </author>
+        <author>
+            <name>Mianxiong Dong</name>
+        </author>
+        <author>
+            <name>Ning Zhang</name>
+        </author>
+        <author>
+            <name>Mohammed Atiquzzaman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Motion Comfort Optimization for Autonomous Vehicles: Concepts, Methods, and Techniques]]></title>
+        <id>https://ieeexplore.ieee.org/document/10155306</id>
+        <link href="https://ieeexplore.ieee.org/document/10155306"/>
+        <updated>2023-06-20T01:04:49.771Z</updated>
+        <summary type="html"><![CDATA[This article outlines the architecture of autonomous driving and related complementary frameworks from the perspective of human comfort. The technical elements for measuring Autonomous Vehicle (AV) user comfort and psychoanalysis are listed here. At the same time, this article introduces the technology related to the structure of automatic driving and the reaction time of automatic driving. We als...]]></summary>
+        <author>
+            <name>Mohammed Aledhari</name>
+        </author>
+        <author>
+            <name>Mohamed Rahouti</name>
+        </author>
+        <author>
+            <name>Junaid Qadir</name>
+        </author>
+        <author>
+            <name>Basheer Qolomany</name>
+        </author>
+        <author>
+            <name>Mohsen Guizani</name>
+        </author>
+        <author>
+            <name>Ala Al-Fuqaha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blockchain-Aided Anonymous Traceable and Revocable Access Control Scheme with Dynamic Policy Updating for the Cloud IoT]]></title>
+        <id>https://ieeexplore.ieee.org/document/10155312</id>
+        <link href="https://ieeexplore.ieee.org/document/10155312"/>
+        <updated>2023-06-20T01:04:49.771Z</updated>
+        <summary type="html"><![CDATA[The Internet of Things has been applied in various fields of industry, which has promoted the intelligent development of the industry and improved efficiency in industrial production. The devices involved in the IoT have generated useful and sensitive data over time and upload the data to the cloud to realize real-time data sharing. To ensure the confidentiality of data, many systems use attribute...]]></summary>
+        <author>
+            <name>Leyou Zhang</name>
+        </author>
+        <author>
+            <name>Xinmin Li</name>
+        </author>
+        <author>
+            <name>Qing Wu</name>
+        </author>
+        <author>
+            <name>Fatemeh Rezaeibagha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Auditable Blockchain Rewriting in Permissioned Setting with Mandatory Revocability for IoT]]></title>
+        <id>https://ieeexplore.ieee.org/document/10155558</id>
+        <link href="https://ieeexplore.ieee.org/document/10155558"/>
+        <updated>2023-06-20T01:04:49.771Z</updated>
+        <summary type="html"><![CDATA[The Internet of Things (IoT) connects everyday devices and generates real-time data that have greatly prompted business and life efficiency. The integration of IoT and blockchain has made IoT data management and storage more trustworthy. However, despite that the immutability property contributes a lot to the trustable reputation of blockchain-based IoT systems, from a data processing perspective,...]]></summary>
+        <author>
+            <name>Wei Shao</name>
+        </author>
+        <author>
+            <name>Jinpeng Wang</name>
+        </author>
+        <author>
+            <name>Lianhai Wang</name>
+        </author>
+        <author>
+            <name>Chunfu Jia</name>
+        </author>
+        <author>
+            <name>Shujiang Xu</name>
+        </author>
+        <author>
+            <name>Shuhui Zhang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Millimeter-Wave Wideband Antenna Module with Switchable Fan-Beam Radiation for Wide Coverage of 5G IoT Applications]]></title>
+        <id>https://ieeexplore.ieee.org/document/10155452</id>
+        <link href="https://ieeexplore.ieee.org/document/10155452"/>
+        <updated>2023-06-20T01:04:49.771Z</updated>
+        <summary type="html"><![CDATA[Millimeter wave (mm-wave) antenna modules with switchable beam radiation provide a potential solution for enabling flexible wireless links and high data rate in Internet of Things (IoT) networks. Aiming to simultaneously fulfill a wide coverage and follow the cost-effective principle of IoT devices, a novel mm-wave wideband antenna module with switchable fanbeam radiation is proposed based on an a...]]></summary>
+        <author>
+            <name>Yingyu Bi</name>
+        </author>
+        <author>
+            <name>Yujian Li</name>
+        </author>
+        <author>
+            <name>Hang Wong</name>
+        </author>
+        <author>
+            <name>Bing Xiao</name>
+        </author>
+        <author>
+            <name>Lei Ge</name>
+        </author>
+        <author>
+            <name>Junhong Wang</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ant Colony Optimization with Look-ahead Mechanism for Dynamic Traffic Signal Control of IoV Systems]]></title>
         <id>https://ieeexplore.ieee.org/document/10154015</id>
@@ -21409,227 +21642,6 @@
         </author>
         <author>
             <name>Yacine Challal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WiSensor: Passive Sensor Data Transmission by Way of Ambient Wi-Fi Channels]]></title>
-        <id>https://ieeexplore.ieee.org/document/9993725</id>
-        <link href="https://ieeexplore.ieee.org/document/9993725"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[Recent developments in wireless sensor networks have empowered low-power, intelligent sensor nodes to be distributed over a large area. However, wireless sensor nodes that actively emit electromagnetic waves for energy-hungry communication are limited by the volumes and capacities of batteries, requiring periodic maintenance in widespread applications. To solve this problem, we propose a passive w...]]></summary>
-        <author>
-            <name>Xiaochen Feng</name>
-        </author>
-        <author>
-            <name>Yumei Wen</name>
-        </author>
-        <author>
-            <name>Zhuang Shao</name>
-        </author>
-        <author>
-            <name>Guoda Wang</name>
-        </author>
-        <author>
-            <name>Ping Li</name>
-        </author>
-        <author>
-            <name>Yao Wang</name>
-        </author>
-        <author>
-            <name>Tao Han</name>
-        </author>
-        <author>
-            <name>Xiaojun Ji</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BLDSS: A Blockchain-Based Lightweight Searchable Data Sharing Scheme in Vehicular Social Networks]]></title>
-        <id>https://ieeexplore.ieee.org/document/9993719</id>
-        <link href="https://ieeexplore.ieee.org/document/9993719"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[Vehicular social networks (VSNs) are likely to play an increasingly important role of the future smart cities, supporting traffic management, real-time warning, and sharing data (e.g., condition, vehicular, and warning). However, there are existing security and privacy issues with vehicular data, which directly lead to the insufficient utilization of vehicular data. In this article, a blockchain-b...]]></summary>
-        <author>
-            <name>Yuanjian Zhou</name>
-        </author>
-        <author>
-            <name>Zhenfu Cao</name>
-        </author>
-        <author>
-            <name>Xiaolei Dong</name>
-        </author>
-        <author>
-            <name>Jun Zhou</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Robust Federated Learning Over Noisy Fading Channels]]></title>
-        <id>https://ieeexplore.ieee.org/document/9993702</id>
-        <link href="https://ieeexplore.ieee.org/document/9993702"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[The performance capabilities of models trained in a federated learning (FL) setting over wireless networks can be significantly affected by the underlying properties of the transmission channel. Even for shallow models, there can be an acute degradation in performance which necessitates the development of algorithms which are robust to transmission channel effects, such as noise and fading. In thi...]]></summary>
-        <author>
-            <name>Suhail M. Shah</name>
-        </author>
-        <author>
-            <name>Liqun Su</name>
-        </author>
-        <author>
-            <name>Vincent K. N. Lau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LC-GAN: Improving Adversarial Robustness of Face Recognition Systems on Edge Devices]]></title>
-        <id>https://ieeexplore.ieee.org/document/9993699</id>
-        <link href="https://ieeexplore.ieee.org/document/9993699"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[Deep-learning-based (DL-based) face recognition has become an important application in the Internet of Things (IoT) environment. However, recent studies demonstrate that elaborate adversarial examples can mislead the results of DL-based face recognition on mobile and edge devices. Such vulnerability threats the robustness of face recognition systems and causes security issues. Generative adversari...]]></summary>
-        <author>
-            <name>Peilun Du</name>
-        </author>
-        <author>
-            <name>Xiaolong Zheng</name>
-        </author>
-        <author>
-            <name>Liang Liu</name>
-        </author>
-        <author>
-            <name>Huadong Ma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Data Integrity Authentication Scheme in WSNs Based on Double Watermark]]></title>
-        <id>https://ieeexplore.ieee.org/document/9993750</id>
-        <link href="https://ieeexplore.ieee.org/document/9993750"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[Aiming at data security in wireless sensor networks (WSNs), a data authentication scheme based on a double watermark is proposed in this article. Double watermark includes reversible watermark and irreversible watermark. The former generated by group head data is embedded into the effective precision bit of data, and the latter generated by the effective precision bit of the data themselves and a ...]]></summary>
-        <author>
-            <name>Guangyong Gao</name>
-        </author>
-        <author>
-            <name>Tingting Han</name>
-        </author>
-        <author>
-            <name>Zhao Feng</name>
-        </author>
-        <author>
-            <name>Min Wang</name>
-        </author>
-        <author>
-            <name>Zhihua Xia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ASAA: Multihop and Multiuser Channel Hopping Protocols for Cognitive-Radio-Enabled Internet of Things]]></title>
-        <id>https://ieeexplore.ieee.org/document/9993727</id>
-        <link href="https://ieeexplore.ieee.org/document/9993727"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[The devices of the Internet of Things (IoT) are integrated and interconnected by using the traditional wireless communication technology. The unavailability of spectrum sharing occurs in traditional wireless communication due to the presence of a massive number of IoT devices. Thus, the cognitive radio network (CRN) is introduced as a promising technology to utilize the spectrum efficiently. Chann...]]></summary>
-        <author>
-            <name>Djeane Debora Onthoni</name>
-        </author>
-        <author>
-            <name>Prasan Kumar Sahoo</name>
-        </author>
-        <author>
-            <name>Mohammed Atiquzzaman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Multilink and AUV-Assisted Energy-Efficient Underwater Emergency Communications]]></title>
-        <id>https://ieeexplore.ieee.org/document/9991851</id>
-        <link href="https://ieeexplore.ieee.org/document/9991851"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[Recent development in wireless communications has provided many reliable solutions to emergency response issues, especially in scenarios with dysfunctional or congested base stations. Prior studies on underwater emergency communications, however, remain understudied, which poses a need for combining the merits of different underwater communication links (UCLs) and the manipulability of unmanned ve...]]></summary>
-        <author>
-            <name>Zhengrui Huang</name>
-        </author>
-        <author>
-            <name>Shujie Wang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Area–Time Efficient Implementation of NIST Lightweight Hash Functions Targeting IoT Applications]]></title>
-        <id>https://ieeexplore.ieee.org/document/9991841</id>
-        <link href="https://ieeexplore.ieee.org/document/9991841"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[To mitigate cybersecurity breaches, secure communication is crucial for the Internet of Things (IoT) environment. Data integrity is one of the most significant characteristics of security, which can be achieved by employing cryptographic hash functions. In view of the demand from IoT applications, the National Institute of Standards and Technology (NIST) initiated a standardization process for lig...]]></summary>
-        <author>
-            <name>Safiullah Khan</name>
-        </author>
-        <author>
-            <name>Wai-Kong Lee</name>
-        </author>
-        <author>
-            <name>Angshuman Karmakar</name>
-        </author>
-        <author>
-            <name>Jose Maria Bermudo Mera</name>
-        </author>
-        <author>
-            <name>Abdul Majeed</name>
-        </author>
-        <author>
-            <name>Seong Oun Hwang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Eye to Brain: A Proactive and Distributed Crowdsensing Framework for Federated Learning]]></title>
-        <id>https://ieeexplore.ieee.org/document/9991994</id>
-        <link href="https://ieeexplore.ieee.org/document/9991994"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[Massive amounts of high-quality data are the prerequisite and support for AI technologies. Due to the nature of privacy-preserving and low communication overheads, federated learning (FL) has garnered considerable attention in comparison with traditional data collection methods. However, the performance of FL is hampered by the lack of interested clients and limited local data due to selfishness a...]]></summary>
-        <author>
-            <name>Hongjia Wu</name>
-        </author>
-        <author>
-            <name>Hui Zeng</name>
-        </author>
-        <author>
-            <name>Tongqing Zhou</name>
-        </author>
-        <author>
-            <name>Zhiping Cai</name>
-        </author>
-        <author>
-            <name>Zehui Xiong</name>
-        </author>
-        <author>
-            <name>Dusit Niyato</name>
-        </author>
-        <author>
-            <name>Zhu Han</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deep AI-Powered Cyber Threat Analysis in IIoT]]></title>
-        <id>https://ieeexplore.ieee.org/document/9990589</id>
-        <link href="https://ieeexplore.ieee.org/document/9990589"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[Distributed Industrial Internet of Things (IIoT) has entirely revolutionized the industrial sector that varies from autonomous industrial processes to automation of processes without human intervention. However, threat hunting and intelligence is the most complex task in distributed IIoT. Besides, there exist no standard architectures for hunting micro services orchestration in distributed IIoT sy...]]></summary>
-        <author>
-            <name>Iram Bibi</name>
-        </author>
-        <author>
-            <name>Adnan Akhunzada</name>
-        </author>
-        <author>
-            <name>Neeraj Kumar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A CSI Prediction Scheme for Satellite-Terrestrial Networks]]></title>
-        <id>https://ieeexplore.ieee.org/document/9990587</id>
-        <link href="https://ieeexplore.ieee.org/document/9990587"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[Recently, low Earth orbit (LEO) satellites have been suggested as a promising solution for global coverage of 5G networks. However, long propagation delay makes obtained channel state information (CSI) (which is employed for efficient spectrum utilization) outdated before usage. Note that CSI is closely related to elevation angle and relative location. Although elevation angle and relative locatio...]]></summary>
-        <author>
-            <name>Guey-Yun Chang</name>
-        </author>
-        <author>
-            <name>Chia-Kai Hung</name>
-        </author>
-        <author>
-            <name>Chi-Hao Chen</name>
         </author>
     </entry>
 </feed>

@@ -1,5 +1,44 @@
 [
   {
+    "articleNumber": "10155311",
+    "articleTitle": "Uncertainty-Aware Decision-Making for Autonomous Driving at Uncontrolled Intersections",
+    "authors": [
+      "Xiaolin Tang",
+      "Guichuan Zhong",
+      "Shen Li",
+      "Kai Yang",
+      "Keqi Shu",
+      "Dongpu Cao",
+      "Xianke Lin"
+    ],
+    "abstract": "Reinforcement learning (RL) has been widely used in the decision-making of autonomous vehicles (AVs) in recent studies. However, existing RL methods generally find the optimal policy by maximizing the expectation of future returns, which lacks distributional treatments of risky situations. Additionally, various uncertainties arising from the environment could also cause unreliable decisions, parti...",
+    "date": "2023-06-20T01:04:34.004Z"
+  },
+  {
+    "articleNumber": "10155286",
+    "articleTitle": "Neural Adaptive Quantitative Prescribed Performance Sectionalized Event-Triggered Control for Autonomous Underwater Vehicles",
+    "authors": [
+      "Yi Shi",
+      "Wei Xie",
+      "Minglei Xiong",
+      "Weidong Zhang"
+    ],
+    "abstract": "In this paper, we study the quantitative design paradigm (QDP) of tracing control for a class of second-order system and further extend this to solve the trajectory tracking problem of autonomous underwater vehicles. The key merit of QDP is the capability of assigning some quantitative indices (e.g., overshoot and convergence time). To pursue performance enhancement with regard to tracking perform...",
+    "date": "2023-06-20T01:04:34.004Z"
+  },
+  {
+    "articleNumber": "10155301",
+    "articleTitle": "Secure Vehicular Communications With Varying QoS and Environments: A Unified Cross-Layer Policy-Adaptation Approach",
+    "authors": [
+      "Yuquan Xiao",
+      "Qinghe Du",
+      "Yunsheng Zhang",
+      "Chen Lu"
+    ],
+    "abstract": "With the ubiquitous connectivity in internet of vehicles, secure transmission is of vital importance for intelligent vehicle-to-everything (V2X) communications. However, in order to effectively guarantee the secrecy performance, once the short-term statistics of channel quality are low, which frequently happens because of the high mobility of vehicles, the throughput performance can be weakened by...",
+    "date": "2023-06-20T01:04:34.004Z"
+  },
+  {
     "articleNumber": "10153927",
     "articleTitle": "Coupling Effect and Chain Evolution of Urban Rail Transit Emergencies",
     "authors": [

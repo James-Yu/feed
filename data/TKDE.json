@@ -1,5 +1,33 @@
 [
   {
+    "articleNumber": "10155259",
+    "articleTitle": "Static and Streaming Discovery of Maximal Linear Representation Between Time Series",
+    "authors": [
+      "Zeyu Wang",
+      "Zhenying He",
+      "Peng Wang",
+      "Yang Wang",
+      "Wei Wang"
+    ],
+    "abstract": "Nowadays, many applications, like the Internet of Things and Industrial Internet, collect data points from sensors continuously to form long time series. Finding the correlation between time series is a fundamental task for many time series mining problems. However, it is meaningless to directly measure the global correlation between two long time series due to concept shift or noise data. To tack...",
+    "date": "2023-06-20T01:04:39.013Z"
+  },
+  {
+    "articleNumber": "10155228",
+    "articleTitle": "Temporal Heterogeneous Information Network Embedding via Semantic Evolution",
+    "authors": [
+      "Wei Zhou",
+      "Hong Huang",
+      "Ruize Shi",
+      "Xiran Song",
+      "Xue Lin",
+      "Xiao Wang",
+      "Hai Jin"
+    ],
+    "abstract": "Real-world networks are often heterogeneous and constantly changing over time. Evolution reveals the trend of network development, which is vital for predicting its future state, and network embedding can effectively learn the information from it. Nevertheless, previous works only consider the impact of meta-path instances or node neighbors on the network dynamics but ignore the relationship betwe...",
+    "date": "2023-06-20T01:04:39.013Z"
+  },
+  {
     "articleNumber": "10151941",
     "articleTitle": "FuFaction: Fuzzy Factual Inconsistency Correction on Crowdsourced Documents with Hybrid-Mask at the Hidden-State Level",
     "authors": [

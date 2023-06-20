@@ -1,5 +1,53 @@
 [
   {
+    "articleNumber": "10155179",
+    "articleTitle": "Semantic and Temporal Contextual Correlation Learning for Weakly-Supervised Temporal Action Localization",
+    "authors": [
+      "Jie Fu",
+      "Junyu Gao",
+      "Changsheng Xu"
+    ],
+    "abstract": "Weakly-supervised temporal action localization (WSTAL) aims to automatically identify and localize action instances in untrimmed videos with only video-level labels as supervision. In this task, there exist two challenges: (1) how to accurately discover the action categories in an untrimmed video (what to discover); (2) how to elaborately focus on the integral temporal interval of each action inst...",
+    "date": "2023-06-20T01:04:44.898Z"
+  },
+  {
+    "articleNumber": "10155262",
+    "articleTitle": "An approach to robust ICP initialization",
+    "authors": [
+      "Alexander Kolpakov",
+      "Michael Werman"
+    ],
+    "abstract": "In this note, we propose an approach to initialize the Iterative Closest Point (ICP) algorithm to match unlabelled point clouds related by rigid transformations. The method is based on matching the ellipsoids defined by the points&#39; covariance matrices and then testing the various principal half–axes matchings that differ by elements of a finite reflection group. We derive bounds on the robustness ...",
+    "date": "2023-06-20T01:04:44.898Z"
+  },
+  {
+    "articleNumber": "10155236",
+    "articleTitle": "3D Visual Saliency: An Independent Perceptual Measure or A Derivative of 2D Image Saliency?",
+    "authors": [
+      "Ran Song",
+      "Wei Zhang",
+      "Yitian Zhao",
+      "Yonghuai Liu",
+      "Paul L. Rosin"
+    ],
+    "abstract": "While 3D visual saliency aims to predict regional importance of 3D surfaces in agreement with human visual perception and has been well researched in computer vision and graphics, latest work with eye-tracking experiments shows that state-of-the-art 3D visual saliency methods remain poor at predicting human fixations. Cues emerging prominently from these experiments suggest that 3D visual saliency...",
+    "date": "2023-06-20T01:04:44.898Z"
+  },
+  {
+    "articleNumber": "10155464",
+    "articleTitle": "Interpolated Joint Space Adversarial Training for Robust and Generalizable Defenses",
+    "authors": [
+      "Chun Pong Lau",
+      "Jiang Liu",
+      "Hossein Souri",
+      "Wei-An Lin",
+      "Soheil Feizi",
+      "Rama Chellappa"
+    ],
+    "abstract": "Adversarial training (AT) is considered to be one of the most reliable defenses against adversarial attacks. However, models trained with AT sacrifice standard accuracy and do not generalize well to unseen attacks. Some examples of recent works show generalization improvement with adversarial samples under unseen threat models are, on-manifold threat model or neural perceptual threat model. Howeve...",
+    "date": "2023-06-20T01:04:44.898Z"
+  },
+  {
     "articleNumber": "10154164",
     "articleTitle": "Experimental Design for Overparameterized Learning with Application to Single Shot Deep Active Learning",
     "authors": [
