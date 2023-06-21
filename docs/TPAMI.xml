@@ -2,11 +2,156 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/TPAMI.rss</id>
     <title>IEEE Transactions on Pattern Analysis and Machine Intelligence</title>
-    <updated>2023-06-20T16:14:31.166Z</updated>
+    <updated>2023-06-21T01:06:44.270Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/TPAMI.rss"/>
     <subtitle>IEEE Transactions on Pattern Analysis and Machine Intelligence</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Domain-Scalable Unpaired Image Translation Via Latent Space Anchoring]]></title>
+        <id>https://ieeexplore.ieee.org/document/10158033</id>
+        <link href="https://ieeexplore.ieee.org/document/10158033"/>
+        <updated>2023-06-21T01:06:44.265Z</updated>
+        <summary type="html"><![CDATA[Unpaired image-to-image translation (UNIT) aims to map images between two visual domains without paired training data. However, given a UNIT model trained on certain domains, it is difficult for current methods to incorporate new domains because they often need to train the full model on both existing and new domains. To address this problem, we propose a new domain-scalable UNIT method, termed as...]]></summary>
+        <author>
+            <name>Siyu Huang</name>
+        </author>
+        <author>
+            <name>Jie An</name>
+        </author>
+        <author>
+            <name>Donglai Wei</name>
+        </author>
+        <author>
+            <name>Zudi Lin</name>
+        </author>
+        <author>
+            <name>Jiebo Luo</name>
+        </author>
+        <author>
+            <name>Hanspeter Pfister</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Light Field Reconstruction Via Deep Adaptive Fusion of Hybrid Lenses]]></title>
+        <id>https://ieeexplore.ieee.org/document/10158383</id>
+        <link href="https://ieeexplore.ieee.org/document/10158383"/>
+        <updated>2023-06-21T01:06:44.265Z</updated>
+        <summary type="html"><![CDATA[This paper explores the problem of reconstructing high-resolution light field (LF) images from hybrid lenses, including a high-resolution camera surrounded by multiple low-resolution cameras. The performance of existing methods is still limited, as they produce either blurry results on plain textured areas or distortions around depth discontinuous boundaries. To tackle this challenge, we propose a...]]></summary>
+        <author>
+            <name>Jing Jin</name>
+        </author>
+        <author>
+            <name>Mantang Guo</name>
+        </author>
+        <author>
+            <name>Junhui Hou</name>
+        </author>
+        <author>
+            <name>Hui Liu</name>
+        </author>
+        <author>
+            <name>Hongkai Xiong</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Leveraging Symbolic Knowledge Bases for Commonsense Natural Language Inference using Pattern Theory]]></title>
+        <id>https://ieeexplore.ieee.org/document/10158053</id>
+        <link href="https://ieeexplore.ieee.org/document/10158053"/>
+        <updated>2023-06-21T01:06:44.265Z</updated>
+        <summary type="html"><![CDATA[The commonsense natural language inference (CNLI) tasks aim to select the most likely follow-up statement to a contextual description of ordinary, everyday events and facts. Current approaches to transfer learning of CNLI models across tasks require many labeled data from the new task. This paper presents a way to reduce this need for additional annotated training data from the new task by leverag...]]></summary>
+        <author>
+            <name>Sathyanarayanan N. Aakur</name>
+        </author>
+        <author>
+            <name>Sudeep Sarkar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[No Adversaries to Zero-Shot Learning: Distilling an Ensemble of Gaussian Feature Generators]]></title>
+        <id>https://ieeexplore.ieee.org/document/10158446</id>
+        <link href="https://ieeexplore.ieee.org/document/10158446"/>
+        <updated>2023-06-21T01:06:44.265Z</updated>
+        <summary type="html"><![CDATA[In zero-shot learning (ZSL), the task of recognizing unseen categories when no data for training is available, state-of-the-art methods generate visual features from semantic auxiliary information (e.g., attributes). In this work, we propose a valid alternative (simpler, yet better scoring) to fulfill the very same task. We observe that, if first- and second-order statistics of the classes to be r...]]></summary>
+        <author>
+            <name>Jacopo Cavazza</name>
+        </author>
+        <author>
+            <name>Vittorio Murino</name>
+        </author>
+        <author>
+            <name>Alessio Del Bue</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PiGLET: Pixel-level Grounding of Language Expressions with Transformers]]></title>
+        <id>https://ieeexplore.ieee.org/document/10158238</id>
+        <link href="https://ieeexplore.ieee.org/document/10158238"/>
+        <updated>2023-06-21T01:06:44.265Z</updated>
+        <summary type="html"><![CDATA[This paper proposes Panoptic Narrative Grounding, a spatially fine and general formulation of the natural language visual grounding problem. We establish an experimental framework for the study of this new task, including new ground truth and metrics. We propose PiGLET a novel multi-modal Transformer architecture to tackle the Panoptic Narrative Grounding task, and to serve as a stepping stone for...]]></summary>
+        <author>
+            <name>Cristina González</name>
+        </author>
+        <author>
+            <name>Nicolás Ayobi</name>
+        </author>
+        <author>
+            <name>Isabela Hernández</name>
+        </author>
+        <author>
+            <name>Jordi Pont-Tuset</name>
+        </author>
+        <author>
+            <name>Pablo Arbeláez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ensemble Multi-Quantiles: Adaptively Flexible Distribution Prediction for Uncertainty Quantification]]></title>
+        <id>https://ieeexplore.ieee.org/document/10158031</id>
+        <link href="https://ieeexplore.ieee.org/document/10158031"/>
+        <updated>2023-06-21T01:06:44.265Z</updated>
+        <summary type="html"><![CDATA[We propose a novel, succinct, and effective approach for distribution prediction to quantify uncertainty in machine learning. It incorporates adaptively flexible distribution prediction of $\mathbb {P}(\mathbf {y}|\mathbf {X}=x)$ in regression tasks. This conditional distribution&#39;s quantiles of probability levels spreading the interval (0,1) are boosted by additive models which are designed by us ...]]></summary>
+        <author>
+            <name>Xing Yan</name>
+        </author>
+        <author>
+            <name>Yonghua Su</name>
+        </author>
+        <author>
+            <name>Wenxuan Ma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prescribed Safety Performance Imitation Learning from A Single Expert Dataset]]></title>
+        <id>https://ieeexplore.ieee.org/document/10158032</id>
+        <link href="https://ieeexplore.ieee.org/document/10158032"/>
+        <updated>2023-06-21T01:06:44.265Z</updated>
+        <summary type="html"><![CDATA[Existing safe imitation learning (safe IL) methods mainly focus on learning safe policies that are similar to expert ones, but may fail in applications requiring different safety constraints. In this paper, we propose the Lagrangian Generative Adversarial Imitation Learning (LGAIL) algorithm, which can adaptively learn safe policies from a single expert dataset under diverse prescribed safety cons...]]></summary>
+        <author>
+            <name>Zhihao Cheng</name>
+        </author>
+        <author>
+            <name>Li Shen</name>
+        </author>
+        <author>
+            <name>Miaoxi Zhu</name>
+        </author>
+        <author>
+            <name>Jiaxian Guo</name>
+        </author>
+        <author>
+            <name>Meng Fang</name>
+        </author>
+        <author>
+            <name>Liu Liu</name>
+        </author>
+        <author>
+            <name>Bo Du</name>
+        </author>
+        <author>
+            <name>Dacheng Tao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Semantic and Temporal Contextual Correlation Learning for Weakly-Supervised Temporal Action Localization]]></title>
         <id>https://ieeexplore.ieee.org/document/10155179</id>

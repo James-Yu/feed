@@ -1,5 +1,93 @@
 [
   {
+    "articleNumber": "10158033",
+    "articleTitle": "Domain-Scalable Unpaired Image Translation Via Latent Space Anchoring",
+    "authors": [
+      "Siyu Huang",
+      "Jie An",
+      "Donglai Wei",
+      "Zudi Lin",
+      "Jiebo Luo",
+      "Hanspeter Pfister"
+    ],
+    "abstract": "Unpaired image-to-image translation (UNIT) aims to map images between two visual domains without paired training data. However, given a UNIT model trained on certain domains, it is difficult for current methods to incorporate new domains because they often need to train the full model on both existing and new domains. To address this problem, we propose a new domain-scalable UNIT method, termed as...",
+    "date": "2023-06-21T01:06:44.265Z"
+  },
+  {
+    "articleNumber": "10158383",
+    "articleTitle": "Light Field Reconstruction Via Deep Adaptive Fusion of Hybrid Lenses",
+    "authors": [
+      "Jing Jin",
+      "Mantang Guo",
+      "Junhui Hou",
+      "Hui Liu",
+      "Hongkai Xiong"
+    ],
+    "abstract": "This paper explores the problem of reconstructing high-resolution light field (LF) images from hybrid lenses, including a high-resolution camera surrounded by multiple low-resolution cameras. The performance of existing methods is still limited, as they produce either blurry results on plain textured areas or distortions around depth discontinuous boundaries. To tackle this challenge, we propose a...",
+    "date": "2023-06-21T01:06:44.265Z"
+  },
+  {
+    "articleNumber": "10158053",
+    "articleTitle": "Leveraging Symbolic Knowledge Bases for Commonsense Natural Language Inference using Pattern Theory",
+    "authors": [
+      "Sathyanarayanan N. Aakur",
+      "Sudeep Sarkar"
+    ],
+    "abstract": "The commonsense natural language inference (CNLI) tasks aim to select the most likely follow-up statement to a contextual description of ordinary, everyday events and facts. Current approaches to transfer learning of CNLI models across tasks require many labeled data from the new task. This paper presents a way to reduce this need for additional annotated training data from the new task by leverag...",
+    "date": "2023-06-21T01:06:44.265Z"
+  },
+  {
+    "articleNumber": "10158446",
+    "articleTitle": "No Adversaries to Zero-Shot Learning: Distilling an Ensemble of Gaussian Feature Generators",
+    "authors": [
+      "Jacopo Cavazza",
+      "Vittorio Murino",
+      "Alessio Del Bue"
+    ],
+    "abstract": "In zero-shot learning (ZSL), the task of recognizing unseen categories when no data for training is available, state-of-the-art methods generate visual features from semantic auxiliary information (e.g., attributes). In this work, we propose a valid alternative (simpler, yet better scoring) to fulfill the very same task. We observe that, if first- and second-order statistics of the classes to be r...",
+    "date": "2023-06-21T01:06:44.265Z"
+  },
+  {
+    "articleNumber": "10158238",
+    "articleTitle": "PiGLET: Pixel-level Grounding of Language Expressions with Transformers",
+    "authors": [
+      "Cristina González",
+      "Nicolás Ayobi",
+      "Isabela Hernández",
+      "Jordi Pont-Tuset",
+      "Pablo Arbeláez"
+    ],
+    "abstract": "This paper proposes Panoptic Narrative Grounding, a spatially fine and general formulation of the natural language visual grounding problem. We establish an experimental framework for the study of this new task, including new ground truth and metrics. We propose PiGLET a novel multi-modal Transformer architecture to tackle the Panoptic Narrative Grounding task, and to serve as a stepping stone for...",
+    "date": "2023-06-21T01:06:44.265Z"
+  },
+  {
+    "articleNumber": "10158031",
+    "articleTitle": "Ensemble Multi-Quantiles: Adaptively Flexible Distribution Prediction for Uncertainty Quantification",
+    "authors": [
+      "Xing Yan",
+      "Yonghua Su",
+      "Wenxuan Ma"
+    ],
+    "abstract": "We propose a novel, succinct, and effective approach for distribution prediction to quantify uncertainty in machine learning. It incorporates adaptively flexible distribution prediction of $\\mathbb {P}(\\mathbf {y}|\\mathbf {X}=x)$ in regression tasks. This conditional distribution&#39;s quantiles of probability levels spreading the interval (0,1) are boosted by additive models which are designed by us ...",
+    "date": "2023-06-21T01:06:44.265Z"
+  },
+  {
+    "articleNumber": "10158032",
+    "articleTitle": "Prescribed Safety Performance Imitation Learning from A Single Expert Dataset",
+    "authors": [
+      "Zhihao Cheng",
+      "Li Shen",
+      "Miaoxi Zhu",
+      "Jiaxian Guo",
+      "Meng Fang",
+      "Liu Liu",
+      "Bo Du",
+      "Dacheng Tao"
+    ],
+    "abstract": "Existing safe imitation learning (safe IL) methods mainly focus on learning safe policies that are similar to expert ones, but may fail in applications requiring different safety constraints. In this paper, we propose the Lagrangian Generative Adversarial Imitation Learning (LGAIL) algorithm, which can adaptively learn safe policies from a single expert dataset under diverse prescribed safety cons...",
+    "date": "2023-06-21T01:06:44.265Z"
+  },
+  {
     "articleNumber": "10155179",
     "articleTitle": "Semantic and Temporal Contextual Correlation Learning for Weakly-Supervised Temporal Action Localization",
     "authors": [

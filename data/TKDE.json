@@ -1,5 +1,36 @@
 [
   {
+    "articleNumber": "10158034",
+    "articleTitle": "GraphMM: Graph-based Vehicular Map Matching by Leveraging Trajectory and Road Correlations",
+    "authors": [
+      "Yu Liu",
+      "Qian Ge",
+      "Wei Luo",
+      "Qiang Huang",
+      "Lei Zou",
+      "Haixu Wang",
+      "Xin Li",
+      "Chang Liu"
+    ],
+    "abstract": "Map matching of sparse vehicle trajectories is a fundamental problem in location-based services, such as traffic flow analysis and vehicle routing. Existing literature mainly relies on sequence-to-sequence (Seq2Seq) models to capture the intra-trajectory correlation of an input trajectory and to sequentially predict the matched road segments. Due to the limited expressive capability of sequential ...",
+    "date": "2023-06-21T01:06:38.774Z"
+  },
+  {
+    "articleNumber": "10158394",
+    "articleTitle": "GNN Cleaner: Label Cleaner for Graph Structured Data",
+    "authors": [
+      "Jun Xia",
+      "Haitao Lin",
+      "Yongjie Xu",
+      "Cheng Tan",
+      "Lirong Wu",
+      "Siyuan Li",
+      "Stan Z. Li"
+    ],
+    "abstract": "Graph Neural Network (GNN) has emerged as a predominant tool for graph data analysis. Despite their proliferation, the low-quality labels of many real-world graphs will undermine their performance dramatically. Existing studies on learning neural networks with noisy labels mainly focus on independent data and thus cannot fully exploit the structural information of graph data. Currently, there are ...",
+    "date": "2023-06-21T01:06:38.774Z"
+  },
+  {
     "articleNumber": "10155259",
     "articleTitle": "Static and Streaming Discovery of Maximal Linear Representation Between Time Series",
     "authors": [

@@ -1,5 +1,149 @@
 [
   {
+    "articleNumber": "10158335",
+    "articleTitle": "Doppler Shift based Sybil Attack Detection for Mobile IoT Networks",
+    "authors": [
+      "Seda Dogan-Tusha",
+      "Saud Althunibat",
+      "Marwa Qaraqe"
+    ],
+    "abstract": "The rapid growth of Internet of Things (IoT) networks brings new security challenges for service providers. Due to the resource constrained nature of IoT networks, conventional security methods are not always suitable. Therefore, physical layer security (PLS) has come to the forefront, providing a high level of security while respecting the limited resources of IoTs. A Sybil attack is an insider a...",
+    "date": "2023-06-21T01:06:48.933Z"
+  },
+  {
+    "articleNumber": "10158344",
+    "articleTitle": "Blockchain-Aided Privacy-Preserving Medical Data Sharing Scheme for E-Healthcare System",
+    "authors": [
+      "Jingwei Liu",
+      "Yue Fan",
+      "Rong Sun",
+      "Lei Liu",
+      "Celimuge Wu",
+      "Shahid Mumtaz"
+    ],
+    "abstract": "Due to the massive applications of Internet of Things (IoT) and the prevalence of wearable devices, e-healthcare systems are widely deployed in medical institutions. As a significant carrier of medical data, electronic medical record (EMR) is convenient to be stored and retrieved, which greatly simplifies the experience of medical treatment and cuts down the trivial work of paramedics. However, EM...",
+    "date": "2023-06-21T01:06:48.933Z"
+  },
+  {
+    "articleNumber": "10158321",
+    "articleTitle": "Multi-agent Reinforcement Learning-Based Orbital Edge Offloading in SAGIN Supporting Internet of Remote Things",
+    "authors": [
+      "Senbai Zhang",
+      "Aijun Liu",
+      "Chen Han",
+      "Xiaohu Liang",
+      "Xin Xu",
+      "Guangyu Wang"
+    ],
+    "abstract": "We investigate a computing task scheduling problem in space-air-ground integrated network (SAGIN) for Internet of remote Things (IoRT). In the considered scenario, the unmanned aerial vehicles (UAVs) collect computing tasks from IoRT devices and make offloading decisions, in which the tasks can be computed at the UAVs or offloaded to the low earth orbital (LEO) satellite. The optimization objectiv...",
+    "date": "2023-06-21T01:06:48.933Z"
+  },
+  {
+    "articleNumber": "10158345",
+    "articleTitle": "CRS: A Privacy-preserving Two-layered Distributed Machine Learning Framework for IoV",
+    "authors": [
+      "Rui Liu",
+      "Jianping Pan"
+    ],
+    "abstract": "Nowadays, vehicles can provide many valuable data (such as the videos recorded by dashcams) for analytical model building. Integrating vehicular ad-hoc networks with Internet of Things (IoT), Internet of Vehicles (IoV) has a promising future. In IoV, vehicles maintain their own communication, computing, and learning capabilities. Thus, instead of sending the data to a central server for model trai...",
+    "date": "2023-06-21T01:06:48.933Z"
+  },
+  {
+    "articleNumber": "10158322",
+    "articleTitle": "On the Interplay between Sensing and Communications for UAV Trajectory Design",
+    "authors": [
+      "Jun Wu",
+      "Weijie Yuan",
+      "Lin Bai"
+    ],
+    "abstract": "The unmanned aerial vehicles (UAVs) are envisioned as promising aerial facilities for providing advanced communication services as well as sensing functionalities in the next-generation wireless system. This paper considers a UAV-enabled integrated sensing and communications (ISAC) system, where a moving ground user (GU) is simultaneously tracked by multiple UAVs and receives the downlink communic...",
+    "date": "2023-06-21T01:06:48.933Z"
+  },
+  {
+    "articleNumber": "10158356",
+    "articleTitle": "Algorithm Unrolling-Based Distributed Optimization for RIS-Assisted Cell-Free Networks",
+    "authors": [
+      "Wangyang Xu",
+      "Jiancheng An",
+      "Hongbin Li",
+      "Lu Gan",
+      "Chau Yuen"
+    ],
+    "abstract": "The user-centric cell-free network has emerged as an appealing technology to improve the wireless communication’s capacity of the internet of things (IoT) networks thanks to its ability to eliminate inter-cell interference effectively. However, the cell-free network inevitably brings in higher hardware cost and backhaul overhead as a larger number of base stations (BSs) are deployed. Additionally,...",
+    "date": "2023-06-21T01:06:48.933Z"
+  },
+  {
+    "articleNumber": "10158339",
+    "articleTitle": "ChirpTracker: A Precise-Location-Aware System for Acoustic Tag Using Single Smartphone",
+    "authors": [
+      "Xinchuang Lin",
+      "Ruizhi Chen",
+      "Lixiong Huang",
+      "Zuoya Liu",
+      "Xiaoguang Niu",
+      "Guangyi Guo",
+      "Zheng Li",
+      "Long Qian"
+    ],
+    "abstract": "The increasing interest in loss prevention devices using the Internet of Things, has been driven by the convenience, low cost, and low power consumption of these devices. However, the existing technologies cannot achieve a balance between high availability over a wide area with a single smartphone and precise location awareness. In this paper, a novel Precise-Location-Aware method that integrates ...",
+    "date": "2023-06-21T01:06:48.933Z"
+  },
+  {
+    "articleNumber": "10158354",
+    "articleTitle": "Satellite-Terrestrial Collaborative Object Detection via Task-Inspired Framework",
+    "authors": [
+      "Anqi Lu",
+      "Yun Cheng",
+      "Youbing Hu",
+      "Zhiqiang Cao",
+      "Yongrui Chen",
+      "Zhijun Li"
+    ],
+    "abstract": "Recently, buoyed by advances in the space industry, low Earth orbit (LEO) satellites have become an important part of the Internet of Things (IoT). LEO satellites have entered the era of a big data link with IoT, how to deal with the data from the satellite IoT is a problem worthy of consideration. Conventional object detection method in optical remote sensing simply transmits the raw data to the ...",
+    "date": "2023-06-21T01:06:48.933Z"
+  },
+  {
+    "articleNumber": "10157983",
+    "articleTitle": "Privacy-Preserving Outsourcing of K-means Clustering for Cloud-Device Collaborative Computing in Space-Air-Ground Integrated IoT",
+    "authors": [
+      "Wei Zhao",
+      "Wu Yang",
+      "Huanran Wang",
+      "Tairong Zhang",
+      "Dapeng Man",
+      "Tao Liu",
+      "Jiguang Lv",
+      "Mohsen Guizani"
+    ],
+    "abstract": "Facing the explosive growth of data, the introduction of cloud computing in the space-air-ground integrated Internet of things (SAGIIoT) can solve the problem of limited computing power of the terminals. At the same time, data security on the cloud is also a focus that cannot be ignored. Secure outsourcing computing is helpful in improving privacy-preserving. Due to the wide applicability of K-mea...",
+    "date": "2023-06-21T01:06:48.933Z"
+  },
+  {
+    "articleNumber": "10158349",
+    "articleTitle": "An ECA Regret Learning Game for Cross-Tier Computation Offloading Against Swarm Attacks in Sensor Edge Cloud",
+    "authors": [
+      "Jianhua Liu",
+      "Xin Wang",
+      "Guangtao Xue",
+      "Tong Liu",
+      "Minglu Li"
+    ],
+    "abstract": "The distributed nature of multi-tier swarm attacks renders it more difficult for a single-tier intrusion detection system (IDS) to secure cross-tier computation offloading in multi-tier sensor edge cloud (SEC). To perceive and prevent such attacks, we model IDSs in different layers as an IDS federation network (IDFN) and present a generic framework to prevent cooperative attacks and reconfigure th...",
+    "date": "2023-06-21T01:06:48.933Z"
+  },
+  {
+    "articleNumber": "10158334",
+    "articleTitle": "Explainable Artificial Intelligence (XAI) for Internet of Things: A Survey",
+    "authors": [
+      "İbrahim Kök",
+      "Feyza Yıldırım Okay",
+      "Özgecan Muyanlı",
+      "Suat Özdemir"
+    ],
+    "abstract": "Artificial intelligence (AI) and Machine Learning (ML) are widely employed to make the solutions more accurate and autonomous in many smart and intelligent applications in the Internet of Things (IoT). In these IoT applications, the performance and accuracy of AI/ML models are the main concerns; however, the transparency, interpretability, and responsibility of the models’ decisions are often negl...",
+    "date": "2023-06-21T01:06:48.933Z"
+  },
+  {
     "articleNumber": "10155465",
     "articleTitle": "Age of Information-Based Computation Offloading and Transmission Scheduling in Mobile Edge Computing-Enabled IoT Networks",
     "authors": [
@@ -12736,146 +12880,6 @@
       "Sifa Zheng"
     ],
     "abstract": "Current 3-D object detection technology for autonomous driving usually cannot efficiently utilize local sensitive points. Meanwhile, contextual feature extracted from a object is not sufficient, which easily leads to deteriorated detection accuracy of the final object estimation. For the problems, a point–voxel-based 3-D dynamic object detection algorithm is proposed. First, local points are group...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9996544",
-    "articleTitle": "Pistis: Replay Attack and Liveness Detection for Gait-Based User Authentication System on Wearable Devices Using Vibration",
-    "authors": [
-      "Wei Song",
-      "Hong Jia",
-      "Min Wang",
-      "Yuezhong Wu",
-      "Wanli Xue",
-      "Chun Tung Chou",
-      "Jiankun Hu",
-      "Wen Hu"
-    ],
-    "abstract": "Wearable devices-based biometrics has become mainstream in the biometric domain, especially in mobile computing, due to its convenience, flexibility, and potentially high user acceptance. Among various modalities, wearable devices-based gait recognition has been recognized as an effective user authentication method and employed in various applications, such as automated entry systems for home, sch...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9997106",
-    "articleTitle": "Low-Complexity Beamforming Designs and Channel Estimation for Passive-Intelligent-Surface-Assisted MISO Energy Transfer",
-    "authors": [
-      "Deepak Mishra",
-      "Håkan Johansson"
-    ],
-    "abstract": "The usage of passive intelligent surface (PIS) is emerging as a low-cost green alternative to massive antenna systems for realizing high-energy beamforming (EB) gains. Considering the limited computational capability and constant-envelope precoding for PIS, we propose three novel low-complexity passive EB designs for optimizing the efficacy of PIS-assisted energy transfer (PET) from a multiantenna...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9996085",
-    "articleTitle": "A Probabilistic Copula-Based Fault Detection Method With TrAdaBoost Strategy for Industrial IoT",
-    "authors": [
-      "Yang Zhou",
-      "Shaojun Li"
-    ],
-    "abstract": "With the development of information and technology, Industrial Internet of Things (IIoT) are widely spread. In the face of heterogeneous network access technologies, IIoT data presents characteristics, such as massiveness, heterogeneity, and dynamics. In this work, an inductive transfer modeling fault detection method based on the vine copula-based dependence description (VCDD), named TrAdaBoost V...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9995722",
-    "articleTitle": "An Energy-Efficient DL-Aided Massive Multiple Access Scheme for IoT Scenarios in Beyond 5G Networks",
-    "authors": [
-      "Luciano Miuccio",
-      "Daniela Panno",
-      "Salvatore Riolo"
-    ],
-    "abstract": "In view of the challenges foreseen in futuristic massive IoT (mIoT) scenarios, characterized by a huge deployment of energy-constrained IoT devices, we propose an efficient next-generation multiple access (NGMA) scheme where several innovative solutions combine and integrate. First, we aim to maximize the spectral efficiency of the physical uplink-shared channel (PUSCH) by adopting the most approp...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9995725",
-    "articleTitle": "Parameter-Sharing-Based Average-Consensus Time Synchronization in IoT Networks",
-    "authors": [
-      "Fanrong Shi",
-      "Simon X. Yang",
-      "Mithun Mukherjee",
-      "Hong Jiang",
-      "Daniel Benevides da Costa",
-      "Wing-Kwong Wong"
-    ],
-    "abstract": "Average-consensus protocol is one of the ways to develop distributed time-synchronization algorithms in Internet of Things (IoT) networks. However, the large number of iteration leads to a common time notion issue in nodes. This poses a critical challenge in the convergence of the time-synchronization algorithm and resulting asymptotic convergence in the average consensus protocol. In this article...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9996088",
-    "articleTitle": "Range-Free Localization Using Extreme Learning Machine and Ring-Shaped Salp Swarm Algorithm in Anisotropic Networks",
-    "authors": [
-      "Qiang Tu",
-      "Xingcheng Liu",
-      "Yi Xie",
-      "Guangjie Han"
-    ],
-    "abstract": "Node localization is one of the basic requirements in various Internet of Things applications. Among a wide range of localization schemes, the range-free localization algorithm is promising as a cost-effective technique. However, the localization accuracy of this technique is susceptible to various anisotropy factors, such as the existence of holes, nonuniform node distribution, and dynamic radio ...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9996089",
-    "articleTitle": "A Self-Attentional ResNet-LightGBM Model for IoT-Enabled Voice Liveness Detection",
-    "authors": [
-      "Xiaochuan Sun",
-      "Jingchang Fu",
-      "Biao Wei",
-      "Zhigang Li",
-      "Yingqi Li",
-      "Ning Wang"
-    ],
-    "abstract": "Voice user interface (VUI) brings high efficiency and convenience for the applications of Internet of Things (IoT), meanwhile, it can also cause increasingly serious security issues. The word-level voice liveness detection is proved to be the promising solution to thwart spoofing attacks. However, the complex acoustic feature, diversified attacks, and different interaction distance can severely af...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9995724",
-    "articleTitle": "Task Scheduling for Distributed AUV Network Target Hunting and Searching: An Energy-Efficient AoI-Aware DMAPPO Approach",
-    "authors": [
-      "Ziyuan Wang",
-      "Jun Du",
-      "Chunxiao Jiang",
-      "Zhaoyue Xia",
-      "Yong Ren",
-      "Zhu Han"
-    ],
-    "abstract": "In this article, we aim to design a task scheduling scheme for the underwater multiobjective task of target hunting and environmental search. A distributed autonomous underwater vehicle (AUV) network is deployed to perform the task, where AUVs equipped with sensors can cooperatively search the environment and hunt the target by sharing local information. To achieve efficient exploration of the ove...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9993722",
-    "articleTitle": "Efficient Asynchronous Federated Learning Research in the Internet of Vehicles",
-    "authors": [
-      "Zhigang Yang",
-      "Xuhua Zhang",
-      "Dapeng Wu",
-      "Ruyan Wang",
-      "Puning Zhang",
-      "Yu Wu"
-    ],
-    "abstract": "Federated learning (FL) is a distributed machine learning paradigm that ensures data do not leave local devices. Data sharing problems can be addressed by FL in untrusted environments, e.g., the Internet of Vehicles (IoV). However, FL needs to frequently exchange massive parameters to achieve preset model goals. In addition, the change in bandwidths and the delay of data communications due to user...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9993749",
-    "articleTitle": "Blockchain-Assisted Secure Intra/Inter-Domain Authorization and Authentication for Internet of Things",
-    "authors": [
-      "Fei Tong",
-      "Xing Chen",
-      "Cheng Huang",
-      "Yujian Zhang",
-      "Xuemin Shen"
-    ],
-    "abstract": "Multidomain Internet of Things (IoT) is faced with serious domain interoperability (DI) and compatibility issues since different intradomain authorization and authentication (A&A) mechanisms are deployed without the consideration of interdomain A&A. This article proposes a blockchain-assisted scheme to achieve flexible intra- and inter-domain A&A simultaneously and seamlessly. Specifically, we fir...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9993704",
-    "articleTitle": "Zero-Touch Security Management for mMTC Network Slices: DDoS Attack Detection and Mitigation",
-    "authors": [
-      "Redouane Niboucha",
-      "Sabra Ben Saad",
-      "Adlen Ksentini",
-      "Yacine Challal"
-    ],
-    "abstract": "Massive machine-type communications (mMTCs) network slices in 5G aim to connect a massive number of MTC devices, opening the door for a widened attack surface. Network slices are well isolated, resulting in a low impact on other running slices when attackers control IoT devices belonging to an mMTC network slice (i.e., in-slice attack). However, the impact of the in-slice attacks on the shared inf...",
     "date": "2023-04-27T04:15:53.706Z"
   }
 ]

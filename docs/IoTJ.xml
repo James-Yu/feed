@@ -2,11 +2,256 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/IoTJ.rss</id>
     <title>IEEE Internet of Things Journal</title>
-    <updated>2023-06-20T16:14:35.350Z</updated>
+    <updated>2023-06-21T01:06:48.942Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/IoTJ.rss"/>
     <subtitle>IEEE Internet of Things Journal</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Doppler Shift based Sybil Attack Detection for Mobile IoT Networks]]></title>
+        <id>https://ieeexplore.ieee.org/document/10158335</id>
+        <link href="https://ieeexplore.ieee.org/document/10158335"/>
+        <updated>2023-06-21T01:06:48.933Z</updated>
+        <summary type="html"><![CDATA[The rapid growth of Internet of Things (IoT) networks brings new security challenges for service providers. Due to the resource constrained nature of IoT networks, conventional security methods are not always suitable. Therefore, physical layer security (PLS) has come to the forefront, providing a high level of security while respecting the limited resources of IoTs. A Sybil attack is an insider a...]]></summary>
+        <author>
+            <name>Seda Dogan-Tusha</name>
+        </author>
+        <author>
+            <name>Saud Althunibat</name>
+        </author>
+        <author>
+            <name>Marwa Qaraqe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blockchain-Aided Privacy-Preserving Medical Data Sharing Scheme for E-Healthcare System]]></title>
+        <id>https://ieeexplore.ieee.org/document/10158344</id>
+        <link href="https://ieeexplore.ieee.org/document/10158344"/>
+        <updated>2023-06-21T01:06:48.933Z</updated>
+        <summary type="html"><![CDATA[Due to the massive applications of Internet of Things (IoT) and the prevalence of wearable devices, e-healthcare systems are widely deployed in medical institutions. As a significant carrier of medical data, electronic medical record (EMR) is convenient to be stored and retrieved, which greatly simplifies the experience of medical treatment and cuts down the trivial work of paramedics. However, EM...]]></summary>
+        <author>
+            <name>Jingwei Liu</name>
+        </author>
+        <author>
+            <name>Yue Fan</name>
+        </author>
+        <author>
+            <name>Rong Sun</name>
+        </author>
+        <author>
+            <name>Lei Liu</name>
+        </author>
+        <author>
+            <name>Celimuge Wu</name>
+        </author>
+        <author>
+            <name>Shahid Mumtaz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multi-agent Reinforcement Learning-Based Orbital Edge Offloading in SAGIN Supporting Internet of Remote Things]]></title>
+        <id>https://ieeexplore.ieee.org/document/10158321</id>
+        <link href="https://ieeexplore.ieee.org/document/10158321"/>
+        <updated>2023-06-21T01:06:48.933Z</updated>
+        <summary type="html"><![CDATA[We investigate a computing task scheduling problem in space-air-ground integrated network (SAGIN) for Internet of remote Things (IoRT). In the considered scenario, the unmanned aerial vehicles (UAVs) collect computing tasks from IoRT devices and make offloading decisions, in which the tasks can be computed at the UAVs or offloaded to the low earth orbital (LEO) satellite. The optimization objectiv...]]></summary>
+        <author>
+            <name>Senbai Zhang</name>
+        </author>
+        <author>
+            <name>Aijun Liu</name>
+        </author>
+        <author>
+            <name>Chen Han</name>
+        </author>
+        <author>
+            <name>Xiaohu Liang</name>
+        </author>
+        <author>
+            <name>Xin Xu</name>
+        </author>
+        <author>
+            <name>Guangyu Wang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CRS: A Privacy-preserving Two-layered Distributed Machine Learning Framework for IoV]]></title>
+        <id>https://ieeexplore.ieee.org/document/10158345</id>
+        <link href="https://ieeexplore.ieee.org/document/10158345"/>
+        <updated>2023-06-21T01:06:48.933Z</updated>
+        <summary type="html"><![CDATA[Nowadays, vehicles can provide many valuable data (such as the videos recorded by dashcams) for analytical model building. Integrating vehicular ad-hoc networks with Internet of Things (IoT), Internet of Vehicles (IoV) has a promising future. In IoV, vehicles maintain their own communication, computing, and learning capabilities. Thus, instead of sending the data to a central server for model trai...]]></summary>
+        <author>
+            <name>Rui Liu</name>
+        </author>
+        <author>
+            <name>Jianping Pan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On the Interplay between Sensing and Communications for UAV Trajectory Design]]></title>
+        <id>https://ieeexplore.ieee.org/document/10158322</id>
+        <link href="https://ieeexplore.ieee.org/document/10158322"/>
+        <updated>2023-06-21T01:06:48.933Z</updated>
+        <summary type="html"><![CDATA[The unmanned aerial vehicles (UAVs) are envisioned as promising aerial facilities for providing advanced communication services as well as sensing functionalities in the next-generation wireless system. This paper considers a UAV-enabled integrated sensing and communications (ISAC) system, where a moving ground user (GU) is simultaneously tracked by multiple UAVs and receives the downlink communic...]]></summary>
+        <author>
+            <name>Jun Wu</name>
+        </author>
+        <author>
+            <name>Weijie Yuan</name>
+        </author>
+        <author>
+            <name>Lin Bai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Algorithm Unrolling-Based Distributed Optimization for RIS-Assisted Cell-Free Networks]]></title>
+        <id>https://ieeexplore.ieee.org/document/10158356</id>
+        <link href="https://ieeexplore.ieee.org/document/10158356"/>
+        <updated>2023-06-21T01:06:48.933Z</updated>
+        <summary type="html"><![CDATA[The user-centric cell-free network has emerged as an appealing technology to improve the wireless communication’s capacity of the internet of things (IoT) networks thanks to its ability to eliminate inter-cell interference effectively. However, the cell-free network inevitably brings in higher hardware cost and backhaul overhead as a larger number of base stations (BSs) are deployed. Additionally,...]]></summary>
+        <author>
+            <name>Wangyang Xu</name>
+        </author>
+        <author>
+            <name>Jiancheng An</name>
+        </author>
+        <author>
+            <name>Hongbin Li</name>
+        </author>
+        <author>
+            <name>Lu Gan</name>
+        </author>
+        <author>
+            <name>Chau Yuen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ChirpTracker: A Precise-Location-Aware System for Acoustic Tag Using Single Smartphone]]></title>
+        <id>https://ieeexplore.ieee.org/document/10158339</id>
+        <link href="https://ieeexplore.ieee.org/document/10158339"/>
+        <updated>2023-06-21T01:06:48.933Z</updated>
+        <summary type="html"><![CDATA[The increasing interest in loss prevention devices using the Internet of Things, has been driven by the convenience, low cost, and low power consumption of these devices. However, the existing technologies cannot achieve a balance between high availability over a wide area with a single smartphone and precise location awareness. In this paper, a novel Precise-Location-Aware method that integrates ...]]></summary>
+        <author>
+            <name>Xinchuang Lin</name>
+        </author>
+        <author>
+            <name>Ruizhi Chen</name>
+        </author>
+        <author>
+            <name>Lixiong Huang</name>
+        </author>
+        <author>
+            <name>Zuoya Liu</name>
+        </author>
+        <author>
+            <name>Xiaoguang Niu</name>
+        </author>
+        <author>
+            <name>Guangyi Guo</name>
+        </author>
+        <author>
+            <name>Zheng Li</name>
+        </author>
+        <author>
+            <name>Long Qian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Satellite-Terrestrial Collaborative Object Detection via Task-Inspired Framework]]></title>
+        <id>https://ieeexplore.ieee.org/document/10158354</id>
+        <link href="https://ieeexplore.ieee.org/document/10158354"/>
+        <updated>2023-06-21T01:06:48.933Z</updated>
+        <summary type="html"><![CDATA[Recently, buoyed by advances in the space industry, low Earth orbit (LEO) satellites have become an important part of the Internet of Things (IoT). LEO satellites have entered the era of a big data link with IoT, how to deal with the data from the satellite IoT is a problem worthy of consideration. Conventional object detection method in optical remote sensing simply transmits the raw data to the ...]]></summary>
+        <author>
+            <name>Anqi Lu</name>
+        </author>
+        <author>
+            <name>Yun Cheng</name>
+        </author>
+        <author>
+            <name>Youbing Hu</name>
+        </author>
+        <author>
+            <name>Zhiqiang Cao</name>
+        </author>
+        <author>
+            <name>Yongrui Chen</name>
+        </author>
+        <author>
+            <name>Zhijun Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Privacy-Preserving Outsourcing of K-means Clustering for Cloud-Device Collaborative Computing in Space-Air-Ground Integrated IoT]]></title>
+        <id>https://ieeexplore.ieee.org/document/10157983</id>
+        <link href="https://ieeexplore.ieee.org/document/10157983"/>
+        <updated>2023-06-21T01:06:48.933Z</updated>
+        <summary type="html"><![CDATA[Facing the explosive growth of data, the introduction of cloud computing in the space-air-ground integrated Internet of things (SAGIIoT) can solve the problem of limited computing power of the terminals. At the same time, data security on the cloud is also a focus that cannot be ignored. Secure outsourcing computing is helpful in improving privacy-preserving. Due to the wide applicability of K-mea...]]></summary>
+        <author>
+            <name>Wei Zhao</name>
+        </author>
+        <author>
+            <name>Wu Yang</name>
+        </author>
+        <author>
+            <name>Huanran Wang</name>
+        </author>
+        <author>
+            <name>Tairong Zhang</name>
+        </author>
+        <author>
+            <name>Dapeng Man</name>
+        </author>
+        <author>
+            <name>Tao Liu</name>
+        </author>
+        <author>
+            <name>Jiguang Lv</name>
+        </author>
+        <author>
+            <name>Mohsen Guizani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An ECA Regret Learning Game for Cross-Tier Computation Offloading Against Swarm Attacks in Sensor Edge Cloud]]></title>
+        <id>https://ieeexplore.ieee.org/document/10158349</id>
+        <link href="https://ieeexplore.ieee.org/document/10158349"/>
+        <updated>2023-06-21T01:06:48.933Z</updated>
+        <summary type="html"><![CDATA[The distributed nature of multi-tier swarm attacks renders it more difficult for a single-tier intrusion detection system (IDS) to secure cross-tier computation offloading in multi-tier sensor edge cloud (SEC). To perceive and prevent such attacks, we model IDSs in different layers as an IDS federation network (IDFN) and present a generic framework to prevent cooperative attacks and reconfigure th...]]></summary>
+        <author>
+            <name>Jianhua Liu</name>
+        </author>
+        <author>
+            <name>Xin Wang</name>
+        </author>
+        <author>
+            <name>Guangtao Xue</name>
+        </author>
+        <author>
+            <name>Tong Liu</name>
+        </author>
+        <author>
+            <name>Minglu Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Explainable Artificial Intelligence (XAI) for Internet of Things: A Survey]]></title>
+        <id>https://ieeexplore.ieee.org/document/10158334</id>
+        <link href="https://ieeexplore.ieee.org/document/10158334"/>
+        <updated>2023-06-21T01:06:48.933Z</updated>
+        <summary type="html"><![CDATA[Artificial intelligence (AI) and Machine Learning (ML) are widely employed to make the solutions more accurate and autonomous in many smart and intelligent applications in the Internet of Things (IoT). In these IoT applications, the performance and accuracy of AI/ML models are the main concerns; however, the transparency, interpretability, and responsibility of the models’ decisions are often negl...]]></summary>
+        <author>
+            <name>İbrahim Kök</name>
+        </author>
+        <author>
+            <name>Feyza Yıldırım Okay</name>
+        </author>
+        <author>
+            <name>Özgecan Muyanlı</name>
+        </author>
+        <author>
+            <name>Suat Özdemir</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Age of Information-Based Computation Offloading and Transmission Scheduling in Mobile Edge Computing-Enabled IoT Networks]]></title>
         <id>https://ieeexplore.ieee.org/document/10155465</id>
@@ -21409,239 +21654,6 @@
         </author>
         <author>
             <name>Sifa Zheng</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pistis: Replay Attack and Liveness Detection for Gait-Based User Authentication System on Wearable Devices Using Vibration]]></title>
-        <id>https://ieeexplore.ieee.org/document/9996544</id>
-        <link href="https://ieeexplore.ieee.org/document/9996544"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[Wearable devices-based biometrics has become mainstream in the biometric domain, especially in mobile computing, due to its convenience, flexibility, and potentially high user acceptance. Among various modalities, wearable devices-based gait recognition has been recognized as an effective user authentication method and employed in various applications, such as automated entry systems for home, sch...]]></summary>
-        <author>
-            <name>Wei Song</name>
-        </author>
-        <author>
-            <name>Hong Jia</name>
-        </author>
-        <author>
-            <name>Min Wang</name>
-        </author>
-        <author>
-            <name>Yuezhong Wu</name>
-        </author>
-        <author>
-            <name>Wanli Xue</name>
-        </author>
-        <author>
-            <name>Chun Tung Chou</name>
-        </author>
-        <author>
-            <name>Jiankun Hu</name>
-        </author>
-        <author>
-            <name>Wen Hu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Low-Complexity Beamforming Designs and Channel Estimation for Passive-Intelligent-Surface-Assisted MISO Energy Transfer]]></title>
-        <id>https://ieeexplore.ieee.org/document/9997106</id>
-        <link href="https://ieeexplore.ieee.org/document/9997106"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[The usage of passive intelligent surface (PIS) is emerging as a low-cost green alternative to massive antenna systems for realizing high-energy beamforming (EB) gains. Considering the limited computational capability and constant-envelope precoding for PIS, we propose three novel low-complexity passive EB designs for optimizing the efficacy of PIS-assisted energy transfer (PET) from a multiantenna...]]></summary>
-        <author>
-            <name>Deepak Mishra</name>
-        </author>
-        <author>
-            <name>Håkan Johansson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Probabilistic Copula-Based Fault Detection Method With TrAdaBoost Strategy for Industrial IoT]]></title>
-        <id>https://ieeexplore.ieee.org/document/9996085</id>
-        <link href="https://ieeexplore.ieee.org/document/9996085"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[With the development of information and technology, Industrial Internet of Things (IIoT) are widely spread. In the face of heterogeneous network access technologies, IIoT data presents characteristics, such as massiveness, heterogeneity, and dynamics. In this work, an inductive transfer modeling fault detection method based on the vine copula-based dependence description (VCDD), named TrAdaBoost V...]]></summary>
-        <author>
-            <name>Yang Zhou</name>
-        </author>
-        <author>
-            <name>Shaojun Li</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Energy-Efficient DL-Aided Massive Multiple Access Scheme for IoT Scenarios in Beyond 5G Networks]]></title>
-        <id>https://ieeexplore.ieee.org/document/9995722</id>
-        <link href="https://ieeexplore.ieee.org/document/9995722"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[In view of the challenges foreseen in futuristic massive IoT (mIoT) scenarios, characterized by a huge deployment of energy-constrained IoT devices, we propose an efficient next-generation multiple access (NGMA) scheme where several innovative solutions combine and integrate. First, we aim to maximize the spectral efficiency of the physical uplink-shared channel (PUSCH) by adopting the most approp...]]></summary>
-        <author>
-            <name>Luciano Miuccio</name>
-        </author>
-        <author>
-            <name>Daniela Panno</name>
-        </author>
-        <author>
-            <name>Salvatore Riolo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Parameter-Sharing-Based Average-Consensus Time Synchronization in IoT Networks]]></title>
-        <id>https://ieeexplore.ieee.org/document/9995725</id>
-        <link href="https://ieeexplore.ieee.org/document/9995725"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[Average-consensus protocol is one of the ways to develop distributed time-synchronization algorithms in Internet of Things (IoT) networks. However, the large number of iteration leads to a common time notion issue in nodes. This poses a critical challenge in the convergence of the time-synchronization algorithm and resulting asymptotic convergence in the average consensus protocol. In this article...]]></summary>
-        <author>
-            <name>Fanrong Shi</name>
-        </author>
-        <author>
-            <name>Simon X. Yang</name>
-        </author>
-        <author>
-            <name>Mithun Mukherjee</name>
-        </author>
-        <author>
-            <name>Hong Jiang</name>
-        </author>
-        <author>
-            <name>Daniel Benevides da Costa</name>
-        </author>
-        <author>
-            <name>Wing-Kwong Wong</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Range-Free Localization Using Extreme Learning Machine and Ring-Shaped Salp Swarm Algorithm in Anisotropic Networks]]></title>
-        <id>https://ieeexplore.ieee.org/document/9996088</id>
-        <link href="https://ieeexplore.ieee.org/document/9996088"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[Node localization is one of the basic requirements in various Internet of Things applications. Among a wide range of localization schemes, the range-free localization algorithm is promising as a cost-effective technique. However, the localization accuracy of this technique is susceptible to various anisotropy factors, such as the existence of holes, nonuniform node distribution, and dynamic radio ...]]></summary>
-        <author>
-            <name>Qiang Tu</name>
-        </author>
-        <author>
-            <name>Xingcheng Liu</name>
-        </author>
-        <author>
-            <name>Yi Xie</name>
-        </author>
-        <author>
-            <name>Guangjie Han</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Self-Attentional ResNet-LightGBM Model for IoT-Enabled Voice Liveness Detection]]></title>
-        <id>https://ieeexplore.ieee.org/document/9996089</id>
-        <link href="https://ieeexplore.ieee.org/document/9996089"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[Voice user interface (VUI) brings high efficiency and convenience for the applications of Internet of Things (IoT), meanwhile, it can also cause increasingly serious security issues. The word-level voice liveness detection is proved to be the promising solution to thwart spoofing attacks. However, the complex acoustic feature, diversified attacks, and different interaction distance can severely af...]]></summary>
-        <author>
-            <name>Xiaochuan Sun</name>
-        </author>
-        <author>
-            <name>Jingchang Fu</name>
-        </author>
-        <author>
-            <name>Biao Wei</name>
-        </author>
-        <author>
-            <name>Zhigang Li</name>
-        </author>
-        <author>
-            <name>Yingqi Li</name>
-        </author>
-        <author>
-            <name>Ning Wang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Task Scheduling for Distributed AUV Network Target Hunting and Searching: An Energy-Efficient AoI-Aware DMAPPO Approach]]></title>
-        <id>https://ieeexplore.ieee.org/document/9995724</id>
-        <link href="https://ieeexplore.ieee.org/document/9995724"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[In this article, we aim to design a task scheduling scheme for the underwater multiobjective task of target hunting and environmental search. A distributed autonomous underwater vehicle (AUV) network is deployed to perform the task, where AUVs equipped with sensors can cooperatively search the environment and hunt the target by sharing local information. To achieve efficient exploration of the ove...]]></summary>
-        <author>
-            <name>Ziyuan Wang</name>
-        </author>
-        <author>
-            <name>Jun Du</name>
-        </author>
-        <author>
-            <name>Chunxiao Jiang</name>
-        </author>
-        <author>
-            <name>Zhaoyue Xia</name>
-        </author>
-        <author>
-            <name>Yong Ren</name>
-        </author>
-        <author>
-            <name>Zhu Han</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Efficient Asynchronous Federated Learning Research in the Internet of Vehicles]]></title>
-        <id>https://ieeexplore.ieee.org/document/9993722</id>
-        <link href="https://ieeexplore.ieee.org/document/9993722"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[Federated learning (FL) is a distributed machine learning paradigm that ensures data do not leave local devices. Data sharing problems can be addressed by FL in untrusted environments, e.g., the Internet of Vehicles (IoV). However, FL needs to frequently exchange massive parameters to achieve preset model goals. In addition, the change in bandwidths and the delay of data communications due to user...]]></summary>
-        <author>
-            <name>Zhigang Yang</name>
-        </author>
-        <author>
-            <name>Xuhua Zhang</name>
-        </author>
-        <author>
-            <name>Dapeng Wu</name>
-        </author>
-        <author>
-            <name>Ruyan Wang</name>
-        </author>
-        <author>
-            <name>Puning Zhang</name>
-        </author>
-        <author>
-            <name>Yu Wu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blockchain-Assisted Secure Intra/Inter-Domain Authorization and Authentication for Internet of Things]]></title>
-        <id>https://ieeexplore.ieee.org/document/9993749</id>
-        <link href="https://ieeexplore.ieee.org/document/9993749"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[Multidomain Internet of Things (IoT) is faced with serious domain interoperability (DI) and compatibility issues since different intradomain authorization and authentication (A&A) mechanisms are deployed without the consideration of interdomain A&A. This article proposes a blockchain-assisted scheme to achieve flexible intra- and inter-domain A&A simultaneously and seamlessly. Specifically, we fir...]]></summary>
-        <author>
-            <name>Fei Tong</name>
-        </author>
-        <author>
-            <name>Xing Chen</name>
-        </author>
-        <author>
-            <name>Cheng Huang</name>
-        </author>
-        <author>
-            <name>Yujian Zhang</name>
-        </author>
-        <author>
-            <name>Xuemin Shen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zero-Touch Security Management for mMTC Network Slices: DDoS Attack Detection and Mitigation]]></title>
-        <id>https://ieeexplore.ieee.org/document/9993704</id>
-        <link href="https://ieeexplore.ieee.org/document/9993704"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[Massive machine-type communications (mMTCs) network slices in 5G aim to connect a massive number of MTC devices, opening the door for a widened attack surface. Network slices are well isolated, resulting in a low impact on other running slices when attackers control IoT devices belonging to an mMTC network slice (i.e., in-slice attack). However, the impact of the in-slice attacks on the shared inf...]]></summary>
-        <author>
-            <name>Redouane Niboucha</name>
-        </author>
-        <author>
-            <name>Sabra Ben Saad</name>
-        </author>
-        <author>
-            <name>Adlen Ksentini</name>
-        </author>
-        <author>
-            <name>Yacine Challal</name>
         </author>
     </entry>
 </feed>
