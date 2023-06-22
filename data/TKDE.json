@@ -1,5 +1,70 @@
 [
   {
+    "articleNumber": "10158931",
+    "articleTitle": "Towards Effective and Robust Graph Contrastive Learning with Graph Autoencoding",
+    "authors": [
+      "Wen-Zhi Li",
+      "Chang-Dong Wang",
+      "Jian-Huang Lai",
+      "Philip S. Yu"
+    ],
+    "abstract": "Graph contrastive learning (GCL) has become the de-facto approach to conducting self-supervised learning on graphs for its superior performance. However, non-semantic graph augmentation methods prevent it from achieving better performance, and it suffers from vulnerability to graph attacks. To deal with these problems, we propose AEGCL to leverage graph AutoEncoder in Graph Contrastive Learning wh...",
+    "date": "2023-06-22T01:07:43.817Z"
+  },
+  {
+    "articleNumber": "10158932",
+    "articleTitle": "PUTS: Privacy-Preserving and Utility-Enhancing Framework for Trajectory Synthesization",
+    "authors": [
+      "Xinyue Sun",
+      "Qingqing Ye",
+      "Haibo Hu",
+      "Jiawei Duan",
+      "Qiao Xue",
+      "Tianyu Wo",
+      "Jie Xu"
+    ],
+    "abstract": "Vehicle trajectory data is essential for traffic management and location-based services. However, publishing real-life trajectory data has been challenging because vehicle trajectories contain users&#39; sensitive information. Differential privacy addresses such problems by publishing a synthetic version of the input dataset, but existing works always assume the real-world data is absolutely accurate....",
+    "date": "2023-06-22T01:07:43.817Z"
+  },
+  {
+    "articleNumber": "10158907",
+    "articleTitle": "Efficient Discovery of Functional Dependencies on Massive Data",
+    "authors": [
+      "Xiaolong Wan",
+      "Xixian Han",
+      "Jinbao Wang",
+      "Jianzhong Li"
+    ],
+    "abstract": "Functional dependencies are the most common constraints in the design theory for relational databases, which have very important practical applications in many areas. Different kinds of algorithms are proposed to discover the functional dependencies. However, it is found in this paper that the existing algorithms cannot deal well with massive data which cannot be held entirely in memory due to hig...",
+    "date": "2023-06-22T01:07:43.817Z"
+  },
+  {
+    "articleNumber": "10158919",
+    "articleTitle": "Spatiotemporal Propagation Learning for Network-Wide Flight Delay Prediction",
+    "authors": [
+      "Yuankai Wu",
+      "Hongyu Yang",
+      "Yi Lin",
+      "Hong Liu"
+    ],
+    "abstract": "Accurate and interpretable delay predictions are vital for decision-making in the aviation industry. However, effectively incorporating spatiotemporal dependencies and external factors related to delay propagation remains a challenge. To address this challenge, we propose the SpatioTemporal Propagation Network (STPN), a novel space-time separable graph convolutional network that models delay propa...",
+    "date": "2023-06-22T01:07:43.817Z"
+  },
+  {
+    "articleNumber": "10158930",
+    "articleTitle": "XSimGCL: Towards Extremely Simple Graph Contrastive Learning for Recommendation",
+    "authors": [
+      "Junliang Yu",
+      "Xin Xia",
+      "Tong Chen",
+      "Lizhen Cui",
+      "Nguyen Quoc Viet Hung",
+      "Hongzhi Yin"
+    ],
+    "abstract": "Contrastive learning (CL) has recently been demonstrated critical in improving recommendation performance. The underlying principle of CL-based recommendation models is to ensure the consistency between representations derived from different graph augmentations of the user-item bipartite graph. This self-supervised approach allows for the extraction of general features from raw data, thereby mitig...",
+    "date": "2023-06-22T01:07:43.817Z"
+  },
+  {
     "articleNumber": "10158034",
     "articleTitle": "GraphMM: Graph-based Vehicular Map Matching by Leveraging Trajectory and Road Correlations",
     "authors": [

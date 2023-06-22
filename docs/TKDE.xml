@@ -2,11 +2,121 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/TKDE.rss</id>
     <title>IEEE Transactions on Knowledge and Data Engineering</title>
-    <updated>2023-06-21T16:14:43.317Z</updated>
+    <updated>2023-06-22T01:07:43.823Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/TKDE.rss"/>
     <subtitle>IEEE Transactions on Knowledge and Data Engineering</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Towards Effective and Robust Graph Contrastive Learning with Graph Autoencoding]]></title>
+        <id>https://ieeexplore.ieee.org/document/10158931</id>
+        <link href="https://ieeexplore.ieee.org/document/10158931"/>
+        <updated>2023-06-22T01:07:43.817Z</updated>
+        <summary type="html"><![CDATA[Graph contrastive learning (GCL) has become the de-facto approach to conducting self-supervised learning on graphs for its superior performance. However, non-semantic graph augmentation methods prevent it from achieving better performance, and it suffers from vulnerability to graph attacks. To deal with these problems, we propose AEGCL to leverage graph AutoEncoder in Graph Contrastive Learning wh...]]></summary>
+        <author>
+            <name>Wen-Zhi Li</name>
+        </author>
+        <author>
+            <name>Chang-Dong Wang</name>
+        </author>
+        <author>
+            <name>Jian-Huang Lai</name>
+        </author>
+        <author>
+            <name>Philip S. Yu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PUTS: Privacy-Preserving and Utility-Enhancing Framework for Trajectory Synthesization]]></title>
+        <id>https://ieeexplore.ieee.org/document/10158932</id>
+        <link href="https://ieeexplore.ieee.org/document/10158932"/>
+        <updated>2023-06-22T01:07:43.817Z</updated>
+        <summary type="html"><![CDATA[Vehicle trajectory data is essential for traffic management and location-based services. However, publishing real-life trajectory data has been challenging because vehicle trajectories contain users&#39; sensitive information. Differential privacy addresses such problems by publishing a synthetic version of the input dataset, but existing works always assume the real-world data is absolutely accurate....]]></summary>
+        <author>
+            <name>Xinyue Sun</name>
+        </author>
+        <author>
+            <name>Qingqing Ye</name>
+        </author>
+        <author>
+            <name>Haibo Hu</name>
+        </author>
+        <author>
+            <name>Jiawei Duan</name>
+        </author>
+        <author>
+            <name>Qiao Xue</name>
+        </author>
+        <author>
+            <name>Tianyu Wo</name>
+        </author>
+        <author>
+            <name>Jie Xu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Efficient Discovery of Functional Dependencies on Massive Data]]></title>
+        <id>https://ieeexplore.ieee.org/document/10158907</id>
+        <link href="https://ieeexplore.ieee.org/document/10158907"/>
+        <updated>2023-06-22T01:07:43.817Z</updated>
+        <summary type="html"><![CDATA[Functional dependencies are the most common constraints in the design theory for relational databases, which have very important practical applications in many areas. Different kinds of algorithms are proposed to discover the functional dependencies. However, it is found in this paper that the existing algorithms cannot deal well with massive data which cannot be held entirely in memory due to hig...]]></summary>
+        <author>
+            <name>Xiaolong Wan</name>
+        </author>
+        <author>
+            <name>Xixian Han</name>
+        </author>
+        <author>
+            <name>Jinbao Wang</name>
+        </author>
+        <author>
+            <name>Jianzhong Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spatiotemporal Propagation Learning for Network-Wide Flight Delay Prediction]]></title>
+        <id>https://ieeexplore.ieee.org/document/10158919</id>
+        <link href="https://ieeexplore.ieee.org/document/10158919"/>
+        <updated>2023-06-22T01:07:43.817Z</updated>
+        <summary type="html"><![CDATA[Accurate and interpretable delay predictions are vital for decision-making in the aviation industry. However, effectively incorporating spatiotemporal dependencies and external factors related to delay propagation remains a challenge. To address this challenge, we propose the SpatioTemporal Propagation Network (STPN), a novel space-time separable graph convolutional network that models delay propa...]]></summary>
+        <author>
+            <name>Yuankai Wu</name>
+        </author>
+        <author>
+            <name>Hongyu Yang</name>
+        </author>
+        <author>
+            <name>Yi Lin</name>
+        </author>
+        <author>
+            <name>Hong Liu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XSimGCL: Towards Extremely Simple Graph Contrastive Learning for Recommendation]]></title>
+        <id>https://ieeexplore.ieee.org/document/10158930</id>
+        <link href="https://ieeexplore.ieee.org/document/10158930"/>
+        <updated>2023-06-22T01:07:43.817Z</updated>
+        <summary type="html"><![CDATA[Contrastive learning (CL) has recently been demonstrated critical in improving recommendation performance. The underlying principle of CL-based recommendation models is to ensure the consistency between representations derived from different graph augmentations of the user-item bipartite graph. This self-supervised approach allows for the extraction of general features from raw data, thereby mitig...]]></summary>
+        <author>
+            <name>Junliang Yu</name>
+        </author>
+        <author>
+            <name>Xin Xia</name>
+        </author>
+        <author>
+            <name>Tong Chen</name>
+        </author>
+        <author>
+            <name>Lizhen Cui</name>
+        </author>
+        <author>
+            <name>Nguyen Quoc Viet Hung</name>
+        </author>
+        <author>
+            <name>Hongzhi Yin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GraphMM: Graph-based Vehicular Map Matching by Leveraging Trajectory and Road Correlations]]></title>
         <id>https://ieeexplore.ieee.org/document/10158034</id>

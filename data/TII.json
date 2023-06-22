@@ -1,5 +1,74 @@
 [
   {
+    "articleNumber": "10158801",
+    "articleTitle": "Imperceptible Attacks on Fault Detection and Diagnosis Systems in Smart Buildings",
+    "authors": [
+      "Ismail R. Alkhouri",
+      "Akram S. Awad",
+      "Qun Z. Sun",
+      "George K. Atia"
+    ],
+    "abstract": "Automated Fault Detection and Diagnosis (AFDD) systems are critical to safe and efficient operation of smart buildings. A significant amount of building data can be collected and analyzed to detect building compo-nent failures. Attacks against such data that are contami-nated with small additive disturbances (i.e., adversarial per-turbation attacks) could dreadfully impact the performance of such ...",
+    "date": "2023-06-22T01:08:01.904Z"
+  },
+  {
+    "articleNumber": "10158925",
+    "articleTitle": "Collaborative filter pruning for efficient automatic surface defect detection",
+    "authors": [
+      "Haoxuan Wang",
+      "Xin Fan",
+      "Pengyang Ling",
+      "Beng Wang",
+      "Huaian Chen",
+      "Yi Jin"
+    ],
+    "abstract": "Surface defect detection is a critical task in industrial production, and numerous methods have been proposed to achieve high detection accuracy. Although deep learning-based approaches have achieved state-of-the-art performances, their vast computational cost and high memory footprint prevent their deployment in resource-constrained environments. To address this problem, we propose a collaborativ...",
+    "date": "2023-06-22T01:08:01.904Z"
+  },
+  {
+    "articleNumber": "10159231",
+    "articleTitle": "A Multi-head Attention Self-supervised Representation Model for Industrial Sensors Anomaly Detection",
+    "authors": [
+      "Yiqun Qiao",
+      "Jinhu Lü",
+      "Tian Wang",
+      "Kexin Liu",
+      "Baochang Zhang",
+      "Hichem Snoussi"
+    ],
+    "abstract": "Industrial sensors capture critical information for intelligent manufacturing maintenance. To promote equipment upgrading and manufacturing processes, intelligent decisions, and information learning play an important role. Although deep learning methods historically obtain excellent results, there is always a trade-off between fine-tuning existing networks or designing models from scratch for sens...",
+    "date": "2023-06-22T01:08:01.904Z"
+  },
+  {
+    "articleNumber": "10158933",
+    "articleTitle": "Interactive Hybrid Model for Remaining Useful Life Prediction with Uncertainty Quantification of Bearing in Nuclear Circulating Water Pump",
+    "authors": [
+      "Wei Cheng",
+      "Shushuai Xie",
+      "Ji Xing",
+      "Zelin Nie",
+      "Xuefeng Chen",
+      "Yilong Liu",
+      "Xue Liu",
+      "Qian Huang",
+      "Rongyong Zhang"
+    ],
+    "abstract": "Journal bearings are the key components of the nuclear circulating water pump (NCWP), and accurate remaining useful life (RUL) prediction is of great significance for improving the reliability, safety, and maintenance planning of NCWP. However, it is difficult to quantify the uncertainty of bearing RUL based on the current deep learning (DL) model, resulting in a lack of credibility and effective ...",
+    "date": "2023-06-22T01:08:01.904Z"
+  },
+  {
+    "articleNumber": "10159223",
+    "articleTitle": "Fast and Stable Detection Scheme of Point of Common Coupling Voltage for Renewable Energy Systems Tied to Distortion Grids",
+    "authors": [
+      "Liancheng Xiu",
+      "Jingxuan He",
+      "Mingxian Li",
+      "Hanliang Song"
+    ],
+    "abstract": "Due to the rapid development of renewable energy technology, renewable energy systems with power electronic equipment have gradually become the main components of the power system. However, the traditional detection methods do not always satisfy the need for accurate and high-speed sequence component acquisition of the power grid at point of common coupling (PCC) under distortion grids, which lead...",
+    "date": "2023-06-22T01:08:01.904Z"
+  },
+  {
     "articleNumber": "10154591",
     "articleTitle": "Deep Correspondence Matching Based Robust Point Cloud Registration of Profiled Parts",
     "authors": [

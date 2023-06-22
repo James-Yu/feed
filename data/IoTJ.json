@@ -1,5 +1,126 @@
 [
   {
+    "articleNumber": "10158991",
+    "articleTitle": "Estimation of kinetic energy harvesting potential for self-powered wearable IoT devices with 67,000 participants from the UK Biobank",
+    "authors": [
+      "Christopher Beach",
+      "Alexander J. Casson"
+    ],
+    "abstract": "Energy harvesting from human motion can reduce reliance on battery recharging in wearable Internet of Things (IoT) devices. However, to date, studies estimating energy harvesting potential have largely focused on small scale, healthy, population groups in laboratory settings rather than free-living environments with population level participant numbers. Here, we present the largest ever investigat...",
+    "date": "2023-06-22T01:07:55.506Z"
+  },
+  {
+    "articleNumber": "10159020",
+    "articleTitle": "TORR: A Lightweight Blockchain for Decentralized Federated Learning",
+    "authors": [
+      "Xuyang Ma",
+      "Du Xu"
+    ],
+    "abstract": "Federated learning has received considerable attention because it allows multiple devices to train models locally without revealing sensitive data. Well-trained local models are transmitted to a parameter server for further aggregation. The dependence on a trusted central server makes federated learning vulnerable to the single point of failure or attack. Blockchain is regarded as a state-of-the-a...",
+    "date": "2023-06-22T01:07:55.506Z"
+  },
+  {
+    "articleNumber": "10159030",
+    "articleTitle": "Joint Dual-UAV Trajectory and RIS Design for ARIS-Assisted Aerial Computing in IoT",
+    "authors": [
+      "Bin Duo",
+      "Maolin He",
+      "Qingqing Wu",
+      "Zexu Zhang"
+    ],
+    "abstract": "Reconfigurable intelligent surface (RIS) as an emerging technology, has recently been applied to expand the range of mobile edge computing (MEC) networks and improve wireless environments. However, current terrestrial RIS-assisted MEC networks have some limitations, such as severe signal attenuation and inflexible equipment deployment. To take full advantage of the superiority of the RIS, this pap...",
+    "date": "2023-06-22T01:07:55.506Z"
+  },
+  {
+    "articleNumber": "10159001",
+    "articleTitle": "Lightweight Blockchain-Based Secure Spectrum Sharing in Space-Air-Ground Integrated IoT Network",
+    "authors": [
+      "Ning Yang",
+      "Daoxing Guo",
+      "Yutao Jiao",
+      "Guoru Ding",
+      "Ting Qu"
+    ],
+    "abstract": "Unmanned aerial vehicles (UAVs) will be widely deployed due to their flexibility, mobility and miniaturization, providing the necessary support for spectrum sharing between different communication systems in space-air-ground integrated IoT network (SAGIN). However, there are potential security threats to spectrum sharing among different communication systems due to the openness of wireless network...",
+    "date": "2023-06-22T01:07:55.506Z"
+  },
+  {
+    "articleNumber": "10159000",
+    "articleTitle": "Secure STBC-Aided NOMA in Cognitive IIOT Networks",
+    "authors": [
+      "Meiling Li",
+      "Faissal El Bouanani",
+      "Sami Muhaidat",
+      "Mehrdad Dianati"
+    ],
+    "abstract": "The Industrial Internet of Things (IIoT) has been recognised as having the potential to offer substantial benefit to a wide range of industrial sectors. However, the widespread development and deployment of IIoT pose a set of challenges, including the shortage of spectrum resources and network security. Given the heterogeneity of IIoT devices, conventional cryptographic security techniques are not...",
+    "date": "2023-06-22T01:07:55.506Z"
+  },
+  {
+    "articleNumber": "10159008",
+    "articleTitle": "Robust Beamforming Optimization Design for RIS-Aided MIMO Systems with Practical Phase Shift Model and Imperfect CSI",
+    "authors": [
+      "Meng Gao",
+      "Jiaao Yang",
+      "Huafu Li",
+      "Yang Wang"
+    ],
+    "abstract": "The ideal phase shift model and the acquisition of channel state information (CSI) are practically difficult to realize in reconfigurable intelligent surface (RIS) assisted communication systems. Therefore, these have greatly troubled the beamforming design of multiple-input multiple-output (MIMO) systems via RIS. This paper presents a robust beamforming design framework in the RIS-enhanced MIMO c...",
+    "date": "2023-06-22T01:07:55.506Z"
+  },
+  {
+    "articleNumber": "10158996",
+    "articleTitle": "UAV-Enhanced Service Caching for IoT Systems in Extreme Environments",
+    "authors": [
+      "Hanzhi Yan",
+      "Hanwen Li",
+      "Xiaolong Xu",
+      "Muhammad Bilal"
+    ],
+    "abstract": "The proliferation of Internet of Things (IoT) applications and real-time services brings severe performance pressure on IoT systems with cloud computing, so edge computing is increasingly being adopted in IoT systems to assist cloud computing in providing services. Systems with cloud-edge computing deploy parts of services on edge servers located closer to IoT devices, thus enabling real-time data...",
+    "date": "2023-06-22T01:07:55.506Z"
+  },
+  {
+    "articleNumber": "10159028",
+    "articleTitle": "Joint Interdependent Task Scheduling and Energy Balancing for Multi-UAV Enabled Aerial Edge Computing: A Multi-Objective Optimization Approach",
+    "authors": [
+      "Xumin Huang",
+      "Chaoda Peng",
+      "Yuan Wu",
+      "Jiawen Kang",
+      "Weifeng Zhong",
+      "Dong In Kim",
+      "Long Qi"
+    ],
+    "abstract": "To provide a dependency-aware application, multiple UAVs are employed to serve a ground user with a set of interdependent tasks. This leads to a new computing paradigm called as multi-UAV enabled aerial edge computing (MU-AEC). For the large-scale application of MU-AEC, both the task-centric objective and UAV-centric objective should be simultaneously considered. Thus, we focus on the joint interd...",
+    "date": "2023-06-22T01:07:55.506Z"
+  },
+  {
+    "articleNumber": "10158987",
+    "articleTitle": "Blockchain-based Lightweight and Privacy-preserving Quality Assurance Framework in Crowdsensing Systems",
+    "authors": [
+      "Xiaodong Shen",
+      "Chang Xu",
+      "Liehuang Zhu",
+      "Rongxing Lu",
+      "Yunguo Guan",
+      "Xiaoming Zhang"
+    ],
+    "abstract": "The novel sensing paradigm known as crowdsensing leverages ubiquitous smart devices to collect data in Internet of Things (IoT) applications. Traditional crowdsensing schemes assume a central framework to execute truth discovery algorithm to assure data quality, which may introduce reliability and privacy issues. Blockchain is a promising technology that provides a decentralized, transparent, and ...",
+    "date": "2023-06-22T01:07:55.506Z"
+  },
+  {
+    "articleNumber": "10159016",
+    "articleTitle": "Vector Sum Range Decision for Verifiable Multi-User Fuzzy Keyword Search in Cloud-Assisted IoT",
+    "authors": [
+      "Jiao Han",
+      "Lijun Qi",
+      "Jincheng Zhuang"
+    ],
+    "abstract": "To better leverage the massive data obtained by Internet of Things (IoT) devices, an increasing number of IoT applications are choosing to outsource data to the cloud. However, outsourcing services may cause the issue of privacy leakage. Fuzzy keyword searchable encryption is a desirable tool to provide flexible searching functionality while maintaining the privacy of data. Such schemes consist of...",
+    "date": "2023-06-22T01:07:55.506Z"
+  },
+  {
     "articleNumber": "10158335",
     "articleTitle": "Doppler Shift based Sybil Attack Detection for Mobile IoT Networks",
     "authors": [
@@ -12757,129 +12878,6 @@
       "Mohamed I. Ibrahem"
     ],
     "abstract": "Energy forecasting is important because it enables infrastructure planning and power dispatching while reducing power outages and equipment failures. It is well-known that federated learning (FL) can be used to build a global energy predictor for smart grids without revealing the customers’ raw data to preserve privacy. However, it still reveals local models’ parameters during the training process...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "10004969",
-    "articleTitle": "Multiple Task Resource Allocation Considering QoS in Energy Harvesting Systems",
-    "authors": [
-      "Yanxin Yao",
-      "Yibo Chen",
-      "Han Yao",
-      "Zhengwei Ni",
-      "Mehul Motani"
-    ],
-    "abstract": "Most approaches to resource allocation in energy harvesting systems for Internet-of-Things (IoT) networks do not consider real-time periodic task allocation with Quality of Service (QoS). This article studies the offline 2-D optimization problem for allocating randomly harvested energy flowing causally between slots into different real-time periodic tasks on an IoT device. We formulate an energy a...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "10002935",
-    "articleTitle": "Multiobjective 3-D UAV Movement Planning in Wireless Sensor Networks Using Bioinspired Swarm Intelligence",
-    "authors": [
-      "Aliia Beishenalieva",
-      "Sang-Jo Yoo"
-    ],
-    "abstract": "The use of unmanned aerial vehicles (UAVs) is a promising solution to efficiently acquire data in large-scale wireless sensor networks (WSNs). In a wide-area WSN environment, UAV path planning is one of the challenging issues in solving the optimization problem to achieve complex and multiple objectives under various constraints related to UAV operation. In this article, we propose a novel asynchr...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "10002339",
-    "articleTitle": "Deep Reinforcement Learning for Trajectory Path Planning and Distributed Inference in Resource-Constrained UAV Swarms",
-    "authors": [
-      "Marwan Abdou Dhuheir",
-      "Emna Baccour",
-      "Aiman Erbad",
-      "Sinan Sabeeh Al-Obaidi",
-      "Mounir Hamdi"
-    ],
-    "abstract": "The deployment flexibility and maneuverability of unmanned aerial vehicles (UAVs) increased their adoption in various applications, such as wildfire tracking, border monitoring, etc. In many critical applications, UAVs capture images and other sensory data and then send the captured data to remote servers for inference and data processing tasks. However, this approach is not always practical in re...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9999004",
-    "articleTitle": "Cross-Domain Joint Dictionary Learning for ECG Inference From PPG",
-    "authors": [
-      "Xin Tian",
-      "Qiang Zhu",
-      "Yuenan Li",
-      "Min Wu"
-    ],
-    "abstract": "The inverse problem of inferring clinical gold-standard electrocardiogram (ECG) from photoplethysmogram (PPG) that can be measured by affordable wearable Internet of Healthcare Things (IoHT) devices is a research direction receiving growing attention. It combines the easy measurability of PPG and the rich clinical knowledge of ECG for long-term continuous cardiac monitoring. The prior art for reco...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9998008",
-    "articleTitle": "Energy and Throughput Management in Delay-Constrained Small-World UAV-IoT Network",
-    "authors": [
-      "Sreenivasa Reddy Yeduri",
-      "Naga Srinivasarao Chilamkurthy",
-      "Om Jee Pandey",
-      "Linga Reddy Cenkeramaddi"
-    ],
-    "abstract": "Multihop data routing over a large-scale Internet of Things (IoT) network results in energy imbalance and poor data throughput performance. In addition, data transmission using a large number of hops causes more delay. In light of this, in this work, a novel method of energy and throughput management in a delay-constrained small-world unmanned aerial vehicle (UAV)-IoT network is proposed. The prop...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9998048",
-    "articleTitle": "Decimeter-Accuracy Positioning for Drones Using Two-Stage Trilateration in a GPS-Denied Environment",
-    "authors": [
-      "Yu-Er Chen",
-      "Huan-Huan Liew",
-      "Ju-Chin Chao",
-      "Ruey-Beei Wu"
-    ],
-    "abstract": "This study proposes a high-accuracy two-stage trilateration method that enables real-time positioning in global position system (GPS)-denied areas, such as unmanned aerial vehicles (UAVs) under bridges and targets in vegetation or indoors, where automated drone operation is difficult, and there are few localization methods. This method uses ultrawideband (UWB) with high-ranging accuracy and a high...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9997108",
-    "articleTitle": "An SDN-Enabled Framework for a Load-Balanced and QoS-Aware Internet of Underwater Things",
-    "authors": [
-      "Yaliang Shi",
-      "Qiuling Yang",
-      "Xiwen Huang",
-      "Deshun Li",
-      "Xiangdang Huang"
-    ],
-    "abstract": "The massive demand for marine exploitation has promoted the thriving Internet of Underwater Things (IoUT). The volume, velocity, and variety (3V) of data produced by sensors, hydrophones, and cameras in IoUT are enormous, which challenges the network in achieving load balancing and Quality-of-Service (QoS) provisioning. This article adopts the “SDN+AI” paradigm to realize a load-balanced and QoS-a...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9997507",
-    "articleTitle": "AoI-Aware Wireless Resource Allocation of Energy-Harvesting-Powered MEC Systems",
-    "authors": [
-      "Chengyu Zhao",
-      "Shaoyi Xu",
-      "Jieying Ren"
-    ],
-    "abstract": "Mobile-edge computing (MEC) has been deployed to enhance the data analysis performance of Internet of Things (IoT) and alleviate the shortage of computing resources for IoT devices. At the same time, energy harvesting (EH) is considered as a potential technology to prolong the network lifetime of the energy-limited IoT devices. In this article, we investigate the data analysis scenario in IoT arch...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9997128",
-    "articleTitle": "Multiobjective Optimization for Adaptive Offloading in Distributed Multiuser MIMO Cell-Free 6G Networks",
-    "authors": [
-      "Wen Zhou",
-      "Yihan Xu",
-      "Chunguo Li"
-    ],
-    "abstract": "By offloading some computational tasks to the edge server, edge computing can help relieve the increasing computation burden of mobile users and improve the quality of experience of users. In this article, we investigate the computation offloading in edge computing-enabled multiuser cell-free (CF) multi-input multioutput (MIMO) networks with multiple building baseband units (BBUs). The user associ...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9996545",
-    "articleTitle": "F-PVNet: Frustum-Level 3-D Object Detection on Point–Voxel Feature Representation for Autonomous Driving",
-    "authors": [
-      "Chongben Tao",
-      "Shiping Fu",
-      "Chen Wang",
-      "Xizhao Luo",
-      "Huayi Li",
-      "Zhen Gao",
-      "Zufeng Zhang",
-      "Sifa Zheng"
-    ],
-    "abstract": "Current 3-D object detection technology for autonomous driving usually cannot efficiently utilize local sensitive points. Meanwhile, contextual feature extracted from a object is not sufficient, which easily leads to deteriorated detection accuracy of the final object estimation. For the problems, a point–voxel-based 3-D dynamic object detection algorithm is proposed. First, local points are group...",
     "date": "2023-04-27T04:15:53.706Z"
   }
 ]

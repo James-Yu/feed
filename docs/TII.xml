@@ -2,11 +2,133 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/TII.rss</id>
     <title>IEEE Transactions on Industrial Informatics</title>
-    <updated>2023-06-21T16:14:57.975Z</updated>
+    <updated>2023-06-22T01:08:01.911Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/TII.rss"/>
     <subtitle>IEEE Transactions on Industrial Informatics</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Imperceptible Attacks on Fault Detection and Diagnosis Systems in Smart Buildings]]></title>
+        <id>https://ieeexplore.ieee.org/document/10158801</id>
+        <link href="https://ieeexplore.ieee.org/document/10158801"/>
+        <updated>2023-06-22T01:08:01.904Z</updated>
+        <summary type="html"><![CDATA[Automated Fault Detection and Diagnosis (AFDD) systems are critical to safe and efficient operation of smart buildings. A significant amount of building data can be collected and analyzed to detect building compo-nent failures. Attacks against such data that are contami-nated with small additive disturbances (i.e., adversarial per-turbation attacks) could dreadfully impact the performance of such ...]]></summary>
+        <author>
+            <name>Ismail R. Alkhouri</name>
+        </author>
+        <author>
+            <name>Akram S. Awad</name>
+        </author>
+        <author>
+            <name>Qun Z. Sun</name>
+        </author>
+        <author>
+            <name>George K. Atia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Collaborative filter pruning for efficient automatic surface defect detection]]></title>
+        <id>https://ieeexplore.ieee.org/document/10158925</id>
+        <link href="https://ieeexplore.ieee.org/document/10158925"/>
+        <updated>2023-06-22T01:08:01.904Z</updated>
+        <summary type="html"><![CDATA[Surface defect detection is a critical task in industrial production, and numerous methods have been proposed to achieve high detection accuracy. Although deep learning-based approaches have achieved state-of-the-art performances, their vast computational cost and high memory footprint prevent their deployment in resource-constrained environments. To address this problem, we propose a collaborativ...]]></summary>
+        <author>
+            <name>Haoxuan Wang</name>
+        </author>
+        <author>
+            <name>Xin Fan</name>
+        </author>
+        <author>
+            <name>Pengyang Ling</name>
+        </author>
+        <author>
+            <name>Beng Wang</name>
+        </author>
+        <author>
+            <name>Huaian Chen</name>
+        </author>
+        <author>
+            <name>Yi Jin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Multi-head Attention Self-supervised Representation Model for Industrial Sensors Anomaly Detection]]></title>
+        <id>https://ieeexplore.ieee.org/document/10159231</id>
+        <link href="https://ieeexplore.ieee.org/document/10159231"/>
+        <updated>2023-06-22T01:08:01.904Z</updated>
+        <summary type="html"><![CDATA[Industrial sensors capture critical information for intelligent manufacturing maintenance. To promote equipment upgrading and manufacturing processes, intelligent decisions, and information learning play an important role. Although deep learning methods historically obtain excellent results, there is always a trade-off between fine-tuning existing networks or designing models from scratch for sens...]]></summary>
+        <author>
+            <name>Yiqun Qiao</name>
+        </author>
+        <author>
+            <name>Jinhu Lü</name>
+        </author>
+        <author>
+            <name>Tian Wang</name>
+        </author>
+        <author>
+            <name>Kexin Liu</name>
+        </author>
+        <author>
+            <name>Baochang Zhang</name>
+        </author>
+        <author>
+            <name>Hichem Snoussi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Interactive Hybrid Model for Remaining Useful Life Prediction with Uncertainty Quantification of Bearing in Nuclear Circulating Water Pump]]></title>
+        <id>https://ieeexplore.ieee.org/document/10158933</id>
+        <link href="https://ieeexplore.ieee.org/document/10158933"/>
+        <updated>2023-06-22T01:08:01.904Z</updated>
+        <summary type="html"><![CDATA[Journal bearings are the key components of the nuclear circulating water pump (NCWP), and accurate remaining useful life (RUL) prediction is of great significance for improving the reliability, safety, and maintenance planning of NCWP. However, it is difficult to quantify the uncertainty of bearing RUL based on the current deep learning (DL) model, resulting in a lack of credibility and effective ...]]></summary>
+        <author>
+            <name>Wei Cheng</name>
+        </author>
+        <author>
+            <name>Shushuai Xie</name>
+        </author>
+        <author>
+            <name>Ji Xing</name>
+        </author>
+        <author>
+            <name>Zelin Nie</name>
+        </author>
+        <author>
+            <name>Xuefeng Chen</name>
+        </author>
+        <author>
+            <name>Yilong Liu</name>
+        </author>
+        <author>
+            <name>Xue Liu</name>
+        </author>
+        <author>
+            <name>Qian Huang</name>
+        </author>
+        <author>
+            <name>Rongyong Zhang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fast and Stable Detection Scheme of Point of Common Coupling Voltage for Renewable Energy Systems Tied to Distortion Grids]]></title>
+        <id>https://ieeexplore.ieee.org/document/10159223</id>
+        <link href="https://ieeexplore.ieee.org/document/10159223"/>
+        <updated>2023-06-22T01:08:01.904Z</updated>
+        <summary type="html"><![CDATA[Due to the rapid development of renewable energy technology, renewable energy systems with power electronic equipment have gradually become the main components of the power system. However, the traditional detection methods do not always satisfy the need for accurate and high-speed sequence component acquisition of the power grid at point of common coupling (PCC) under distortion grids, which lead...]]></summary>
+        <author>
+            <name>Liancheng Xiu</name>
+        </author>
+        <author>
+            <name>Jingxuan He</name>
+        </author>
+        <author>
+            <name>Mingxian Li</name>
+        </author>
+        <author>
+            <name>Hanliang Song</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Deep Correspondence Matching Based Robust Point Cloud Registration of Profiled Parts]]></title>
         <id>https://ieeexplore.ieee.org/document/10154591</id>

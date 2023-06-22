@@ -2,11 +2,204 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/IoTJ.rss</id>
     <title>IEEE Internet of Things Journal</title>
-    <updated>2023-06-21T16:14:53.608Z</updated>
+    <updated>2023-06-22T01:07:55.516Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/IoTJ.rss"/>
     <subtitle>IEEE Internet of Things Journal</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Estimation of kinetic energy harvesting potential for self-powered wearable IoT devices with 67,000 participants from the UK Biobank]]></title>
+        <id>https://ieeexplore.ieee.org/document/10158991</id>
+        <link href="https://ieeexplore.ieee.org/document/10158991"/>
+        <updated>2023-06-22T01:07:55.506Z</updated>
+        <summary type="html"><![CDATA[Energy harvesting from human motion can reduce reliance on battery recharging in wearable Internet of Things (IoT) devices. However, to date, studies estimating energy harvesting potential have largely focused on small scale, healthy, population groups in laboratory settings rather than free-living environments with population level participant numbers. Here, we present the largest ever investigat...]]></summary>
+        <author>
+            <name>Christopher Beach</name>
+        </author>
+        <author>
+            <name>Alexander J. Casson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TORR: A Lightweight Blockchain for Decentralized Federated Learning]]></title>
+        <id>https://ieeexplore.ieee.org/document/10159020</id>
+        <link href="https://ieeexplore.ieee.org/document/10159020"/>
+        <updated>2023-06-22T01:07:55.506Z</updated>
+        <summary type="html"><![CDATA[Federated learning has received considerable attention because it allows multiple devices to train models locally without revealing sensitive data. Well-trained local models are transmitted to a parameter server for further aggregation. The dependence on a trusted central server makes federated learning vulnerable to the single point of failure or attack. Blockchain is regarded as a state-of-the-a...]]></summary>
+        <author>
+            <name>Xuyang Ma</name>
+        </author>
+        <author>
+            <name>Du Xu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Joint Dual-UAV Trajectory and RIS Design for ARIS-Assisted Aerial Computing in IoT]]></title>
+        <id>https://ieeexplore.ieee.org/document/10159030</id>
+        <link href="https://ieeexplore.ieee.org/document/10159030"/>
+        <updated>2023-06-22T01:07:55.506Z</updated>
+        <summary type="html"><![CDATA[Reconfigurable intelligent surface (RIS) as an emerging technology, has recently been applied to expand the range of mobile edge computing (MEC) networks and improve wireless environments. However, current terrestrial RIS-assisted MEC networks have some limitations, such as severe signal attenuation and inflexible equipment deployment. To take full advantage of the superiority of the RIS, this pap...]]></summary>
+        <author>
+            <name>Bin Duo</name>
+        </author>
+        <author>
+            <name>Maolin He</name>
+        </author>
+        <author>
+            <name>Qingqing Wu</name>
+        </author>
+        <author>
+            <name>Zexu Zhang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lightweight Blockchain-Based Secure Spectrum Sharing in Space-Air-Ground Integrated IoT Network]]></title>
+        <id>https://ieeexplore.ieee.org/document/10159001</id>
+        <link href="https://ieeexplore.ieee.org/document/10159001"/>
+        <updated>2023-06-22T01:07:55.506Z</updated>
+        <summary type="html"><![CDATA[Unmanned aerial vehicles (UAVs) will be widely deployed due to their flexibility, mobility and miniaturization, providing the necessary support for spectrum sharing between different communication systems in space-air-ground integrated IoT network (SAGIN). However, there are potential security threats to spectrum sharing among different communication systems due to the openness of wireless network...]]></summary>
+        <author>
+            <name>Ning Yang</name>
+        </author>
+        <author>
+            <name>Daoxing Guo</name>
+        </author>
+        <author>
+            <name>Yutao Jiao</name>
+        </author>
+        <author>
+            <name>Guoru Ding</name>
+        </author>
+        <author>
+            <name>Ting Qu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Secure STBC-Aided NOMA in Cognitive IIOT Networks]]></title>
+        <id>https://ieeexplore.ieee.org/document/10159000</id>
+        <link href="https://ieeexplore.ieee.org/document/10159000"/>
+        <updated>2023-06-22T01:07:55.506Z</updated>
+        <summary type="html"><![CDATA[The Industrial Internet of Things (IIoT) has been recognised as having the potential to offer substantial benefit to a wide range of industrial sectors. However, the widespread development and deployment of IIoT pose a set of challenges, including the shortage of spectrum resources and network security. Given the heterogeneity of IIoT devices, conventional cryptographic security techniques are not...]]></summary>
+        <author>
+            <name>Meiling Li</name>
+        </author>
+        <author>
+            <name>Faissal El Bouanani</name>
+        </author>
+        <author>
+            <name>Sami Muhaidat</name>
+        </author>
+        <author>
+            <name>Mehrdad Dianati</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Robust Beamforming Optimization Design for RIS-Aided MIMO Systems with Practical Phase Shift Model and Imperfect CSI]]></title>
+        <id>https://ieeexplore.ieee.org/document/10159008</id>
+        <link href="https://ieeexplore.ieee.org/document/10159008"/>
+        <updated>2023-06-22T01:07:55.506Z</updated>
+        <summary type="html"><![CDATA[The ideal phase shift model and the acquisition of channel state information (CSI) are practically difficult to realize in reconfigurable intelligent surface (RIS) assisted communication systems. Therefore, these have greatly troubled the beamforming design of multiple-input multiple-output (MIMO) systems via RIS. This paper presents a robust beamforming design framework in the RIS-enhanced MIMO c...]]></summary>
+        <author>
+            <name>Meng Gao</name>
+        </author>
+        <author>
+            <name>Jiaao Yang</name>
+        </author>
+        <author>
+            <name>Huafu Li</name>
+        </author>
+        <author>
+            <name>Yang Wang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UAV-Enhanced Service Caching for IoT Systems in Extreme Environments]]></title>
+        <id>https://ieeexplore.ieee.org/document/10158996</id>
+        <link href="https://ieeexplore.ieee.org/document/10158996"/>
+        <updated>2023-06-22T01:07:55.506Z</updated>
+        <summary type="html"><![CDATA[The proliferation of Internet of Things (IoT) applications and real-time services brings severe performance pressure on IoT systems with cloud computing, so edge computing is increasingly being adopted in IoT systems to assist cloud computing in providing services. Systems with cloud-edge computing deploy parts of services on edge servers located closer to IoT devices, thus enabling real-time data...]]></summary>
+        <author>
+            <name>Hanzhi Yan</name>
+        </author>
+        <author>
+            <name>Hanwen Li</name>
+        </author>
+        <author>
+            <name>Xiaolong Xu</name>
+        </author>
+        <author>
+            <name>Muhammad Bilal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Joint Interdependent Task Scheduling and Energy Balancing for Multi-UAV Enabled Aerial Edge Computing: A Multi-Objective Optimization Approach]]></title>
+        <id>https://ieeexplore.ieee.org/document/10159028</id>
+        <link href="https://ieeexplore.ieee.org/document/10159028"/>
+        <updated>2023-06-22T01:07:55.506Z</updated>
+        <summary type="html"><![CDATA[To provide a dependency-aware application, multiple UAVs are employed to serve a ground user with a set of interdependent tasks. This leads to a new computing paradigm called as multi-UAV enabled aerial edge computing (MU-AEC). For the large-scale application of MU-AEC, both the task-centric objective and UAV-centric objective should be simultaneously considered. Thus, we focus on the joint interd...]]></summary>
+        <author>
+            <name>Xumin Huang</name>
+        </author>
+        <author>
+            <name>Chaoda Peng</name>
+        </author>
+        <author>
+            <name>Yuan Wu</name>
+        </author>
+        <author>
+            <name>Jiawen Kang</name>
+        </author>
+        <author>
+            <name>Weifeng Zhong</name>
+        </author>
+        <author>
+            <name>Dong In Kim</name>
+        </author>
+        <author>
+            <name>Long Qi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blockchain-based Lightweight and Privacy-preserving Quality Assurance Framework in Crowdsensing Systems]]></title>
+        <id>https://ieeexplore.ieee.org/document/10158987</id>
+        <link href="https://ieeexplore.ieee.org/document/10158987"/>
+        <updated>2023-06-22T01:07:55.506Z</updated>
+        <summary type="html"><![CDATA[The novel sensing paradigm known as crowdsensing leverages ubiquitous smart devices to collect data in Internet of Things (IoT) applications. Traditional crowdsensing schemes assume a central framework to execute truth discovery algorithm to assure data quality, which may introduce reliability and privacy issues. Blockchain is a promising technology that provides a decentralized, transparent, and ...]]></summary>
+        <author>
+            <name>Xiaodong Shen</name>
+        </author>
+        <author>
+            <name>Chang Xu</name>
+        </author>
+        <author>
+            <name>Liehuang Zhu</name>
+        </author>
+        <author>
+            <name>Rongxing Lu</name>
+        </author>
+        <author>
+            <name>Yunguo Guan</name>
+        </author>
+        <author>
+            <name>Xiaoming Zhang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vector Sum Range Decision for Verifiable Multi-User Fuzzy Keyword Search in Cloud-Assisted IoT]]></title>
+        <id>https://ieeexplore.ieee.org/document/10159016</id>
+        <link href="https://ieeexplore.ieee.org/document/10159016"/>
+        <updated>2023-06-22T01:07:55.506Z</updated>
+        <summary type="html"><![CDATA[To better leverage the massive data obtained by Internet of Things (IoT) devices, an increasing number of IoT applications are choosing to outsource data to the cloud. However, outsourcing services may cause the issue of privacy leakage. Fuzzy keyword searchable encryption is a desirable tool to provide flexible searching functionality while maintaining the privacy of data. Such schemes consist of...]]></summary>
+        <author>
+            <name>Jiao Han</name>
+        </author>
+        <author>
+            <name>Lijun Qi</name>
+        </author>
+        <author>
+            <name>Jincheng Zhuang</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Doppler Shift based Sybil Attack Detection for Mobile IoT Networks]]></title>
         <id>https://ieeexplore.ieee.org/document/10158335</id>
@@ -21455,205 +21648,6 @@
         </author>
         <author>
             <name>Mohamed I. Ibrahem</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Multiple Task Resource Allocation Considering QoS in Energy Harvesting Systems]]></title>
-        <id>https://ieeexplore.ieee.org/document/10004969</id>
-        <link href="https://ieeexplore.ieee.org/document/10004969"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[Most approaches to resource allocation in energy harvesting systems for Internet-of-Things (IoT) networks do not consider real-time periodic task allocation with Quality of Service (QoS). This article studies the offline 2-D optimization problem for allocating randomly harvested energy flowing causally between slots into different real-time periodic tasks on an IoT device. We formulate an energy a...]]></summary>
-        <author>
-            <name>Yanxin Yao</name>
-        </author>
-        <author>
-            <name>Yibo Chen</name>
-        </author>
-        <author>
-            <name>Han Yao</name>
-        </author>
-        <author>
-            <name>Zhengwei Ni</name>
-        </author>
-        <author>
-            <name>Mehul Motani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Multiobjective 3-D UAV Movement Planning in Wireless Sensor Networks Using Bioinspired Swarm Intelligence]]></title>
-        <id>https://ieeexplore.ieee.org/document/10002935</id>
-        <link href="https://ieeexplore.ieee.org/document/10002935"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[The use of unmanned aerial vehicles (UAVs) is a promising solution to efficiently acquire data in large-scale wireless sensor networks (WSNs). In a wide-area WSN environment, UAV path planning is one of the challenging issues in solving the optimization problem to achieve complex and multiple objectives under various constraints related to UAV operation. In this article, we propose a novel asynchr...]]></summary>
-        <author>
-            <name>Aliia Beishenalieva</name>
-        </author>
-        <author>
-            <name>Sang-Jo Yoo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deep Reinforcement Learning for Trajectory Path Planning and Distributed Inference in Resource-Constrained UAV Swarms]]></title>
-        <id>https://ieeexplore.ieee.org/document/10002339</id>
-        <link href="https://ieeexplore.ieee.org/document/10002339"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[The deployment flexibility and maneuverability of unmanned aerial vehicles (UAVs) increased their adoption in various applications, such as wildfire tracking, border monitoring, etc. In many critical applications, UAVs capture images and other sensory data and then send the captured data to remote servers for inference and data processing tasks. However, this approach is not always practical in re...]]></summary>
-        <author>
-            <name>Marwan Abdou Dhuheir</name>
-        </author>
-        <author>
-            <name>Emna Baccour</name>
-        </author>
-        <author>
-            <name>Aiman Erbad</name>
-        </author>
-        <author>
-            <name>Sinan Sabeeh Al-Obaidi</name>
-        </author>
-        <author>
-            <name>Mounir Hamdi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cross-Domain Joint Dictionary Learning for ECG Inference From PPG]]></title>
-        <id>https://ieeexplore.ieee.org/document/9999004</id>
-        <link href="https://ieeexplore.ieee.org/document/9999004"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[The inverse problem of inferring clinical gold-standard electrocardiogram (ECG) from photoplethysmogram (PPG) that can be measured by affordable wearable Internet of Healthcare Things (IoHT) devices is a research direction receiving growing attention. It combines the easy measurability of PPG and the rich clinical knowledge of ECG for long-term continuous cardiac monitoring. The prior art for reco...]]></summary>
-        <author>
-            <name>Xin Tian</name>
-        </author>
-        <author>
-            <name>Qiang Zhu</name>
-        </author>
-        <author>
-            <name>Yuenan Li</name>
-        </author>
-        <author>
-            <name>Min Wu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Energy and Throughput Management in Delay-Constrained Small-World UAV-IoT Network]]></title>
-        <id>https://ieeexplore.ieee.org/document/9998008</id>
-        <link href="https://ieeexplore.ieee.org/document/9998008"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[Multihop data routing over a large-scale Internet of Things (IoT) network results in energy imbalance and poor data throughput performance. In addition, data transmission using a large number of hops causes more delay. In light of this, in this work, a novel method of energy and throughput management in a delay-constrained small-world unmanned aerial vehicle (UAV)-IoT network is proposed. The prop...]]></summary>
-        <author>
-            <name>Sreenivasa Reddy Yeduri</name>
-        </author>
-        <author>
-            <name>Naga Srinivasarao Chilamkurthy</name>
-        </author>
-        <author>
-            <name>Om Jee Pandey</name>
-        </author>
-        <author>
-            <name>Linga Reddy Cenkeramaddi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Decimeter-Accuracy Positioning for Drones Using Two-Stage Trilateration in a GPS-Denied Environment]]></title>
-        <id>https://ieeexplore.ieee.org/document/9998048</id>
-        <link href="https://ieeexplore.ieee.org/document/9998048"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[This study proposes a high-accuracy two-stage trilateration method that enables real-time positioning in global position system (GPS)-denied areas, such as unmanned aerial vehicles (UAVs) under bridges and targets in vegetation or indoors, where automated drone operation is difficult, and there are few localization methods. This method uses ultrawideband (UWB) with high-ranging accuracy and a high...]]></summary>
-        <author>
-            <name>Yu-Er Chen</name>
-        </author>
-        <author>
-            <name>Huan-Huan Liew</name>
-        </author>
-        <author>
-            <name>Ju-Chin Chao</name>
-        </author>
-        <author>
-            <name>Ruey-Beei Wu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An SDN-Enabled Framework for a Load-Balanced and QoS-Aware Internet of Underwater Things]]></title>
-        <id>https://ieeexplore.ieee.org/document/9997108</id>
-        <link href="https://ieeexplore.ieee.org/document/9997108"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[The massive demand for marine exploitation has promoted the thriving Internet of Underwater Things (IoUT). The volume, velocity, and variety (3V) of data produced by sensors, hydrophones, and cameras in IoUT are enormous, which challenges the network in achieving load balancing and Quality-of-Service (QoS) provisioning. This article adopts the “SDN+AI” paradigm to realize a load-balanced and QoS-a...]]></summary>
-        <author>
-            <name>Yaliang Shi</name>
-        </author>
-        <author>
-            <name>Qiuling Yang</name>
-        </author>
-        <author>
-            <name>Xiwen Huang</name>
-        </author>
-        <author>
-            <name>Deshun Li</name>
-        </author>
-        <author>
-            <name>Xiangdang Huang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AoI-Aware Wireless Resource Allocation of Energy-Harvesting-Powered MEC Systems]]></title>
-        <id>https://ieeexplore.ieee.org/document/9997507</id>
-        <link href="https://ieeexplore.ieee.org/document/9997507"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[Mobile-edge computing (MEC) has been deployed to enhance the data analysis performance of Internet of Things (IoT) and alleviate the shortage of computing resources for IoT devices. At the same time, energy harvesting (EH) is considered as a potential technology to prolong the network lifetime of the energy-limited IoT devices. In this article, we investigate the data analysis scenario in IoT arch...]]></summary>
-        <author>
-            <name>Chengyu Zhao</name>
-        </author>
-        <author>
-            <name>Shaoyi Xu</name>
-        </author>
-        <author>
-            <name>Jieying Ren</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Multiobjective Optimization for Adaptive Offloading in Distributed Multiuser MIMO Cell-Free 6G Networks]]></title>
-        <id>https://ieeexplore.ieee.org/document/9997128</id>
-        <link href="https://ieeexplore.ieee.org/document/9997128"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[By offloading some computational tasks to the edge server, edge computing can help relieve the increasing computation burden of mobile users and improve the quality of experience of users. In this article, we investigate the computation offloading in edge computing-enabled multiuser cell-free (CF) multi-input multioutput (MIMO) networks with multiple building baseband units (BBUs). The user associ...]]></summary>
-        <author>
-            <name>Wen Zhou</name>
-        </author>
-        <author>
-            <name>Yihan Xu</name>
-        </author>
-        <author>
-            <name>Chunguo Li</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[F-PVNet: Frustum-Level 3-D Object Detection on Point–Voxel Feature Representation for Autonomous Driving]]></title>
-        <id>https://ieeexplore.ieee.org/document/9996545</id>
-        <link href="https://ieeexplore.ieee.org/document/9996545"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[Current 3-D object detection technology for autonomous driving usually cannot efficiently utilize local sensitive points. Meanwhile, contextual feature extracted from a object is not sufficient, which easily leads to deteriorated detection accuracy of the final object estimation. For the problems, a point–voxel-based 3-D dynamic object detection algorithm is proposed. First, local points are group...]]></summary>
-        <author>
-            <name>Chongben Tao</name>
-        </author>
-        <author>
-            <name>Shiping Fu</name>
-        </author>
-        <author>
-            <name>Chen Wang</name>
-        </author>
-        <author>
-            <name>Xizhao Luo</name>
-        </author>
-        <author>
-            <name>Huayi Li</name>
-        </author>
-        <author>
-            <name>Zhen Gao</name>
-        </author>
-        <author>
-            <name>Zufeng Zhang</name>
-        </author>
-        <author>
-            <name>Sifa Zheng</name>
         </author>
     </entry>
 </feed>
