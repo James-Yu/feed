@@ -2,11 +2,431 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/T-ITS.rss</id>
     <title>IEEE Transactions on Intelligent Transportation Systems</title>
-    <updated>2023-06-22T16:14:28.169Z</updated>
+    <updated>2023-06-23T01:14:44.834Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/T-ITS.rss"/>
     <subtitle>IEEE Transactions on Intelligent Transportation Systems</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Channel Measurement and Modeling for Millimeter-Wave Automotive Radar]]></title>
+        <id>https://ieeexplore.ieee.org/document/10159574</id>
+        <link href="https://ieeexplore.ieee.org/document/10159574"/>
+        <updated>2023-06-23T01:14:44.827Z</updated>
+        <summary type="html"><![CDATA[Millimeter-wave (mmWave) automotive radar can detect the surrounding environment using highly directional, high-frequency electromagnetic waves. With these advantages, mmWave radar has become an important component of autonomous driving and integrated sensing systems. Designing systems and sensing algorithms requires the application of realistic channel models and simulation. In this paper, the pr...]]></summary>
+        <author>
+            <name>Xiyu Wang</name>
+        </author>
+        <author>
+            <name>Danping He</name>
+        </author>
+        <author>
+            <name>Ke Guan</name>
+        </author>
+        <author>
+            <name>Hongyu Duan</name>
+        </author>
+        <author>
+            <name>Jianwu Dou</name>
+        </author>
+        <author>
+            <name>Najah Abed Abuali</name>
+        </author>
+        <author>
+            <name>Zhangdui Zhong</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Heter-Train: A Distributed Training Framework Based on Semi-Asynchronous Parallel Mechanism for Heterogeneous Intelligent Transportation Systems]]></title>
+        <id>https://ieeexplore.ieee.org/document/10159578</id>
+        <link href="https://ieeexplore.ieee.org/document/10159578"/>
+        <updated>2023-06-23T01:14:44.827Z</updated>
+        <summary type="html"><![CDATA[Transportation big data (TBD) are increasingly combined with artificial intelligence to mine novel patterns and information due to the powerful representational capabilities of deep neural networks (DNNs), especially for anti-COVID19 applications. The distributed cloud-edge-vehicle training architecture has been applied to accelerate DNNs training while ensuring low latency and high privacy for TB...]]></summary>
+        <author>
+            <name>Jiawei Geng</name>
+        </author>
+        <author>
+            <name>Jing Cao</name>
+        </author>
+        <author>
+            <name>Haipeng Jia</name>
+        </author>
+        <author>
+            <name>Zongwei Zhu</name>
+        </author>
+        <author>
+            <name>Hai Fang</name>
+        </author>
+        <author>
+            <name>Chengxi Gao</name>
+        </author>
+        <author>
+            <name>Cheng Ji</name>
+        </author>
+        <author>
+            <name>Gangyong Jia</name>
+        </author>
+        <author>
+            <name>Guangjie Han</name>
+        </author>
+        <author>
+            <name>Xuehai Zhou</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CF-YOLO: Cross Fusion YOLO for Object Detection in Adverse Weather With a High-Quality Real Snow Dataset]]></title>
+        <id>https://ieeexplore.ieee.org/document/10159575</id>
+        <link href="https://ieeexplore.ieee.org/document/10159575"/>
+        <updated>2023-06-23T01:14:44.827Z</updated>
+        <summary type="html"><![CDATA[Snow is one of the toughest adverse weather conditions for object detection (OD). Currently, not only there is a lack of snowy OD datasets to train cutting-edge detectors, but also these detectors have difficulties of learning latent information beneficial for detection in snow. To alleviate the two above problems, we first establish a real-world snowy OD dataset, named RSOD. Besides, we develop a...]]></summary>
+        <author>
+            <name>Qiqi Ding</name>
+        </author>
+        <author>
+            <name>Peng Li</name>
+        </author>
+        <author>
+            <name>Xuefeng Yan</name>
+        </author>
+        <author>
+            <name>Ding Shi</name>
+        </author>
+        <author>
+            <name>Luming Liang</name>
+        </author>
+        <author>
+            <name>Weiming Wang</name>
+        </author>
+        <author>
+            <name>Haoran Xie</name>
+        </author>
+        <author>
+            <name>Jonathan Li</name>
+        </author>
+        <author>
+            <name>Mingqiang Wei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GE-DDRL: Graph Embedding and Deep Distributional Reinforcement Learning for Reliable Shortest Path: A Universal and Scale Free Solution]]></title>
+        <id>https://ieeexplore.ieee.org/document/10159570</id>
+        <link href="https://ieeexplore.ieee.org/document/10159570"/>
+        <updated>2023-06-23T01:14:44.827Z</updated>
+        <summary type="html"><![CDATA[This paper studies the reliable shortest path (RSP) problem in stochastic transportation networks. State-of-the-art RSP solutions usually target one specific RSP problem; moreover, the corresponding algorithm’s computational complexity scales at least linearly with the size of the underlying transportation network. While in this paper, we propose a graph embedding and deep distributional reinforce...]]></summary>
+        <author>
+            <name>Hongliang Guo</name>
+        </author>
+        <author>
+            <name>Wenda Sheng</name>
+        </author>
+        <author>
+            <name>Yingjie Zhou</name>
+        </author>
+        <author>
+            <name>Yunping Chen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Graph-Based Progressive Fusion Network for Multi-Modality Vehicle Re-Identification]]></title>
+        <id>https://ieeexplore.ieee.org/document/10159551</id>
+        <link href="https://ieeexplore.ieee.org/document/10159551"/>
+        <updated>2023-06-23T01:14:44.827Z</updated>
+        <summary type="html"><![CDATA[Vehicle re-identification (Re-ID) is a critical task in intelligent transportation, aiming to match vehicle images of the same identity captured by non-overlapping cameras. However, it is difficult to achieve satisfactory results based on RGB images alone in darkness. Therefore, it is of great importance to consider multi-modality vehicle re-identification. Currently, the proposed works deal with ...]]></summary>
+        <author>
+            <name>Qiaolin He</name>
+        </author>
+        <author>
+            <name>Zefeng Lu</name>
+        </author>
+        <author>
+            <name>Zihan Wang</name>
+        </author>
+        <author>
+            <name>Haifeng Hu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Game-Theoretic Approach on Conflict Resolution of Autonomous Vehicles at Unsignalized Intersections]]></title>
+        <id>https://ieeexplore.ieee.org/document/10159571</id>
+        <link href="https://ieeexplore.ieee.org/document/10159571"/>
+        <updated>2023-06-23T01:14:44.827Z</updated>
+        <summary type="html"><![CDATA[In order to resolve the driving conflict and improve the safety and efficiency of autonomous vehicles at unsignalized intersections, a new decision-making method based on game theory with personalized driving preferences considered is proposed in this paper. In the decision-making method, the alterable game mode is constructed by combing the designed game entrying mechanism and replanning of game ...]]></summary>
+        <author>
+            <name>Xinghao Lu</name>
+        </author>
+        <author>
+            <name>Haiyan Zhao</name>
+        </author>
+        <author>
+            <name>Cheng Li</name>
+        </author>
+        <author>
+            <name>Bingzhao Gao</name>
+        </author>
+        <author>
+            <name>Hong Chen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aggregated Representation of Electric Vehicles Population on Charging Points for Demand Response Scheduling]]></title>
+        <id>https://ieeexplore.ieee.org/document/10159556</id>
+        <link href="https://ieeexplore.ieee.org/document/10159556"/>
+        <updated>2023-06-23T01:14:44.827Z</updated>
+        <summary type="html"><![CDATA[Charging electric vehicles (EVs), whose number is increasing, is a great challenge for the power grid due to the charging load variability. Coordinated charging and schedule optimization with seized demand response opportunities are well-known conceptual solutions to that. Still, the main challenge is to adequately predict availability and parameters of electric vehicles which is crucial for deter...]]></summary>
+        <author>
+            <name>Marko Kovačević</name>
+        </author>
+        <author>
+            <name>Mario Vašak</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coordinated Motion Planning for Heterogeneous Autonomous Vehicles Based on Driving Behavior Primitives]]></title>
+        <id>https://ieeexplore.ieee.org/document/10159576</id>
+        <link href="https://ieeexplore.ieee.org/document/10159576"/>
+        <updated>2023-06-23T01:14:44.827Z</updated>
+        <summary type="html"><![CDATA[Heterogeneous autonomous vehicle (HAV) coordinated motion planning must guide each vehicle out of the conflict zone based on the differences in vehicle platform characteristics. Decomposing complex driving tasks into primitives is an effective way to improve algorithm efficiency. Hence, the purpose of this paper is to complete the coordinated motion planning tasks through offline driving behavior ...]]></summary>
+        <author>
+            <name>Haijie Guan</name>
+        </author>
+        <author>
+            <name>Boyang Wang</name>
+        </author>
+        <author>
+            <name>Jianwei Gong</name>
+        </author>
+        <author>
+            <name>Huiyan Chen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cooperative Localization With the Fusion of GNSS and Relative Range Information in Vehicular Ad-Hoc Networks]]></title>
+        <id>https://ieeexplore.ieee.org/document/10159569</id>
+        <link href="https://ieeexplore.ieee.org/document/10159569"/>
+        <updated>2023-06-23T01:14:44.827Z</updated>
+        <summary type="html"><![CDATA[Accurate vehicle position is crucial to vehicular Ad-Hoc network (VANET) applications. The wildly used global navigation satellite systems (GNSS) have limited localization accuracy, especially when GNSS signals are blocked or contaminated with reflected signals. Cooperative localization based on multi-vehicle information fusion will be the core component in VANET in the near future. This paper str...]]></summary>
+        <author>
+            <name>Xiaomei Qu</name>
+        </author>
+        <author>
+            <name>Tao Liu</name>
+        </author>
+        <author>
+            <name>Fan Li</name>
+        </author>
+        <author>
+            <name>Wenrong Tan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deep Multi-Agent Reinforcement Learning for Highway On-Ramp Merging in Mixed Traffic]]></title>
+        <id>https://ieeexplore.ieee.org/document/10159552</id>
+        <link href="https://ieeexplore.ieee.org/document/10159552"/>
+        <updated>2023-06-23T01:14:44.827Z</updated>
+        <summary type="html"><![CDATA[On-ramp merging is a challenging task for autonomous vehicles (AVs), especially in mixed traffic where AVs coexist with human-driven vehicles (HDVs). In this paper, we formulate the mixed-traffic highway on-ramp merging problem as a multi-agent reinforcement learning (MARL) problem, where the AVs (on both merge lane and through lane) collaboratively learn a policy to adapt to HDVs to maximize the ...]]></summary>
+        <author>
+            <name>Dong Chen</name>
+        </author>
+        <author>
+            <name>Mohammad R. Hajidavalloo</name>
+        </author>
+        <author>
+            <name>Zhaojian Li</name>
+        </author>
+        <author>
+            <name>Kaian Chen</name>
+        </author>
+        <author>
+            <name>Yongqiang Wang</name>
+        </author>
+        <author>
+            <name>Longsheng Jiang</name>
+        </author>
+        <author>
+            <name>Yue Wang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JHPFA-Net: Joint Head Pose and Facial Action Network for Driver Yawning Detection Across Arbitrary Poses in Videos]]></title>
+        <id>https://ieeexplore.ieee.org/document/10159554</id>
+        <link href="https://ieeexplore.ieee.org/document/10159554"/>
+        <updated>2023-06-23T01:14:44.827Z</updated>
+        <summary type="html"><![CDATA[Yawning detection is a key means in driver fatigue detection, which suffers difficulties including head poses, facial expressions, illumination variations, occlusions, etc. Yet, most previous methods mainly focus on frontal faces, and are deficient to deal with different facial actions under arbitrary poses in the actual driving environment. In this study, we propose a novel Joint Head Pose and Fa...]]></summary>
+        <author>
+            <name>Yansha Lu</name>
+        </author>
+        <author>
+            <name>Chunsheng Liu</name>
+        </author>
+        <author>
+            <name>Faliang Chang</name>
+        </author>
+        <author>
+            <name>Hui Liu</name>
+        </author>
+        <author>
+            <name>Hengqiang Huan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Human-Like Trajectory Planning Method on a Curve Based on the Driver Preview Mechanism]]></title>
+        <id>https://ieeexplore.ieee.org/document/10159568</id>
+        <link href="https://ieeexplore.ieee.org/document/10159568"/>
+        <updated>2023-06-23T01:14:44.827Z</updated>
+        <summary type="html"><![CDATA[With the development of intelligent vehicle technology, many studies have been focused on developing human-like trajectory planning methods for automated driving systems. Although data-driven methods are widely used for human driver behavior learning, there have been fewer studies on realizing human-like trajectory planning by using the generation mechanism of driving behavior, especially under cu...]]></summary>
+        <author>
+            <name>Jian Zhao</name>
+        </author>
+        <author>
+            <name>Dongjian Song</name>
+        </author>
+        <author>
+            <name>Bing Zhu</name>
+        </author>
+        <author>
+            <name>Zhuo Sun</name>
+        </author>
+        <author>
+            <name>Jiayi Han</name>
+        </author>
+        <author>
+            <name>Yuhang Sun</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tangent-Based Path Planning for UAV in a 3-D Low Altitude Urban Environment]]></title>
+        <id>https://ieeexplore.ieee.org/document/10159549</id>
+        <link href="https://ieeexplore.ieee.org/document/10159549"/>
+        <updated>2023-06-23T01:14:44.827Z</updated>
+        <summary type="html"><![CDATA[Unmanned aerial vehicles (UAVs) have emerged as promising platforms for fast, energy-efficient, and cost-effective package delivery. Path planning in 3-D urban environments is critical to drone delivery. The paper proposes a novel tangent-based (3D-TG) method for UAV path planning in 3-D urban environments. When a drone encounters an obstacle, a tangent graph is constructed to generate three sub-p...]]></summary>
+        <author>
+            <name>Huan Liu</name>
+        </author>
+        <author>
+            <name>Guohua Wu</name>
+        </author>
+        <author>
+            <name>Ling Zhou</name>
+        </author>
+        <author>
+            <name>Witold Pedrycz</name>
+        </author>
+        <author>
+            <name>Ponnuthurai Nagaratnam Suganthan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Energy-Based Assessment and Driving Behavior of ACC Systems and Humans Inside Platoons]]></title>
+        <id>https://ieeexplore.ieee.org/document/10159555</id>
+        <link href="https://ieeexplore.ieee.org/document/10159555"/>
+        <updated>2023-06-23T01:14:44.827Z</updated>
+        <summary type="html"><![CDATA[Evidence in the literature shows that automated and human driving modes demonstrate different driving characteristics, i.e., headway policy, spacing policy, reaction time, comfortable acceleration, and others. These differences alter observed traffic dynamics and have an impact on energy consumption. This paper assesses the energy footprint of commercially implemented adaptive cruise control (ACC)...]]></summary>
+        <author>
+            <name>Theocharis Apostolakis</name>
+        </author>
+        <author>
+            <name>Michail A. Makridis</name>
+        </author>
+        <author>
+            <name>Anastasios Kouvelas</name>
+        </author>
+        <author>
+            <name>Konstantinos Ampountolas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Self-Learned Autonomous Driving at Unsignalized Intersections: A Hierarchical Reinforced Learning Approach for Feasible Decision-Making]]></title>
+        <id>https://ieeexplore.ieee.org/document/10159573</id>
+        <link href="https://ieeexplore.ieee.org/document/10159573"/>
+        <updated>2023-06-23T01:14:44.827Z</updated>
+        <summary type="html"><![CDATA[Reinforcement learning-based techniques, empowered by deep-structured neural nets, have demonstrated superiority over rule-based methods in terms of making high-level behavioral decisions due to qualities related to handling large state spaces. Nonetheless, their training time, sample efficiency and the feasibility of the learnt behaviors remain key concerns. In this paper, we propose a novel hier...]]></summary>
+        <author>
+            <name>Mohammad Al-Sharman</name>
+        </author>
+        <author>
+            <name>Rowan Dempster</name>
+        </author>
+        <author>
+            <name>Mohamed A. Daoud</name>
+        </author>
+        <author>
+            <name>Mahmoud Nasr</name>
+        </author>
+        <author>
+            <name>Derek Rayside</name>
+        </author>
+        <author>
+            <name>William Melek</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Asynchronous Trajectory Matching-Based Multimodal Maritime Data Fusion for Vessel Traffic Surveillance in Inland Waterways]]></title>
+        <id>https://ieeexplore.ieee.org/document/10159572</id>
+        <link href="https://ieeexplore.ieee.org/document/10159572"/>
+        <updated>2023-06-23T01:14:44.827Z</updated>
+        <summary type="html"><![CDATA[The automatic identification system (AIS) and video cameras have been widely exploited for vessel traffic surveillance in inland waterways. The AIS data could provide vessel identity and dynamic information on vessel position and movements. In contrast, the video data could describe the visual appearances of moving vessels without knowing the information on identity, position, movements, etc. To f...]]></summary>
+        <author>
+            <name>Yu Guo</name>
+        </author>
+        <author>
+            <name>Ryan Wen Liu</name>
+        </author>
+        <author>
+            <name>Jingxiang Qu</name>
+        </author>
+        <author>
+            <name>Yuxu Lu</name>
+        </author>
+        <author>
+            <name>Fenghua Zhu</name>
+        </author>
+        <author>
+            <name>Yisheng Lv</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TMFO-AGGRU: A Graph Convolutional Gated Recurrent Network for Metro Passenger Flow Forecasting]]></title>
+        <id>https://ieeexplore.ieee.org/document/10159553</id>
+        <link href="https://ieeexplore.ieee.org/document/10159553"/>
+        <updated>2023-06-23T01:14:44.827Z</updated>
+        <summary type="html"><![CDATA[Accurately exploiting the spatial correlation of passenger flow related to the metro network is important for improving metro passenger flow prediction. In this paper, a novel metro passenger flow forecasting model termed TMFO-AGGRU is proposed based on parameter estimation optimization for a graph convolutional gated recurrent neural network. First, we model a graph convolutional gated recurrent ...]]></summary>
+        <author>
+            <name>Yang Zhang</name>
+        </author>
+        <author>
+            <name>Yanling Chen</name>
+        </author>
+        <author>
+            <name>Ziliang Wang</name>
+        </author>
+        <author>
+            <name>Dongrong Xin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Sanitizable Access Control With Policy-Protection for Vehicular Social Networks]]></title>
+        <id>https://ieeexplore.ieee.org/document/10159557</id>
+        <link href="https://ieeexplore.ieee.org/document/10159557"/>
+        <updated>2023-06-23T01:14:44.827Z</updated>
+        <summary type="html"><![CDATA[As an emerging field of communication, Vehicular Social Networks (VSNs) can reduce traffic congestion while enhancing road safety by sharing data among groups of commuters. In VSNs, Vehicular Cloud Server (VCS) based data sharing technology with encrypted primitives allows local users to outsource encrypted data for reducing the storage burden on the user side and sharing data without location res...]]></summary>
+        <author>
+            <name>Yanan Zhao</name>
+        </author>
+        <author>
+            <name>Haiyang Yu</name>
+        </author>
+        <author>
+            <name>Yuhao Liang</name>
+        </author>
+        <author>
+            <name>Mauro Conti</name>
+        </author>
+        <author>
+            <name>Wael Bazzi</name>
+        </author>
+        <author>
+            <name>Yilong Ren</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Uncertainty-Aware Decision-Making for Autonomous Driving at Uncontrolled Intersections]]></title>
         <id>https://ieeexplore.ieee.org/document/10155311</id>

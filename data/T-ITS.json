@@ -1,5 +1,247 @@
 [
   {
+    "articleNumber": "10159574",
+    "articleTitle": "Channel Measurement and Modeling for Millimeter-Wave Automotive Radar",
+    "authors": [
+      "Xiyu Wang",
+      "Danping He",
+      "Ke Guan",
+      "Hongyu Duan",
+      "Jianwu Dou",
+      "Najah Abed Abuali",
+      "Zhangdui Zhong"
+    ],
+    "abstract": "Millimeter-wave (mmWave) automotive radar can detect the surrounding environment using highly directional, high-frequency electromagnetic waves. With these advantages, mmWave radar has become an important component of autonomous driving and integrated sensing systems. Designing systems and sensing algorithms requires the application of realistic channel models and simulation. In this paper, the pr...",
+    "date": "2023-06-23T01:14:44.827Z"
+  },
+  {
+    "articleNumber": "10159578",
+    "articleTitle": "Heter-Train: A Distributed Training Framework Based on Semi-Asynchronous Parallel Mechanism for Heterogeneous Intelligent Transportation Systems",
+    "authors": [
+      "Jiawei Geng",
+      "Jing Cao",
+      "Haipeng Jia",
+      "Zongwei Zhu",
+      "Hai Fang",
+      "Chengxi Gao",
+      "Cheng Ji",
+      "Gangyong Jia",
+      "Guangjie Han",
+      "Xuehai Zhou"
+    ],
+    "abstract": "Transportation big data (TBD) are increasingly combined with artificial intelligence to mine novel patterns and information due to the powerful representational capabilities of deep neural networks (DNNs), especially for anti-COVID19 applications. The distributed cloud-edge-vehicle training architecture has been applied to accelerate DNNs training while ensuring low latency and high privacy for TB...",
+    "date": "2023-06-23T01:14:44.827Z"
+  },
+  {
+    "articleNumber": "10159575",
+    "articleTitle": "CF-YOLO: Cross Fusion YOLO for Object Detection in Adverse Weather With a High-Quality Real Snow Dataset",
+    "authors": [
+      "Qiqi Ding",
+      "Peng Li",
+      "Xuefeng Yan",
+      "Ding Shi",
+      "Luming Liang",
+      "Weiming Wang",
+      "Haoran Xie",
+      "Jonathan Li",
+      "Mingqiang Wei"
+    ],
+    "abstract": "Snow is one of the toughest adverse weather conditions for object detection (OD). Currently, not only there is a lack of snowy OD datasets to train cutting-edge detectors, but also these detectors have difficulties of learning latent information beneficial for detection in snow. To alleviate the two above problems, we first establish a real-world snowy OD dataset, named RSOD. Besides, we develop a...",
+    "date": "2023-06-23T01:14:44.827Z"
+  },
+  {
+    "articleNumber": "10159570",
+    "articleTitle": "GE-DDRL: Graph Embedding and Deep Distributional Reinforcement Learning for Reliable Shortest Path: A Universal and Scale Free Solution",
+    "authors": [
+      "Hongliang Guo",
+      "Wenda Sheng",
+      "Yingjie Zhou",
+      "Yunping Chen"
+    ],
+    "abstract": "This paper studies the reliable shortest path (RSP) problem in stochastic transportation networks. State-of-the-art RSP solutions usually target one specific RSP problem; moreover, the corresponding algorithm’s computational complexity scales at least linearly with the size of the underlying transportation network. While in this paper, we propose a graph embedding and deep distributional reinforce...",
+    "date": "2023-06-23T01:14:44.827Z"
+  },
+  {
+    "articleNumber": "10159551",
+    "articleTitle": "Graph-Based Progressive Fusion Network for Multi-Modality Vehicle Re-Identification",
+    "authors": [
+      "Qiaolin He",
+      "Zefeng Lu",
+      "Zihan Wang",
+      "Haifeng Hu"
+    ],
+    "abstract": "Vehicle re-identification (Re-ID) is a critical task in intelligent transportation, aiming to match vehicle images of the same identity captured by non-overlapping cameras. However, it is difficult to achieve satisfactory results based on RGB images alone in darkness. Therefore, it is of great importance to consider multi-modality vehicle re-identification. Currently, the proposed works deal with ...",
+    "date": "2023-06-23T01:14:44.827Z"
+  },
+  {
+    "articleNumber": "10159571",
+    "articleTitle": "A Game-Theoretic Approach on Conflict Resolution of Autonomous Vehicles at Unsignalized Intersections",
+    "authors": [
+      "Xinghao Lu",
+      "Haiyan Zhao",
+      "Cheng Li",
+      "Bingzhao Gao",
+      "Hong Chen"
+    ],
+    "abstract": "In order to resolve the driving conflict and improve the safety and efficiency of autonomous vehicles at unsignalized intersections, a new decision-making method based on game theory with personalized driving preferences considered is proposed in this paper. In the decision-making method, the alterable game mode is constructed by combing the designed game entrying mechanism and replanning of game ...",
+    "date": "2023-06-23T01:14:44.827Z"
+  },
+  {
+    "articleNumber": "10159556",
+    "articleTitle": "Aggregated Representation of Electric Vehicles Population on Charging Points for Demand Response Scheduling",
+    "authors": [
+      "Marko Kovačević",
+      "Mario Vašak"
+    ],
+    "abstract": "Charging electric vehicles (EVs), whose number is increasing, is a great challenge for the power grid due to the charging load variability. Coordinated charging and schedule optimization with seized demand response opportunities are well-known conceptual solutions to that. Still, the main challenge is to adequately predict availability and parameters of electric vehicles which is crucial for deter...",
+    "date": "2023-06-23T01:14:44.827Z"
+  },
+  {
+    "articleNumber": "10159576",
+    "articleTitle": "Coordinated Motion Planning for Heterogeneous Autonomous Vehicles Based on Driving Behavior Primitives",
+    "authors": [
+      "Haijie Guan",
+      "Boyang Wang",
+      "Jianwei Gong",
+      "Huiyan Chen"
+    ],
+    "abstract": "Heterogeneous autonomous vehicle (HAV) coordinated motion planning must guide each vehicle out of the conflict zone based on the differences in vehicle platform characteristics. Decomposing complex driving tasks into primitives is an effective way to improve algorithm efficiency. Hence, the purpose of this paper is to complete the coordinated motion planning tasks through offline driving behavior ...",
+    "date": "2023-06-23T01:14:44.827Z"
+  },
+  {
+    "articleNumber": "10159569",
+    "articleTitle": "Cooperative Localization With the Fusion of GNSS and Relative Range Information in Vehicular Ad-Hoc Networks",
+    "authors": [
+      "Xiaomei Qu",
+      "Tao Liu",
+      "Fan Li",
+      "Wenrong Tan"
+    ],
+    "abstract": "Accurate vehicle position is crucial to vehicular Ad-Hoc network (VANET) applications. The wildly used global navigation satellite systems (GNSS) have limited localization accuracy, especially when GNSS signals are blocked or contaminated with reflected signals. Cooperative localization based on multi-vehicle information fusion will be the core component in VANET in the near future. This paper str...",
+    "date": "2023-06-23T01:14:44.827Z"
+  },
+  {
+    "articleNumber": "10159552",
+    "articleTitle": "Deep Multi-Agent Reinforcement Learning for Highway On-Ramp Merging in Mixed Traffic",
+    "authors": [
+      "Dong Chen",
+      "Mohammad R. Hajidavalloo",
+      "Zhaojian Li",
+      "Kaian Chen",
+      "Yongqiang Wang",
+      "Longsheng Jiang",
+      "Yue Wang"
+    ],
+    "abstract": "On-ramp merging is a challenging task for autonomous vehicles (AVs), especially in mixed traffic where AVs coexist with human-driven vehicles (HDVs). In this paper, we formulate the mixed-traffic highway on-ramp merging problem as a multi-agent reinforcement learning (MARL) problem, where the AVs (on both merge lane and through lane) collaboratively learn a policy to adapt to HDVs to maximize the ...",
+    "date": "2023-06-23T01:14:44.827Z"
+  },
+  {
+    "articleNumber": "10159554",
+    "articleTitle": "JHPFA-Net: Joint Head Pose and Facial Action Network for Driver Yawning Detection Across Arbitrary Poses in Videos",
+    "authors": [
+      "Yansha Lu",
+      "Chunsheng Liu",
+      "Faliang Chang",
+      "Hui Liu",
+      "Hengqiang Huan"
+    ],
+    "abstract": "Yawning detection is a key means in driver fatigue detection, which suffers difficulties including head poses, facial expressions, illumination variations, occlusions, etc. Yet, most previous methods mainly focus on frontal faces, and are deficient to deal with different facial actions under arbitrary poses in the actual driving environment. In this study, we propose a novel Joint Head Pose and Fa...",
+    "date": "2023-06-23T01:14:44.827Z"
+  },
+  {
+    "articleNumber": "10159568",
+    "articleTitle": "A Human-Like Trajectory Planning Method on a Curve Based on the Driver Preview Mechanism",
+    "authors": [
+      "Jian Zhao",
+      "Dongjian Song",
+      "Bing Zhu",
+      "Zhuo Sun",
+      "Jiayi Han",
+      "Yuhang Sun"
+    ],
+    "abstract": "With the development of intelligent vehicle technology, many studies have been focused on developing human-like trajectory planning methods for automated driving systems. Although data-driven methods are widely used for human driver behavior learning, there have been fewer studies on realizing human-like trajectory planning by using the generation mechanism of driving behavior, especially under cu...",
+    "date": "2023-06-23T01:14:44.827Z"
+  },
+  {
+    "articleNumber": "10159549",
+    "articleTitle": "Tangent-Based Path Planning for UAV in a 3-D Low Altitude Urban Environment",
+    "authors": [
+      "Huan Liu",
+      "Guohua Wu",
+      "Ling Zhou",
+      "Witold Pedrycz",
+      "Ponnuthurai Nagaratnam Suganthan"
+    ],
+    "abstract": "Unmanned aerial vehicles (UAVs) have emerged as promising platforms for fast, energy-efficient, and cost-effective package delivery. Path planning in 3-D urban environments is critical to drone delivery. The paper proposes a novel tangent-based (3D-TG) method for UAV path planning in 3-D urban environments. When a drone encounters an obstacle, a tangent graph is constructed to generate three sub-p...",
+    "date": "2023-06-23T01:14:44.827Z"
+  },
+  {
+    "articleNumber": "10159555",
+    "articleTitle": "Energy-Based Assessment and Driving Behavior of ACC Systems and Humans Inside Platoons",
+    "authors": [
+      "Theocharis Apostolakis",
+      "Michail A. Makridis",
+      "Anastasios Kouvelas",
+      "Konstantinos Ampountolas"
+    ],
+    "abstract": "Evidence in the literature shows that automated and human driving modes demonstrate different driving characteristics, i.e., headway policy, spacing policy, reaction time, comfortable acceleration, and others. These differences alter observed traffic dynamics and have an impact on energy consumption. This paper assesses the energy footprint of commercially implemented adaptive cruise control (ACC)...",
+    "date": "2023-06-23T01:14:44.827Z"
+  },
+  {
+    "articleNumber": "10159573",
+    "articleTitle": "Self-Learned Autonomous Driving at Unsignalized Intersections: A Hierarchical Reinforced Learning Approach for Feasible Decision-Making",
+    "authors": [
+      "Mohammad Al-Sharman",
+      "Rowan Dempster",
+      "Mohamed A. Daoud",
+      "Mahmoud Nasr",
+      "Derek Rayside",
+      "William Melek"
+    ],
+    "abstract": "Reinforcement learning-based techniques, empowered by deep-structured neural nets, have demonstrated superiority over rule-based methods in terms of making high-level behavioral decisions due to qualities related to handling large state spaces. Nonetheless, their training time, sample efficiency and the feasibility of the learnt behaviors remain key concerns. In this paper, we propose a novel hier...",
+    "date": "2023-06-23T01:14:44.827Z"
+  },
+  {
+    "articleNumber": "10159572",
+    "articleTitle": "Asynchronous Trajectory Matching-Based Multimodal Maritime Data Fusion for Vessel Traffic Surveillance in Inland Waterways",
+    "authors": [
+      "Yu Guo",
+      "Ryan Wen Liu",
+      "Jingxiang Qu",
+      "Yuxu Lu",
+      "Fenghua Zhu",
+      "Yisheng Lv"
+    ],
+    "abstract": "The automatic identification system (AIS) and video cameras have been widely exploited for vessel traffic surveillance in inland waterways. The AIS data could provide vessel identity and dynamic information on vessel position and movements. In contrast, the video data could describe the visual appearances of moving vessels without knowing the information on identity, position, movements, etc. To f...",
+    "date": "2023-06-23T01:14:44.827Z"
+  },
+  {
+    "articleNumber": "10159553",
+    "articleTitle": "TMFO-AGGRU: A Graph Convolutional Gated Recurrent Network for Metro Passenger Flow Forecasting",
+    "authors": [
+      "Yang Zhang",
+      "Yanling Chen",
+      "Ziliang Wang",
+      "Dongrong Xin"
+    ],
+    "abstract": "Accurately exploiting the spatial correlation of passenger flow related to the metro network is important for improving metro passenger flow prediction. In this paper, a novel metro passenger flow forecasting model termed TMFO-AGGRU is proposed based on parameter estimation optimization for a graph convolutional gated recurrent neural network. First, we model a graph convolutional gated recurrent ...",
+    "date": "2023-06-23T01:14:44.827Z"
+  },
+  {
+    "articleNumber": "10159557",
+    "articleTitle": "A Sanitizable Access Control With Policy-Protection for Vehicular Social Networks",
+    "authors": [
+      "Yanan Zhao",
+      "Haiyang Yu",
+      "Yuhao Liang",
+      "Mauro Conti",
+      "Wael Bazzi",
+      "Yilong Ren"
+    ],
+    "abstract": "As an emerging field of communication, Vehicular Social Networks (VSNs) can reduce traffic congestion while enhancing road safety by sharing data among groups of commuters. In VSNs, Vehicular Cloud Server (VCS) based data sharing technology with encrypted primitives allows local users to outsource encrypted data for reducing the storage burden on the user side and sharing data without location res...",
+    "date": "2023-06-23T01:14:44.827Z"
+  },
+  {
     "articleNumber": "10155311",
     "articleTitle": "Uncertainty-Aware Decision-Making for Autonomous Driving at Uncontrolled Intersections",
     "authors": [

@@ -1,5 +1,162 @@
 [
   {
+    "articleNumber": "10159373",
+    "articleTitle": "Physical Layer Key Generation Scheme for MIMO System Based on Feature Fusion Autoencoder",
+    "authors": [
+      "Yanru Chen",
+      "Zhengyu Chen",
+      "Yuanyuan Zhang",
+      "Zhiyuan Luo",
+      "Yang Li",
+      "Bin Xing",
+      "Bing Guo",
+      "Liangyin Chen"
+    ],
+    "abstract": "Recently, the use of wireless channel state information (CSI) to generate encryption keys in the physical layer has gained significant attention from researchers. Unlike classical cryptography, this approach relies on the variability of the wireless channel, channel reciprocity, and spatial decorrelation to ensure security, making it more lightweight and providing strong randomness. This paper pro...",
+    "date": "2023-06-23T01:14:57.967Z"
+  },
+  {
+    "articleNumber": "10159382",
+    "articleTitle": "WiAi-ID: Wi-Fi-Based Domain Adaptation for Appearance-independent Passive Person Identification",
+    "authors": [
+      "Ying Liang",
+      "Wenjie Wu",
+      "Haobo Li",
+      "Feng Han",
+      "Zhengqi Liu",
+      "Pengfei Xu",
+      "Xiaoli Lian",
+      "Xiaojiang Chen"
+    ],
+    "abstract": "Wi-Fi signal-based person identification has become a hot research topic due to the widespread deployment of Wi-Fi devices and the fact that these approaches are non-contact, passive, and privacy-preserving. While the existing related methods and systems have achieved good performance for person identification, they also encounter many significant challenges in practical applications. Due to the p...",
+    "date": "2023-06-23T01:14:57.967Z"
+  },
+  {
+    "articleNumber": "10159386",
+    "articleTitle": "Combining Riemann-Lebesgue based Key Generator and Machine Learning based Intelligent Encryption Scheme for IoMT Images Infosecurity",
+    "authors": [
+      "Chia-Hung Lin",
+      "Hsiang-Yueh Lai",
+      "Ping-Tzan Huang",
+      "Pi-Yun Chen",
+      "Neng-Sheng Pai",
+      "Feng-Zhou Zhang"
+    ],
+    "abstract": "Imaging examinations, such as chest X-ray (CXR) images, can be used for early detection of diseases inside the human body, such as lung cancer, and cardiopulmonary-related diseases; however, they may contain patients’ private information, which raises concerns about the security levels of medical images in internet of medical things (IoMT) systems. The promising authorization protocol algorithm in...",
+    "date": "2023-06-23T01:14:57.967Z"
+  },
+  {
+    "articleNumber": "10159392",
+    "articleTitle": "Performance Analysis of RIS-Aided THz Wireless Systems over α-μ Fading: An Approximate Closed-Form Approach",
+    "authors": [
+      "Ngoc Phuc Le",
+      "Mohamed-Slim Alouini"
+    ],
+    "abstract": "In this paper, we study a reconfigurable intelligent surfaces (RIS)-assisted Terahertz (THz) wireless systems with hardware impairments, where α-μ small-scale fading is considered for THz links in accordance with a recent measurement campaign. Firstly, we propose an accurate closed-form approximation of a weighted sum of cascaded non-identical α-μ variates based on the Gauss-Laguerre quadrature an...",
+    "date": "2023-06-23T01:14:57.967Z"
+  },
+  {
+    "articleNumber": "10159244",
+    "articleTitle": "FOG-empowered Augmented Intelligence-based Proactive Defensive Mechanism for IoT-enabled Smart Industries",
+    "authors": [
+      "Danish Javeed",
+      "Tianhan Gao",
+      "Muhammad Shahid Saeed",
+      "Muhammad Taimoor Khan"
+    ],
+    "abstract": "The recent innovations in the network communication domain have entirely revolutionized the conventional industrial sector by introducing a new era of automatic communication. The Industrial Internet of Things (IIoT) is acknowledged as an exclusive space where IoT seems to divulge expressive manifestations. However, the expanded connectivity, more openness, and the widespread use of low-power comm...",
+    "date": "2023-06-23T01:14:57.967Z"
+  },
+  {
+    "articleNumber": "10159374",
+    "articleTitle": "A Hybrid Chaotic Encryption ASIC with Dynamic Precision for Internet of Things",
+    "authors": [
+      "Jundong Feng",
+      "Junchao Wang",
+      "Yubin Zhu",
+      "Kaining Han"
+    ],
+    "abstract": "With the rapid development of the Internet of Things (IoT), device and data security has attracted huge academic attention in recent years since conventional security methods are barely feasible in IoT circumstances. Traditional encryption methods require extensive computation complexity, which requires several hardware resources and power consumption. Meanwhile, due to the low power requirement, ...",
+    "date": "2023-06-23T01:14:57.967Z"
+  },
+  {
+    "articleNumber": "10159378",
+    "articleTitle": "An Intrusion Detection System for Edge-Envisioned Smart Agriculture in Extreme Environment",
+    "authors": [
+      "Danish Javeed",
+      "Tianhan Gao",
+      "Muhammad Shahid Saeed",
+      "Prabhat Kumar"
+    ],
+    "abstract": "The deployment of Internet of Things (IoT) systems in Smart Agriculture (SA) operates in extreme environments including wind, snowfall, flooding, landscape, and so on for collecting and processing real-time data. The increased connectivity and broad adoption of IoT devices with low-power communications on farmland support farmers in making data-driven decisions using various Artificial Intelligenc...",
+    "date": "2023-06-23T01:14:57.967Z"
+  },
+  {
+    "articleNumber": "10159353",
+    "articleTitle": "Hybrid/Reflective Beamforming for IRS-assisted Dual-Function Radar-Communication System",
+    "authors": [
+      "Tuanwei Tian",
+      "Hao Deng",
+      "Guchong Li",
+      "Jianhua Lu"
+    ],
+    "abstract": "This paper investigates the joint design problem of the hybrid/reflective beamforming for the dual-function radar-communication (DRC) system with the help of an intelligent reconfigurable surface (IRS). The degrees of freedom for beamformer design are the analog and digital beamformers at the base station (BS), and the reflective beamformer at the IRS. To begin with, we formulate the beamformer de...",
+    "date": "2023-06-23T01:14:57.967Z"
+  },
+  {
+    "articleNumber": "10159375",
+    "articleTitle": "IoT-based Strawberry Disease Detection with Wall-mounted Monitoring Cameras",
+    "authors": [
+      "Yi-Bing Lin",
+      "Chun-You Liu",
+      "Wen-Liang Chen",
+      "Chia-Hui Chang",
+      "Fung-Ling Ng",
+      "Krista Yang",
+      "Jerry Hsung"
+    ],
+    "abstract": "This paper proposes StrawberryTalk, an Internet of Things (IoT) platform for image-based strawberry disease detection. StrawberryTalk reuses the wall-mounted monitoring cameras without extra hardware cost. The contributions of StrawberryTalk are the utilization of IoT for automatic photo shoot and the wind detection mechanism to eliminate the obscure photos due to the wind effects. Also, the data ...",
+    "date": "2023-06-23T01:14:57.967Z"
+  },
+  {
+    "articleNumber": "10159246",
+    "articleTitle": "A Genetic Algorithm Based Dynamic Transmission of Data for Communicable Disease in IoMT Environment",
+    "authors": [
+      "Samayveer Singh",
+      "Aridaman S. Nandan",
+      "Geeta Sikka",
+      "Aruna Malik",
+      "Neeraj Kumar"
+    ],
+    "abstract": "Recent advancements in the field of the Internet of medical things (IoMT) have enabled the real-time monitoring and treatment of patients with communicable infectious diseases while minimizing human intervention. However, IoMT devices face challenges such as unbalanced energy consumption, memory constraints, computation power, and low latency, which can deter the efficient transfer of patient moni...",
+    "date": "2023-06-23T01:14:57.967Z"
+  },
+  {
+    "articleNumber": "10159371",
+    "articleTitle": "Context-Aware Hybrid Encoding for Privacy-Preserving Computation in IoT Devices",
+    "authors": [
+      "Hossein Khalili",
+      "Hao-Jen Chien",
+      "Amin Hass",
+      "Nader Sehatbakhsh"
+    ],
+    "abstract": "Recent years have witnessed a surge in hybrid IoT-cloud applications where an end user distributes the desired computation between the IoT and cloud nodes. While achieving significant speed up, the major caveat of this approach is data privacy. Privacy-preserving methods have received major attention in the past few years, mainly because they can potentially solve this issue. Among several proposa...",
+    "date": "2023-06-23T01:14:57.967Z"
+  },
+  {
+    "articleNumber": "10159383",
+    "articleTitle": "A New Framework of RIS-Aided User-Centric Cell-Free Massive MIMO System for IoT Networks",
+    "authors": [
+      "Maomao Lan",
+      "Yongqiang Hei",
+      "Mengchen Huo",
+      "Hanqing Li",
+      "Wentao Li"
+    ],
+    "abstract": "With its merit of inter-cell interference elimination and enhanced throughput, cell-free (CF) massive multiple-input multiple-output (MIMO) system, has attracted considerable interests in evolution of 6G Internet-of-Things (IoT) networks. Meanwhile, reconfigurable intelligent surface (RIS) has shown its potential benefit in enhancing both capacity and energy efficiency (EE). In this paper, a new f...",
+    "date": "2023-06-23T01:14:57.967Z"
+  },
+  {
     "articleNumber": "10158991",
     "articleTitle": "Estimation of kinetic energy harvesting potential for self-powered wearable IoT devices with 67,000 participants from the UK Biobank",
     "authors": [
@@ -12721,163 +12878,6 @@
       "Ao Xiong"
     ],
     "abstract": "The 6G wireless network aims to forge new spectrum, high technical standards of high time and phase synchronization accuracy, and 100% geographic coverage to connect trillions of devices flexibly and efficiently in the future. However, as connectivity increases and applications become novel, it is a challenge to ensure the privacy and security of networks and applications. Blockchain is seen as a ...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9594084",
-    "articleTitle": "Blockchain-enabled Trust Management Model for the Internet of Vehicles",
-    "authors": [
-      "Zhigang Yang",
-      "Ruyan Wang",
-      "Dapeng Wu",
-      "Boran Yang",
-      "Puning Zhang"
-    ],
-    "abstract": "The high-speed movement of nodes and the burstiness of interactions in the Internet of Vehicles pose huge challenges to the trusted vehicle collaboration and data sharing. Aiming at the disadvantages of existing authentication mechanisms and trust management models for connected vehicles, this paper proposes a trust management model enabled by blockchain to ensure the traceability, non-tampering, ...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9593927",
-    "articleTitle": "A Fast Consensus for Permissioned Wireless Blockchains",
-    "authors": [
-      "Yifei Zou",
-      "Minghui Xu",
-      "Jiguo Yu",
-      "Feng Zhao",
-      "Xiuzhen Cheng"
-    ],
-    "abstract": "With the wide deployment of Internet-of-Things (IoT), blockchain systems have been playing a crucial role to establish a trusted computing environment among potentially mistrusting agents without depending on a centralized server. Different from previous blockchain consensus protocols adopted in IoT, which rely on efficient and stable transmissions, in this paper, we consider how to reach blockcha...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9592674",
-    "articleTitle": "BCT: An Efficient and Fault Tolerance Blockchain Consensus Transform Mechanism for IoT",
-    "authors": [
-      "Jintian Fu",
-      "Lupeng Zhang",
-      "Leixin Wang",
-      "Fengqi Li"
-    ],
-    "abstract": "With the vigorous development of 5G communication technology, massive Internet of Things (IoT) devices generate data incrementally. Different data owners control different private domains of the IoT through edge devices and hope to achieve credible data sharing. Most of the existing solutions are based on blockchain to realize cross-domain IoT data sharing. However, incremental IoT data sharing ha...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9590557",
-    "articleTitle": "Edge Trusted Sharing: Task-Driven Decentralized Resources Collaborate in IoT",
-    "authors": [
-      "Meiling Dai",
-      "Siya Xu",
-      "Zhili Wang",
-      "Huisheng Ma",
-      "Xuesong Qiu"
-    ],
-    "abstract": "6G is committed to providing a fully connected world. The deployment and application of 6G technology in the Internet of Things (IoT) can efficiently collaborate IoT resources and realize resource sharing, which mainly encourages IoT development. However, due to the lack of trust between IoT resources, security and privacy become the main challenges. As an emerging technology, blockchain can solve...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9581311",
-    "articleTitle": "Secure and Efficiently Searchable IoT Communication Data Management Model: Using Blockchain as a new tool",
-    "authors": [
-      "Hua Zhang",
-      "Xin Zhang",
-      "Ziqing Guo",
-      "Huawei Wang",
-      "Dong Cui",
-      "Qiaoyan Wen"
-    ],
-    "abstract": "With the rapid development of the Internet of things (IoT), more IoT devices are connected in the same network and communicate frequently for sharing data and switching instructions. So that the traditional centralized security architecture of IoT will be limited in terms of data storage space, data reliability, scalability and operating costs. In this paper, we propose a novel communication data ...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9463468",
-    "articleTitle": "Dual Mutual Robust Graph Convolutional Network for Weakly Supervised Node Classification in Social Networks of Internet of People",
-    "authors": [
-      "Bentian Li",
-      "Jia Wu",
-      "Dechang Pi",
-      "Yunxia Lin"
-    ],
-    "abstract": "Social networks are a crucial component of the Internet of People (IoP) which is the frontier of the next generation of Internet of Things (IoT). Predicting a large number of unknown node labels with few known labels is one of the challenging problems in social networks analysis. Fortunately, Graph Convolution Network (GCN) and subsequent variants have achieved impressive performance on Semi-Super...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "8731650",
-    "articleTitle": "A Distributed Compressive Data Gathering Framework For Mobile Crowdsensing",
-    "authors": [
-      "Siwang Zhou",
-      "Luyao Xu",
-      "Yonghe Liu",
-      "Liang Yang",
-      "Keqin Li"
-    ],
-    "abstract": "Existing work on data gathering in mobile crowdsensing (MCS) usually assumes that the motion of the participants is either known or predictable via a mobility model. As such, the organizers can tell them when/where to sense, ensuring the data can be gathered from the target area with a minimized number of participants. Knowing exactly where the participants go, however, is not trivial, since the m...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "8723613",
-    "articleTitle": "Distributed Conditional Gradient Online Learning for IoT Optimization",
-    "authors": [
-      "Mingchuan Zhang",
-      "Wei Quan",
-      "Nan Cheng",
-      "Qingtao Wu",
-      "Junlong Zhu",
-      "Ruijuan Zheng",
-      "Keqin Li"
-    ],
-    "abstract": "Many problems in Internet of Things (IoT) can be cast as distributed optimization problems. For this reason, this paper considers a distributed online constrained optimization problem in IoT, where the local objective functions change with time. In order to solve this problem, distributed projected gradient descent methods are employed frequently. However, the computation of the projection operato...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "8567940",
-    "articleTitle": "Design and Development of an IoT Gateway for Smart Building Applications",
-    "authors": [
-      "Aditya Nugur",
-      "M. Pipattanasomporn",
-      "M. Kuzlu",
-      "S. Rahman"
-    ],
-    "abstract": "Due to the depletion of energy resources and increased energy demand, there is an increased focus on the energy consumption and management in buildings. Many building energy management (BEM) software platforms are commercially available to monitor and control energy consumption. These platforms are hosted on the physical hardware within the building, due to which the hardware specifications limit ...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "10106539",
-    "articleTitle": "Guest Editorial Special Issue on IoT for Power Grids",
-    "authors": [
-      "Liuqing Yang",
-      "Wentao Huang",
-      "Vassilios G. Agelidis",
-      "Dongliang Duan",
-      "Yang Cao"
-    ],
-    "abstract": "Recent years have witnessed the exciting developments for the power grid. For instance, many traditional mechanical components are being replaced by modern electronics devices that can operate intelligently; new elements, such as renewable energy resources and various large-scale energy storage, are introduced into the grid to bring a new outlook on the system operation and control; smart applianc...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "10008193",
-    "articleTitle": "Computational-Intelligence-Inspired Adaptive Opportunistic Clustering Approach for Industrial IoT Networks",
-    "authors": [
-      "Premkumar Chithaluru",
-      "Fadi Al-Turjman",
-      "Manoj Kumar",
-      "Thompson Stephan"
-    ],
-    "abstract": "The major issues and challenges of the Industrial Internet of Things (IIoT) include network resource management, self-organization; routing, mobility, scalability, security, and data aggregation. Resource management in IIoT is a challenging issue, starting from the deployment and design of sensor nodes, networking at cross-layer, networking software development, application types, environmental co...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "10005179",
-    "articleTitle": "Privacy-Preserving and Communication-Efficient Energy Prediction Scheme Based on Federated Learning for Smart Grids",
-    "authors": [
-      "Mahmoud M. Badr",
-      "Mohamed M. E. A. Mahmoud",
-      "Yuguang Fang",
-      "Mohammed Abdulaal",
-      "Abdulah Jeza Aljohani",
-      "Waleed Alasmary",
-      "Mohamed I. Ibrahem"
-    ],
-    "abstract": "Energy forecasting is important because it enables infrastructure planning and power dispatching while reducing power outages and equipment failures. It is well-known that federated learning (FL) can be used to build a global energy predictor for smart grids without revealing the customers’ raw data to preserve privacy. However, it still reveals local models’ parameters during the training process...",
     "date": "2023-04-27T04:15:53.706Z"
   }
 ]
