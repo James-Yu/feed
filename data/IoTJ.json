@@ -1,5 +1,96 @@
 [
   {
+    "articleNumber": "10160121",
+    "articleTitle": "Transparent Epidermal Antenna for Unobtrusive Human-Centric Internet of Things Applications",
+    "authors": [
+      "Roy B. V. B. Simorangkir",
+      "Dinesh R. Gawade",
+      "Tim Hannon",
+      "Paul Donovan",
+      "Sanjeev Kumar",
+      "Nadeem Rather",
+      "Gholamhosein Moloudian",
+      "Brendan O’Flynn",
+      "John L. Buckley"
+    ],
+    "abstract": "The concept of optical transparency in antennas for epidermal electronics is demonstrated in this work as a means of improving the long-term comfort-of-wear level and possibly opening up a wider range of applications. In contrast to previous attempts, the epidermal antenna transparency is achieved by employing dielectric and conductive materials that are both transparent and flexible (i.e., polydi...",
+    "date": "2023-06-24T01:14:26.869Z"
+  },
+  {
+    "articleNumber": "10160091",
+    "articleTitle": "Privacy-Preserving Federated Learning Against Label-Flipping Attacks on Non-IID Data",
+    "authors": [
+      "Xicong Shen",
+      "Ying Liu",
+      "Fu Li",
+      "Chunguang Li"
+    ],
+    "abstract": "Federated learning (FL) has attracted widespread attention in the Internet of Things domain recently. With FL, multiple distributed devices can cooperatively train a global model by transmitting model updates without disclosing the original data. However, the distributed nature of FL makes it vulnerable to data poisoning attacks. In practice, malicious clients can launch the label-flipping attack ...",
+    "date": "2023-06-24T01:14:26.869Z"
+  },
+  {
+    "articleNumber": "10161596",
+    "articleTitle": "Bagua Protocol: A Whole-Process Configurable Protocol for IoT Sensing Devices Security Based on Strong PUF",
+    "authors": [
+      "Ziyu Zhou",
+      "Pengjun Wang",
+      "Gang Li"
+    ],
+    "abstract": "The Internet of Things (IoT) plays an important role in all aspects of production and day-to-day life. However, owing to the frequently trusted authentication vulnerabilities, the physical unclonable function (PUF) has unique advantages in the field of equipment authentication because of its non-storage and non-volatility. Nevertheless, PUFs are vulnerable to machine learning (ML) attacks. Once a ...",
+    "date": "2023-06-24T01:14:26.869Z"
+  },
+  {
+    "articleNumber": "10160204",
+    "articleTitle": "PASS: A Parameter Audit-based Secure and Fair Federated Learning Scheme against Free-Rider Attack",
+    "authors": [
+      "Jianhua Wang",
+      "Xiaolin Chang",
+      "Jelena Mišić",
+      "Vojislav B. Mišić",
+      "Yixiang Wang"
+    ],
+    "abstract": "Federated Learning (FL) as a secure distributed learning framework gains interests in Internet of Things (IoT) due to its capability of protecting the privacy of participant data. However, traditional FL systems are vulnerable to Free-Rider (FR) attacks, which causes unfairness, privacy leakage and inferior performance to FL systems. The prior defense mechanisms against FR attacks assumed that mal...",
+    "date": "2023-06-24T01:14:26.869Z"
+  },
+  {
+    "articleNumber": "10160100",
+    "articleTitle": "Smart contract-based agricultural service platform for drone plant protection operation optimization",
+    "authors": [
+      "Qianqian Zheng",
+      "Na Lin",
+      "Di Fu",
+      "Tianjun Liu",
+      "Yuchun Zhu",
+      "Xiaochun Feng",
+      "Junhu Ruan"
+    ],
+    "abstract": "The platform-based agricultural service is receiving popularity in small-scale farming and shows significant advantages in gathering dispersed service requests and matching supply and demand. However, it also generates new challenges including service traceability, denial and fraud, information security and privacy issues. Blockchain is an emerging technology that provides a secure and trusted env...",
+    "date": "2023-06-24T01:14:26.869Z"
+  },
+  {
+    "articleNumber": "10160132",
+    "articleTitle": "A False Data Injection Attack Approach Without Knowledge of System Parameters Considering Measurement Noise",
+    "authors": [
+      "Haosen Yang",
+      "Ziqiang Wang"
+    ],
+    "abstract": "Due to the potential devastating impact on modern internet-of-things (IoT) integrated power grids, false data injection attack (FDIA) has become a major concern. This paper proposes an FDIA approach against state estimation without the knowledge of system parameters considering measurement noise. The proposed approach is able to mitigate the impact of measurement noise by utilizing the low-rank ch...",
+    "date": "2023-06-24T01:14:26.869Z"
+  },
+  {
+    "articleNumber": "10160103",
+    "articleTitle": "A Three-transistor Energy Management Circuit for Energy-harvesting-powered IoT Devices",
+    "authors": [
+      "Li Teng",
+      "Haoyu Wang",
+      "Yu Liu",
+      "Minfan Fu",
+      "Junrui Liang"
+    ],
+    "abstract": "Energy harvesting (EH) provides a promising solution for powering distributed Internet of Things (IoT) devices. Due to the low-level and sporadic ambient energy supply, an EH-powered device should operate in an intermittent and energy-driven mode. Commercial voltage supervisors were not optimized for the EH scenario, making it difficult to satisfy all new demands. The conventional energy managemen...",
+    "date": "2023-06-24T01:14:26.869Z"
+  },
+  {
     "articleNumber": "10159373",
     "articleTitle": "Physical Layer Key Generation Scheme for MIMO System Based on Feature Fusion Autoencoder",
     "authors": [
@@ -12779,105 +12870,6 @@
       "Xiaohu You"
     ],
     "abstract": "Recently, blockchain radio access network (B-RAN) arises as an innovative paradigm for the sixth-generation (6G) wireless communications to build cooperative trust, aggregate wireless resources, and schedule inter-and intra-network tasks among independent network entities. It establishes an open platform based on blockchain to provide diverse wireless services and applications, such as radio acces...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9646996",
-    "articleTitle": "DS2PM:A Data Sharing Privacy Protection Model Based on Blockchain and Federated Learning",
-    "authors": [
-      "Yanru Chen",
-      "Jingpeng Li",
-      "Fan Wang",
-      "Kaifeng Yue",
-      "Yang Li",
-      "Bin Xing",
-      "Lei Zhang",
-      "Liangyin Chen"
-    ],
-    "abstract": "With the development of big data and blockchain, an increasing number of scholars have begun to study blockchain for data sharing. By studying data sharing models that are based on blockchain, we find that almost all of them have the following problems: 1). It is difficult to protect the privacy and integrity of users’ data, along with users’ data ownership. 2). The storage burden of blockchain is...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9646250",
-    "articleTitle": "Smart Collaborative Contract for Endogenous Access Control in Massive Machine Communications",
-    "authors": [
-      "Fei Song",
-      "Letian Li",
-      "Yikun",
-      "Li",
-      "Yuyin Ma",
-      "Lizxqjaang Wang",
-      "Hongke Zhang"
-    ],
-    "abstract": "Emerging information technologies have accelerated the construction of the Industrial Internet of Things (IIoT). Unfortunately, the explosive growth of various services has caused serious challenges to access control in terms of scalability and trustworthiness. In this paper, we proposed the smart collaborative contract based endogenous access control mechanism. First, access control procedures ru...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9634104",
-    "articleTitle": "Cross-chain Trusted Service Quality Computing Scheme For Multi-chain Model-based 5G Network Slicing SLA",
-    "authors": [
-      "Yunhua He",
-      "Cui Zhang",
-      "Bin Wu",
-      "Yigang Yang",
-      "Ke Xiao",
-      "Hong Li"
-    ],
-    "abstract": "As a key technology for the development of 5G networks, network slicing is developing rapidly. Although network slicing can realize the flexible division of 5g network resources and quickly customize virtual networks that meet the differentiated needs of customers, it is still difficult to determine the optimal service quality parameters in application scenarios. To solve the problem, this paper d...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9624959",
-    "articleTitle": "Federated Learning Meets Blockchain: State Channel based Distributed Data Sharing Trust Supervision Mechanism",
-    "authors": [
-      "Fan Zhang",
-      "Shaoyong Guo",
-      "Xuesong Qiu",
-      "Siya Xu",
-      "Feng Qi",
-      "Zhili Wang"
-    ],
-    "abstract": "With the rapid development of 5G and 6G technology, it has become an inevitable trend to share the cross-domain scattered data and enhance data value transmission. As a new data sharing technology with intelligence and privacy computing, federated learning receives wide attention. It can realize data value delivery and data privacy protection at the same time, however, it lacks supervision in the ...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9615370",
-    "articleTitle": "Blockchain and Federated Edge Learning for Privacy-Preserving Mobile Crowdsensing",
-    "authors": [
-      "Qin Hu",
-      "Zhilin Wang",
-      "Minghui Xu",
-      "Xiuzhen Cheng"
-    ],
-    "abstract": "Mobile crowdsensing (MCS) counting on the mobility of massive workers helps the requestor accomplish various sensing tasks with more flexibility and lower cost. However, for the conventional MCS, the large consumption of communication resources for raw data transmission and high requirements on data storage and computing capability hinder potential requestors with limited resources from using MCS....",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9615371",
-    "articleTitle": "Privacy Protection Data Retrieval Scheme with Inverted Index for IoT based on Blockchain",
-    "authors": [
-      "Wenmin Li",
-      "Yang Chen",
-      "Fei Gao",
-      "Shuo Zhang",
-      "Hua Zhang",
-      "Qiaoyan Wen"
-    ],
-    "abstract": "In the 6G era, Internet of things (IoT) devices can form a blockchain network, which also faces the problems of data sharing. And the data transmitted and stored through the network has the risk of privacy leaking. Encrypting the shared data can satisfy the need of the privacy, and retrieving the encrypted data can make the data used efficiently.However, to enable users to retrieve encrypted data ...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9594078",
-    "articleTitle": "Data Trusted Sharing Delivery: A blockchain assisted software-defined content delivery network",
-    "authors": [
-      "Sujie Shao",
-      "Weichao Gong",
-      "Huifeng Yang",
-      "Shaoyong Guo",
-      "Liandong Chen",
-      "Ao Xiong"
-    ],
-    "abstract": "The 6G wireless network aims to forge new spectrum, high technical standards of high time and phase synchronization accuracy, and 100% geographic coverage to connect trillions of devices flexibly and efficiently in the future. However, as connectivity increases and applications become novel, it is a challenge to ensure the privacy and security of networks and applications. Blockchain is seen as a ...",
     "date": "2023-04-27T04:15:53.706Z"
   }
 ]

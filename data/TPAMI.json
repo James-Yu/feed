@@ -1,5 +1,15 @@
 [
   {
+    "articleNumber": "10160157",
+    "articleTitle": "One-Shot Adaptation of GAN in Just One CLIP",
+    "authors": [
+      "Gihyun Kwon",
+      "Jong Chul Ye"
+    ],
+    "abstract": "There are many recent research efforts to fine-tune a pre-trained generator with a few target images to generate images of a novel domain. Unfortunately, these methods often suffer from overfitting or under-fitting when fine-tuned with a single target image. To address this, here we present a novel single-shot GAN adaptation method through unified CLIP space manipulations. Specifically, our model ...",
+    "date": "2023-06-24T01:14:22.702Z"
+  },
+  {
     "articleNumber": "10159515",
     "articleTitle": "Self-Supervised Arbitrary-Scale Implicit Point Clouds Upsampling",
     "authors": [

@@ -2,11 +2,165 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/IoTJ.rss</id>
     <title>IEEE Internet of Things Journal</title>
-    <updated>2023-06-23T16:16:37.882Z</updated>
+    <updated>2023-06-24T01:14:26.878Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/IoTJ.rss"/>
     <subtitle>IEEE Internet of Things Journal</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Transparent Epidermal Antenna for Unobtrusive Human-Centric Internet of Things Applications]]></title>
+        <id>https://ieeexplore.ieee.org/document/10160121</id>
+        <link href="https://ieeexplore.ieee.org/document/10160121"/>
+        <updated>2023-06-24T01:14:26.869Z</updated>
+        <summary type="html"><![CDATA[The concept of optical transparency in antennas for epidermal electronics is demonstrated in this work as a means of improving the long-term comfort-of-wear level and possibly opening up a wider range of applications. In contrast to previous attempts, the epidermal antenna transparency is achieved by employing dielectric and conductive materials that are both transparent and flexible (i.e., polydi...]]></summary>
+        <author>
+            <name>Roy B. V. B. Simorangkir</name>
+        </author>
+        <author>
+            <name>Dinesh R. Gawade</name>
+        </author>
+        <author>
+            <name>Tim Hannon</name>
+        </author>
+        <author>
+            <name>Paul Donovan</name>
+        </author>
+        <author>
+            <name>Sanjeev Kumar</name>
+        </author>
+        <author>
+            <name>Nadeem Rather</name>
+        </author>
+        <author>
+            <name>Gholamhosein Moloudian</name>
+        </author>
+        <author>
+            <name>Brendan O’Flynn</name>
+        </author>
+        <author>
+            <name>John L. Buckley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Privacy-Preserving Federated Learning Against Label-Flipping Attacks on Non-IID Data]]></title>
+        <id>https://ieeexplore.ieee.org/document/10160091</id>
+        <link href="https://ieeexplore.ieee.org/document/10160091"/>
+        <updated>2023-06-24T01:14:26.869Z</updated>
+        <summary type="html"><![CDATA[Federated learning (FL) has attracted widespread attention in the Internet of Things domain recently. With FL, multiple distributed devices can cooperatively train a global model by transmitting model updates without disclosing the original data. However, the distributed nature of FL makes it vulnerable to data poisoning attacks. In practice, malicious clients can launch the label-flipping attack ...]]></summary>
+        <author>
+            <name>Xicong Shen</name>
+        </author>
+        <author>
+            <name>Ying Liu</name>
+        </author>
+        <author>
+            <name>Fu Li</name>
+        </author>
+        <author>
+            <name>Chunguang Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bagua Protocol: A Whole-Process Configurable Protocol for IoT Sensing Devices Security Based on Strong PUF]]></title>
+        <id>https://ieeexplore.ieee.org/document/10161596</id>
+        <link href="https://ieeexplore.ieee.org/document/10161596"/>
+        <updated>2023-06-24T01:14:26.869Z</updated>
+        <summary type="html"><![CDATA[The Internet of Things (IoT) plays an important role in all aspects of production and day-to-day life. However, owing to the frequently trusted authentication vulnerabilities, the physical unclonable function (PUF) has unique advantages in the field of equipment authentication because of its non-storage and non-volatility. Nevertheless, PUFs are vulnerable to machine learning (ML) attacks. Once a ...]]></summary>
+        <author>
+            <name>Ziyu Zhou</name>
+        </author>
+        <author>
+            <name>Pengjun Wang</name>
+        </author>
+        <author>
+            <name>Gang Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PASS: A Parameter Audit-based Secure and Fair Federated Learning Scheme against Free-Rider Attack]]></title>
+        <id>https://ieeexplore.ieee.org/document/10160204</id>
+        <link href="https://ieeexplore.ieee.org/document/10160204"/>
+        <updated>2023-06-24T01:14:26.869Z</updated>
+        <summary type="html"><![CDATA[Federated Learning (FL) as a secure distributed learning framework gains interests in Internet of Things (IoT) due to its capability of protecting the privacy of participant data. However, traditional FL systems are vulnerable to Free-Rider (FR) attacks, which causes unfairness, privacy leakage and inferior performance to FL systems. The prior defense mechanisms against FR attacks assumed that mal...]]></summary>
+        <author>
+            <name>Jianhua Wang</name>
+        </author>
+        <author>
+            <name>Xiaolin Chang</name>
+        </author>
+        <author>
+            <name>Jelena Mišić</name>
+        </author>
+        <author>
+            <name>Vojislav B. Mišić</name>
+        </author>
+        <author>
+            <name>Yixiang Wang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smart contract-based agricultural service platform for drone plant protection operation optimization]]></title>
+        <id>https://ieeexplore.ieee.org/document/10160100</id>
+        <link href="https://ieeexplore.ieee.org/document/10160100"/>
+        <updated>2023-06-24T01:14:26.869Z</updated>
+        <summary type="html"><![CDATA[The platform-based agricultural service is receiving popularity in small-scale farming and shows significant advantages in gathering dispersed service requests and matching supply and demand. However, it also generates new challenges including service traceability, denial and fraud, information security and privacy issues. Blockchain is an emerging technology that provides a secure and trusted env...]]></summary>
+        <author>
+            <name>Qianqian Zheng</name>
+        </author>
+        <author>
+            <name>Na Lin</name>
+        </author>
+        <author>
+            <name>Di Fu</name>
+        </author>
+        <author>
+            <name>Tianjun Liu</name>
+        </author>
+        <author>
+            <name>Yuchun Zhu</name>
+        </author>
+        <author>
+            <name>Xiaochun Feng</name>
+        </author>
+        <author>
+            <name>Junhu Ruan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A False Data Injection Attack Approach Without Knowledge of System Parameters Considering Measurement Noise]]></title>
+        <id>https://ieeexplore.ieee.org/document/10160132</id>
+        <link href="https://ieeexplore.ieee.org/document/10160132"/>
+        <updated>2023-06-24T01:14:26.869Z</updated>
+        <summary type="html"><![CDATA[Due to the potential devastating impact on modern internet-of-things (IoT) integrated power grids, false data injection attack (FDIA) has become a major concern. This paper proposes an FDIA approach against state estimation without the knowledge of system parameters considering measurement noise. The proposed approach is able to mitigate the impact of measurement noise by utilizing the low-rank ch...]]></summary>
+        <author>
+            <name>Haosen Yang</name>
+        </author>
+        <author>
+            <name>Ziqiang Wang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Three-transistor Energy Management Circuit for Energy-harvesting-powered IoT Devices]]></title>
+        <id>https://ieeexplore.ieee.org/document/10160103</id>
+        <link href="https://ieeexplore.ieee.org/document/10160103"/>
+        <updated>2023-06-24T01:14:26.869Z</updated>
+        <summary type="html"><![CDATA[Energy harvesting (EH) provides a promising solution for powering distributed Internet of Things (IoT) devices. Due to the low-level and sporadic ambient energy supply, an EH-powered device should operate in an intermittent and energy-driven mode. Commercial voltage supervisors were not optimized for the EH scenario, making it difficult to satisfy all new demands. The conventional energy managemen...]]></summary>
+        <author>
+            <name>Li Teng</name>
+        </author>
+        <author>
+            <name>Haoyu Wang</name>
+        </author>
+        <author>
+            <name>Yu Liu</name>
+        </author>
+        <author>
+            <name>Minfan Fu</name>
+        </author>
+        <author>
+            <name>Junrui Liang</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Physical Layer Key Generation Scheme for MIMO System Based on Feature Fusion Autoencoder]]></title>
         <id>https://ieeexplore.ieee.org/document/10159373</id>
@@ -21470,184 +21624,6 @@
         </author>
         <author>
             <name>Xiaohu You</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DS2PM:A Data Sharing Privacy Protection Model Based on Blockchain and Federated Learning]]></title>
-        <id>https://ieeexplore.ieee.org/document/9646996</id>
-        <link href="https://ieeexplore.ieee.org/document/9646996"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[With the development of big data and blockchain, an increasing number of scholars have begun to study blockchain for data sharing. By studying data sharing models that are based on blockchain, we find that almost all of them have the following problems: 1). It is difficult to protect the privacy and integrity of users’ data, along with users’ data ownership. 2). The storage burden of blockchain is...]]></summary>
-        <author>
-            <name>Yanru Chen</name>
-        </author>
-        <author>
-            <name>Jingpeng Li</name>
-        </author>
-        <author>
-            <name>Fan Wang</name>
-        </author>
-        <author>
-            <name>Kaifeng Yue</name>
-        </author>
-        <author>
-            <name>Yang Li</name>
-        </author>
-        <author>
-            <name>Bin Xing</name>
-        </author>
-        <author>
-            <name>Lei Zhang</name>
-        </author>
-        <author>
-            <name>Liangyin Chen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smart Collaborative Contract for Endogenous Access Control in Massive Machine Communications]]></title>
-        <id>https://ieeexplore.ieee.org/document/9646250</id>
-        <link href="https://ieeexplore.ieee.org/document/9646250"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[Emerging information technologies have accelerated the construction of the Industrial Internet of Things (IIoT). Unfortunately, the explosive growth of various services has caused serious challenges to access control in terms of scalability and trustworthiness. In this paper, we proposed the smart collaborative contract based endogenous access control mechanism. First, access control procedures ru...]]></summary>
-        <author>
-            <name>Fei Song</name>
-        </author>
-        <author>
-            <name>Letian Li</name>
-        </author>
-        <author>
-            <name>Yikun</name>
-        </author>
-        <author>
-            <name>Li</name>
-        </author>
-        <author>
-            <name>Yuyin Ma</name>
-        </author>
-        <author>
-            <name>Lizxqjaang Wang</name>
-        </author>
-        <author>
-            <name>Hongke Zhang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cross-chain Trusted Service Quality Computing Scheme For Multi-chain Model-based 5G Network Slicing SLA]]></title>
-        <id>https://ieeexplore.ieee.org/document/9634104</id>
-        <link href="https://ieeexplore.ieee.org/document/9634104"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[As a key technology for the development of 5G networks, network slicing is developing rapidly. Although network slicing can realize the flexible division of 5g network resources and quickly customize virtual networks that meet the differentiated needs of customers, it is still difficult to determine the optimal service quality parameters in application scenarios. To solve the problem, this paper d...]]></summary>
-        <author>
-            <name>Yunhua He</name>
-        </author>
-        <author>
-            <name>Cui Zhang</name>
-        </author>
-        <author>
-            <name>Bin Wu</name>
-        </author>
-        <author>
-            <name>Yigang Yang</name>
-        </author>
-        <author>
-            <name>Ke Xiao</name>
-        </author>
-        <author>
-            <name>Hong Li</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Federated Learning Meets Blockchain: State Channel based Distributed Data Sharing Trust Supervision Mechanism]]></title>
-        <id>https://ieeexplore.ieee.org/document/9624959</id>
-        <link href="https://ieeexplore.ieee.org/document/9624959"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[With the rapid development of 5G and 6G technology, it has become an inevitable trend to share the cross-domain scattered data and enhance data value transmission. As a new data sharing technology with intelligence and privacy computing, federated learning receives wide attention. It can realize data value delivery and data privacy protection at the same time, however, it lacks supervision in the ...]]></summary>
-        <author>
-            <name>Fan Zhang</name>
-        </author>
-        <author>
-            <name>Shaoyong Guo</name>
-        </author>
-        <author>
-            <name>Xuesong Qiu</name>
-        </author>
-        <author>
-            <name>Siya Xu</name>
-        </author>
-        <author>
-            <name>Feng Qi</name>
-        </author>
-        <author>
-            <name>Zhili Wang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blockchain and Federated Edge Learning for Privacy-Preserving Mobile Crowdsensing]]></title>
-        <id>https://ieeexplore.ieee.org/document/9615370</id>
-        <link href="https://ieeexplore.ieee.org/document/9615370"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[Mobile crowdsensing (MCS) counting on the mobility of massive workers helps the requestor accomplish various sensing tasks with more flexibility and lower cost. However, for the conventional MCS, the large consumption of communication resources for raw data transmission and high requirements on data storage and computing capability hinder potential requestors with limited resources from using MCS....]]></summary>
-        <author>
-            <name>Qin Hu</name>
-        </author>
-        <author>
-            <name>Zhilin Wang</name>
-        </author>
-        <author>
-            <name>Minghui Xu</name>
-        </author>
-        <author>
-            <name>Xiuzhen Cheng</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Privacy Protection Data Retrieval Scheme with Inverted Index for IoT based on Blockchain]]></title>
-        <id>https://ieeexplore.ieee.org/document/9615371</id>
-        <link href="https://ieeexplore.ieee.org/document/9615371"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[In the 6G era, Internet of things (IoT) devices can form a blockchain network, which also faces the problems of data sharing. And the data transmitted and stored through the network has the risk of privacy leaking. Encrypting the shared data can satisfy the need of the privacy, and retrieving the encrypted data can make the data used efficiently.However, to enable users to retrieve encrypted data ...]]></summary>
-        <author>
-            <name>Wenmin Li</name>
-        </author>
-        <author>
-            <name>Yang Chen</name>
-        </author>
-        <author>
-            <name>Fei Gao</name>
-        </author>
-        <author>
-            <name>Shuo Zhang</name>
-        </author>
-        <author>
-            <name>Hua Zhang</name>
-        </author>
-        <author>
-            <name>Qiaoyan Wen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Data Trusted Sharing Delivery: A blockchain assisted software-defined content delivery network]]></title>
-        <id>https://ieeexplore.ieee.org/document/9594078</id>
-        <link href="https://ieeexplore.ieee.org/document/9594078"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[The 6G wireless network aims to forge new spectrum, high technical standards of high time and phase synchronization accuracy, and 100% geographic coverage to connect trillions of devices flexibly and efficiently in the future. However, as connectivity increases and applications become novel, it is a challenge to ensure the privacy and security of networks and applications. Blockchain is seen as a ...]]></summary>
-        <author>
-            <name>Sujie Shao</name>
-        </author>
-        <author>
-            <name>Weichao Gong</name>
-        </author>
-        <author>
-            <name>Huifeng Yang</name>
-        </author>
-        <author>
-            <name>Shaoyong Guo</name>
-        </author>
-        <author>
-            <name>Liandong Chen</name>
-        </author>
-        <author>
-            <name>Ao Xiong</name>
         </author>
     </entry>
 </feed>

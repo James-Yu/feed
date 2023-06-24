@@ -1,5 +1,51 @@
 [
   {
+    "articleNumber": "10160199",
+    "articleTitle": "Synchronous Imaging and Multimodal Fusion of Optical and Electromagnetic Measurements for Overlapping Defects Inspection",
+    "authors": [
+      "Na Zhang",
+      "Haoran Dong",
+      "Chaofeng Ye"
+    ],
+    "abstract": "It is a challenging problem to accurately detect overlapping defects. This paper proposes a system that can obtain optical and electromagnetic signals synchronously. It contains an industrial camera, a chromatic confocal displacement sensor (CCDS) and an eddy current testing (ECT) probe with high-resolution array tunneling magnetoresistance (TMR) sensors. A multimodal fusion algorithm is proposed ...",
+    "date": "2023-06-24T01:14:31.020Z"
+  },
+  {
+    "articleNumber": "10160137",
+    "articleTitle": "Robust Self-Constructing Fuzzy Neural Network-based Online Estimation for Industrial Product Quality",
+    "authors": [
+      "Limin Quan",
+      "Xi Meng",
+      "Junfei Qiao"
+    ],
+    "abstract": "Online estimation for product quality is crucial for improving industrial process efficiency. However, model degradation and outliers usually challenge industrial quality estimation models. To tackle the above problems, a robust self-constructing fuzzy neural network (RSC-FNN) is developed in the article. In the RSC-FNN, the rules can be automatically created or pruned, obtaining the online self-c...",
+    "date": "2023-06-24T01:14:31.020Z"
+  },
+  {
+    "articleNumber": "10160145",
+    "articleTitle": "A Full Replicas-based Data Store Scheme Inspired by Targeted Immunization of Epidemic Theory in Smart Manufacturing",
+    "authors": [
+      "Yan Zheng",
+      "Yang Lu",
+      "Wei Peng Jing",
+      "Wei Xiang"
+    ],
+    "abstract": "Cloud data centers (CDCs) have been used as the basic platforms for data storage in industrial scenarios such as smart manufacturing. However, a lack of effective data storage schemes exacerbates reading latency and replicas&#39; inconsistency in the machine tools of smart facto- ries. In this study, we propose a full-replicas scheme (FRS) to attain the low latency reading and high data consistency re...",
+    "date": "2023-06-24T01:14:31.020Z"
+  },
+  {
+    "articleNumber": "10160138",
+    "articleTitle": "Coordinating Demand Response and Wind Turbine Controls for Alleviating the First and Second Frequency Dips in Wind-Integrated Power Grids",
+    "authors": [
+      "Seyed Amir Hosseini",
+      "Mahmud Fotuhi-Firuzabad",
+      "Payman Dehghanian",
+      "Matti Lehtonen"
+    ],
+    "abstract": "This paper introduces a method employing demand response (DR) and wind turbine (WT) to decrease the first and second frequency dips in power systems with the massive proliferation of wind resources. Inverter air conditioners (IACs) are utilized to participate in the DR program. The buildings&#39; thermal model and the IACs&#39; electrical model are integrated to characterize a relation between power syste...",
+    "date": "2023-06-24T01:14:31.020Z"
+  },
+  {
     "articleNumber": "10158801",
     "articleTitle": "Imperceptible Attacks on Fault Detection and Diagnosis Systems in Smart Buildings",
     "authors": [

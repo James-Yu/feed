@@ -1,5 +1,20 @@
 [
   {
+    "articleNumber": "10161585",
+    "articleTitle": "Neighborhood Rough Residual Network–Based Outlier Detection Method in IoT-Enabled Maritime Transportation Systems",
+    "authors": [
+      "Qiong Chen",
+      "Liangru Xie",
+      "Lirong Zeng",
+      "Sining Jiang",
+      "Weiping Ding",
+      "Xiaomeng Huang",
+      "Hao Wang"
+    ],
+    "abstract": "Outlier detection can identify anomalies in large-scale data. To provide reliability and security for Internet of Things (IoT)-enabled maritime transportation systems (MTSs), in this paper we propose an outlier detection method based on the neighborhood rough residual network (NRRN). We calculate the neighborhood approximation accuracy and neighborhood conditional entropy to obtain the neighborhoo...",
+    "date": "2023-06-24T01:14:12.818Z"
+  },
+  {
     "articleNumber": "10159574",
     "articleTitle": "Channel Measurement and Modeling for Millimeter-Wave Automotive Radar",
     "authors": [
