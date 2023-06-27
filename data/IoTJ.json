@@ -1,5 +1,244 @@
 [
   {
+    "articleNumber": "10162024",
+    "articleTitle": "Ciphertext Retrieval with Identity Bidirectional Authentication and Matrix Index in IoT",
+    "authors": [
+      "Nan Gao",
+      "Kai Fan",
+      "Haoyang Wang",
+      "Hongyan Chen",
+      "Kuan Zhang",
+      "Hui Li",
+      "Yintang Yang"
+    ],
+    "abstract": "Ciphertext retrieval for Cloud-based Internet of Things has been widely explored with the increasing popularity of cloud computing. However, in most existing solutions, the security and efficiency of the retrieval process are difficult to achieve simultaneously. To this end, we develop a novel secure matrix index, and we utilize identity-based encryption to encrypt keywords and homomorphic encrypt...",
+    "date": "2023-06-27T01:15:51.069Z"
+  },
+  {
+    "articleNumber": "10163904",
+    "articleTitle": "A Survey on Cyber-Physical Systems Security",
+    "authors": [
+      "Zhenhua Yu",
+      "Hongxia Gao",
+      "Xuya Cong",
+      "Naiqi Wu",
+      "Houbing Herbert Song"
+    ],
+    "abstract": "Cyber-Physical Systems (CPSs) are new types of intelligent systems that integrate computing, control, and communication technologies, bridging the cyberspace and physical world. These systems enhance the capabilities of our critical infrastructure and are widely used in a variety of safety-critical systems. CPSs are susceptible to cyber attacks due to their vulnerabilities such that their security...",
+    "date": "2023-06-27T01:15:51.069Z"
+  },
+  {
+    "articleNumber": "10163908",
+    "articleTitle": "Security Weaknesses in IoT Management Platforms",
+    "authors": [
+      "Bhaskar Tejaswi",
+      "Mohammad Mannan",
+      "Amr Youssef"
+    ],
+    "abstract": "A diverse set of Internet of Things (IoT) devices are becoming an integrated part of daily lives, and playing an increasingly vital role in various industry, enterprise and agricultural settings. The current IoT ecosystem relies on several IoT management platforms to manage and operate a large number of IoT devices, their data, and their connectivity. Considering their key role, these platforms mu...",
+    "date": "2023-06-27T01:15:51.069Z"
+  },
+  {
+    "articleNumber": "10163936",
+    "articleTitle": "Score-VAE: Root Cause Analysis for Federated Learning-based IoT Anomaly Detection",
+    "authors": [
+      "Jiamin Fan",
+      "Guoming Tang",
+      "Kui Wu",
+      "Zhengan Zhao",
+      "Yang Zhou",
+      "Shengqiang Huang"
+    ],
+    "abstract": "Root cause analysis is the process of identifying the underlying factors responsible for triggering anomaly detection alarms. In the context of anomaly detection for Internet of Things (IoT) traffic, these alarms can be triggered by various factors, not all of which are malicious attacks. It is crucial to determine whether a malicious attack or benign operations cause an alarm. To address this cha...",
+    "date": "2023-06-27T01:15:51.069Z"
+  },
+  {
+    "articleNumber": "10163909",
+    "articleTitle": "Self-sustaining Ultra-wideband Positioning System for Event-driven Indoor Localization",
+    "authors": [
+      "Philipp Mayer",
+      "Michele Magno",
+      "Luca Benini"
+    ],
+    "abstract": "Smart and unobtrusive mobile sensor nodes that accurately track their own position have the potential to augment data collection with location-based functions. To attain this vision of unobtrusiveness, the sensor nodes must have a compact form factor and operate over long periods without battery recharging or replacement. This paper presents a self-sustaining and accurate ultra-wideband-based indo...",
+    "date": "2023-06-27T01:15:51.069Z"
+  },
+  {
+    "articleNumber": "10163717",
+    "articleTitle": "Public-key Inverted-index Keyword Search with Designated Tester and Multi-user Key Decryption in IoT",
+    "authors": [
+      "Nan Gao",
+      "Kai Fan",
+      "Haoyang Wang",
+      "Kuan Zhang",
+      "Hui Li",
+      "Yintang Yang"
+    ],
+    "abstract": "Searchable encryption for Cloud-based Internet of Things has been widely explored with the increasing popularity of cloud computing. The public-key encryption with keyword search (PEKS) system support multi-user retrieval. However, the PEKS search time is linearly increasing as the index keyword number growth, and the search time would be huge if the index keywords consistently increase. In this p...",
+    "date": "2023-06-27T01:15:51.069Z"
+  },
+  {
+    "articleNumber": "10163729",
+    "articleTitle": "Liouville-Based Predictive Models for Occupancy Estimation using Small Training Data",
+    "authors": [
+      "Jiaxun Guo",
+      "Manar Amayri",
+      "Wentao Fan",
+      "Nizar Bouguila"
+    ],
+    "abstract": "In this paper, we propose a predictive model based on Beta-Liouville (BL) and inverted Beta-Liouville (IBL) mixture models for occupancy estimation in smart buildings. This model gives better results than point estimate methods, when the training data is small, because it is based on data-driven predictive distribution. The Liouville-based mixture models were chosen because of their flexibility in...",
+    "date": "2023-06-27T01:15:51.069Z"
+  },
+  {
+    "articleNumber": "10162185",
+    "articleTitle": "Reinforcement Learning for Intelligent Healthcare Systems: A Review of Challenges, Applications, and Open Research Issues",
+    "authors": [
+      "Alaa Awad Abdellatif",
+      "Naram Mhaisen",
+      "Amr Mohamed",
+      "Aiman Erbad",
+      "Mohsen Guizani"
+    ],
+    "abstract": "The rise of chronic disease patients and the pandemic pose immediate threats to healthcare expenditure and mortality rates. This calls for transforming healthcare systems away from one-on-one patient treatment into intelligent health systems, leveraging the recent advances of IoT and smart sensors. Meanwhile, Reinforcement Learning (RL) has witnessed an intrinsic breakthrough in solving a variety ...",
+    "date": "2023-06-27T01:15:51.069Z"
+  },
+  {
+    "articleNumber": "10162187",
+    "articleTitle": "Adaptive Fuzzy Event-Triggered Formation Control for Nonholonomic Multirobot Systems with Infinite Actuator Faults and Range Constraints",
+    "authors": [
+      "Shijie Dong",
+      "Yongming Li"
+    ],
+    "abstract": "This paper delves into the intricacies of adaptive fuzzy event-triggered formation tracking control for nonholonomic multirobot systems characterized by infinite actuator faults and range constraints. To address these issues, we leverage the power of fuzzy logic systems (FLSs) and employ adaptive methods to approximate unknown nonlinear functions and uncertain parameters present in robotic dynamic...",
+    "date": "2023-06-27T01:15:51.069Z"
+  },
+  {
+    "articleNumber": "10163939",
+    "articleTitle": "A Collaborative Path Planning Method for Heterogeneous Autonomous Marine Vehicles",
+    "authors": [
+      "Jie Zhang",
+      "Zhengxin Wang",
+      "Guangjie Han",
+      "Yujie Qian",
+      "Zhenglin Li"
+    ],
+    "abstract": "Intelligent control of autonomous marine vehicles (AMV) is one of the essential technologies for exploring marine resources. In the deep sea with a complicated exploration environment, collaboration between heterogeneous AMVs can maximize exploration efficiency by utilizing various functional benefits. Accordingly, the paper proposes a method for collaborative path planning for heterogeneous AMVs ...",
+    "date": "2023-06-27T01:15:51.069Z"
+  },
+  {
+    "articleNumber": "10163930",
+    "articleTitle": "LipAuth: Securing Smartphone User Authentication with Lip Motion Patterns",
+    "authors": [
+      "Ling Kuang",
+      "Fanzi Zeng",
+      "Daibo Liu",
+      "Hangcheng Cao",
+      "Hongbo Jiang",
+      "Jiangchuan Liu"
+    ],
+    "abstract": "Modern smartphones hold massive amounts of private and potentially sensitive user data (e.g., identity and messages). User authentication is the key measure to protect such sensitive data from adversaries. In this paper, we explore a novel authentication mechanism, LipAuth, leveraging the unique spatial-temporal features (i.e., both static physiological and dynamic behavioral characteristics) of h...",
+    "date": "2023-06-27T01:15:51.069Z"
+  },
+  {
+    "articleNumber": "10163938",
+    "articleTitle": "Privacy-preserving Collaborative Learning: A Scheme Providing Heterogeneous Protection",
+    "authors": [
+      "Xin Wang",
+      "Heng Zhang",
+      "Ming Yang",
+      "Xiaoming Wu",
+      "Peng Cheng"
+    ],
+    "abstract": "With the widespread application of collaborative learning (CL) technology in mobile-crowdsourcing-related scenarios, special attention should be paid to the privacy disclosure problem therein. Many pioneer noise-perturbation-based methods, particularly the differentially private ones, provide only homogeneous protection, which is insufficient for the heterogeneous protection requirements of many p...",
+    "date": "2023-06-27T01:15:51.069Z"
+  },
+  {
+    "articleNumber": "10163900",
+    "articleTitle": "Energy Aware Multi-User Symbiotic Communications Enhanced by RIS for Passive IoT",
+    "authors": [
+      "Yingting Yuan",
+      "Xiaodong Xu",
+      "Shujun Han",
+      "Mengying Sun",
+      "Ping Zhang",
+      "Chau Yuen"
+    ],
+    "abstract": "Symbiotic radio (SR) is a promising technology to support ultra-low-power or even zero-power Internet of Things (IoT) devices in the sixth-generation mobile networks. In this paper, we propose an energy-aware symbiotic transmission in a reconfigurable intelligent surface (RIS) enhanced SR system, in which an IoT network embeds its own data passively over cellular downlink signals by backscattering...",
+    "date": "2023-06-27T01:15:51.069Z"
+  },
+  {
+    "articleNumber": "10162181",
+    "articleTitle": "Broadband/Dual-band Metal-Mountable UHF RFID Tag Antennas: A Systematic Review. Taxonomy Analysis, Standards of Seamless RFID System Operation, Supporting IoT implementations, Recommendations and Future Directions",
+    "authors": [
+      "Fuad Erman",
+      "Slawomir Koziel",
+      "Leifur Leifsson"
+    ],
+    "abstract": "The employment of broadband/dual-band ultra-high frequency (UHF) radio frequency identification (RFID) tag antennas contributes to the growth of RFID technology, with many potential implications, such as the increase of international trade, and reducing costs thereof. This study presents all reported articles on RFID tags for metal objects that can work seamlessly across different countries. Moreo...",
+    "date": "2023-06-27T01:15:51.069Z"
+  },
+  {
+    "articleNumber": "10163913",
+    "articleTitle": "Reconfigurable Intelligent Surface-assisted Indoor Millimeter-wave Communications for Mobile Robots",
+    "authors": [
+      "Zhiyu Liu",
+      "Yang Liu",
+      "Xiaoli Chu"
+    ],
+    "abstract": "Reconfigurable intelligent surfaces (RISs) and millimeter-wave (mmWave) communications have been considered for providing wireless connectivity to mobile robots used in industrial plants and other indoor environments. However, the existing works have not sufficiently studied how the number and deployment locations of RISs should be optimized for serving a mobile robot. In this paper, we study RIS-...",
+    "date": "2023-06-27T01:15:51.069Z"
+  },
+  {
+    "articleNumber": "10162178",
+    "articleTitle": "Latency and Reliability Analysis of a 5G-Enabled Internet of Musical Things system",
+    "authors": [
+      "Luca Turchet",
+      "Paolo Casari"
+    ],
+    "abstract": "The availability of high-performance embedded audio systems, along with high-bandwidth and low-latency connectivity options provided by 5G networks, is enabling the Internet of Musical Things (IoMusT) paradigm. A central component of this paradigm is represented by Networked Music Performances (NMPs), where geographically displaced musicians play together over the network in real time. However, to...",
+    "date": "2023-06-27T01:15:51.069Z"
+  },
+  {
+    "articleNumber": "10162207",
+    "articleTitle": "Graph Reinforcement Learning-based Dependency-Aware Microservice Deployment in Edge Computing",
+    "authors": [
+      "Wenkai Lv",
+      "Pengfei Yang",
+      "Tianyang Zheng",
+      "Chengmin Lin",
+      "Zhenyi Wang",
+      "Minwen Deng",
+      "Quan Wang"
+    ],
+    "abstract": "Microservice architecture is a design philosophy that achieves decoupling by decomposing a monolithic application into multiple lightweight microservices. Meanwhile, edge computing can significantly reduce service latency and network congestion by extending computation and storage resources to the network edge. Therefore, in the microservice-oriented edge computing platform, a fundamental problem ...",
+    "date": "2023-06-27T01:15:51.069Z"
+  },
+  {
+    "articleNumber": "10163774",
+    "articleTitle": "B-DSPA: A Blockchain-based Dynamically Scalable Privacy-Preserving Authentication Scheme in Vehicular Ad-hoc Networks",
+    "authors": [
+      "Qi Tao",
+      "Hongwei Ding",
+      "Tian Jiang",
+      "Xiaohui Cui"
+    ],
+    "abstract": "The big data of Internet of vehicles contributes to the development of intelligent transportation. Privacy protection in Vehicular Ad-hoc Networks(VANETs) is the core factor to improve user and vehicle participation. This paper proposes a novel blockchain-based dynamic extensible privacy protection and message authentication scheme for VANETs. It minimizes the computation cost of message authentic...",
+    "date": "2023-06-27T01:15:51.069Z"
+  },
+  {
+    "articleNumber": "10162184",
+    "articleTitle": "Throughput Maximization for NOMA-based Cognitive Backscatter Communication Networks with Imperfect CSI",
+    "authors": [
+      "Yongjun Xu",
+      "Siqiao Jiang",
+      "Qing Xue",
+      "Xingwang Li",
+      "Chau Yuen"
+    ],
+    "abstract": "Cognitive radio and backscatter communication (BackCom) have been viewed as two promising technologies for the future green Internet of Things (IoT). The combination of these two technologies can not only enhance spectrum efficiency but also improve energy efficiency. However, most of the existing resource allocation (RA) algorithms in cognitive BackCom networks consider ideal channel state inform...",
+    "date": "2023-06-27T01:15:51.069Z"
+  },
+  {
     "articleNumber": "10160121",
     "articleTitle": "Transparent Epidermal Antenna for Unobtrusive Human-Centric Internet of Things Applications",
     "authors": [
@@ -12621,255 +12860,6 @@
       "Burkhard Stiller"
     ],
     "abstract": "Crowdsensing platforms collect, process, transmit, and analyze spectrum data worldwide to optimize radio frequency spectrum usage. However, Internet-of-Things (IoT) spectrum sensors, performing some of the previous tasks, are exposed to software manipulation aiming to execute spectrum sensing data falsification (SSDF) attacks to compromise data integrity and spectrum optimization. Novel intrusion ...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9915787",
-    "articleTitle": "Joint Routing and Wireless Charging Scheduling for Electric Vehicles with Shuttle Services",
-    "authors": [
-      "Yongsheng Cao",
-      "Yongquan Wang",
-      "Demin Li",
-      "Xuemin Chen"
-    ],
-    "abstract": "As the electric vehicles (EV) becomes prevalent, the demand for smart charging rises. The disordered charging problem of EVs, the high cost and location problem of charging stations bring great challenge to the power grids and transport networks. The internet of things (IoT) technology enables the IoT-based electric vehicle (IoEV) to plan the route and process the information with smart wireless c...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9903807",
-    "articleTitle": "A novel framework for studying the business impact of ransomware on connected vehicles",
-    "authors": [
-      "Asad Waqar Malik",
-      "Zahid Anwar",
-      "Anis U. Rahman"
-    ],
-    "abstract": "Connected vehicle technology is rapidly evolving. In the U.S. the government targets that 50% of all vehicles be electric by 2030 in order to reduce climate change. This initiative comes in the wake of an increased spate of ransomware attacks targeting transportation companies. Unlike traditional ransomware targeting computer networks, the compromise of vehicles can have disastrous consequences on...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9868840",
-    "articleTitle": "PLAKE: PUF based secure Lightweight Authentication and Key Exchange Protocol for IoT",
-    "authors": [
-      "Sourav Roy",
-      "Dipnarayan Das",
-      "Anindan Mondal",
-      "Mahabub Hasan Mahalat",
-      "Bibhash Sen",
-      "Biplab Sikdar"
-    ],
-    "abstract": "Internet of Things (IoT) is evolving as a ubiquitous technology to thrive human lives with minimal time and effort. The resource-constrained IoT devices operating in an ambient environment with minimal or no safeguards are highly susceptible to physical invasion. The existing protocols suffer from huge computing resources required for cryptographic primitives and bandwidth overhead of high message...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9868083",
-    "articleTitle": "Deep Transfer Learning: A Novel Collaborative Learning Model for Cyberattack Detection Systems in IoT Networks",
-    "authors": [
-      "Tran Viet Khoa",
-      "Dinh Thai Hoang",
-      "Nguyen Linh Trung",
-      "Cong T. Nguyen",
-      "Tran Thi Thuy Quynh",
-      "Diep N. Nguyen",
-      "Nguyen Viet Ha",
-      "Eryk Dutkiewicz"
-    ],
-    "abstract": "Federated Learning (FL) has recently become an effective approach for cyberattack detection systems, especially in Internet-of-Things (IoT) networks. By distributing the learning process across IoT gateways, FL can improve learning efficiency, reduce communication overheads and enhance privacy for cyberattack detection systems. However, one of the biggest challenges for deploying FL in IoT network...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9864200",
-    "articleTitle": "Defending Cyber-physical Systems through Reverse Engineering Based Memory Sanity Check",
-    "authors": [
-      "Yangyang Geng",
-      "Yuqi Chen",
-      "Rongkuan Ma",
-      "Qiang Wei",
-      "Jie Pan",
-      "Jingyi Wang",
-      "Peng Cheng",
-      "Qingxian Wang"
-    ],
-    "abstract": "Cyber-physical systems (CPSs) are ubiquitous in critical infrastructures, where programmable logic controllers (PLCs) and physical components intertwine. However, multiple successful attacks targeting safety-related CPSs, in particular the PLCs, manifest their vulnerability towards malicious cyber attacks, which may cause significant damage consequently. Though several kinds of defending technique...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9863064",
-    "articleTitle": "Federated-SRUs: A Federated Simple Recurrent Units-based IDS for Accurate Detection of Cyber Attacks Against IoT-augmented Industrial Control Systems",
-    "authors": [
-      "Izhar Ahmed Khan",
-      "Dechang Pi",
-      "Muhammad Zahid Abbas",
-      "Umar Zia",
-      "Yasir Hussain",
-      "Hatem Soliman"
-    ],
-    "abstract": "The security of Industrial Control Systems (ICS) against cyber-attacks is essential in modern era since ICSs are vital constituent of modern societies and smart cities. However, the augmentation of legacy ICS networks with smart computing and networking technologies (such as, IoT) have intensely enlarged the surface of attacks against these critical infrastructures. This augmentation makes these n...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9861708",
-    "articleTitle": "Optimization of RBF-SVM Kernel using Grid Search Algorithm for DDoS Attack Detection in SDN-based VANET",
-    "authors": [
-      "Goodness Oluchi Anyanwu",
-      "Cosmas Ifeanyi Nwakanma",
-      "Jae-Min Lee",
-      "Dong-Seong Kim"
-    ],
-    "abstract": "The dynamic nature of the vehicular space exposes it to distributed malicious attacks irrespective of the integration of enabling technologies. The Software-Defined Network (SDN) represents one of these enabling technologies, providing an integrated improvement over the traditional VANET. Due to the centralized characteristics of SDN, they are vulnerable to attacks that may result in life-threaten...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9851844",
-    "articleTitle": "An Efficient Hybrid-DNN for DDoS Detection and Classification in Software-Defined IIoT Networks",
-    "authors": [
-      "Ahmad Zainudin",
-      "Love Allen Chijioke Ahakonye",
-      "Rubina Akter",
-      "Dong-Seong Kim",
-      "Jae-Min Lee"
-    ],
-    "abstract": "Software-Defined Networking (SDN)-based Industrial Internet of Things (IIoT) networks have a centralized controller that is a single attractive target for unauthorized users to attack. Cybersecurity in IIoT networks is becoming the most significant challenge, especially from increasingly sophisticated Distributed Denial-of-Service (DDoS) attacks. This situation necessitates efficient approaches to...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9849838",
-    "articleTitle": "IVYCIDE: Smart Intrusion Detection System against E-IoT Driver Threats",
-    "authors": [
-      "Luis Puche Rondon",
-      "Leonardo Babun",
-      "Ahmet Aris",
-      "Kemal Akkaya",
-      "A. Selcuk Uluagac"
-    ],
-    "abstract": "The rise of Internet of Things (IoT) devices has led to the proliferation of smart environments worldwide. Although commodity IoT devices are employed by ordinary end-users, complex environments such as smart buildings, government, or private offices, or conference rooms require customized and highly reliable IoT solutions. Enterprise Internet of Things (E-IoT) connect such environments to the Int...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9845349",
-    "articleTitle": "An Enhanced Deep Learning Neural Network for the Detection and Identification of Android Malware",
-    "authors": [
-      "Pakarat Musikawan",
-      "Yanika Kongsorot",
-      "Ilsun You",
-      "Chakchai So-In"
-    ],
-    "abstract": "Android-based mobile devices have attracted a large number of users because they are easy to use and possess a wide range of capabilities. Because of its popularity, Android has become one of the most important platforms for attackers to launch their nefarious schemes. Due to the rising sophistication of Android malware obfuscation and detection avoidance tactics, many traditional malware detectio...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9844137",
-    "articleTitle": "CADeSH: Collaborative Anomaly Detection for Smart Homes",
-    "authors": [
-      "Yair Meidan",
-      "Dan Avraham",
-      "Hanan Libhaber",
-      "Asaf Shabtai"
-    ],
-    "abstract": "Although home IoT (Internet of Things) devices are typically plain and task oriented, the context of their daily use may affect their traffic patterns. That is, a given IoT device will probably not generate the exact same traffic data when operated by different people in different environments and when connected to different networks with different topologies and communication components. For this...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9814995",
-    "articleTitle": "IoT-based Android Malware Detection Using Graph Neural Network With Adversarial Defense",
-    "authors": [
-      "Rahul Yumlembam",
-      "Biju Issac",
-      "Seibu Mary Jacob",
-      "Longzhi Yang"
-    ],
-    "abstract": "Since the Internet of Things (IoT) is widely adopted using Android applications, detecting malicious Android apps is essential. In recent years, Android graph-based deep learning research has proposed many approaches to extract relationships from the application as a graph to generate graph embeddings. First, we demonstrate the effectiveness of graph-based classification using Graph Neural Network...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9779348",
-    "articleTitle": "Data Enhancement Aided Protocol-Agnostic Transmitter Recognition for Open-Set in IoT",
-    "authors": [
-      "Xiaoxu Zhang",
-      "Meiyan Lin",
-      "Ye Tian",
-      "Yonghui Huang",
-      "Junshe An",
-      "Tianshu Cui"
-    ],
-    "abstract": "Radio Frequency Fingerprinting Identification (RFFI), based on hardware inherent imperfections, is an effective technique for physical authentication in the Internet of Things (IoT). However, due to the nonstationary and open factors in realistic scenes, problems such as inaccurate fingerprinting extractions and unreliable transmitter identifications often occur. Specifically, in actual scenarios,...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9777753",
-    "articleTitle": "Semi-Supervised Federated Learning Based Intrusion Detection Method for Internet of Things",
-    "authors": [
-      "Ruijie Zhao",
-      "Yijun Wang",
-      "Zhi Xue",
-      "Tomoaki Ohtsuki",
-      "Bamidele Adebisi",
-      "Guan Gui"
-    ],
-    "abstract": "Federated learning (FL) has become an increasingly popular solution for intrusion detection to avoid data privacy leakage in Internet of Things (IoT) edge devices. Existing FL-based intrusion detection methods, however, suffer from three limitations: (1) model parameters transmitted in each round may be used to recover private data, which leads to security risks, (2) not independent and identicall...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9747918",
-    "articleTitle": "BDRA: Blockchain and Decentralized Identifiers Assisted Secure Registration and Authentication for VANETs",
-    "authors": [
-      "Xuehan Li",
-      "Tao Jing",
-      "Ruinian Li",
-      "Hui Li",
-      "Xiaoxuan Wang",
-      "Dequan Shen"
-    ],
-    "abstract": "In vehicular ad-hoc networks (VANETs), road safety and road traffic efficiency can be improved through message interaction between vehicle users, which inevitably relies on secure identity authentication and message credibility verification. Existing authentication and message verification mechanisms are prone to severe single points of failure and low authentication efficiency due to their relian...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9714261",
-    "articleTitle": "A Certificateless Signcryption Mechanism Based on Blockchain for Edge Computing",
-    "authors": [
-      "Guangxia Xu",
-      "Jingnan Dong",
-      "Chuang Ma",
-      "Jun Liu",
-      "Uchani Gutierrez Omar Cliff"
-    ],
-    "abstract": "The emergence of edge computing makes it possible to realize new technologies such as virtual reality and augmented reality. However, a large number of devices and more messages at the edge bring more security problems. Therefore, it is an important research topic to provide users with faster network services while ensuring confidentiality and authentication of data transmission. Because signcrypt...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9680715",
-    "articleTitle": "Toward Secure Data Sharing for the IoT devices with limited resources: A Smart Contract–Based Quality-Driven Incentive Mechanism",
-    "authors": [
-      "Chi Zhang",
-      "Tao Shen",
-      "Fenhua Bai"
-    ],
-    "abstract": "With the rapid deployment of Internet of Things (IoT) devices in various industries and fields, the massive amount of data produced by these devices can yield greater value through sharing. A critical challenge in the data sharing process is ensuring that the data is high quality. However, the quality of data provided by a large number of IoT devices is impacted by the variability of factors contr...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9669187",
-    "articleTitle": "MSKNP: Multi-stage Key Negotiation Protocol for IoT-Blockchain Environment",
-    "authors": [
-      "Zipeng Diao",
-      "Qian Wang",
-      "Bei Gong"
-    ],
-    "abstract": "With the development of the Internet, the technical framework that integrates Internet of Thing and blockchain has gradually developed. However, how to ensure the secure with balanced performance of devices become a key issue. In this paper, we design a new multi-stage session key negotiation protocols for the Internet of Things-blockchain environment by using “Agents”. We transferring bilinear op...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9650617",
-    "articleTitle": "Resource Sharing and Trading of Blockchain Radio Access Networks: Architecture and Prototype Design",
-    "authors": [
-      "Yuwei Le",
-      "Xintong Ling",
-      "Jiaheng Wang",
-      "Ruiwei Guo",
-      "Yongming Huang",
-      "Cheng-Xiang Wang",
-      "Xiaohu You"
-    ],
-    "abstract": "Recently, blockchain radio access network (B-RAN) arises as an innovative paradigm for the sixth-generation (6G) wireless communications to build cooperative trust, aggregate wireless resources, and schedule inter-and intra-network tasks among independent network entities. It establishes an open platform based on blockchain to provide diverse wireless services and applications, such as radio acces...",
     "date": "2023-04-27T04:15:53.706Z"
   }
 ]

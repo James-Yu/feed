@@ -2,11 +2,405 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/IoTJ.rss</id>
     <title>IEEE Internet of Things Journal</title>
-    <updated>2023-06-26T16:16:46.843Z</updated>
+    <updated>2023-06-27T01:15:51.076Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/IoTJ.rss"/>
     <subtitle>IEEE Internet of Things Journal</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Ciphertext Retrieval with Identity Bidirectional Authentication and Matrix Index in IoT]]></title>
+        <id>https://ieeexplore.ieee.org/document/10162024</id>
+        <link href="https://ieeexplore.ieee.org/document/10162024"/>
+        <updated>2023-06-27T01:15:51.069Z</updated>
+        <summary type="html"><![CDATA[Ciphertext retrieval for Cloud-based Internet of Things has been widely explored with the increasing popularity of cloud computing. However, in most existing solutions, the security and efficiency of the retrieval process are difficult to achieve simultaneously. To this end, we develop a novel secure matrix index, and we utilize identity-based encryption to encrypt keywords and homomorphic encrypt...]]></summary>
+        <author>
+            <name>Nan Gao</name>
+        </author>
+        <author>
+            <name>Kai Fan</name>
+        </author>
+        <author>
+            <name>Haoyang Wang</name>
+        </author>
+        <author>
+            <name>Hongyan Chen</name>
+        </author>
+        <author>
+            <name>Kuan Zhang</name>
+        </author>
+        <author>
+            <name>Hui Li</name>
+        </author>
+        <author>
+            <name>Yintang Yang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Survey on Cyber-Physical Systems Security]]></title>
+        <id>https://ieeexplore.ieee.org/document/10163904</id>
+        <link href="https://ieeexplore.ieee.org/document/10163904"/>
+        <updated>2023-06-27T01:15:51.069Z</updated>
+        <summary type="html"><![CDATA[Cyber-Physical Systems (CPSs) are new types of intelligent systems that integrate computing, control, and communication technologies, bridging the cyberspace and physical world. These systems enhance the capabilities of our critical infrastructure and are widely used in a variety of safety-critical systems. CPSs are susceptible to cyber attacks due to their vulnerabilities such that their security...]]></summary>
+        <author>
+            <name>Zhenhua Yu</name>
+        </author>
+        <author>
+            <name>Hongxia Gao</name>
+        </author>
+        <author>
+            <name>Xuya Cong</name>
+        </author>
+        <author>
+            <name>Naiqi Wu</name>
+        </author>
+        <author>
+            <name>Houbing Herbert Song</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Security Weaknesses in IoT Management Platforms]]></title>
+        <id>https://ieeexplore.ieee.org/document/10163908</id>
+        <link href="https://ieeexplore.ieee.org/document/10163908"/>
+        <updated>2023-06-27T01:15:51.069Z</updated>
+        <summary type="html"><![CDATA[A diverse set of Internet of Things (IoT) devices are becoming an integrated part of daily lives, and playing an increasingly vital role in various industry, enterprise and agricultural settings. The current IoT ecosystem relies on several IoT management platforms to manage and operate a large number of IoT devices, their data, and their connectivity. Considering their key role, these platforms mu...]]></summary>
+        <author>
+            <name>Bhaskar Tejaswi</name>
+        </author>
+        <author>
+            <name>Mohammad Mannan</name>
+        </author>
+        <author>
+            <name>Amr Youssef</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Score-VAE: Root Cause Analysis for Federated Learning-based IoT Anomaly Detection]]></title>
+        <id>https://ieeexplore.ieee.org/document/10163936</id>
+        <link href="https://ieeexplore.ieee.org/document/10163936"/>
+        <updated>2023-06-27T01:15:51.069Z</updated>
+        <summary type="html"><![CDATA[Root cause analysis is the process of identifying the underlying factors responsible for triggering anomaly detection alarms. In the context of anomaly detection for Internet of Things (IoT) traffic, these alarms can be triggered by various factors, not all of which are malicious attacks. It is crucial to determine whether a malicious attack or benign operations cause an alarm. To address this cha...]]></summary>
+        <author>
+            <name>Jiamin Fan</name>
+        </author>
+        <author>
+            <name>Guoming Tang</name>
+        </author>
+        <author>
+            <name>Kui Wu</name>
+        </author>
+        <author>
+            <name>Zhengan Zhao</name>
+        </author>
+        <author>
+            <name>Yang Zhou</name>
+        </author>
+        <author>
+            <name>Shengqiang Huang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Self-sustaining Ultra-wideband Positioning System for Event-driven Indoor Localization]]></title>
+        <id>https://ieeexplore.ieee.org/document/10163909</id>
+        <link href="https://ieeexplore.ieee.org/document/10163909"/>
+        <updated>2023-06-27T01:15:51.069Z</updated>
+        <summary type="html"><![CDATA[Smart and unobtrusive mobile sensor nodes that accurately track their own position have the potential to augment data collection with location-based functions. To attain this vision of unobtrusiveness, the sensor nodes must have a compact form factor and operate over long periods without battery recharging or replacement. This paper presents a self-sustaining and accurate ultra-wideband-based indo...]]></summary>
+        <author>
+            <name>Philipp Mayer</name>
+        </author>
+        <author>
+            <name>Michele Magno</name>
+        </author>
+        <author>
+            <name>Luca Benini</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Public-key Inverted-index Keyword Search with Designated Tester and Multi-user Key Decryption in IoT]]></title>
+        <id>https://ieeexplore.ieee.org/document/10163717</id>
+        <link href="https://ieeexplore.ieee.org/document/10163717"/>
+        <updated>2023-06-27T01:15:51.069Z</updated>
+        <summary type="html"><![CDATA[Searchable encryption for Cloud-based Internet of Things has been widely explored with the increasing popularity of cloud computing. The public-key encryption with keyword search (PEKS) system support multi-user retrieval. However, the PEKS search time is linearly increasing as the index keyword number growth, and the search time would be huge if the index keywords consistently increase. In this p...]]></summary>
+        <author>
+            <name>Nan Gao</name>
+        </author>
+        <author>
+            <name>Kai Fan</name>
+        </author>
+        <author>
+            <name>Haoyang Wang</name>
+        </author>
+        <author>
+            <name>Kuan Zhang</name>
+        </author>
+        <author>
+            <name>Hui Li</name>
+        </author>
+        <author>
+            <name>Yintang Yang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Liouville-Based Predictive Models for Occupancy Estimation using Small Training Data]]></title>
+        <id>https://ieeexplore.ieee.org/document/10163729</id>
+        <link href="https://ieeexplore.ieee.org/document/10163729"/>
+        <updated>2023-06-27T01:15:51.069Z</updated>
+        <summary type="html"><![CDATA[In this paper, we propose a predictive model based on Beta-Liouville (BL) and inverted Beta-Liouville (IBL) mixture models for occupancy estimation in smart buildings. This model gives better results than point estimate methods, when the training data is small, because it is based on data-driven predictive distribution. The Liouville-based mixture models were chosen because of their flexibility in...]]></summary>
+        <author>
+            <name>Jiaxun Guo</name>
+        </author>
+        <author>
+            <name>Manar Amayri</name>
+        </author>
+        <author>
+            <name>Wentao Fan</name>
+        </author>
+        <author>
+            <name>Nizar Bouguila</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reinforcement Learning for Intelligent Healthcare Systems: A Review of Challenges, Applications, and Open Research Issues]]></title>
+        <id>https://ieeexplore.ieee.org/document/10162185</id>
+        <link href="https://ieeexplore.ieee.org/document/10162185"/>
+        <updated>2023-06-27T01:15:51.069Z</updated>
+        <summary type="html"><![CDATA[The rise of chronic disease patients and the pandemic pose immediate threats to healthcare expenditure and mortality rates. This calls for transforming healthcare systems away from one-on-one patient treatment into intelligent health systems, leveraging the recent advances of IoT and smart sensors. Meanwhile, Reinforcement Learning (RL) has witnessed an intrinsic breakthrough in solving a variety ...]]></summary>
+        <author>
+            <name>Alaa Awad Abdellatif</name>
+        </author>
+        <author>
+            <name>Naram Mhaisen</name>
+        </author>
+        <author>
+            <name>Amr Mohamed</name>
+        </author>
+        <author>
+            <name>Aiman Erbad</name>
+        </author>
+        <author>
+            <name>Mohsen Guizani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adaptive Fuzzy Event-Triggered Formation Control for Nonholonomic Multirobot Systems with Infinite Actuator Faults and Range Constraints]]></title>
+        <id>https://ieeexplore.ieee.org/document/10162187</id>
+        <link href="https://ieeexplore.ieee.org/document/10162187"/>
+        <updated>2023-06-27T01:15:51.069Z</updated>
+        <summary type="html"><![CDATA[This paper delves into the intricacies of adaptive fuzzy event-triggered formation tracking control for nonholonomic multirobot systems characterized by infinite actuator faults and range constraints. To address these issues, we leverage the power of fuzzy logic systems (FLSs) and employ adaptive methods to approximate unknown nonlinear functions and uncertain parameters present in robotic dynamic...]]></summary>
+        <author>
+            <name>Shijie Dong</name>
+        </author>
+        <author>
+            <name>Yongming Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Collaborative Path Planning Method for Heterogeneous Autonomous Marine Vehicles]]></title>
+        <id>https://ieeexplore.ieee.org/document/10163939</id>
+        <link href="https://ieeexplore.ieee.org/document/10163939"/>
+        <updated>2023-06-27T01:15:51.069Z</updated>
+        <summary type="html"><![CDATA[Intelligent control of autonomous marine vehicles (AMV) is one of the essential technologies for exploring marine resources. In the deep sea with a complicated exploration environment, collaboration between heterogeneous AMVs can maximize exploration efficiency by utilizing various functional benefits. Accordingly, the paper proposes a method for collaborative path planning for heterogeneous AMVs ...]]></summary>
+        <author>
+            <name>Jie Zhang</name>
+        </author>
+        <author>
+            <name>Zhengxin Wang</name>
+        </author>
+        <author>
+            <name>Guangjie Han</name>
+        </author>
+        <author>
+            <name>Yujie Qian</name>
+        </author>
+        <author>
+            <name>Zhenglin Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LipAuth: Securing Smartphone User Authentication with Lip Motion Patterns]]></title>
+        <id>https://ieeexplore.ieee.org/document/10163930</id>
+        <link href="https://ieeexplore.ieee.org/document/10163930"/>
+        <updated>2023-06-27T01:15:51.069Z</updated>
+        <summary type="html"><![CDATA[Modern smartphones hold massive amounts of private and potentially sensitive user data (e.g., identity and messages). User authentication is the key measure to protect such sensitive data from adversaries. In this paper, we explore a novel authentication mechanism, LipAuth, leveraging the unique spatial-temporal features (i.e., both static physiological and dynamic behavioral characteristics) of h...]]></summary>
+        <author>
+            <name>Ling Kuang</name>
+        </author>
+        <author>
+            <name>Fanzi Zeng</name>
+        </author>
+        <author>
+            <name>Daibo Liu</name>
+        </author>
+        <author>
+            <name>Hangcheng Cao</name>
+        </author>
+        <author>
+            <name>Hongbo Jiang</name>
+        </author>
+        <author>
+            <name>Jiangchuan Liu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Privacy-preserving Collaborative Learning: A Scheme Providing Heterogeneous Protection]]></title>
+        <id>https://ieeexplore.ieee.org/document/10163938</id>
+        <link href="https://ieeexplore.ieee.org/document/10163938"/>
+        <updated>2023-06-27T01:15:51.069Z</updated>
+        <summary type="html"><![CDATA[With the widespread application of collaborative learning (CL) technology in mobile-crowdsourcing-related scenarios, special attention should be paid to the privacy disclosure problem therein. Many pioneer noise-perturbation-based methods, particularly the differentially private ones, provide only homogeneous protection, which is insufficient for the heterogeneous protection requirements of many p...]]></summary>
+        <author>
+            <name>Xin Wang</name>
+        </author>
+        <author>
+            <name>Heng Zhang</name>
+        </author>
+        <author>
+            <name>Ming Yang</name>
+        </author>
+        <author>
+            <name>Xiaoming Wu</name>
+        </author>
+        <author>
+            <name>Peng Cheng</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Energy Aware Multi-User Symbiotic Communications Enhanced by RIS for Passive IoT]]></title>
+        <id>https://ieeexplore.ieee.org/document/10163900</id>
+        <link href="https://ieeexplore.ieee.org/document/10163900"/>
+        <updated>2023-06-27T01:15:51.069Z</updated>
+        <summary type="html"><![CDATA[Symbiotic radio (SR) is a promising technology to support ultra-low-power or even zero-power Internet of Things (IoT) devices in the sixth-generation mobile networks. In this paper, we propose an energy-aware symbiotic transmission in a reconfigurable intelligent surface (RIS) enhanced SR system, in which an IoT network embeds its own data passively over cellular downlink signals by backscattering...]]></summary>
+        <author>
+            <name>Yingting Yuan</name>
+        </author>
+        <author>
+            <name>Xiaodong Xu</name>
+        </author>
+        <author>
+            <name>Shujun Han</name>
+        </author>
+        <author>
+            <name>Mengying Sun</name>
+        </author>
+        <author>
+            <name>Ping Zhang</name>
+        </author>
+        <author>
+            <name>Chau Yuen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Broadband/Dual-band Metal-Mountable UHF RFID Tag Antennas: A Systematic Review. Taxonomy Analysis, Standards of Seamless RFID System Operation, Supporting IoT implementations, Recommendations and Future Directions]]></title>
+        <id>https://ieeexplore.ieee.org/document/10162181</id>
+        <link href="https://ieeexplore.ieee.org/document/10162181"/>
+        <updated>2023-06-27T01:15:51.069Z</updated>
+        <summary type="html"><![CDATA[The employment of broadband/dual-band ultra-high frequency (UHF) radio frequency identification (RFID) tag antennas contributes to the growth of RFID technology, with many potential implications, such as the increase of international trade, and reducing costs thereof. This study presents all reported articles on RFID tags for metal objects that can work seamlessly across different countries. Moreo...]]></summary>
+        <author>
+            <name>Fuad Erman</name>
+        </author>
+        <author>
+            <name>Slawomir Koziel</name>
+        </author>
+        <author>
+            <name>Leifur Leifsson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reconfigurable Intelligent Surface-assisted Indoor Millimeter-wave Communications for Mobile Robots]]></title>
+        <id>https://ieeexplore.ieee.org/document/10163913</id>
+        <link href="https://ieeexplore.ieee.org/document/10163913"/>
+        <updated>2023-06-27T01:15:51.069Z</updated>
+        <summary type="html"><![CDATA[Reconfigurable intelligent surfaces (RISs) and millimeter-wave (mmWave) communications have been considered for providing wireless connectivity to mobile robots used in industrial plants and other indoor environments. However, the existing works have not sufficiently studied how the number and deployment locations of RISs should be optimized for serving a mobile robot. In this paper, we study RIS-...]]></summary>
+        <author>
+            <name>Zhiyu Liu</name>
+        </author>
+        <author>
+            <name>Yang Liu</name>
+        </author>
+        <author>
+            <name>Xiaoli Chu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Latency and Reliability Analysis of a 5G-Enabled Internet of Musical Things system]]></title>
+        <id>https://ieeexplore.ieee.org/document/10162178</id>
+        <link href="https://ieeexplore.ieee.org/document/10162178"/>
+        <updated>2023-06-27T01:15:51.069Z</updated>
+        <summary type="html"><![CDATA[The availability of high-performance embedded audio systems, along with high-bandwidth and low-latency connectivity options provided by 5G networks, is enabling the Internet of Musical Things (IoMusT) paradigm. A central component of this paradigm is represented by Networked Music Performances (NMPs), where geographically displaced musicians play together over the network in real time. However, to...]]></summary>
+        <author>
+            <name>Luca Turchet</name>
+        </author>
+        <author>
+            <name>Paolo Casari</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Graph Reinforcement Learning-based Dependency-Aware Microservice Deployment in Edge Computing]]></title>
+        <id>https://ieeexplore.ieee.org/document/10162207</id>
+        <link href="https://ieeexplore.ieee.org/document/10162207"/>
+        <updated>2023-06-27T01:15:51.069Z</updated>
+        <summary type="html"><![CDATA[Microservice architecture is a design philosophy that achieves decoupling by decomposing a monolithic application into multiple lightweight microservices. Meanwhile, edge computing can significantly reduce service latency and network congestion by extending computation and storage resources to the network edge. Therefore, in the microservice-oriented edge computing platform, a fundamental problem ...]]></summary>
+        <author>
+            <name>Wenkai Lv</name>
+        </author>
+        <author>
+            <name>Pengfei Yang</name>
+        </author>
+        <author>
+            <name>Tianyang Zheng</name>
+        </author>
+        <author>
+            <name>Chengmin Lin</name>
+        </author>
+        <author>
+            <name>Zhenyi Wang</name>
+        </author>
+        <author>
+            <name>Minwen Deng</name>
+        </author>
+        <author>
+            <name>Quan Wang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[B-DSPA: A Blockchain-based Dynamically Scalable Privacy-Preserving Authentication Scheme in Vehicular Ad-hoc Networks]]></title>
+        <id>https://ieeexplore.ieee.org/document/10163774</id>
+        <link href="https://ieeexplore.ieee.org/document/10163774"/>
+        <updated>2023-06-27T01:15:51.069Z</updated>
+        <summary type="html"><![CDATA[The big data of Internet of vehicles contributes to the development of intelligent transportation. Privacy protection in Vehicular Ad-hoc Networks(VANETs) is the core factor to improve user and vehicle participation. This paper proposes a novel blockchain-based dynamic extensible privacy protection and message authentication scheme for VANETs. It minimizes the computation cost of message authentic...]]></summary>
+        <author>
+            <name>Qi Tao</name>
+        </author>
+        <author>
+            <name>Hongwei Ding</name>
+        </author>
+        <author>
+            <name>Tian Jiang</name>
+        </author>
+        <author>
+            <name>Xiaohui Cui</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Throughput Maximization for NOMA-based Cognitive Backscatter Communication Networks with Imperfect CSI]]></title>
+        <id>https://ieeexplore.ieee.org/document/10162184</id>
+        <link href="https://ieeexplore.ieee.org/document/10162184"/>
+        <updated>2023-06-27T01:15:51.069Z</updated>
+        <summary type="html"><![CDATA[Cognitive radio and backscatter communication (BackCom) have been viewed as two promising technologies for the future green Internet of Things (IoT). The combination of these two technologies can not only enhance spectrum efficiency but also improve energy efficiency. However, most of the existing resource allocation (RA) algorithms in cognitive BackCom networks consider ideal channel state inform...]]></summary>
+        <author>
+            <name>Yongjun Xu</name>
+        </author>
+        <author>
+            <name>Siqiao Jiang</name>
+        </author>
+        <author>
+            <name>Qing Xue</name>
+        </author>
+        <author>
+            <name>Xingwang Li</name>
+        </author>
+        <author>
+            <name>Chau Yuen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Transparent Epidermal Antenna for Unobtrusive Human-Centric Internet of Things Applications]]></title>
         <id>https://ieeexplore.ieee.org/document/10160121</id>
@@ -21200,430 +21594,6 @@
         </author>
         <author>
             <name>Burkhard Stiller</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Joint Routing and Wireless Charging Scheduling for Electric Vehicles with Shuttle Services]]></title>
-        <id>https://ieeexplore.ieee.org/document/9915787</id>
-        <link href="https://ieeexplore.ieee.org/document/9915787"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[As the electric vehicles (EV) becomes prevalent, the demand for smart charging rises. The disordered charging problem of EVs, the high cost and location problem of charging stations bring great challenge to the power grids and transport networks. The internet of things (IoT) technology enables the IoT-based electric vehicle (IoEV) to plan the route and process the information with smart wireless c...]]></summary>
-        <author>
-            <name>Yongsheng Cao</name>
-        </author>
-        <author>
-            <name>Yongquan Wang</name>
-        </author>
-        <author>
-            <name>Demin Li</name>
-        </author>
-        <author>
-            <name>Xuemin Chen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A novel framework for studying the business impact of ransomware on connected vehicles]]></title>
-        <id>https://ieeexplore.ieee.org/document/9903807</id>
-        <link href="https://ieeexplore.ieee.org/document/9903807"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[Connected vehicle technology is rapidly evolving. In the U.S. the government targets that 50% of all vehicles be electric by 2030 in order to reduce climate change. This initiative comes in the wake of an increased spate of ransomware attacks targeting transportation companies. Unlike traditional ransomware targeting computer networks, the compromise of vehicles can have disastrous consequences on...]]></summary>
-        <author>
-            <name>Asad Waqar Malik</name>
-        </author>
-        <author>
-            <name>Zahid Anwar</name>
-        </author>
-        <author>
-            <name>Anis U. Rahman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PLAKE: PUF based secure Lightweight Authentication and Key Exchange Protocol for IoT]]></title>
-        <id>https://ieeexplore.ieee.org/document/9868840</id>
-        <link href="https://ieeexplore.ieee.org/document/9868840"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[Internet of Things (IoT) is evolving as a ubiquitous technology to thrive human lives with minimal time and effort. The resource-constrained IoT devices operating in an ambient environment with minimal or no safeguards are highly susceptible to physical invasion. The existing protocols suffer from huge computing resources required for cryptographic primitives and bandwidth overhead of high message...]]></summary>
-        <author>
-            <name>Sourav Roy</name>
-        </author>
-        <author>
-            <name>Dipnarayan Das</name>
-        </author>
-        <author>
-            <name>Anindan Mondal</name>
-        </author>
-        <author>
-            <name>Mahabub Hasan Mahalat</name>
-        </author>
-        <author>
-            <name>Bibhash Sen</name>
-        </author>
-        <author>
-            <name>Biplab Sikdar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deep Transfer Learning: A Novel Collaborative Learning Model for Cyberattack Detection Systems in IoT Networks]]></title>
-        <id>https://ieeexplore.ieee.org/document/9868083</id>
-        <link href="https://ieeexplore.ieee.org/document/9868083"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[Federated Learning (FL) has recently become an effective approach for cyberattack detection systems, especially in Internet-of-Things (IoT) networks. By distributing the learning process across IoT gateways, FL can improve learning efficiency, reduce communication overheads and enhance privacy for cyberattack detection systems. However, one of the biggest challenges for deploying FL in IoT network...]]></summary>
-        <author>
-            <name>Tran Viet Khoa</name>
-        </author>
-        <author>
-            <name>Dinh Thai Hoang</name>
-        </author>
-        <author>
-            <name>Nguyen Linh Trung</name>
-        </author>
-        <author>
-            <name>Cong T. Nguyen</name>
-        </author>
-        <author>
-            <name>Tran Thi Thuy Quynh</name>
-        </author>
-        <author>
-            <name>Diep N. Nguyen</name>
-        </author>
-        <author>
-            <name>Nguyen Viet Ha</name>
-        </author>
-        <author>
-            <name>Eryk Dutkiewicz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Defending Cyber-physical Systems through Reverse Engineering Based Memory Sanity Check]]></title>
-        <id>https://ieeexplore.ieee.org/document/9864200</id>
-        <link href="https://ieeexplore.ieee.org/document/9864200"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[Cyber-physical systems (CPSs) are ubiquitous in critical infrastructures, where programmable logic controllers (PLCs) and physical components intertwine. However, multiple successful attacks targeting safety-related CPSs, in particular the PLCs, manifest their vulnerability towards malicious cyber attacks, which may cause significant damage consequently. Though several kinds of defending technique...]]></summary>
-        <author>
-            <name>Yangyang Geng</name>
-        </author>
-        <author>
-            <name>Yuqi Chen</name>
-        </author>
-        <author>
-            <name>Rongkuan Ma</name>
-        </author>
-        <author>
-            <name>Qiang Wei</name>
-        </author>
-        <author>
-            <name>Jie Pan</name>
-        </author>
-        <author>
-            <name>Jingyi Wang</name>
-        </author>
-        <author>
-            <name>Peng Cheng</name>
-        </author>
-        <author>
-            <name>Qingxian Wang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Federated-SRUs: A Federated Simple Recurrent Units-based IDS for Accurate Detection of Cyber Attacks Against IoT-augmented Industrial Control Systems]]></title>
-        <id>https://ieeexplore.ieee.org/document/9863064</id>
-        <link href="https://ieeexplore.ieee.org/document/9863064"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[The security of Industrial Control Systems (ICS) against cyber-attacks is essential in modern era since ICSs are vital constituent of modern societies and smart cities. However, the augmentation of legacy ICS networks with smart computing and networking technologies (such as, IoT) have intensely enlarged the surface of attacks against these critical infrastructures. This augmentation makes these n...]]></summary>
-        <author>
-            <name>Izhar Ahmed Khan</name>
-        </author>
-        <author>
-            <name>Dechang Pi</name>
-        </author>
-        <author>
-            <name>Muhammad Zahid Abbas</name>
-        </author>
-        <author>
-            <name>Umar Zia</name>
-        </author>
-        <author>
-            <name>Yasir Hussain</name>
-        </author>
-        <author>
-            <name>Hatem Soliman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Optimization of RBF-SVM Kernel using Grid Search Algorithm for DDoS Attack Detection in SDN-based VANET]]></title>
-        <id>https://ieeexplore.ieee.org/document/9861708</id>
-        <link href="https://ieeexplore.ieee.org/document/9861708"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[The dynamic nature of the vehicular space exposes it to distributed malicious attacks irrespective of the integration of enabling technologies. The Software-Defined Network (SDN) represents one of these enabling technologies, providing an integrated improvement over the traditional VANET. Due to the centralized characteristics of SDN, they are vulnerable to attacks that may result in life-threaten...]]></summary>
-        <author>
-            <name>Goodness Oluchi Anyanwu</name>
-        </author>
-        <author>
-            <name>Cosmas Ifeanyi Nwakanma</name>
-        </author>
-        <author>
-            <name>Jae-Min Lee</name>
-        </author>
-        <author>
-            <name>Dong-Seong Kim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Efficient Hybrid-DNN for DDoS Detection and Classification in Software-Defined IIoT Networks]]></title>
-        <id>https://ieeexplore.ieee.org/document/9851844</id>
-        <link href="https://ieeexplore.ieee.org/document/9851844"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[Software-Defined Networking (SDN)-based Industrial Internet of Things (IIoT) networks have a centralized controller that is a single attractive target for unauthorized users to attack. Cybersecurity in IIoT networks is becoming the most significant challenge, especially from increasingly sophisticated Distributed Denial-of-Service (DDoS) attacks. This situation necessitates efficient approaches to...]]></summary>
-        <author>
-            <name>Ahmad Zainudin</name>
-        </author>
-        <author>
-            <name>Love Allen Chijioke Ahakonye</name>
-        </author>
-        <author>
-            <name>Rubina Akter</name>
-        </author>
-        <author>
-            <name>Dong-Seong Kim</name>
-        </author>
-        <author>
-            <name>Jae-Min Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IVYCIDE: Smart Intrusion Detection System against E-IoT Driver Threats]]></title>
-        <id>https://ieeexplore.ieee.org/document/9849838</id>
-        <link href="https://ieeexplore.ieee.org/document/9849838"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[The rise of Internet of Things (IoT) devices has led to the proliferation of smart environments worldwide. Although commodity IoT devices are employed by ordinary end-users, complex environments such as smart buildings, government, or private offices, or conference rooms require customized and highly reliable IoT solutions. Enterprise Internet of Things (E-IoT) connect such environments to the Int...]]></summary>
-        <author>
-            <name>Luis Puche Rondon</name>
-        </author>
-        <author>
-            <name>Leonardo Babun</name>
-        </author>
-        <author>
-            <name>Ahmet Aris</name>
-        </author>
-        <author>
-            <name>Kemal Akkaya</name>
-        </author>
-        <author>
-            <name>A. Selcuk Uluagac</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Enhanced Deep Learning Neural Network for the Detection and Identification of Android Malware]]></title>
-        <id>https://ieeexplore.ieee.org/document/9845349</id>
-        <link href="https://ieeexplore.ieee.org/document/9845349"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[Android-based mobile devices have attracted a large number of users because they are easy to use and possess a wide range of capabilities. Because of its popularity, Android has become one of the most important platforms for attackers to launch their nefarious schemes. Due to the rising sophistication of Android malware obfuscation and detection avoidance tactics, many traditional malware detectio...]]></summary>
-        <author>
-            <name>Pakarat Musikawan</name>
-        </author>
-        <author>
-            <name>Yanika Kongsorot</name>
-        </author>
-        <author>
-            <name>Ilsun You</name>
-        </author>
-        <author>
-            <name>Chakchai So-In</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CADeSH: Collaborative Anomaly Detection for Smart Homes]]></title>
-        <id>https://ieeexplore.ieee.org/document/9844137</id>
-        <link href="https://ieeexplore.ieee.org/document/9844137"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[Although home IoT (Internet of Things) devices are typically plain and task oriented, the context of their daily use may affect their traffic patterns. That is, a given IoT device will probably not generate the exact same traffic data when operated by different people in different environments and when connected to different networks with different topologies and communication components. For this...]]></summary>
-        <author>
-            <name>Yair Meidan</name>
-        </author>
-        <author>
-            <name>Dan Avraham</name>
-        </author>
-        <author>
-            <name>Hanan Libhaber</name>
-        </author>
-        <author>
-            <name>Asaf Shabtai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IoT-based Android Malware Detection Using Graph Neural Network With Adversarial Defense]]></title>
-        <id>https://ieeexplore.ieee.org/document/9814995</id>
-        <link href="https://ieeexplore.ieee.org/document/9814995"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[Since the Internet of Things (IoT) is widely adopted using Android applications, detecting malicious Android apps is essential. In recent years, Android graph-based deep learning research has proposed many approaches to extract relationships from the application as a graph to generate graph embeddings. First, we demonstrate the effectiveness of graph-based classification using Graph Neural Network...]]></summary>
-        <author>
-            <name>Rahul Yumlembam</name>
-        </author>
-        <author>
-            <name>Biju Issac</name>
-        </author>
-        <author>
-            <name>Seibu Mary Jacob</name>
-        </author>
-        <author>
-            <name>Longzhi Yang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Data Enhancement Aided Protocol-Agnostic Transmitter Recognition for Open-Set in IoT]]></title>
-        <id>https://ieeexplore.ieee.org/document/9779348</id>
-        <link href="https://ieeexplore.ieee.org/document/9779348"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[Radio Frequency Fingerprinting Identification (RFFI), based on hardware inherent imperfections, is an effective technique for physical authentication in the Internet of Things (IoT). However, due to the nonstationary and open factors in realistic scenes, problems such as inaccurate fingerprinting extractions and unreliable transmitter identifications often occur. Specifically, in actual scenarios,...]]></summary>
-        <author>
-            <name>Xiaoxu Zhang</name>
-        </author>
-        <author>
-            <name>Meiyan Lin</name>
-        </author>
-        <author>
-            <name>Ye Tian</name>
-        </author>
-        <author>
-            <name>Yonghui Huang</name>
-        </author>
-        <author>
-            <name>Junshe An</name>
-        </author>
-        <author>
-            <name>Tianshu Cui</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Semi-Supervised Federated Learning Based Intrusion Detection Method for Internet of Things]]></title>
-        <id>https://ieeexplore.ieee.org/document/9777753</id>
-        <link href="https://ieeexplore.ieee.org/document/9777753"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[Federated learning (FL) has become an increasingly popular solution for intrusion detection to avoid data privacy leakage in Internet of Things (IoT) edge devices. Existing FL-based intrusion detection methods, however, suffer from three limitations: (1) model parameters transmitted in each round may be used to recover private data, which leads to security risks, (2) not independent and identicall...]]></summary>
-        <author>
-            <name>Ruijie Zhao</name>
-        </author>
-        <author>
-            <name>Yijun Wang</name>
-        </author>
-        <author>
-            <name>Zhi Xue</name>
-        </author>
-        <author>
-            <name>Tomoaki Ohtsuki</name>
-        </author>
-        <author>
-            <name>Bamidele Adebisi</name>
-        </author>
-        <author>
-            <name>Guan Gui</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BDRA: Blockchain and Decentralized Identifiers Assisted Secure Registration and Authentication for VANETs]]></title>
-        <id>https://ieeexplore.ieee.org/document/9747918</id>
-        <link href="https://ieeexplore.ieee.org/document/9747918"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[In vehicular ad-hoc networks (VANETs), road safety and road traffic efficiency can be improved through message interaction between vehicle users, which inevitably relies on secure identity authentication and message credibility verification. Existing authentication and message verification mechanisms are prone to severe single points of failure and low authentication efficiency due to their relian...]]></summary>
-        <author>
-            <name>Xuehan Li</name>
-        </author>
-        <author>
-            <name>Tao Jing</name>
-        </author>
-        <author>
-            <name>Ruinian Li</name>
-        </author>
-        <author>
-            <name>Hui Li</name>
-        </author>
-        <author>
-            <name>Xiaoxuan Wang</name>
-        </author>
-        <author>
-            <name>Dequan Shen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Certificateless Signcryption Mechanism Based on Blockchain for Edge Computing]]></title>
-        <id>https://ieeexplore.ieee.org/document/9714261</id>
-        <link href="https://ieeexplore.ieee.org/document/9714261"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[The emergence of edge computing makes it possible to realize new technologies such as virtual reality and augmented reality. However, a large number of devices and more messages at the edge bring more security problems. Therefore, it is an important research topic to provide users with faster network services while ensuring confidentiality and authentication of data transmission. Because signcrypt...]]></summary>
-        <author>
-            <name>Guangxia Xu</name>
-        </author>
-        <author>
-            <name>Jingnan Dong</name>
-        </author>
-        <author>
-            <name>Chuang Ma</name>
-        </author>
-        <author>
-            <name>Jun Liu</name>
-        </author>
-        <author>
-            <name>Uchani Gutierrez Omar Cliff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Toward Secure Data Sharing for the IoT devices with limited resources: A Smart Contract–Based Quality-Driven Incentive Mechanism]]></title>
-        <id>https://ieeexplore.ieee.org/document/9680715</id>
-        <link href="https://ieeexplore.ieee.org/document/9680715"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[With the rapid deployment of Internet of Things (IoT) devices in various industries and fields, the massive amount of data produced by these devices can yield greater value through sharing. A critical challenge in the data sharing process is ensuring that the data is high quality. However, the quality of data provided by a large number of IoT devices is impacted by the variability of factors contr...]]></summary>
-        <author>
-            <name>Chi Zhang</name>
-        </author>
-        <author>
-            <name>Tao Shen</name>
-        </author>
-        <author>
-            <name>Fenhua Bai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MSKNP: Multi-stage Key Negotiation Protocol for IoT-Blockchain Environment]]></title>
-        <id>https://ieeexplore.ieee.org/document/9669187</id>
-        <link href="https://ieeexplore.ieee.org/document/9669187"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[With the development of the Internet, the technical framework that integrates Internet of Thing and blockchain has gradually developed. However, how to ensure the secure with balanced performance of devices become a key issue. In this paper, we design a new multi-stage session key negotiation protocols for the Internet of Things-blockchain environment by using “Agents”. We transferring bilinear op...]]></summary>
-        <author>
-            <name>Zipeng Diao</name>
-        </author>
-        <author>
-            <name>Qian Wang</name>
-        </author>
-        <author>
-            <name>Bei Gong</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Resource Sharing and Trading of Blockchain Radio Access Networks: Architecture and Prototype Design]]></title>
-        <id>https://ieeexplore.ieee.org/document/9650617</id>
-        <link href="https://ieeexplore.ieee.org/document/9650617"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[Recently, blockchain radio access network (B-RAN) arises as an innovative paradigm for the sixth-generation (6G) wireless communications to build cooperative trust, aggregate wireless resources, and schedule inter-and intra-network tasks among independent network entities. It establishes an open platform based on blockchain to provide diverse wireless services and applications, such as radio acces...]]></summary>
-        <author>
-            <name>Yuwei Le</name>
-        </author>
-        <author>
-            <name>Xintong Ling</name>
-        </author>
-        <author>
-            <name>Jiaheng Wang</name>
-        </author>
-        <author>
-            <name>Ruiwei Guo</name>
-        </author>
-        <author>
-            <name>Yongming Huang</name>
-        </author>
-        <author>
-            <name>Cheng-Xiang Wang</name>
-        </author>
-        <author>
-            <name>Xiaohu You</name>
         </author>
     </entry>
 </feed>

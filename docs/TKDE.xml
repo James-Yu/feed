@@ -2,11 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/TKDE.rss</id>
     <title>IEEE Transactions on Knowledge and Data Engineering</title>
-    <updated>2023-06-26T16:16:34.152Z</updated>
+    <updated>2023-06-27T01:15:38.960Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/TKDE.rss"/>
     <subtitle>IEEE Transactions on Knowledge and Data Engineering</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Dual Contrastive Learning for Efficient Static Feature Representation in Sequential Recommendations]]></title>
+        <id>https://ieeexplore.ieee.org/document/10163858</id>
+        <link href="https://ieeexplore.ieee.org/document/10163858"/>
+        <updated>2023-06-27T01:15:38.955Z</updated>
+        <summary type="html"><![CDATA[Static user and item features constitute important information to be taken into account in the recommendation process. However, as these features are usually sparse and of large-vocabulary, existing deep learning-based methods typically construct large tables of high-dimensional feature embeddings, which is inefficient in terms of memory storage and is computationally problematic. On the other han...]]></summary>
+        <author>
+            <name>Pan Li</name>
+        </author>
+        <author>
+            <name>Maofei Que</name>
+        </author>
+        <author>
+            <name>Alexander Tuzhilin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Influence of Digital Technologies on Knowledge Management in Engineering: A Systematic Literature Review]]></title>
         <id>https://ieeexplore.ieee.org/document/10159469</id>

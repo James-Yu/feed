@@ -2,11 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/TII.rss</id>
     <title>IEEE Transactions on Industrial Informatics</title>
-    <updated>2023-06-26T16:16:52.639Z</updated>
+    <updated>2023-06-27T01:15:57.913Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/TII.rss"/>
     <subtitle>IEEE Transactions on Industrial Informatics</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Embedded Asynchronous MIMO Adaptive Predictive Control]]></title>
+        <id>https://ieeexplore.ieee.org/document/10163238</id>
+        <link href="https://ieeexplore.ieee.org/document/10163238"/>
+        <updated>2023-06-27T01:15:57.908Z</updated>
+        <summary type="html"><![CDATA[This work introduces Tripartite Adaptive Predictive Control: a novel task parallelization scheme for the original Adaptive Predictive Control (APC) algorithm. Profiling studies of an optimized embedded implementation of the multiple-input-multiple-output (MIMO) version of APC show that the Recursion section of the algorithm greatly impacts the overall execution time, specially for larger predictio...]]></summary>
+        <author>
+            <name>Ruben Aurelio Puebla-Gutierrez</name>
+        </author>
+        <author>
+            <name>Antonio Favela-Contreras</name>
+        </author>
+        <author>
+            <name>Alfonso Avila</name>
+        </author>
+        <author>
+            <name>Camilo Lozoya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Label Efficient Semi Self-Supervised Learning Framework for IoT Devices in Industrial Process]]></title>
+        <id>https://ieeexplore.ieee.org/document/10163235</id>
+        <link href="https://ieeexplore.ieee.org/document/10163235"/>
+        <updated>2023-06-27T01:15:57.908Z</updated>
+        <summary type="html"><![CDATA[The industrial sector has experienced a tremendous advancement in deep supervised learning due to its representation ability, but it comes with high computing and labeled data demands. Recently, the demand for intelligent IoT devices on assembly and disassembly lines has surged. This necessitates algorithms that can use data to make intelligent decisions and a framework that can enable multiple Io...]]></summary>
+        <author>
+            <name>Vandana Bharti</name>
+        </author>
+        <author>
+            <name>Abhinav Kumar</name>
+        </author>
+        <author>
+            <name>Vishal Purohit</name>
+        </author>
+        <author>
+            <name>Rishav Singh</name>
+        </author>
+        <author>
+            <name>Amit Kumar Singh</name>
+        </author>
+        <author>
+            <name>Sanjay Kumar Singh</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Synchronous Imaging and Multimodal Fusion of Optical and Electromagnetic Measurements for Overlapping Defects Inspection]]></title>
         <id>https://ieeexplore.ieee.org/document/10160199</id>

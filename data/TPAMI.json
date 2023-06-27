@@ -1,5 +1,64 @@
 [
   {
+    "articleNumber": "10163070",
+    "articleTitle": "Relational Temporal Graph Reasoning for Dual-task Dialogue Language Understanding",
+    "authors": [
+      "Bowen Xing",
+      "Ivor W. Tsang"
+    ],
+    "abstract": "Dual-task dialog language understanding aims to tackle two correlative dialog language understanding tasks simultaneously via leveraging their inherent correlations. In this paper, we put forward a new framework, whose core is relational temporal graph reasoning. We propose a speaker-aware temporal graph (SATG) and a dual-task relational temporal graph (DRTG) to facilitate relational temporal mode...",
+    "date": "2023-06-27T01:15:44.845Z"
+  },
+  {
+    "articleNumber": "10163947",
+    "articleTitle": "View Synthesis of Dynamic Scenes based on Deep 3D Mask Volume",
+    "authors": [
+      "Kai-En Lin",
+      "Guowei Yang",
+      "Lei Xiao",
+      "Feng Liu",
+      "Ravi Ramamoorthi"
+    ],
+    "abstract": "Image view synthesis has seen great success in reconstructing photorealistic visuals, thanks to deep learning and various novel representations. The next key step in immersive virtual experiences is view synthesis of dynamic scenes. However, several challenges exist due to the lack of high-quality training datasets, and the additional time dimension for videos of dynamic scenes. To address this is...",
+    "date": "2023-06-27T01:15:44.845Z"
+  },
+  {
+    "articleNumber": "10163059",
+    "articleTitle": "Rainbow UDA: Combining Domain Adaptive Models for Semantic Segmentation Tasks",
+    "authors": [
+      "Chen-Hao Chao",
+      "Bo-Wun Cheng",
+      "Tzu-Wen Wang",
+      "Huang-Ru Liao",
+      "Chun-Yi Lee"
+    ],
+    "abstract": "In this paper, we propose Rainbow UDA, a framework designed to address the drawbacks of the previous ensemble-distillation frameworks when combining multiple unsupervised domain adaptation (UDA) models for semantic segmentation tasks. Such drawbacks are mainly resulted from overlooking the magnitudes of the output certainties of different members in an ensemble as well as their individual performa...",
+    "date": "2023-06-27T01:15:44.845Z"
+  },
+  {
+    "articleNumber": "10163830",
+    "articleTitle": "Adaptive Region-Specific Loss for Improved Medical Image Segmentation",
+    "authors": [
+      "Yizheng Chen",
+      "Lequan Yu",
+      "Jen-Yeu Wang",
+      "Neil Panjwani",
+      "Jean-Pierre Obeid",
+      "Wu Liu",
+      "Lianli Liu",
+      "Nataliya Kovalchuk",
+      "Michael Francis Gensheimer",
+      "Lucas Kas Vitzthum",
+      "Beth M. Beadle",
+      "Daniel T. Chang",
+      "Quynh-Thu Le",
+      "Bin Han",
+      "Lei Xing"
+    ],
+    "abstract": "Defining the loss function is an important part of neural network design and critically determines the success of deep learning modeling. A significant shortcoming of the conventional loss functions is that they weight all regions in the input image volume equally, despite the fact that the system is known to be heterogeneous (i.e., some regions can achieve high prediction performance more easily ...",
+    "date": "2023-06-27T01:15:44.845Z"
+  },
+  {
     "articleNumber": "10160157",
     "articleTitle": "One-Shot Adaptation of GAN in Just One CLIP",
     "authors": [

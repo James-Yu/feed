@@ -1,5 +1,72 @@
 [
   {
+    "articleNumber": "10163941",
+    "articleTitle": "Consortium Blockchain-Based Security and Efficient Resource Trading in V2V-Assisted Intelligent Transport Systems",
+    "authors": [
+      "Peng Liu",
+      "Weipeng Jing",
+      "Xinyu Fu",
+      "Yang Xiao",
+      "Lili Jia"
+    ],
+    "abstract": "As an effective method to increase the computing capability of vehicles, vehicle-to-vehicle (V2V) assisted vehicular edge computing (VEC) has great potential to reduce infrastructure spending and better adapt to mobility. However, its feasibility depends heavily on the sharing willingness, how to incentive selfish vehicles in such decentralized architecture is a vital problem. In this paper, we jo...",
+    "date": "2023-06-27T01:15:33.365Z"
+  },
+  {
+    "articleNumber": "10163940",
+    "articleTitle": "RGBD-SLAM Based on Object Detection With Two-Stream YOLOv4-MobileNetv3 in Autonomous Driving",
+    "authors": [
+      "Gongfa Li",
+      "Hanwen Fan",
+      "Guozhang Jiang",
+      "Du Jiang",
+      "Yuting Liu",
+      "Bo Tao",
+      "Juntong Yun"
+    ],
+    "abstract": "Autonomous driving has gradually become a research hotspot in recent years. Visual Simultaneous Localization and Mapping (SLAM) technology can help unmanned vehicles accurately explore the environment at a lower cost, and the readability of the map can be improved by integrating target detection algorithms. However, the location and 3D shape of the object in the map were not obtained. The method o...",
+    "date": "2023-06-27T01:15:33.365Z"
+  },
+  {
+    "articleNumber": "10163942",
+    "articleTitle": "Adaptive Collision-Free Trajectory Tracking Control for String Stable Bidirectional Platoons",
+    "authors": [
+      "Shaohua Cui",
+      "Yongjie Xue",
+      "Kun Gao",
+      "Maolong Lv",
+      "Bin Yu"
+    ],
+    "abstract": "Autonomous vehicle (AV) platoons, especially those with the bidirectional communication topology, have significant practical value, as they not only increase link capacity and reduce vehicle energy consumption, but also reduce the consumption of communication resources. Small gaps between AVs in a platoon easily lead to emergency braking or even collisions between consecutive AVs. This paper appli...",
+    "date": "2023-06-27T01:15:33.365Z"
+  },
+  {
+    "articleNumber": "10163945",
+    "articleTitle": "FS-Net: LiDAR-Camera Fusion With Matched Scale for 3D Object Detection in Autonomous Driving",
+    "authors": [
+      "Lei Zhang",
+      "Xu Li",
+      "Kaichen Tang",
+      "Yunzhe Jiang",
+      "Liu Yang",
+      "Yonggang Zhang",
+      "Xianyi Chen"
+    ],
+    "abstract": "As a key task in autonomous driving, 3D object detection based on LiDAR-camera fusion is expected to achieve more robust results by the complementarity of the two sensors. However, LiDAR-camera fusion is non-trivial. An existing problem for this type of detector is that the scale and receptive field of LiDAR point features and image features are not matched, leading to information deficiency or re...",
+    "date": "2023-06-27T01:15:33.365Z"
+  },
+  {
+    "articleNumber": "10163944",
+    "articleTitle": "Risk-Aware Decision-Making and Planning Using Prediction-Guided Strategy Tree for the Uncontrolled Intersections",
+    "authors": [
+      "Ting Zhang",
+      "Mengyin Fu",
+      "Wenjie Song"
+    ],
+    "abstract": "Uncontrolled intersections with interaction and uncertainties are challenging for autonomous vehicles (AV) to manage. In this work, we propose a decision-making model specific to intersections with emphasis on three aspects. First, behavior estimation of the social vehicles’ (SVs) is essential for risk avoidance. We try to improve prediction accuracy by predicting the intentions and driving styles...",
+    "date": "2023-06-27T01:15:33.365Z"
+  },
+  {
     "articleNumber": "10161585",
     "articleTitle": "Neighborhood Rough Residual Network–Based Outlier Detection Method in IoT-Enabled Maritime Transportation Systems",
     "authors": [

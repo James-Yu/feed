@@ -1,5 +1,16 @@
 [
   {
+    "articleNumber": "10163858",
+    "articleTitle": "Dual Contrastive Learning for Efficient Static Feature Representation in Sequential Recommendations",
+    "authors": [
+      "Pan Li",
+      "Maofei Que",
+      "Alexander Tuzhilin"
+    ],
+    "abstract": "Static user and item features constitute important information to be taken into account in the recommendation process. However, as these features are usually sparse and of large-vocabulary, existing deep learning-based methods typically construct large tables of high-dimensional feature embeddings, which is inefficient in terms of memory storage and is computationally problematic. On the other han...",
+    "date": "2023-06-27T01:15:38.955Z"
+  },
+  {
     "articleNumber": "10159469",
     "articleTitle": "The Influence of Digital Technologies on Knowledge Management in Engineering: A Systematic Literature Review",
     "authors": [
