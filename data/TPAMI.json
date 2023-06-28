@@ -1,5 +1,18 @@
 [
   {
+    "articleNumber": "10164132",
+    "articleTitle": "Counterfactual Samples Synthesizing and Training for Robust Visual Question Answering",
+    "authors": [
+      "Long Chen",
+      "Yuhang Zheng",
+      "Yulei Niu",
+      "Hanwang Zhang",
+      "Jun Xiao"
+    ],
+    "abstract": "Today&#39;s VQA models still tend to capture superficial linguistic correlations in the training set and fail to generalize to the test set with different QA distributions. To reduce these language biases, recent VQA works introduce an auxiliary question-only model to regularize the training of targeted VQA model, and achieve dominating performance on diagnostic benchmarks for out-of-distribution test...",
+    "date": "2023-06-28T01:16:38.774Z"
+  },
+  {
     "articleNumber": "10163070",
     "articleTitle": "Relational Temporal Graph Reasoning for Dual-task Dialogue Language Understanding",
     "authors": [

@@ -2,11 +2,209 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/IoTJ.rss</id>
     <title>IEEE Internet of Things Journal</title>
-    <updated>2023-06-27T16:16:58.982Z</updated>
+    <updated>2023-06-28T01:16:43.097Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/IoTJ.rss"/>
     <subtitle>IEEE Internet of Things Journal</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[IncreAuth: Incremental Learning based Behavioral Biometric Authentication on Smartphones]]></title>
+        <id>https://ieeexplore.ieee.org/document/10164632</id>
+        <link href="https://ieeexplore.ieee.org/document/10164632"/>
+        <updated>2023-06-28T01:16:43.088Z</updated>
+        <summary type="html"><![CDATA[Touch behavior biometric has been widely studied for continuous authentication on mobile devices, which provides a more secure authentication in an implicit process. However, the existing touch behavior biometric based authentication systems suffer from two issues. First, the existing touch behavior representation methods are hard to characterize touch operations under complex usage context. Secon...]]></summary>
+        <author>
+            <name>Zhihao Shen</name>
+        </author>
+        <author>
+            <name>Shun Li</name>
+        </author>
+        <author>
+            <name>Xi Zhao</name>
+        </author>
+        <author>
+            <name>Jianhua Zou</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Martingale-based URLLC Slice Customization for the Provisioning of Reliability Regard to End-to-end Latency]]></title>
+        <id>https://ieeexplore.ieee.org/document/10164272</id>
+        <link href="https://ieeexplore.ieee.org/document/10164272"/>
+        <updated>2023-06-28T01:16:43.088Z</updated>
+        <summary type="html"><![CDATA[End-to-end (E2E) reliability provisioning is critical for network slice customization. Leveraging martingale theory, we construct an analysis framework of the reliability with regard to E2E latency for the multi-hop system, where service processes provided by wireless nodes and networking nodes are heterogeneous. Based on the Wald martingale constructions of arrival processes and service processes...]]></summary>
+        <author>
+            <name>Baozhu Yu</name>
+        </author>
+        <author>
+            <name>Xuefen Chi</name>
+        </author>
+        <author>
+            <name>Shuai Li</name>
+        </author>
+        <author>
+            <name>Xuan Liu</name>
+        </author>
+        <author>
+            <name>Shoushou Ren</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CoBC: A Blockchain-based Collaborative Inference System for the Internet of Things]]></title>
+        <id>https://ieeexplore.ieee.org/document/10164634</id>
+        <link href="https://ieeexplore.ieee.org/document/10164634"/>
+        <updated>2023-06-28T01:16:43.088Z</updated>
+        <summary type="html"><![CDATA[The capability of local smart sensing based on IoT devices is typically limited due to due to the inherent limitations of computational and storage capabilities. Recently, collaborative inference among multiple devices has been considered as an effective way to improve the sensing capabilities of individual IoT devices. However, the collaborative inference process still faces the challenges of dat...]]></summary>
+        <author>
+            <name>Xingyu Feng</name>
+        </author>
+        <author>
+            <name>Lingjie Li</name>
+        </author>
+        <author>
+            <name>Tenglong Wang</name>
+        </author>
+        <author>
+            <name>Weitao Xu</name>
+        </author>
+        <author>
+            <name>Jin Zhang</name>
+        </author>
+        <author>
+            <name>Bo Wei</name>
+        </author>
+        <author>
+            <name>Chengwen Luo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MeFi: Mean Field Reinforcement Learning for Cooperative Routing in Wireless Sensor Network]]></title>
+        <id>https://ieeexplore.ieee.org/document/10164652</id>
+        <link href="https://ieeexplore.ieee.org/document/10164652"/>
+        <updated>2023-06-28T01:16:43.088Z</updated>
+        <summary type="html"><![CDATA[Wireless Sensor Networks (WSNs) enable intelligent collaborative perceptions in the Internet of Things. However, devices in WSNs are battery-powered with limited energy resources. During transmission, routing policies significantly affect the energy efficiency in terms of both energy consumption and energy balance among nodes, and further impact the network lifetime. Previous works mostly used heu...]]></summary>
+        <author>
+            <name>Jing Ren</name>
+        </author>
+        <author>
+            <name>Jiangong Zheng</name>
+        </author>
+        <author>
+            <name>Xiaotong Guo</name>
+        </author>
+        <author>
+            <name>Tongyu Song</name>
+        </author>
+        <author>
+            <name>Xiong Wang</name>
+        </author>
+        <author>
+            <name>Sheng Wang</name>
+        </author>
+        <author>
+            <name>Wei Zhang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Joint Optimization of Multi-User Computation Offloading and Wireless-Caching Resource Allocation with Linearly Related Requests in Vehicular Edge Computing System]]></title>
+        <id>https://ieeexplore.ieee.org/document/10164281</id>
+        <link href="https://ieeexplore.ieee.org/document/10164281"/>
+        <updated>2023-06-28T01:16:43.088Z</updated>
+        <summary type="html"><![CDATA[Recently, vehicular edge computing (VEC) has become one of the hottest research fields in Internet of Vehicles (IoV). It provides certain computing, storage and caching resources at the edge of radio network to execute different kinds of vehicular applications, which can significantly reduce the latency of network operation and service delivery. Also edge caching is an effective way to reduce exec...]]></summary>
+        <author>
+            <name>Liqing Liu</name>
+        </author>
+        <author>
+            <name>Zhichao Chen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blockchain-Enabled and Multisignature-Powered Verifiable Model for Securing Federated Learning Systems]]></title>
+        <id>https://ieeexplore.ieee.org/document/10164640</id>
+        <link href="https://ieeexplore.ieee.org/document/10164640"/>
+        <updated>2023-06-28T01:16:43.088Z</updated>
+        <summary type="html"><![CDATA[The Internet of Things is revolutionizing numerous industrial applications by employing smart devices in manufacturing and industrial processes. Industries based on IoT generate extensive data, typically analyzed using various Machine Learning (ML) models. Federated Learning (FL) is an emerging, privacy-preserving ML method where clients train models locally and develop a global model based on the...]]></summary>
+        <author>
+            <name>Aditya Pribadi Kalapaaking</name>
+        </author>
+        <author>
+            <name>Ibrahim Khalil</name>
+        </author>
+        <author>
+            <name>Mohammed Atiquzzaman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hybrid Precoder and Combiner Designs for Decentralized Parameter Estimation in mmWave MIMO Wireless Sensor Networks]]></title>
+        <id>https://ieeexplore.ieee.org/document/10164638</id>
+        <link href="https://ieeexplore.ieee.org/document/10164638"/>
+        <updated>2023-06-28T01:16:43.088Z</updated>
+        <summary type="html"><![CDATA[Hybrid precoder and combiner designs are conceived for decentralized parameter estimation in millimeter wave (mmWave) multiple-input multiple-output (MIMO) wireless sensor networks (WSNs). More explicitly, efficient pre-and post-processing of the sensor observations and received signal are proposed for the minimum mean square error (MMSE) estimation of a parameter vector. The proposed techniques e...]]></summary>
+        <author>
+            <name>Priyanka Maity</name>
+        </author>
+        <author>
+            <name>Suraj Srivastava</name>
+        </author>
+        <author>
+            <name>Kunwar Pritiraj Rajput</name>
+        </author>
+        <author>
+            <name>Naveen K. D. Venkategowda</name>
+        </author>
+        <author>
+            <name>Aditya K. Jagannatham</name>
+        </author>
+        <author>
+            <name>Lajos Hanzo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EasiEI: A Simulator to Flexibly Modeling Complex Edge Computing Environments]]></title>
+        <id>https://ieeexplore.ieee.org/document/10164279</id>
+        <link href="https://ieeexplore.ieee.org/document/10164279"/>
+        <updated>2023-06-28T01:16:43.088Z</updated>
+        <summary type="html"><![CDATA[In edge computing scenarios, there is a need for modeling dedicated features and heterogeneous devices functions, as well as integrating multiple complex scenarios with diverse objectives and frequent interactions. However, existing platforms modeling for the whole device ignores the independence between functional components resulting in limited scenario support. We propose an open-source simulat...]]></summary>
+        <author>
+            <name>Xiao Su</name>
+        </author>
+        <author>
+            <name>Jianpeng Qi</name>
+        </author>
+        <author>
+            <name>Jiahao Wang</name>
+        </author>
+        <author>
+            <name>Rui Wang</name>
+        </author>
+        <author>
+            <name>Yuan Yao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Towards Pitch-Insensitive Speaker Verification via Soundfield]]></title>
+        <id>https://ieeexplore.ieee.org/document/10164637</id>
+        <link href="https://ieeexplore.ieee.org/document/10164637"/>
+        <updated>2023-06-28T01:16:43.088Z</updated>
+        <summary type="html"><![CDATA[Automatic speaker verification systems (ASVs) verify a persons identity by his/her voice and have been widely deployed for user authentication. However, existing ASVs are based on traditional audio spectral features and hence perform poorly in verifying pitch-changed utterances from speakers with cold or sore throat. In this paper, we propose SOFTER (SOundField TrackER), a soundfield-based speaker...]]></summary>
+        <author>
+            <name>Xinfeng Li</name>
+        </author>
+        <author>
+            <name>Zhicong Zheng</name>
+        </author>
+        <author>
+            <name>Chen Yan</name>
+        </author>
+        <author>
+            <name>Chaohao Li</name>
+        </author>
+        <author>
+            <name>Xiaoyu Ji</name>
+        </author>
+        <author>
+            <name>Wenyuan Xu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ciphertext Retrieval with Identity Bidirectional Authentication and Matrix Index in IoT]]></title>
         <id>https://ieeexplore.ieee.org/document/10162024</id>
@@ -21381,219 +21579,6 @@
         </author>
         <author>
             <name>Daniel Dajun Zeng</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cooperative Resource Allocation for Computation-Intensive IIoT Applications in Aerial Computing]]></title>
-        <id>https://ieeexplore.ieee.org/document/9951135</id>
-        <link href="https://ieeexplore.ieee.org/document/9951135"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[Unmanned aerial vehicles (UAVs) will be a vital part of the massive Industrial Internet of Things (IIoT) in the 5G and 6G paradigms. The UAVs are required to collaborate with each other to deal with some computation-intensive IIoT applications in an autonomous UAV system. However, due to the limited processing capacity of UAVs, they are occasionally unable to handle certain tasks adequately (e.g.,...]]></summary>
-        <author>
-            <name>Jialei Liu</name>
-        </author>
-        <author>
-            <name>Guosheng Li</name>
-        </author>
-        <author>
-            <name>Quanzhen Huang</name>
-        </author>
-        <author>
-            <name>Muhammad Bilal</name>
-        </author>
-        <author>
-            <name>Xiaolong Xu</name>
-        </author>
-        <author>
-            <name>Houbing Song</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Self-Organized and Distributed Green Resource Allocation for Space-Air-Ground IoT Networks]]></title>
-        <id>https://ieeexplore.ieee.org/document/9951141</id>
-        <link href="https://ieeexplore.ieee.org/document/9951141"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[To deal with the explosion connections and data volume for emergency communication or hot spot capacity enhancement with massive Internet of Things (IoT) devices, deploying aerial base stations (AeBS) on unmanned aerial vehicles (UAV) to generate heterogeneous space-air-ground networks is considered to be a quite effective method. However, the flying AeBSs and back-hauling to existing heterogeneou...]]></summary>
-        <author>
-            <name>Peng Yu</name>
-        </author>
-        <author>
-            <name>Yijing Li</name>
-        </author>
-        <author>
-            <name>Manjun Zhang</name>
-        </author>
-        <author>
-            <name>Ao Xiong</name>
-        </author>
-        <author>
-            <name>Wenjing Li</name>
-        </author>
-        <author>
-            <name>Xuesong Qiu</name>
-        </author>
-        <author>
-            <name>Luoming Meng</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dynamic SFC Embedding Algorithm Assisted by Federated Learning in Space-Air-Ground Integrated Network Resource Allocation Scenario]]></title>
-        <id>https://ieeexplore.ieee.org/document/9951143</id>
-        <link href="https://ieeexplore.ieee.org/document/9951143"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[Traditional terrestrial wireless communication networks cannot support the requirements for high-quality services for artificial intelligence applications such as smart cities. The space-air-ground integrated network (SAGIN) provides a solution to address this challenge. However, SAGIN is heterogeneous, time-varying, and multi-dimensional information sources, making it difficult for traditional ne...]]></summary>
-        <author>
-            <name>Peiying Zhang</name>
-        </author>
-        <author>
-            <name>Yi Zhang</name>
-        </author>
-        <author>
-            <name>Neeraj Kumar</name>
-        </author>
-        <author>
-            <name>Mohsen Guizani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reconfigurable Intelligent Surface-Aided Number Modulation for Symbiotic Active/Passive Transmission]]></title>
-        <id>https://ieeexplore.ieee.org/document/9951145</id>
-        <link href="https://ieeexplore.ieee.org/document/9951145"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[Reconfigurable intelligent surface (RIS)-aided symbiotic active/passive transmission is a promising communication paradigm, which is able to improve the propagation environment while transmitting additional information. In this paper, a novel scheme, termed RIS-aided number modulation (RIS-NM), is proposed for symbiotic active/passive communications. In RIS-NM, the RIS elements are divided into in...]]></summary>
-        <author>
-            <name>Qiang Li</name>
-        </author>
-        <author>
-            <name>Miaowen Wen</name>
-        </author>
-        <author>
-            <name>Lexi Xu</name>
-        </author>
-        <author>
-            <name>Kang Li</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wireless Resources Cooperation of Assembled Small UAVs for Data Collections of IoT]]></title>
-        <id>https://ieeexplore.ieee.org/document/9951049</id>
-        <link href="https://ieeexplore.ieee.org/document/9951049"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[Small Unmanned Air Vehicles (UAVs) have many advantages, including low cost, and flexible deployment. And they play an important role to collect the sensing data of IoT (Internet of Things). However, limited by the load capability, it is a big challenge for them to perform long-term, large range, or far distance tasks. In order to tackle these challenges, we propose to use assembly UAVs, in which ...]]></summary>
-        <author>
-            <name>Jian Xiong</name>
-        </author>
-        <author>
-            <name>Lantu Guo</name>
-        </author>
-        <author>
-            <name>Mingang Shan</name>
-        </author>
-        <author>
-            <name>Bo Liu</name>
-        </author>
-        <author>
-            <name>Peng Yu</name>
-        </author>
-        <author>
-            <name>Lingfeng Guo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Scalable and Auditable Secure Data Sharing Scheme with Traceability for Fog-Based Smart Logistics]]></title>
-        <id>https://ieeexplore.ieee.org/document/9943995</id>
-        <link href="https://ieeexplore.ieee.org/document/9943995"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[Smart Logistics (s-Logistics) has become more and more popular driven by intelligent Internet of Things (IoT) which deploys pervasive smart devices in s-Logistics systems. The explosive growth of s-Logistics data collected by these resource-limited IoT devices enables Fog-based s-Logistics that provides data outsourcing and sharing services via multiple clouds within small latency. Nevertheless, i...]]></summary>
-        <author>
-            <name>Yanbo Yang</name>
-        </author>
-        <author>
-            <name>Jiawei Zhang</name>
-        </author>
-        <author>
-            <name>Ximeng Liu</name>
-        </author>
-        <author>
-            <name>Qi Jiang</name>
-        </author>
-        <author>
-            <name>Yuanzhen Liu</name>
-        </author>
-        <author>
-            <name>Baoshan Li</name>
-        </author>
-        <author>
-            <name>Yongxing Du</name>
-        </author>
-        <author>
-            <name>Jianfeng Ma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fast Model Update for IoT Traffic Anomaly Detection with Machine Unlearning]]></title>
-        <id>https://ieeexplore.ieee.org/document/9927728</id>
-        <link href="https://ieeexplore.ieee.org/document/9927728"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[It is often needed to update deep learning-based detection models in traffic anomaly detection systems for the Internet of Things (IoT) because of mislabelled samples or device firmware upgrades. Machine unlearning, a technique that quickly updates the anomaly detection model without re-training the model from scratch, has recently attracted much research attention. We propose a novel machine unle...]]></summary>
-        <author>
-            <name>Jiamin Fan</name>
-        </author>
-        <author>
-            <name>Kui Wu</name>
-        </author>
-        <author>
-            <name>Yang Zhou</name>
-        </author>
-        <author>
-            <name>Zhengan Zhao</name>
-        </author>
-        <author>
-            <name>Shengqiang Huang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Contrastive Learning over Random Fourier Features for IoT Network Intrusion Detection]]></title>
-        <id>https://ieeexplore.ieee.org/document/9919264</id>
-        <link href="https://ieeexplore.ieee.org/document/9919264"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[IoT networks connect dispersed and heterogeneous devices with high economic impact, making them an important cybersecurity target. The changing nature of cybersecurity attacks requires intrusion detectors with the ability to detect new attacks. Our proposed model is a network intrusion detector created specifically for the needs of IoT networks with the aim of detecting previously unseen attacks. ...]]></summary>
-        <author>
-            <name>Manuel Lopez-Martin</name>
-        </author>
-        <author>
-            <name>Antonio Sanchez-Esguevillas</name>
-        </author>
-        <author>
-            <name>Juan Ignacio Arribas</name>
-        </author>
-        <author>
-            <name>Belen Carro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Privacy-preserving and Syscall-based Intrusion Detection System for IoT Spectrum Sensors Affected by Data Falsification Attacks]]></title>
-        <id>https://ieeexplore.ieee.org/document/9916265</id>
-        <link href="https://ieeexplore.ieee.org/document/9916265"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[Crowdsensing platforms collect, process, transmit, and analyze spectrum data worldwide to optimize radio frequency spectrum usage. However, Internet-of-Things (IoT) spectrum sensors, performing some of the previous tasks, are exposed to software manipulation aiming to execute spectrum sensing data falsification (SSDF) attacks to compromise data integrity and spectrum optimization. Novel intrusion ...]]></summary>
-        <author>
-            <name>Alberto Huertas Celdrán</name>
-        </author>
-        <author>
-            <name>Pedro Miguel Sánchez Sánchez</name>
-        </author>
-        <author>
-            <name>Chao Feng</name>
-        </author>
-        <author>
-            <name>Gérôme Bovet</name>
-        </author>
-        <author>
-            <name>Gregorio Martínez Pérez</name>
-        </author>
-        <author>
-            <name>Burkhard Stiller</name>
         </author>
     </entry>
 </feed>

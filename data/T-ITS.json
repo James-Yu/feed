@@ -1,5 +1,392 @@
 [
   {
+    "articleNumber": "10164180",
+    "articleTitle": "PAF-Net: A Progressive and Adaptive Fusion Network for Pavement Crack Segmentation",
+    "authors": [
+      "Lei Yang",
+      "Hanyun Huang",
+      "Shuyi Kong",
+      "Yanhong Liu",
+      "Hongnian Yu"
+    ],
+    "abstract": "Automatic crack detection remains challenging due to factors such as irregular crack shapes and sizes, uneven illumination, complex backgrounds, and image noise. Deep learning has shown promise in computer vision for pixel-wise crack detection, but existing methods still suffer from limitations such as information loss, insufficient feature fusion, and semantic gap issues. To address these challen...",
+    "date": "2023-06-28T01:16:28.576Z"
+  },
+  {
+    "articleNumber": "10164286",
+    "articleTitle": "A Rolling-Horizon Strategy for Dynamic Rebalancing of Free-Floating Bike-Sharing Systems",
+    "authors": [
+      "Dawei Chen",
+      "Qun Chen",
+      "Christina Imdahl",
+      "Tom Van Woensel"
+    ],
+    "abstract": "This paper presents a novel hybrid rolling-horizon strategy to address the dynamic rebalancing problem in large-scale, free-floating bike-sharing systems (FFBSSs). The problem involves determining the rebalancing routes and the quantity of bikes to be loaded and unloaded at various locations to minimize vehicle rebalancing costs and to reduce the degree of imbalance in the system. The proposed str...",
+    "date": "2023-06-28T01:16:28.576Z"
+  },
+  {
+    "articleNumber": "10164169",
+    "articleTitle": "Joint Routing and Charging Problem of Electric Vehicles With Incentive-Aware Customers Considering Spatio-Temporal Charging Prices",
+    "authors": [
+      "Canqi Yao",
+      "Shibo Chen",
+      "Mauro Salazar",
+      "Zaiyue Yang"
+    ],
+    "abstract": "This paper investigates the scheduling problem of a fleet of electric vehicles, providing mobility as a service to a set of time-specified customers, where the operator needs to solve the routing and charging problem jointly for each EV. We consider incentive-aware customers and propose that the operator offers monetary incentives to customers in exchange for time flexibility. In this way, the fle...",
+    "date": "2023-06-28T01:16:28.576Z"
+  },
+  {
+    "articleNumber": "10164186",
+    "articleTitle": "Weakly-Supervised Crack Detection",
+    "authors": [
+      "Yuki Inoue",
+      "Hiroto Nagayoshi"
+    ],
+    "abstract": "Pixel-level crack segmentation is widely studied due to its high impact on building and road inspections. While recent studies have made significant improvements in accuracy, they typically heavily depend on pixel-level crack annotations, which are time-consuming to obtain. In earlier work, we proposed to reduce the annotation cost bottleneck by reformulating the crack segmentation problem as a we...",
+    "date": "2023-06-28T01:16:28.576Z"
+  },
+  {
+    "articleNumber": "10164232",
+    "articleTitle": "Ship Collision Avoidance Navigation Signal Recognition via Vision Sensing and Machine Forecasting",
+    "authors": [
+      "Qilin Bi",
+      "Miaohui Wang",
+      "Yijing Huang",
+      "Minling Lai",
+      "Zhijun Liu",
+      "Xiuying Bi"
+    ],
+    "abstract": "Ship collision avoidance (SCA) is an important technique in the field of decision-making in marine navigation. Although some promising solutions have been developed recently, there is still the lack of low-cost and reliable sensing equipment. Inspired by the low-cost of camera sensors and the success of machine learning, this paper designs a vision-based method to recognize ships and their micro-f...",
+    "date": "2023-06-28T01:16:28.576Z"
+  },
+  {
+    "articleNumber": "10164198",
+    "articleTitle": "Potential Routes Extraction for Urban Customized Bus Based on Vehicle Trajectory Clustering",
+    "authors": [
+      "Dongfang Ma",
+      "Bo Fang",
+      "Weihao Ma",
+      "Xiaodong Wu",
+      "Sheng Jin"
+    ],
+    "abstract": "Customized bus (CB) is a kind of demand-responsive and one-stop transit service for commuters with similar travel demands. In actual applications, the bus companies identify commuter demands including origin-destination (OD) flow and departure time using online surveys, and manually plan the CB routes, which is inefficient and costly. This study aims to identify spatial patterns of travel demands ...",
+    "date": "2023-06-28T01:16:28.576Z"
+  },
+  {
+    "articleNumber": "10164676",
+    "articleTitle": "CAMO-MOT: Combined Appearance-Motion Optimization for 3D Multi-Object Tracking With Camera-LiDAR Fusion",
+    "authors": [
+      "Li Wang",
+      "Xinyu Zhang",
+      "Wenyuan Qin",
+      "Xiaoyu Li",
+      "Jinghan Gao",
+      "Lei Yang",
+      "Zhiwei Li",
+      "Jun Li",
+      "Lei Zhu",
+      "Hong Wang",
+      "Huaping Liu"
+    ],
+    "abstract": "3D Multi-object tracking (MOT) ensures consistency during continuous dynamic detection, conducive to subsequent motion planning and navigation tasks in autonomous driving. However, camera-based methods suffer in the case of occlusions and it can be challenging to track the irregular motion of objects for LiDAR-based methods accurately. Some fusion methods work well but do not consider the untrustw...",
+    "date": "2023-06-28T01:16:28.576Z"
+  },
+  {
+    "articleNumber": "10164669",
+    "articleTitle": "Connected Cruise and Traffic Control for Pairs of Connected Automated Vehicles",
+    "authors": [
+      "Sicong Guo",
+      "Gábor Orosz",
+      "Tamas G. Molnar"
+    ],
+    "abstract": "This paper considers mixed traffic consisting of connected automated vehicles equipped with vehicle-to-everything (V2X) connectivity and human-driven vehicles. A control strategy is proposed for communicating pairs of connected automated vehicles, where the two vehicles regulate their longitudinal motion by responding to each other, and, at the same time, stabilize the human-driven traffic between...",
+    "date": "2023-06-28T01:16:28.576Z"
+  },
+  {
+    "articleNumber": "10164674",
+    "articleTitle": "Interactive Decision-Making With Switchable Game Modes for Automated Vehicles at Intersections",
+    "authors": [
+      "Shizheng Jia",
+      "Yuxiang Zhang",
+      "Xin Li",
+      "Xiaoxiang Na",
+      "Yuhai Wang",
+      "Bingzhao Gao",
+      "Bing Zhu",
+      "Rongjie Yu"
+    ],
+    "abstract": "Interactive decision-making between multiple automated vehicles under unsigned intersections is a high-level dynamic decision-making scenario, greatly increasing the complexity of decision-making. In this situation, making the decision-making manner in accordance with the logic of human and guaranteeing driving safety is technically challenging. A multi-factor-enabled interactive decision-making m...",
+    "date": "2023-06-28T01:16:28.576Z"
+  },
+  {
+    "articleNumber": "10164643",
+    "articleTitle": "Local Linear Generalized Autoencoder-Based Incipient Fault Detection for Electrical Drive Systems of High-Speed Trains",
+    "authors": [
+      "Chao Cheng",
+      "Yunfei Ju",
+      "Shuiqing Xu",
+      "Yisheng Lv",
+      "Hongtian Chen"
+    ],
+    "abstract": "Features of incipient faults are tiny in high-speed trains’ electrical drive systems. Noises and disturbances in the external environment and sensors can mask incipient faults. Therefore, fault detection (FD) of incipient faults is a challenge. This paper proposes a new FD scheme using a novel manifold learning method named local linear generalized autoencoder (LLGAE). The prominent characteristic...",
+    "date": "2023-06-28T01:16:28.576Z"
+  },
+  {
+    "articleNumber": "10164651",
+    "articleTitle": "Multimodal Vehicular Trajectory Prediction With Inverse Reinforcement Learning and Risk Aversion at Urban Unsignalized Intersections",
+    "authors": [
+      "Maosi Geng",
+      "Zeen Cai",
+      "Yizhang Zhu",
+      "Xiqun Chen",
+      "Der-Horng Lee"
+    ],
+    "abstract": "Understanding human drivers’ intentions and predicting their future motions are significant to connected and autonomous vehicles and traffic safety and surveillance systems. Predicting multimodal vehicular trajectories at urban unsignalized intersections remains challenging due to dynamic traffic flow and uncertainty of human drivers’ maneuvers. In this paper, we propose a comprehensive trajectory...",
+    "date": "2023-06-28T01:16:28.576Z"
+  },
+  {
+    "articleNumber": "10164677",
+    "articleTitle": "PaCS: A Parallel Computation Framework for Field-Based Crowd Simulation",
+    "authors": [
+      "Hantao Zhao",
+      "Tan Guo",
+      "Weiping Tong",
+      "Haodong Yin",
+      "Zhiyuan Liu"
+    ],
+    "abstract": "Crowd simulation is a convenient method to evaluate pedestrians’ status and their corresponding management strategies in large public spaces. However, the performance of real-time simulation can be limited by the model’s large-scale computational cost. In order to overcome this difficulty, this study proposes PaCS (Parallel Computation for Crowd Simulation), a parallel computation framework for fi...",
+    "date": "2023-06-28T01:16:28.576Z"
+  },
+  {
+    "articleNumber": "10164234",
+    "articleTitle": "The “Waterfilling Algorithm”—An Efficient Approach for Vehicle Velocity Planning With Varying Velocity Limits",
+    "authors": [
+      "Christian Sohn",
+      "Jakob Andert"
+    ],
+    "abstract": "A variety of longitudinal control systems employing predictive information provide a long-term velocity profile that minimizes the cost term consisting of the superposition of energy, ride comfort and travel time. The profile can be determined by discrete dynamic programming (DDP) with a three-dimensional state space, resulting in unacceptable high computation times for real-time applications. Pre...",
+    "date": "2023-06-28T01:16:28.576Z"
+  },
+  {
+    "articleNumber": "10164678",
+    "articleTitle": "FedCrack: Federated Transfer Learning With Unsupervised Representation for Crack Detection",
+    "authors": [
+      "Xiating Jin",
+      "Jiajun Bu",
+      "Zhi Yu",
+      "Hui Zhang",
+      "Yaonan Wang"
+    ],
+    "abstract": "Empowered by labeled datasets, supervised pre-training based transfer learning (SPTL) has made significant advances for image classification applications. However, due to privacy-preserving protocol and unaccessible annotation, it emerges as a novel problem in federated learning scenarios whether unsupervised pre-training based transfer learning (UPTL) is available for semantic segmentation. In th...",
+    "date": "2023-06-28T01:16:28.576Z"
+  },
+  {
+    "articleNumber": "10164260",
+    "articleTitle": "Real-Time Optimized Clustering and Caching for 6G Satellite-UAV-Terrestrial Networks",
+    "authors": [
+      "Minh-Hien T. Nguyen",
+      "Tinh T. Bui",
+      "Long D. Nguyen",
+      "Emiliano Garcia-Palacios",
+      "Hans-Jürgen Zepernick",
+      "Hyundong Shin",
+      "Trung Q. Duong"
+    ],
+    "abstract": "In this paper, we consider an Internet-of-Things network supported by several satellites and multiple cache-assisted unmanned aerial vehicles (UAVs). Due to the long-distance transmission and detrimental effects from the transmission environment, the latency can be extremely high, especially in the presence of backhaul congestion. Therefore, we formulate an optimisation problem with the aim of min...",
+    "date": "2023-06-28T01:16:28.576Z"
+  },
+  {
+    "articleNumber": "10164653",
+    "articleTitle": "A Dynamic Programming Model for Joint Optimization of Electric Drayage Truck Operations and Charging Stations Planning at Ports",
+    "authors": [
+      "Xuanke Wu",
+      "Yunteng Zhang",
+      "Yuche Chen"
+    ],
+    "abstract": "The adoption of electric vehicles at ports is a promising approach to achieve sustainability goals. However, realizing the full potential of this strategy depends on effective coordination between infrastructure planning and operational scheduling. In this paper, we propose a joint optimization framework that can co-optimize these two components to minimize the overall system cost. To capture the ...",
+    "date": "2023-06-28T01:16:28.576Z"
+  },
+  {
+    "articleNumber": "10164671",
+    "articleTitle": "A Generic Approach to Eco-Driving of Connected Automated Vehicles in Mixed Urban Traffic and Heterogeneous Power Conditions",
+    "authors": [
+      "Yonghui Hu",
+      "Peng Yang",
+      "Mingming Zhao",
+      "Daofei Li",
+      "Lihui Zhang",
+      "Simon Hu",
+      "Wei Hua",
+      "Wei Ji",
+      "Yibing Wang",
+      "Jingqiu Guo"
+    ],
+    "abstract": "The connected automated vehicles (CAVs) are envisioned to be implemented most likely on electric vehicles, while traditional fuel-powered manually-driven vehicles (MVs) would probably still dominate the automobile market in the next decade. In this context, this paper addresses urban eco-driving of CAVs in mixed traffic and heterogeneous power conditions. The paper aims to develop a practical and ...",
+    "date": "2023-06-28T01:16:28.576Z"
+  },
+  {
+    "articleNumber": "10164130",
+    "articleTitle": "Vulnerability Assessment of Coupled Transportation and Multi-Energy Networks Considering Electric and Hydrogen Vehicles",
+    "authors": [
+      "Yuechuan Tao",
+      "Jing Qiu",
+      "Shuying Lai",
+      "Xianzhuo Sun",
+      "Junhua Zhao"
+    ],
+    "abstract": "With the burgeoning of plug-in electric vehicles (PEVs), as well as the emergence of fuel cell vehicles (FCVs) and plug-in hybrid electricity/hydrogen vehicles (PH2EVs), the synergistic effect of electricity, hydrogen, and transportation networks should be investigated. To enhance the security of the coupled network and ensure the reliability of the charging/refueling services of EVs, a vulnerabil...",
+    "date": "2023-06-28T01:16:28.576Z"
+  },
+  {
+    "articleNumber": "10164680",
+    "articleTitle": "COBATS: A Novel Consortium Blockchain-Based Trust Model for Data Sharing in Vehicular Networks",
+    "authors": [
+      "Qi Fan",
+      "Yang Xin",
+      "Bin Jia",
+      "Yang Zhang",
+      "Pinxiang Wang"
+    ],
+    "abstract": "Achieving efficient and secure shared data in vehicular networks is important for the development of smart transportation. Sharing data among intelligent vehicles not only enriches vehicle services but also improves traffic safety and efficiency. However, due to the specific nature of vehicular networks, security and privacy concerns prevent data providers from participating in the data sharing pr...",
+    "date": "2023-06-28T01:16:28.576Z"
+  },
+  {
+    "articleNumber": "10164675",
+    "articleTitle": "pdRide: Privacy-Preserving Distributed Online Ride-Hailing Matching Scheme",
+    "authors": [
+      "Qian Wang",
+      "Chengzhe Lai",
+      "Gang Han",
+      "Dong Zheng"
+    ],
+    "abstract": "Privacy-preserving online ride-hailing (ORH) service enables riders and drivers to conveniently establish optimized ride-hailing through mobile applications without disclosing their location information. In order to alleviate the load of central server and unnecessary increased response latency caused by centralized schemes, we investigate the privacy-preserving ORH matching service in distributed...",
+    "date": "2023-06-28T01:16:28.576Z"
+  },
+  {
+    "articleNumber": "10164644",
+    "articleTitle": "Developing a Dynamic Speed Control System for Mixed Traffic Flow to Reduce Collision Risks Near Freeway Bottlenecks",
+    "authors": [
+      "Ye Li",
+      "Bin Pan",
+      "Zhibin Chen",
+      "Lu Xing"
+    ],
+    "abstract": "Connected and automated vehicles (CAVs) have the advantages of improving road safety and traffic efficiency. This study proposes a dynamic speed control system for a two-lane scenario to reduce collision risks near freeway bottlenecks for mixed traffic flow, consisting of both CAVs and human driven vehicles (HDVs). The control system includes two major strategies, the dynamic deceleration strategy...",
+    "date": "2023-06-28T01:16:28.576Z"
+  },
+  {
+    "articleNumber": "10164220",
+    "articleTitle": "Learning Dynamic Graph for Overtaking Strategy in Autonomous Driving",
+    "authors": [
+      "Xuemin Hu",
+      "Yanfang Liu",
+      "Bo Tang",
+      "Junchi Yan",
+      "Long Chen"
+    ],
+    "abstract": "Automatic overtaking is a challenging task for self-driving vehicles. Traditional rule-based methods for overtaking in autonomous driving heavily rely on many predefined rules and are difficult to apply in complex driving scenarios. Learning-based methods usually use convolutional networks, recurrent networks, and multilayer perceptrons, etc., to extract features from environments, but they fail t...",
+    "date": "2023-06-28T01:16:28.576Z"
+  },
+  {
+    "articleNumber": "10164246",
+    "articleTitle": "Impact of V2V Warning Information on Traffic Stream Performance Using Microscopic Simulation Based on Real-World Connected Vehicle Driving Behavior",
+    "authors": [
+      "Jieun Ko",
+      "Hoseon Kim",
+      "Cheol Oh",
+      "Seoungbum Kim"
+    ],
+    "abstract": "Vehicle-to-vehicle (V2V)-based forward collision warning is a core connected vehicle (CV) service for preventing traffic crashes. Since the driver’s reaction affects the surrounding traffic conditions, an analysis of the effects of the CV application is required in terms of traffic stream performance. This study compared the differences in driving behaviors of CVs depending on whether V2V-based fo...",
+    "date": "2023-06-28T01:16:28.576Z"
+  },
+  {
+    "articleNumber": "10164195",
+    "articleTitle": "MFANet: Multifaceted Feature Aggregation Network for Oil Stains Detection of High-Speed Trains",
+    "authors": [
+      "Wei Liu",
+      "Xiaobo Lu",
+      "Yun Wei",
+      "Zhidan Ran"
+    ],
+    "abstract": "Oil is of great significance in the key components like the hydraulic damper of high-speed trains and its leaks suggest that some key components may malfunction, bringing potential danger to the safety of the train. It is indispensable to diagnose oil leakage timely and faults can be discovered by detecting oil stains to avoid possible accidents caused by the breakdown. But it is challenging to di...",
+    "date": "2023-06-28T01:16:28.576Z"
+  },
+  {
+    "articleNumber": "10164673",
+    "articleTitle": "Learning Safe and Human-Like High-Level Decisions for Unsignalized Intersections From Naturalistic Human Driving Trajectories",
+    "authors": [
+      "Lingguang Wang",
+      "Carlos Fernandez",
+      "Christoph Stiller"
+    ],
+    "abstract": "Automated driving systems need to behave as human-like as possible, especially in highly interactive scenarios. In this way, the behavior can be better interpreted and predicted by other traffic participants, in order to prevent misunderstanding, and in the worst case, accidents. With this purpose, more and more human-driven trajectories in real traffic are recorded, making it possible to learn hu...",
+    "date": "2023-06-28T01:16:28.576Z"
+  },
+  {
+    "articleNumber": "10164214",
+    "articleTitle": "Deep Learning-Based Anomaly Detection for Connected Autonomous Vehicles Using Spatiotemporal Information",
+    "authors": [
+      "Pegah Mansourian",
+      "Ning Zhang",
+      "Arunita Jaekel",
+      "Marc Kneppers"
+    ],
+    "abstract": "Although connected autonomous vehicles (CAVs) hold great potential to improve driving safety and experience significantly, cybersecurity remains a critical concern. As the de-facto standard for in-vehicle networks, the Controller Area Network (CAN) carries messages and commands vital to the operation of the vehicle. However, due to a lack of security mechanisms, intruders are able to conduct devas...",
+    "date": "2023-06-28T01:16:28.576Z"
+  },
+  {
+    "articleNumber": "10164277",
+    "articleTitle": "Data-Driven Fault-Tolerant Platooning Control Under Aperiodic DoS Attacks",
+    "authors": [
+      "Bai-Fan Yue",
+      "Wei-Wei Che"
+    ],
+    "abstract": "This paper investigates the resilient fault-tolerant model-free adaptive platooning security control (FT-MFAPSC) issue for the vehicular platooning systems (VPSs) subject to sensor faults and aperiodic denial-of-service (DoS) attacks. Firstly, an equivalent linear data model can be obtained from the nonlinear VPSs based on the partial form dynamic linearization (PFDL) technique. Then, the fault-to...",
+    "date": "2023-06-28T01:16:28.576Z"
+  },
+  {
+    "articleNumber": "10164667",
+    "articleTitle": "Experimental Study and Modeling of the Lower-Level Controller of Automated Vehicle",
+    "authors": [
+      "Hua-Qing Liu",
+      "Shi-Teng Zheng",
+      "Rui Jiang",
+      "Junfang Tian",
+      "Ruidong Yan",
+      "Fang Zhang",
+      "Dezhao Zhang"
+    ],
+    "abstract": "Accurate modeling of lower-level controller plays an important role in the traffic flow of automated vehicles (AVs). However, there lacks enough attention with this respect. To address this issue, we conduct a field experiment with two vehicles that are equipped with developable autonomous driving system, where one can customize the upper-level control algorithm. Based on the field experimental da...",
+    "date": "2023-06-28T01:16:28.576Z"
+  },
+  {
+    "articleNumber": "10164642",
+    "articleTitle": "A Virtual Method for Optimizing Deployment of Roadside Monitoring Lidars at As-Built Intersections",
+    "authors": [
+      "Yang Ma",
+      "Yubing Zheng",
+      "Shuyi Wang",
+      "Yiik Diew Wong",
+      "Said M. Easa"
+    ],
+    "abstract": "Roadside monitoring Lidars (RMLs) will be a crucial part of the future intelligent transportation system. Current approaches for optimizing RMLs’ placement at intersections work in hypothetical environments which do not well reflect real-world situations. This article proposes a new virtual method (VM) for optimizing the deployment of RMLs at as-built intersections. The proposed VM operates in a v...",
+    "date": "2023-06-28T01:16:28.576Z"
+  },
+  {
+    "articleNumber": "10164020",
+    "articleTitle": "Heterogeneous Trajectory Forecasting via Risk and Scene Graph Learning",
+    "authors": [
+      "Jianwu Fang",
+      "Chen Zhu",
+      "Pu Zhang",
+      "Hongkai Yu",
+      "Jianru Xue"
+    ],
+    "abstract": "Heterogeneous trajectory forecasting is critical for intelligent transportation systems, but it is challenging because of the difficulty of modeling the complex interaction relations among the heterogeneous road agents as well as their agent-environment constraints. In this work, we propose a risk and scene graph learning method for trajectory forecasting of heterogeneous road agents, which consis...",
+    "date": "2023-06-28T01:16:28.576Z"
+  },
+  {
     "articleNumber": "10163941",
     "articleTitle": "Consortium Blockchain-Based Security and Efficient Resource Trading in V2V-Assisted Intelligent Transport Systems",
     "authors": [

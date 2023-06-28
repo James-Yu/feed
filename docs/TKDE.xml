@@ -2,11 +2,161 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/TKDE.rss</id>
     <title>IEEE Transactions on Knowledge and Data Engineering</title>
-    <updated>2023-06-27T16:16:49.779Z</updated>
+    <updated>2023-06-28T01:16:33.570Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/TKDE.rss"/>
     <subtitle>IEEE Transactions on Knowledge and Data Engineering</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Semi-Supervised Local Community Detection]]></title>
+        <id>https://ieeexplore.ieee.org/document/10164164</id>
+        <link href="https://ieeexplore.ieee.org/document/10164164"/>
+        <updated>2023-06-28T01:16:33.564Z</updated>
+        <summary type="html"><![CDATA[Owing to the lack of a universal definition of communities, some semi-supervised community detection approaches learn the concept of community structures from known communities, and then dig out communities using learned concepts of communities. In some cases, users are only interested in the community containing a given node. However, communities detected by these semi-supervised approaches may n...]]></summary>
+        <author>
+            <name>Li Ni</name>
+        </author>
+        <author>
+            <name>Junnan Ge</name>
+        </author>
+        <author>
+            <name>Yiwen Zhang</name>
+        </author>
+        <author>
+            <name>Wenjian Luo</name>
+        </author>
+        <author>
+            <name>Victor S. Sheng</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Collaborative Knowledge Graph Fusion by Exploiting the Open Corpus]]></title>
+        <id>https://ieeexplore.ieee.org/document/10164253</id>
+        <link href="https://ieeexplore.ieee.org/document/10164253"/>
+        <updated>2023-06-28T01:16:33.564Z</updated>
+        <summary type="html"><![CDATA[To ease the process of building Knowledge Graphs (KGs) from scratch, a cost-effective method is required to enrich a KG using the triples extracted from a corpus. However, it is challenging to enrich a KG with newly extracted triples since they contain noisy information. This paper proposes to refine a KG by leveraging information extracted from a corpus. In particular, we first formulate the task...]]></summary>
+        <author>
+            <name>Yue Wang</name>
+        </author>
+        <author>
+            <name>Yao Wan</name>
+        </author>
+        <author>
+            <name>Lu Bai</name>
+        </author>
+        <author>
+            <name>Lixin Cui</name>
+        </author>
+        <author>
+            <name>Zhuo Xu</name>
+        </author>
+        <author>
+            <name>Ming Li</name>
+        </author>
+        <author>
+            <name>Philip S. Yu</name>
+        </author>
+        <author>
+            <name>Edwin R. Hancock</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Interpretable Stochastic Block Influence Model: Measuring Social Influence Among Homophilous Communities]]></title>
+        <id>https://ieeexplore.ieee.org/document/10164026</id>
+        <link href="https://ieeexplore.ieee.org/document/10164026"/>
+        <updated>2023-06-28T01:16:33.564Z</updated>
+        <summary type="html"><![CDATA[Decision-making on networks can be explained by both homophily and social influences. While homophily drives the formation of communities with similar characteristics, social influences occur both within and between communities. Social influences can be reasoned through role theory, which indicates that the influences among individuals depending on their roles and the behavior of interest. To oper...]]></summary>
+        <author>
+            <name>Yan Leng</name>
+        </author>
+        <author>
+            <name>Tara Sowrirajan</name>
+        </author>
+        <author>
+            <name>Yujia Zhai</name>
+        </author>
+        <author>
+            <name>Alex Pentland</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Two-Step Strategy for Domain Adaptation Retrieval]]></title>
+        <id>https://ieeexplore.ieee.org/document/10164181</id>
+        <link href="https://ieeexplore.ieee.org/document/10164181"/>
+        <updated>2023-06-28T01:16:33.564Z</updated>
+        <summary type="html"><![CDATA[Conventional hash-based retrieval method rely on the assumption that the query and database are of the identical domain. However, cross-domain problem often occurs in real-world applications, leading to the unsatisfactory performance of existing hashing methods. Recently, some researchers have put forward domain adaptation retrieval (DAR) under the perspective of domain adaptation (DA) and achieve...]]></summary>
+        <author>
+            <name>Yonghao Chen</name>
+        </author>
+        <author>
+            <name>Xiaozhao Fang</name>
+        </author>
+        <author>
+            <name>Yuanyuan Liu</name>
+        </author>
+        <author>
+            <name>Wei Zheng</name>
+        </author>
+        <author>
+            <name>Peipei Kang</name>
+        </author>
+        <author>
+            <name>Na Han</name>
+        </author>
+        <author>
+            <name>Shengli Xie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DropConn: Dropout Connection Based Random GNNs for Molecular Property Prediction]]></title>
+        <id>https://ieeexplore.ieee.org/document/10164235</id>
+        <link href="https://ieeexplore.ieee.org/document/10164235"/>
+        <updated>2023-06-28T01:16:33.564Z</updated>
+        <summary type="html"><![CDATA[Recently, molecular data mining has attracted a lot of attention owing to its great application potential in material and drug discovery. However, this mining task faces a challenge posed by the scarcity of labeled molecular graphs. To overcome this challenge, we introduce a novel data augmentation and a semi-supervised confidence-aware consistency regularization training framework for molecular p...]]></summary>
+        <author>
+            <name>Dan Zhang</name>
+        </author>
+        <author>
+            <name>Wenzheng Feng</name>
+        </author>
+        <author>
+            <name>Yuandong Wang</name>
+        </author>
+        <author>
+            <name>Zhongang Qi</name>
+        </author>
+        <author>
+            <name>Ying Shan</name>
+        </author>
+        <author>
+            <name>Jie Tang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dual Attention Graph Convolutional Network for Relation Extraction]]></title>
+        <id>https://ieeexplore.ieee.org/document/10164155</id>
+        <link href="https://ieeexplore.ieee.org/document/10164155"/>
+        <updated>2023-06-28T01:16:33.564Z</updated>
+        <summary type="html"><![CDATA[Dependency-based models are widely used to extract semantic relations in text. Most existing dependency-based models establish stacked structures to merge contextual and dependency information, which encode the contextual information first and then encode the dependency information. However, this unidirectional information flow weakens the representation of words in the sentence, which further res...]]></summary>
+        <author>
+            <name>Donghao Zhang</name>
+        </author>
+        <author>
+            <name>Zhenyu Liu</name>
+        </author>
+        <author>
+            <name>Weiqiang Jia</name>
+        </author>
+        <author>
+            <name>Fei Wu</name>
+        </author>
+        <author>
+            <name>Hui Liu</name>
+        </author>
+        <author>
+            <name>Jianrong Tan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dual Contrastive Learning for Efficient Static Feature Representation in Sequential Recommendations]]></title>
         <id>https://ieeexplore.ieee.org/document/10163858</id>

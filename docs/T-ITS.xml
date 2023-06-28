@@ -2,11 +2,662 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/T-ITS.rss</id>
     <title>IEEE Transactions on Intelligent Transportation Systems</title>
-    <updated>2023-06-27T16:16:45.038Z</updated>
+    <updated>2023-06-28T01:16:28.584Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/T-ITS.rss"/>
     <subtitle>IEEE Transactions on Intelligent Transportation Systems</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[PAF-Net: A Progressive and Adaptive Fusion Network for Pavement Crack Segmentation]]></title>
+        <id>https://ieeexplore.ieee.org/document/10164180</id>
+        <link href="https://ieeexplore.ieee.org/document/10164180"/>
+        <updated>2023-06-28T01:16:28.576Z</updated>
+        <summary type="html"><![CDATA[Automatic crack detection remains challenging due to factors such as irregular crack shapes and sizes, uneven illumination, complex backgrounds, and image noise. Deep learning has shown promise in computer vision for pixel-wise crack detection, but existing methods still suffer from limitations such as information loss, insufficient feature fusion, and semantic gap issues. To address these challen...]]></summary>
+        <author>
+            <name>Lei Yang</name>
+        </author>
+        <author>
+            <name>Hanyun Huang</name>
+        </author>
+        <author>
+            <name>Shuyi Kong</name>
+        </author>
+        <author>
+            <name>Yanhong Liu</name>
+        </author>
+        <author>
+            <name>Hongnian Yu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Rolling-Horizon Strategy for Dynamic Rebalancing of Free-Floating Bike-Sharing Systems]]></title>
+        <id>https://ieeexplore.ieee.org/document/10164286</id>
+        <link href="https://ieeexplore.ieee.org/document/10164286"/>
+        <updated>2023-06-28T01:16:28.576Z</updated>
+        <summary type="html"><![CDATA[This paper presents a novel hybrid rolling-horizon strategy to address the dynamic rebalancing problem in large-scale, free-floating bike-sharing systems (FFBSSs). The problem involves determining the rebalancing routes and the quantity of bikes to be loaded and unloaded at various locations to minimize vehicle rebalancing costs and to reduce the degree of imbalance in the system. The proposed str...]]></summary>
+        <author>
+            <name>Dawei Chen</name>
+        </author>
+        <author>
+            <name>Qun Chen</name>
+        </author>
+        <author>
+            <name>Christina Imdahl</name>
+        </author>
+        <author>
+            <name>Tom Van Woensel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Joint Routing and Charging Problem of Electric Vehicles With Incentive-Aware Customers Considering Spatio-Temporal Charging Prices]]></title>
+        <id>https://ieeexplore.ieee.org/document/10164169</id>
+        <link href="https://ieeexplore.ieee.org/document/10164169"/>
+        <updated>2023-06-28T01:16:28.576Z</updated>
+        <summary type="html"><![CDATA[This paper investigates the scheduling problem of a fleet of electric vehicles, providing mobility as a service to a set of time-specified customers, where the operator needs to solve the routing and charging problem jointly for each EV. We consider incentive-aware customers and propose that the operator offers monetary incentives to customers in exchange for time flexibility. In this way, the fle...]]></summary>
+        <author>
+            <name>Canqi Yao</name>
+        </author>
+        <author>
+            <name>Shibo Chen</name>
+        </author>
+        <author>
+            <name>Mauro Salazar</name>
+        </author>
+        <author>
+            <name>Zaiyue Yang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Weakly-Supervised Crack Detection]]></title>
+        <id>https://ieeexplore.ieee.org/document/10164186</id>
+        <link href="https://ieeexplore.ieee.org/document/10164186"/>
+        <updated>2023-06-28T01:16:28.576Z</updated>
+        <summary type="html"><![CDATA[Pixel-level crack segmentation is widely studied due to its high impact on building and road inspections. While recent studies have made significant improvements in accuracy, they typically heavily depend on pixel-level crack annotations, which are time-consuming to obtain. In earlier work, we proposed to reduce the annotation cost bottleneck by reformulating the crack segmentation problem as a we...]]></summary>
+        <author>
+            <name>Yuki Inoue</name>
+        </author>
+        <author>
+            <name>Hiroto Nagayoshi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ship Collision Avoidance Navigation Signal Recognition via Vision Sensing and Machine Forecasting]]></title>
+        <id>https://ieeexplore.ieee.org/document/10164232</id>
+        <link href="https://ieeexplore.ieee.org/document/10164232"/>
+        <updated>2023-06-28T01:16:28.576Z</updated>
+        <summary type="html"><![CDATA[Ship collision avoidance (SCA) is an important technique in the field of decision-making in marine navigation. Although some promising solutions have been developed recently, there is still the lack of low-cost and reliable sensing equipment. Inspired by the low-cost of camera sensors and the success of machine learning, this paper designs a vision-based method to recognize ships and their micro-f...]]></summary>
+        <author>
+            <name>Qilin Bi</name>
+        </author>
+        <author>
+            <name>Miaohui Wang</name>
+        </author>
+        <author>
+            <name>Yijing Huang</name>
+        </author>
+        <author>
+            <name>Minling Lai</name>
+        </author>
+        <author>
+            <name>Zhijun Liu</name>
+        </author>
+        <author>
+            <name>Xiuying Bi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Potential Routes Extraction for Urban Customized Bus Based on Vehicle Trajectory Clustering]]></title>
+        <id>https://ieeexplore.ieee.org/document/10164198</id>
+        <link href="https://ieeexplore.ieee.org/document/10164198"/>
+        <updated>2023-06-28T01:16:28.576Z</updated>
+        <summary type="html"><![CDATA[Customized bus (CB) is a kind of demand-responsive and one-stop transit service for commuters with similar travel demands. In actual applications, the bus companies identify commuter demands including origin-destination (OD) flow and departure time using online surveys, and manually plan the CB routes, which is inefficient and costly. This study aims to identify spatial patterns of travel demands ...]]></summary>
+        <author>
+            <name>Dongfang Ma</name>
+        </author>
+        <author>
+            <name>Bo Fang</name>
+        </author>
+        <author>
+            <name>Weihao Ma</name>
+        </author>
+        <author>
+            <name>Xiaodong Wu</name>
+        </author>
+        <author>
+            <name>Sheng Jin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CAMO-MOT: Combined Appearance-Motion Optimization for 3D Multi-Object Tracking With Camera-LiDAR Fusion]]></title>
+        <id>https://ieeexplore.ieee.org/document/10164676</id>
+        <link href="https://ieeexplore.ieee.org/document/10164676"/>
+        <updated>2023-06-28T01:16:28.576Z</updated>
+        <summary type="html"><![CDATA[3D Multi-object tracking (MOT) ensures consistency during continuous dynamic detection, conducive to subsequent motion planning and navigation tasks in autonomous driving. However, camera-based methods suffer in the case of occlusions and it can be challenging to track the irregular motion of objects for LiDAR-based methods accurately. Some fusion methods work well but do not consider the untrustw...]]></summary>
+        <author>
+            <name>Li Wang</name>
+        </author>
+        <author>
+            <name>Xinyu Zhang</name>
+        </author>
+        <author>
+            <name>Wenyuan Qin</name>
+        </author>
+        <author>
+            <name>Xiaoyu Li</name>
+        </author>
+        <author>
+            <name>Jinghan Gao</name>
+        </author>
+        <author>
+            <name>Lei Yang</name>
+        </author>
+        <author>
+            <name>Zhiwei Li</name>
+        </author>
+        <author>
+            <name>Jun Li</name>
+        </author>
+        <author>
+            <name>Lei Zhu</name>
+        </author>
+        <author>
+            <name>Hong Wang</name>
+        </author>
+        <author>
+            <name>Huaping Liu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Connected Cruise and Traffic Control for Pairs of Connected Automated Vehicles]]></title>
+        <id>https://ieeexplore.ieee.org/document/10164669</id>
+        <link href="https://ieeexplore.ieee.org/document/10164669"/>
+        <updated>2023-06-28T01:16:28.576Z</updated>
+        <summary type="html"><![CDATA[This paper considers mixed traffic consisting of connected automated vehicles equipped with vehicle-to-everything (V2X) connectivity and human-driven vehicles. A control strategy is proposed for communicating pairs of connected automated vehicles, where the two vehicles regulate their longitudinal motion by responding to each other, and, at the same time, stabilize the human-driven traffic between...]]></summary>
+        <author>
+            <name>Sicong Guo</name>
+        </author>
+        <author>
+            <name>Gábor Orosz</name>
+        </author>
+        <author>
+            <name>Tamas G. Molnar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Interactive Decision-Making With Switchable Game Modes for Automated Vehicles at Intersections]]></title>
+        <id>https://ieeexplore.ieee.org/document/10164674</id>
+        <link href="https://ieeexplore.ieee.org/document/10164674"/>
+        <updated>2023-06-28T01:16:28.576Z</updated>
+        <summary type="html"><![CDATA[Interactive decision-making between multiple automated vehicles under unsigned intersections is a high-level dynamic decision-making scenario, greatly increasing the complexity of decision-making. In this situation, making the decision-making manner in accordance with the logic of human and guaranteeing driving safety is technically challenging. A multi-factor-enabled interactive decision-making m...]]></summary>
+        <author>
+            <name>Shizheng Jia</name>
+        </author>
+        <author>
+            <name>Yuxiang Zhang</name>
+        </author>
+        <author>
+            <name>Xin Li</name>
+        </author>
+        <author>
+            <name>Xiaoxiang Na</name>
+        </author>
+        <author>
+            <name>Yuhai Wang</name>
+        </author>
+        <author>
+            <name>Bingzhao Gao</name>
+        </author>
+        <author>
+            <name>Bing Zhu</name>
+        </author>
+        <author>
+            <name>Rongjie Yu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Local Linear Generalized Autoencoder-Based Incipient Fault Detection for Electrical Drive Systems of High-Speed Trains]]></title>
+        <id>https://ieeexplore.ieee.org/document/10164643</id>
+        <link href="https://ieeexplore.ieee.org/document/10164643"/>
+        <updated>2023-06-28T01:16:28.576Z</updated>
+        <summary type="html"><![CDATA[Features of incipient faults are tiny in high-speed trains’ electrical drive systems. Noises and disturbances in the external environment and sensors can mask incipient faults. Therefore, fault detection (FD) of incipient faults is a challenge. This paper proposes a new FD scheme using a novel manifold learning method named local linear generalized autoencoder (LLGAE). The prominent characteristic...]]></summary>
+        <author>
+            <name>Chao Cheng</name>
+        </author>
+        <author>
+            <name>Yunfei Ju</name>
+        </author>
+        <author>
+            <name>Shuiqing Xu</name>
+        </author>
+        <author>
+            <name>Yisheng Lv</name>
+        </author>
+        <author>
+            <name>Hongtian Chen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multimodal Vehicular Trajectory Prediction With Inverse Reinforcement Learning and Risk Aversion at Urban Unsignalized Intersections]]></title>
+        <id>https://ieeexplore.ieee.org/document/10164651</id>
+        <link href="https://ieeexplore.ieee.org/document/10164651"/>
+        <updated>2023-06-28T01:16:28.576Z</updated>
+        <summary type="html"><![CDATA[Understanding human drivers’ intentions and predicting their future motions are significant to connected and autonomous vehicles and traffic safety and surveillance systems. Predicting multimodal vehicular trajectories at urban unsignalized intersections remains challenging due to dynamic traffic flow and uncertainty of human drivers’ maneuvers. In this paper, we propose a comprehensive trajectory...]]></summary>
+        <author>
+            <name>Maosi Geng</name>
+        </author>
+        <author>
+            <name>Zeen Cai</name>
+        </author>
+        <author>
+            <name>Yizhang Zhu</name>
+        </author>
+        <author>
+            <name>Xiqun Chen</name>
+        </author>
+        <author>
+            <name>Der-Horng Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PaCS: A Parallel Computation Framework for Field-Based Crowd Simulation]]></title>
+        <id>https://ieeexplore.ieee.org/document/10164677</id>
+        <link href="https://ieeexplore.ieee.org/document/10164677"/>
+        <updated>2023-06-28T01:16:28.576Z</updated>
+        <summary type="html"><![CDATA[Crowd simulation is a convenient method to evaluate pedestrians’ status and their corresponding management strategies in large public spaces. However, the performance of real-time simulation can be limited by the model’s large-scale computational cost. In order to overcome this difficulty, this study proposes PaCS (Parallel Computation for Crowd Simulation), a parallel computation framework for fi...]]></summary>
+        <author>
+            <name>Hantao Zhao</name>
+        </author>
+        <author>
+            <name>Tan Guo</name>
+        </author>
+        <author>
+            <name>Weiping Tong</name>
+        </author>
+        <author>
+            <name>Haodong Yin</name>
+        </author>
+        <author>
+            <name>Zhiyuan Liu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The “Waterfilling Algorithm”—An Efficient Approach for Vehicle Velocity Planning With Varying Velocity Limits]]></title>
+        <id>https://ieeexplore.ieee.org/document/10164234</id>
+        <link href="https://ieeexplore.ieee.org/document/10164234"/>
+        <updated>2023-06-28T01:16:28.576Z</updated>
+        <summary type="html"><![CDATA[A variety of longitudinal control systems employing predictive information provide a long-term velocity profile that minimizes the cost term consisting of the superposition of energy, ride comfort and travel time. The profile can be determined by discrete dynamic programming (DDP) with a three-dimensional state space, resulting in unacceptable high computation times for real-time applications. Pre...]]></summary>
+        <author>
+            <name>Christian Sohn</name>
+        </author>
+        <author>
+            <name>Jakob Andert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FedCrack: Federated Transfer Learning With Unsupervised Representation for Crack Detection]]></title>
+        <id>https://ieeexplore.ieee.org/document/10164678</id>
+        <link href="https://ieeexplore.ieee.org/document/10164678"/>
+        <updated>2023-06-28T01:16:28.576Z</updated>
+        <summary type="html"><![CDATA[Empowered by labeled datasets, supervised pre-training based transfer learning (SPTL) has made significant advances for image classification applications. However, due to privacy-preserving protocol and unaccessible annotation, it emerges as a novel problem in federated learning scenarios whether unsupervised pre-training based transfer learning (UPTL) is available for semantic segmentation. In th...]]></summary>
+        <author>
+            <name>Xiating Jin</name>
+        </author>
+        <author>
+            <name>Jiajun Bu</name>
+        </author>
+        <author>
+            <name>Zhi Yu</name>
+        </author>
+        <author>
+            <name>Hui Zhang</name>
+        </author>
+        <author>
+            <name>Yaonan Wang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Real-Time Optimized Clustering and Caching for 6G Satellite-UAV-Terrestrial Networks]]></title>
+        <id>https://ieeexplore.ieee.org/document/10164260</id>
+        <link href="https://ieeexplore.ieee.org/document/10164260"/>
+        <updated>2023-06-28T01:16:28.576Z</updated>
+        <summary type="html"><![CDATA[In this paper, we consider an Internet-of-Things network supported by several satellites and multiple cache-assisted unmanned aerial vehicles (UAVs). Due to the long-distance transmission and detrimental effects from the transmission environment, the latency can be extremely high, especially in the presence of backhaul congestion. Therefore, we formulate an optimisation problem with the aim of min...]]></summary>
+        <author>
+            <name>Minh-Hien T. Nguyen</name>
+        </author>
+        <author>
+            <name>Tinh T. Bui</name>
+        </author>
+        <author>
+            <name>Long D. Nguyen</name>
+        </author>
+        <author>
+            <name>Emiliano Garcia-Palacios</name>
+        </author>
+        <author>
+            <name>Hans-Jürgen Zepernick</name>
+        </author>
+        <author>
+            <name>Hyundong Shin</name>
+        </author>
+        <author>
+            <name>Trung Q. Duong</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Dynamic Programming Model for Joint Optimization of Electric Drayage Truck Operations and Charging Stations Planning at Ports]]></title>
+        <id>https://ieeexplore.ieee.org/document/10164653</id>
+        <link href="https://ieeexplore.ieee.org/document/10164653"/>
+        <updated>2023-06-28T01:16:28.576Z</updated>
+        <summary type="html"><![CDATA[The adoption of electric vehicles at ports is a promising approach to achieve sustainability goals. However, realizing the full potential of this strategy depends on effective coordination between infrastructure planning and operational scheduling. In this paper, we propose a joint optimization framework that can co-optimize these two components to minimize the overall system cost. To capture the ...]]></summary>
+        <author>
+            <name>Xuanke Wu</name>
+        </author>
+        <author>
+            <name>Yunteng Zhang</name>
+        </author>
+        <author>
+            <name>Yuche Chen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Generic Approach to Eco-Driving of Connected Automated Vehicles in Mixed Urban Traffic and Heterogeneous Power Conditions]]></title>
+        <id>https://ieeexplore.ieee.org/document/10164671</id>
+        <link href="https://ieeexplore.ieee.org/document/10164671"/>
+        <updated>2023-06-28T01:16:28.576Z</updated>
+        <summary type="html"><![CDATA[The connected automated vehicles (CAVs) are envisioned to be implemented most likely on electric vehicles, while traditional fuel-powered manually-driven vehicles (MVs) would probably still dominate the automobile market in the next decade. In this context, this paper addresses urban eco-driving of CAVs in mixed traffic and heterogeneous power conditions. The paper aims to develop a practical and ...]]></summary>
+        <author>
+            <name>Yonghui Hu</name>
+        </author>
+        <author>
+            <name>Peng Yang</name>
+        </author>
+        <author>
+            <name>Mingming Zhao</name>
+        </author>
+        <author>
+            <name>Daofei Li</name>
+        </author>
+        <author>
+            <name>Lihui Zhang</name>
+        </author>
+        <author>
+            <name>Simon Hu</name>
+        </author>
+        <author>
+            <name>Wei Hua</name>
+        </author>
+        <author>
+            <name>Wei Ji</name>
+        </author>
+        <author>
+            <name>Yibing Wang</name>
+        </author>
+        <author>
+            <name>Jingqiu Guo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vulnerability Assessment of Coupled Transportation and Multi-Energy Networks Considering Electric and Hydrogen Vehicles]]></title>
+        <id>https://ieeexplore.ieee.org/document/10164130</id>
+        <link href="https://ieeexplore.ieee.org/document/10164130"/>
+        <updated>2023-06-28T01:16:28.576Z</updated>
+        <summary type="html"><![CDATA[With the burgeoning of plug-in electric vehicles (PEVs), as well as the emergence of fuel cell vehicles (FCVs) and plug-in hybrid electricity/hydrogen vehicles (PH2EVs), the synergistic effect of electricity, hydrogen, and transportation networks should be investigated. To enhance the security of the coupled network and ensure the reliability of the charging/refueling services of EVs, a vulnerabil...]]></summary>
+        <author>
+            <name>Yuechuan Tao</name>
+        </author>
+        <author>
+            <name>Jing Qiu</name>
+        </author>
+        <author>
+            <name>Shuying Lai</name>
+        </author>
+        <author>
+            <name>Xianzhuo Sun</name>
+        </author>
+        <author>
+            <name>Junhua Zhao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[COBATS: A Novel Consortium Blockchain-Based Trust Model for Data Sharing in Vehicular Networks]]></title>
+        <id>https://ieeexplore.ieee.org/document/10164680</id>
+        <link href="https://ieeexplore.ieee.org/document/10164680"/>
+        <updated>2023-06-28T01:16:28.576Z</updated>
+        <summary type="html"><![CDATA[Achieving efficient and secure shared data in vehicular networks is important for the development of smart transportation. Sharing data among intelligent vehicles not only enriches vehicle services but also improves traffic safety and efficiency. However, due to the specific nature of vehicular networks, security and privacy concerns prevent data providers from participating in the data sharing pr...]]></summary>
+        <author>
+            <name>Qi Fan</name>
+        </author>
+        <author>
+            <name>Yang Xin</name>
+        </author>
+        <author>
+            <name>Bin Jia</name>
+        </author>
+        <author>
+            <name>Yang Zhang</name>
+        </author>
+        <author>
+            <name>Pinxiang Wang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[pdRide: Privacy-Preserving Distributed Online Ride-Hailing Matching Scheme]]></title>
+        <id>https://ieeexplore.ieee.org/document/10164675</id>
+        <link href="https://ieeexplore.ieee.org/document/10164675"/>
+        <updated>2023-06-28T01:16:28.576Z</updated>
+        <summary type="html"><![CDATA[Privacy-preserving online ride-hailing (ORH) service enables riders and drivers to conveniently establish optimized ride-hailing through mobile applications without disclosing their location information. In order to alleviate the load of central server and unnecessary increased response latency caused by centralized schemes, we investigate the privacy-preserving ORH matching service in distributed...]]></summary>
+        <author>
+            <name>Qian Wang</name>
+        </author>
+        <author>
+            <name>Chengzhe Lai</name>
+        </author>
+        <author>
+            <name>Gang Han</name>
+        </author>
+        <author>
+            <name>Dong Zheng</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Developing a Dynamic Speed Control System for Mixed Traffic Flow to Reduce Collision Risks Near Freeway Bottlenecks]]></title>
+        <id>https://ieeexplore.ieee.org/document/10164644</id>
+        <link href="https://ieeexplore.ieee.org/document/10164644"/>
+        <updated>2023-06-28T01:16:28.576Z</updated>
+        <summary type="html"><![CDATA[Connected and automated vehicles (CAVs) have the advantages of improving road safety and traffic efficiency. This study proposes a dynamic speed control system for a two-lane scenario to reduce collision risks near freeway bottlenecks for mixed traffic flow, consisting of both CAVs and human driven vehicles (HDVs). The control system includes two major strategies, the dynamic deceleration strategy...]]></summary>
+        <author>
+            <name>Ye Li</name>
+        </author>
+        <author>
+            <name>Bin Pan</name>
+        </author>
+        <author>
+            <name>Zhibin Chen</name>
+        </author>
+        <author>
+            <name>Lu Xing</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learning Dynamic Graph for Overtaking Strategy in Autonomous Driving]]></title>
+        <id>https://ieeexplore.ieee.org/document/10164220</id>
+        <link href="https://ieeexplore.ieee.org/document/10164220"/>
+        <updated>2023-06-28T01:16:28.576Z</updated>
+        <summary type="html"><![CDATA[Automatic overtaking is a challenging task for self-driving vehicles. Traditional rule-based methods for overtaking in autonomous driving heavily rely on many predefined rules and are difficult to apply in complex driving scenarios. Learning-based methods usually use convolutional networks, recurrent networks, and multilayer perceptrons, etc., to extract features from environments, but they fail t...]]></summary>
+        <author>
+            <name>Xuemin Hu</name>
+        </author>
+        <author>
+            <name>Yanfang Liu</name>
+        </author>
+        <author>
+            <name>Bo Tang</name>
+        </author>
+        <author>
+            <name>Junchi Yan</name>
+        </author>
+        <author>
+            <name>Long Chen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Impact of V2V Warning Information on Traffic Stream Performance Using Microscopic Simulation Based on Real-World Connected Vehicle Driving Behavior]]></title>
+        <id>https://ieeexplore.ieee.org/document/10164246</id>
+        <link href="https://ieeexplore.ieee.org/document/10164246"/>
+        <updated>2023-06-28T01:16:28.576Z</updated>
+        <summary type="html"><![CDATA[Vehicle-to-vehicle (V2V)-based forward collision warning is a core connected vehicle (CV) service for preventing traffic crashes. Since the driver’s reaction affects the surrounding traffic conditions, an analysis of the effects of the CV application is required in terms of traffic stream performance. This study compared the differences in driving behaviors of CVs depending on whether V2V-based fo...]]></summary>
+        <author>
+            <name>Jieun Ko</name>
+        </author>
+        <author>
+            <name>Hoseon Kim</name>
+        </author>
+        <author>
+            <name>Cheol Oh</name>
+        </author>
+        <author>
+            <name>Seoungbum Kim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MFANet: Multifaceted Feature Aggregation Network for Oil Stains Detection of High-Speed Trains]]></title>
+        <id>https://ieeexplore.ieee.org/document/10164195</id>
+        <link href="https://ieeexplore.ieee.org/document/10164195"/>
+        <updated>2023-06-28T01:16:28.576Z</updated>
+        <summary type="html"><![CDATA[Oil is of great significance in the key components like the hydraulic damper of high-speed trains and its leaks suggest that some key components may malfunction, bringing potential danger to the safety of the train. It is indispensable to diagnose oil leakage timely and faults can be discovered by detecting oil stains to avoid possible accidents caused by the breakdown. But it is challenging to di...]]></summary>
+        <author>
+            <name>Wei Liu</name>
+        </author>
+        <author>
+            <name>Xiaobo Lu</name>
+        </author>
+        <author>
+            <name>Yun Wei</name>
+        </author>
+        <author>
+            <name>Zhidan Ran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learning Safe and Human-Like High-Level Decisions for Unsignalized Intersections From Naturalistic Human Driving Trajectories]]></title>
+        <id>https://ieeexplore.ieee.org/document/10164673</id>
+        <link href="https://ieeexplore.ieee.org/document/10164673"/>
+        <updated>2023-06-28T01:16:28.576Z</updated>
+        <summary type="html"><![CDATA[Automated driving systems need to behave as human-like as possible, especially in highly interactive scenarios. In this way, the behavior can be better interpreted and predicted by other traffic participants, in order to prevent misunderstanding, and in the worst case, accidents. With this purpose, more and more human-driven trajectories in real traffic are recorded, making it possible to learn hu...]]></summary>
+        <author>
+            <name>Lingguang Wang</name>
+        </author>
+        <author>
+            <name>Carlos Fernandez</name>
+        </author>
+        <author>
+            <name>Christoph Stiller</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deep Learning-Based Anomaly Detection for Connected Autonomous Vehicles Using Spatiotemporal Information]]></title>
+        <id>https://ieeexplore.ieee.org/document/10164214</id>
+        <link href="https://ieeexplore.ieee.org/document/10164214"/>
+        <updated>2023-06-28T01:16:28.576Z</updated>
+        <summary type="html"><![CDATA[Although connected autonomous vehicles (CAVs) hold great potential to improve driving safety and experience significantly, cybersecurity remains a critical concern. As the de-facto standard for in-vehicle networks, the Controller Area Network (CAN) carries messages and commands vital to the operation of the vehicle. However, due to a lack of security mechanisms, intruders are able to conduct devas...]]></summary>
+        <author>
+            <name>Pegah Mansourian</name>
+        </author>
+        <author>
+            <name>Ning Zhang</name>
+        </author>
+        <author>
+            <name>Arunita Jaekel</name>
+        </author>
+        <author>
+            <name>Marc Kneppers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Data-Driven Fault-Tolerant Platooning Control Under Aperiodic DoS Attacks]]></title>
+        <id>https://ieeexplore.ieee.org/document/10164277</id>
+        <link href="https://ieeexplore.ieee.org/document/10164277"/>
+        <updated>2023-06-28T01:16:28.576Z</updated>
+        <summary type="html"><![CDATA[This paper investigates the resilient fault-tolerant model-free adaptive platooning security control (FT-MFAPSC) issue for the vehicular platooning systems (VPSs) subject to sensor faults and aperiodic denial-of-service (DoS) attacks. Firstly, an equivalent linear data model can be obtained from the nonlinear VPSs based on the partial form dynamic linearization (PFDL) technique. Then, the fault-to...]]></summary>
+        <author>
+            <name>Bai-Fan Yue</name>
+        </author>
+        <author>
+            <name>Wei-Wei Che</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Experimental Study and Modeling of the Lower-Level Controller of Automated Vehicle]]></title>
+        <id>https://ieeexplore.ieee.org/document/10164667</id>
+        <link href="https://ieeexplore.ieee.org/document/10164667"/>
+        <updated>2023-06-28T01:16:28.576Z</updated>
+        <summary type="html"><![CDATA[Accurate modeling of lower-level controller plays an important role in the traffic flow of automated vehicles (AVs). However, there lacks enough attention with this respect. To address this issue, we conduct a field experiment with two vehicles that are equipped with developable autonomous driving system, where one can customize the upper-level control algorithm. Based on the field experimental da...]]></summary>
+        <author>
+            <name>Hua-Qing Liu</name>
+        </author>
+        <author>
+            <name>Shi-Teng Zheng</name>
+        </author>
+        <author>
+            <name>Rui Jiang</name>
+        </author>
+        <author>
+            <name>Junfang Tian</name>
+        </author>
+        <author>
+            <name>Ruidong Yan</name>
+        </author>
+        <author>
+            <name>Fang Zhang</name>
+        </author>
+        <author>
+            <name>Dezhao Zhang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Virtual Method for Optimizing Deployment of Roadside Monitoring Lidars at As-Built Intersections]]></title>
+        <id>https://ieeexplore.ieee.org/document/10164642</id>
+        <link href="https://ieeexplore.ieee.org/document/10164642"/>
+        <updated>2023-06-28T01:16:28.576Z</updated>
+        <summary type="html"><![CDATA[Roadside monitoring Lidars (RMLs) will be a crucial part of the future intelligent transportation system. Current approaches for optimizing RMLs’ placement at intersections work in hypothetical environments which do not well reflect real-world situations. This article proposes a new virtual method (VM) for optimizing the deployment of RMLs at as-built intersections. The proposed VM operates in a v...]]></summary>
+        <author>
+            <name>Yang Ma</name>
+        </author>
+        <author>
+            <name>Yubing Zheng</name>
+        </author>
+        <author>
+            <name>Shuyi Wang</name>
+        </author>
+        <author>
+            <name>Yiik Diew Wong</name>
+        </author>
+        <author>
+            <name>Said M. Easa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Heterogeneous Trajectory Forecasting via Risk and Scene Graph Learning]]></title>
+        <id>https://ieeexplore.ieee.org/document/10164020</id>
+        <link href="https://ieeexplore.ieee.org/document/10164020"/>
+        <updated>2023-06-28T01:16:28.576Z</updated>
+        <summary type="html"><![CDATA[Heterogeneous trajectory forecasting is critical for intelligent transportation systems, but it is challenging because of the difficulty of modeling the complex interaction relations among the heterogeneous road agents as well as their agent-environment constraints. In this work, we propose a risk and scene graph learning method for trajectory forecasting of heterogeneous road agents, which consis...]]></summary>
+        <author>
+            <name>Jianwu Fang</name>
+        </author>
+        <author>
+            <name>Chen Zhu</name>
+        </author>
+        <author>
+            <name>Pu Zhang</name>
+        </author>
+        <author>
+            <name>Hongkai Yu</name>
+        </author>
+        <author>
+            <name>Jianru Xue</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Consortium Blockchain-Based Security and Efficient Resource Trading in V2V-Assisted Intelligent Transport Systems]]></title>
         <id>https://ieeexplore.ieee.org/document/10163941</id>

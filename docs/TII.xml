@@ -2,11 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/TII.rss</id>
     <title>IEEE Transactions on Industrial Informatics</title>
-    <updated>2023-06-27T16:17:03.056Z</updated>
+    <updated>2023-06-28T01:16:48.113Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/TII.rss"/>
     <subtitle>IEEE Transactions on Industrial Informatics</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[TMANomaly: Time-Series Mutual Adversarial Networks for Industrial Anomaly Detection]]></title>
+        <id>https://ieeexplore.ieee.org/document/10167479</id>
+        <link href="https://ieeexplore.ieee.org/document/10167479"/>
+        <updated>2023-06-28T01:16:48.106Z</updated>
+        <summary type="html"><![CDATA[Large-scale sewage treatment plants are one of the typical Industrial Internet of Things systems, where the presence of a large number of sensors generates massive dynamic time series data, and such multivariate time series data are usually time-dependent and random. Therefore, there is a certain risk when fitting the potential anomalies of real-world data, which will bring great challenges to ano...]]></summary>
+        <author>
+            <name>Lianming Zhang</name>
+        </author>
+        <author>
+            <name>Wenji Bai</name>
+        </author>
+        <author>
+            <name>Xiaowei Xie</name>
+        </author>
+        <author>
+            <name>Liying Chen</name>
+        </author>
+        <author>
+            <name>Pingping Dong</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Embedded Asynchronous MIMO Adaptive Predictive Control]]></title>
         <id>https://ieeexplore.ieee.org/document/10163238</id>

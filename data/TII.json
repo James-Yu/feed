@@ -1,5 +1,18 @@
 [
   {
+    "articleNumber": "10167479",
+    "articleTitle": "TMANomaly: Time-Series Mutual Adversarial Networks for Industrial Anomaly Detection",
+    "authors": [
+      "Lianming Zhang",
+      "Wenji Bai",
+      "Xiaowei Xie",
+      "Liying Chen",
+      "Pingping Dong"
+    ],
+    "abstract": "Large-scale sewage treatment plants are one of the typical Industrial Internet of Things systems, where the presence of a large number of sensors generates massive dynamic time series data, and such multivariate time series data are usually time-dependent and random. Therefore, there is a certain risk when fitting the potential anomalies of real-world data, which will bring great challenges to ano...",
+    "date": "2023-06-28T01:16:48.106Z"
+  },
+  {
     "articleNumber": "10163238",
     "articleTitle": "Embedded Asynchronous MIMO Adaptive Predictive Control",
     "authors": [

@@ -2,11 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/TPAMI.rss</id>
     <title>IEEE Transactions on Pattern Analysis and Machine Intelligence</title>
-    <updated>2023-06-27T16:16:54.635Z</updated>
+    <updated>2023-06-28T01:16:38.779Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/TPAMI.rss"/>
     <subtitle>IEEE Transactions on Pattern Analysis and Machine Intelligence</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Counterfactual Samples Synthesizing and Training for Robust Visual Question Answering]]></title>
+        <id>https://ieeexplore.ieee.org/document/10164132</id>
+        <link href="https://ieeexplore.ieee.org/document/10164132"/>
+        <updated>2023-06-28T01:16:38.774Z</updated>
+        <summary type="html"><![CDATA[Today&#39;s VQA models still tend to capture superficial linguistic correlations in the training set and fail to generalize to the test set with different QA distributions. To reduce these language biases, recent VQA works introduce an auxiliary question-only model to regularize the training of targeted VQA model, and achieve dominating performance on diagnostic benchmarks for out-of-distribution test...]]></summary>
+        <author>
+            <name>Long Chen</name>
+        </author>
+        <author>
+            <name>Yuhang Zheng</name>
+        </author>
+        <author>
+            <name>Yulei Niu</name>
+        </author>
+        <author>
+            <name>Hanwang Zhang</name>
+        </author>
+        <author>
+            <name>Jun Xiao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Relational Temporal Graph Reasoning for Dual-task Dialogue Language Understanding]]></title>
         <id>https://ieeexplore.ieee.org/document/10163070</id>

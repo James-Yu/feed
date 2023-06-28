@@ -1,5 +1,122 @@
 [
   {
+    "articleNumber": "10164632",
+    "articleTitle": "IncreAuth: Incremental Learning based Behavioral Biometric Authentication on Smartphones",
+    "authors": [
+      "Zhihao Shen",
+      "Shun Li",
+      "Xi Zhao",
+      "Jianhua Zou"
+    ],
+    "abstract": "Touch behavior biometric has been widely studied for continuous authentication on mobile devices, which provides a more secure authentication in an implicit process. However, the existing touch behavior biometric based authentication systems suffer from two issues. First, the existing touch behavior representation methods are hard to characterize touch operations under complex usage context. Secon...",
+    "date": "2023-06-28T01:16:43.088Z"
+  },
+  {
+    "articleNumber": "10164272",
+    "articleTitle": "Martingale-based URLLC Slice Customization for the Provisioning of Reliability Regard to End-to-end Latency",
+    "authors": [
+      "Baozhu Yu",
+      "Xuefen Chi",
+      "Shuai Li",
+      "Xuan Liu",
+      "Shoushou Ren"
+    ],
+    "abstract": "End-to-end (E2E) reliability provisioning is critical for network slice customization. Leveraging martingale theory, we construct an analysis framework of the reliability with regard to E2E latency for the multi-hop system, where service processes provided by wireless nodes and networking nodes are heterogeneous. Based on the Wald martingale constructions of arrival processes and service processes...",
+    "date": "2023-06-28T01:16:43.088Z"
+  },
+  {
+    "articleNumber": "10164634",
+    "articleTitle": "CoBC: A Blockchain-based Collaborative Inference System for the Internet of Things",
+    "authors": [
+      "Xingyu Feng",
+      "Lingjie Li",
+      "Tenglong Wang",
+      "Weitao Xu",
+      "Jin Zhang",
+      "Bo Wei",
+      "Chengwen Luo"
+    ],
+    "abstract": "The capability of local smart sensing based on IoT devices is typically limited due to due to the inherent limitations of computational and storage capabilities. Recently, collaborative inference among multiple devices has been considered as an effective way to improve the sensing capabilities of individual IoT devices. However, the collaborative inference process still faces the challenges of dat...",
+    "date": "2023-06-28T01:16:43.088Z"
+  },
+  {
+    "articleNumber": "10164652",
+    "articleTitle": "MeFi: Mean Field Reinforcement Learning for Cooperative Routing in Wireless Sensor Network",
+    "authors": [
+      "Jing Ren",
+      "Jiangong Zheng",
+      "Xiaotong Guo",
+      "Tongyu Song",
+      "Xiong Wang",
+      "Sheng Wang",
+      "Wei Zhang"
+    ],
+    "abstract": "Wireless Sensor Networks (WSNs) enable intelligent collaborative perceptions in the Internet of Things. However, devices in WSNs are battery-powered with limited energy resources. During transmission, routing policies significantly affect the energy efficiency in terms of both energy consumption and energy balance among nodes, and further impact the network lifetime. Previous works mostly used heu...",
+    "date": "2023-06-28T01:16:43.088Z"
+  },
+  {
+    "articleNumber": "10164281",
+    "articleTitle": "Joint Optimization of Multi-User Computation Offloading and Wireless-Caching Resource Allocation with Linearly Related Requests in Vehicular Edge Computing System",
+    "authors": [
+      "Liqing Liu",
+      "Zhichao Chen"
+    ],
+    "abstract": "Recently, vehicular edge computing (VEC) has become one of the hottest research fields in Internet of Vehicles (IoV). It provides certain computing, storage and caching resources at the edge of radio network to execute different kinds of vehicular applications, which can significantly reduce the latency of network operation and service delivery. Also edge caching is an effective way to reduce exec...",
+    "date": "2023-06-28T01:16:43.088Z"
+  },
+  {
+    "articleNumber": "10164640",
+    "articleTitle": "Blockchain-Enabled and Multisignature-Powered Verifiable Model for Securing Federated Learning Systems",
+    "authors": [
+      "Aditya Pribadi Kalapaaking",
+      "Ibrahim Khalil",
+      "Mohammed Atiquzzaman"
+    ],
+    "abstract": "The Internet of Things is revolutionizing numerous industrial applications by employing smart devices in manufacturing and industrial processes. Industries based on IoT generate extensive data, typically analyzed using various Machine Learning (ML) models. Federated Learning (FL) is an emerging, privacy-preserving ML method where clients train models locally and develop a global model based on the...",
+    "date": "2023-06-28T01:16:43.088Z"
+  },
+  {
+    "articleNumber": "10164638",
+    "articleTitle": "Hybrid Precoder and Combiner Designs for Decentralized Parameter Estimation in mmWave MIMO Wireless Sensor Networks",
+    "authors": [
+      "Priyanka Maity",
+      "Suraj Srivastava",
+      "Kunwar Pritiraj Rajput",
+      "Naveen K. D. Venkategowda",
+      "Aditya K. Jagannatham",
+      "Lajos Hanzo"
+    ],
+    "abstract": "Hybrid precoder and combiner designs are conceived for decentralized parameter estimation in millimeter wave (mmWave) multiple-input multiple-output (MIMO) wireless sensor networks (WSNs). More explicitly, efficient pre-and post-processing of the sensor observations and received signal are proposed for the minimum mean square error (MMSE) estimation of a parameter vector. The proposed techniques e...",
+    "date": "2023-06-28T01:16:43.088Z"
+  },
+  {
+    "articleNumber": "10164279",
+    "articleTitle": "EasiEI: A Simulator to Flexibly Modeling Complex Edge Computing Environments",
+    "authors": [
+      "Xiao Su",
+      "Jianpeng Qi",
+      "Jiahao Wang",
+      "Rui Wang",
+      "Yuan Yao"
+    ],
+    "abstract": "In edge computing scenarios, there is a need for modeling dedicated features and heterogeneous devices functions, as well as integrating multiple complex scenarios with diverse objectives and frequent interactions. However, existing platforms modeling for the whole device ignores the independence between functional components resulting in limited scenario support. We propose an open-source simulat...",
+    "date": "2023-06-28T01:16:43.088Z"
+  },
+  {
+    "articleNumber": "10164637",
+    "articleTitle": "Towards Pitch-Insensitive Speaker Verification via Soundfield",
+    "authors": [
+      "Xinfeng Li",
+      "Zhicong Zheng",
+      "Chen Yan",
+      "Chaohao Li",
+      "Xiaoyu Ji",
+      "Wenyuan Xu"
+    ],
+    "abstract": "Automatic speaker verification systems (ASVs) verify a persons identity by his/her voice and have been widely deployed for user authentication. However, existing ASVs are based on traditional audio spectral features and hence perform poorly in verifying pitch-changed utterances from speakers with cold or sore throat. In this paper, we propose SOFTER (SOundField TrackER), a soundfield-based speaker...",
+    "date": "2023-06-28T01:16:43.088Z"
+  },
+  {
     "articleNumber": "10162024",
     "articleTitle": "Ciphertext Retrieval with Identity Bidirectional Authentication and Matrix Index in IoT",
     "authors": [
@@ -12738,128 +12855,6 @@
       "Daniel Dajun Zeng"
     ],
     "abstract": "The robustness of Machine learning (ML) models has gained much attention along with their wide application on various safety required Industrial Internet of Things (IIoT) paradigms. Researchers found that some specific attacks added on sensor measurements can maliciously disturb IIoT monitors that are designed using ML architectures. Traditional detection methods could judge whether the measuremen...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9951135",
-    "articleTitle": "Cooperative Resource Allocation for Computation-Intensive IIoT Applications in Aerial Computing",
-    "authors": [
-      "Jialei Liu",
-      "Guosheng Li",
-      "Quanzhen Huang",
-      "Muhammad Bilal",
-      "Xiaolong Xu",
-      "Houbing Song"
-    ],
-    "abstract": "Unmanned aerial vehicles (UAVs) will be a vital part of the massive Industrial Internet of Things (IIoT) in the 5G and 6G paradigms. The UAVs are required to collaborate with each other to deal with some computation-intensive IIoT applications in an autonomous UAV system. However, due to the limited processing capacity of UAVs, they are occasionally unable to handle certain tasks adequately (e.g.,...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9951141",
-    "articleTitle": "Self-Organized and Distributed Green Resource Allocation for Space-Air-Ground IoT Networks",
-    "authors": [
-      "Peng Yu",
-      "Yijing Li",
-      "Manjun Zhang",
-      "Ao Xiong",
-      "Wenjing Li",
-      "Xuesong Qiu",
-      "Luoming Meng"
-    ],
-    "abstract": "To deal with the explosion connections and data volume for emergency communication or hot spot capacity enhancement with massive Internet of Things (IoT) devices, deploying aerial base stations (AeBS) on unmanned aerial vehicles (UAV) to generate heterogeneous space-air-ground networks is considered to be a quite effective method. However, the flying AeBSs and back-hauling to existing heterogeneou...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9951143",
-    "articleTitle": "Dynamic SFC Embedding Algorithm Assisted by Federated Learning in Space-Air-Ground Integrated Network Resource Allocation Scenario",
-    "authors": [
-      "Peiying Zhang",
-      "Yi Zhang",
-      "Neeraj Kumar",
-      "Mohsen Guizani"
-    ],
-    "abstract": "Traditional terrestrial wireless communication networks cannot support the requirements for high-quality services for artificial intelligence applications such as smart cities. The space-air-ground integrated network (SAGIN) provides a solution to address this challenge. However, SAGIN is heterogeneous, time-varying, and multi-dimensional information sources, making it difficult for traditional ne...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9951145",
-    "articleTitle": "Reconfigurable Intelligent Surface-Aided Number Modulation for Symbiotic Active/Passive Transmission",
-    "authors": [
-      "Qiang Li",
-      "Miaowen Wen",
-      "Lexi Xu",
-      "Kang Li"
-    ],
-    "abstract": "Reconfigurable intelligent surface (RIS)-aided symbiotic active/passive transmission is a promising communication paradigm, which is able to improve the propagation environment while transmitting additional information. In this paper, a novel scheme, termed RIS-aided number modulation (RIS-NM), is proposed for symbiotic active/passive communications. In RIS-NM, the RIS elements are divided into in...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9951049",
-    "articleTitle": "Wireless Resources Cooperation of Assembled Small UAVs for Data Collections of IoT",
-    "authors": [
-      "Jian Xiong",
-      "Lantu Guo",
-      "Mingang Shan",
-      "Bo Liu",
-      "Peng Yu",
-      "Lingfeng Guo"
-    ],
-    "abstract": "Small Unmanned Air Vehicles (UAVs) have many advantages, including low cost, and flexible deployment. And they play an important role to collect the sensing data of IoT (Internet of Things). However, limited by the load capability, it is a big challenge for them to perform long-term, large range, or far distance tasks. In order to tackle these challenges, we propose to use assembly UAVs, in which ...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9943995",
-    "articleTitle": "A Scalable and Auditable Secure Data Sharing Scheme with Traceability for Fog-Based Smart Logistics",
-    "authors": [
-      "Yanbo Yang",
-      "Jiawei Zhang",
-      "Ximeng Liu",
-      "Qi Jiang",
-      "Yuanzhen Liu",
-      "Baoshan Li",
-      "Yongxing Du",
-      "Jianfeng Ma"
-    ],
-    "abstract": "Smart Logistics (s-Logistics) has become more and more popular driven by intelligent Internet of Things (IoT) which deploys pervasive smart devices in s-Logistics systems. The explosive growth of s-Logistics data collected by these resource-limited IoT devices enables Fog-based s-Logistics that provides data outsourcing and sharing services via multiple clouds within small latency. Nevertheless, i...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9927728",
-    "articleTitle": "Fast Model Update for IoT Traffic Anomaly Detection with Machine Unlearning",
-    "authors": [
-      "Jiamin Fan",
-      "Kui Wu",
-      "Yang Zhou",
-      "Zhengan Zhao",
-      "Shengqiang Huang"
-    ],
-    "abstract": "It is often needed to update deep learning-based detection models in traffic anomaly detection systems for the Internet of Things (IoT) because of mislabelled samples or device firmware upgrades. Machine unlearning, a technique that quickly updates the anomaly detection model without re-training the model from scratch, has recently attracted much research attention. We propose a novel machine unle...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9919264",
-    "articleTitle": "Contrastive Learning over Random Fourier Features for IoT Network Intrusion Detection",
-    "authors": [
-      "Manuel Lopez-Martin",
-      "Antonio Sanchez-Esguevillas",
-      "Juan Ignacio Arribas",
-      "Belen Carro"
-    ],
-    "abstract": "IoT networks connect dispersed and heterogeneous devices with high economic impact, making them an important cybersecurity target. The changing nature of cybersecurity attacks requires intrusion detectors with the ability to detect new attacks. Our proposed model is a network intrusion detector created specifically for the needs of IoT networks with the aim of detecting previously unseen attacks. ...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9916265",
-    "articleTitle": "Privacy-preserving and Syscall-based Intrusion Detection System for IoT Spectrum Sensors Affected by Data Falsification Attacks",
-    "authors": [
-      "Alberto Huertas Celdrán",
-      "Pedro Miguel Sánchez Sánchez",
-      "Chao Feng",
-      "Gérôme Bovet",
-      "Gregorio Martínez Pérez",
-      "Burkhard Stiller"
-    ],
-    "abstract": "Crowdsensing platforms collect, process, transmit, and analyze spectrum data worldwide to optimize radio frequency spectrum usage. However, Internet-of-Things (IoT) spectrum sensors, performing some of the previous tasks, are exposed to software manipulation aiming to execute spectrum sensing data falsification (SSDF) attacks to compromise data integrity and spectrum optimization. Novel intrusion ...",
     "date": "2023-04-27T04:15:53.706Z"
   }
 ]

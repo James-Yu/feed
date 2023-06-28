@@ -1,5 +1,89 @@
 [
   {
+    "articleNumber": "10164164",
+    "articleTitle": "Semi-Supervised Local Community Detection",
+    "authors": [
+      "Li Ni",
+      "Junnan Ge",
+      "Yiwen Zhang",
+      "Wenjian Luo",
+      "Victor S. Sheng"
+    ],
+    "abstract": "Owing to the lack of a universal definition of communities, some semi-supervised community detection approaches learn the concept of community structures from known communities, and then dig out communities using learned concepts of communities. In some cases, users are only interested in the community containing a given node. However, communities detected by these semi-supervised approaches may n...",
+    "date": "2023-06-28T01:16:33.564Z"
+  },
+  {
+    "articleNumber": "10164253",
+    "articleTitle": "Collaborative Knowledge Graph Fusion by Exploiting the Open Corpus",
+    "authors": [
+      "Yue Wang",
+      "Yao Wan",
+      "Lu Bai",
+      "Lixin Cui",
+      "Zhuo Xu",
+      "Ming Li",
+      "Philip S. Yu",
+      "Edwin R. Hancock"
+    ],
+    "abstract": "To ease the process of building Knowledge Graphs (KGs) from scratch, a cost-effective method is required to enrich a KG using the triples extracted from a corpus. However, it is challenging to enrich a KG with newly extracted triples since they contain noisy information. This paper proposes to refine a KG by leveraging information extracted from a corpus. In particular, we first formulate the task...",
+    "date": "2023-06-28T01:16:33.564Z"
+  },
+  {
+    "articleNumber": "10164026",
+    "articleTitle": "Interpretable Stochastic Block Influence Model: Measuring Social Influence Among Homophilous Communities",
+    "authors": [
+      "Yan Leng",
+      "Tara Sowrirajan",
+      "Yujia Zhai",
+      "Alex Pentland"
+    ],
+    "abstract": "Decision-making on networks can be explained by both homophily and social influences. While homophily drives the formation of communities with similar characteristics, social influences occur both within and between communities. Social influences can be reasoned through role theory, which indicates that the influences among individuals depending on their roles and the behavior of interest. To oper...",
+    "date": "2023-06-28T01:16:33.564Z"
+  },
+  {
+    "articleNumber": "10164181",
+    "articleTitle": "Two-Step Strategy for Domain Adaptation Retrieval",
+    "authors": [
+      "Yonghao Chen",
+      "Xiaozhao Fang",
+      "Yuanyuan Liu",
+      "Wei Zheng",
+      "Peipei Kang",
+      "Na Han",
+      "Shengli Xie"
+    ],
+    "abstract": "Conventional hash-based retrieval method rely on the assumption that the query and database are of the identical domain. However, cross-domain problem often occurs in real-world applications, leading to the unsatisfactory performance of existing hashing methods. Recently, some researchers have put forward domain adaptation retrieval (DAR) under the perspective of domain adaptation (DA) and achieve...",
+    "date": "2023-06-28T01:16:33.564Z"
+  },
+  {
+    "articleNumber": "10164235",
+    "articleTitle": "DropConn: Dropout Connection Based Random GNNs for Molecular Property Prediction",
+    "authors": [
+      "Dan Zhang",
+      "Wenzheng Feng",
+      "Yuandong Wang",
+      "Zhongang Qi",
+      "Ying Shan",
+      "Jie Tang"
+    ],
+    "abstract": "Recently, molecular data mining has attracted a lot of attention owing to its great application potential in material and drug discovery. However, this mining task faces a challenge posed by the scarcity of labeled molecular graphs. To overcome this challenge, we introduce a novel data augmentation and a semi-supervised confidence-aware consistency regularization training framework for molecular p...",
+    "date": "2023-06-28T01:16:33.564Z"
+  },
+  {
+    "articleNumber": "10164155",
+    "articleTitle": "Dual Attention Graph Convolutional Network for Relation Extraction",
+    "authors": [
+      "Donghao Zhang",
+      "Zhenyu Liu",
+      "Weiqiang Jia",
+      "Fei Wu",
+      "Hui Liu",
+      "Jianrong Tan"
+    ],
+    "abstract": "Dependency-based models are widely used to extract semantic relations in text. Most existing dependency-based models establish stacked structures to merge contextual and dependency information, which encode the contextual information first and then encode the dependency information. However, this unidirectional information flow weakens the representation of words in the sentence, which further res...",
+    "date": "2023-06-28T01:16:33.564Z"
+  },
+  {
     "articleNumber": "10163858",
     "articleTitle": "Dual Contrastive Learning for Efficient Static Feature Representation in Sequential Recommendations",
     "authors": [
