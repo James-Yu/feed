@@ -2,11 +2,108 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/TII.rss</id>
     <title>IEEE Transactions on Industrial Informatics</title>
-    <updated>2023-06-28T16:16:53.998Z</updated>
+    <updated>2023-06-29T01:13:50.506Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/TII.rss"/>
     <subtitle>IEEE Transactions on Industrial Informatics</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Optimized Operation Framework of Distributed Thermal Storage Aggregators in the Electricity Spot Market]]></title>
+        <id>https://ieeexplore.ieee.org/document/10167821</id>
+        <link href="https://ieeexplore.ieee.org/document/10167821"/>
+        <updated>2023-06-29T01:13:50.499Z</updated>
+        <summary type="html"><![CDATA[For distributed solid electricity thermal storage aggregators (DSETSA), the uncertainty of the marginal clearing price may lead to the problem of multi-bidding scenarios (including successful, part successful and failed biddings) in the electricity spot market. Moreover, the marginal operating cost affecting the bidding revenue in the spot market is not considered in the existing methods, which ch...]]></summary>
+        <author>
+            <name>Haixin Wang</name>
+        </author>
+        <author>
+            <name>Xiangyu Cai</name>
+        </author>
+        <author>
+            <name>Zihao Yang</name>
+        </author>
+        <author>
+            <name>Gen Li</name>
+        </author>
+        <author>
+            <name>Yue Zhou</name>
+        </author>
+        <author>
+            <name>Junyou Yang</name>
+        </author>
+        <author>
+            <name>Zhe Chen</name>
+        </author>
+        <author>
+            <name>Shiyan Hu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A health-aware AC heating strategy with lithium plating criterion for batteries at low temperatures]]></title>
+        <id>https://ieeexplore.ieee.org/document/10167813</id>
+        <link href="https://ieeexplore.ieee.org/document/10167813"/>
+        <updated>2023-06-29T01:13:50.499Z</updated>
+        <summary type="html"><![CDATA[Lithium-ion batteries are crucial power sources in many industries. When they are used at low temperatures, their performance decreases greatly. Thus, heating is required. This paper proposes a health-aware heating strategy based on the AC current. The strategy combines the use of the electro-thermal model for predicting the temperature increment in the battery caused by the AC current and a diagn...]]></summary>
+        <author>
+            <name>Yi Xie</name>
+        </author>
+        <author>
+            <name>Wei Li</name>
+        </author>
+        <author>
+            <name>Ziyou Song</name>
+        </author>
+        <author>
+            <name>Bin Chen</name>
+        </author>
+        <author>
+            <name>Kailong Liu</name>
+        </author>
+        <author>
+            <name>Rui Yang</name>
+        </author>
+        <author>
+            <name>Yangjun Zhang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Performance of a Multiuser Cooperative IoT NOMA Network with Battery-Assisted Energy Harvesting]]></title>
+        <id>https://ieeexplore.ieee.org/document/10167828</id>
+        <link href="https://ieeexplore.ieee.org/document/10167828"/>
+        <updated>2023-06-29T01:13:50.499Z</updated>
+        <summary type="html"><![CDATA[This paper investigates a cooperative non-orthogonal multiple access (Co-NM) based network consisting of a multiantenna source, a full-duplex energy harvesting (EH) near user (NU) internet-of-things (IoT) node and multiple distant user (DU) IoT nodes. The source shares a direct link to the NU, while the NU augments the harvested energy by a limited amount of its battery energy to relay the informa...]]></summary>
+        <author>
+            <name>Kamal Agrawal</name>
+        </author>
+        <author>
+            <name>Anand Jee</name>
+        </author>
+        <author>
+            <name>Shankar Prakriya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[$Offset^{3}Net$: Simple joint 3D detection and tracking with three-step offset learning]]></title>
+        <id>https://ieeexplore.ieee.org/document/10167805</id>
+        <link href="https://ieeexplore.ieee.org/document/10167805"/>
+        <updated>2023-06-29T01:13:50.499Z</updated>
+        <summary type="html"><![CDATA[LIDAR-based multi-object detection and tracking play fundamental roles in autonomous driving systems. Most existing detection and tracking methods inevitably require complex pairing permutations for object association across frames, making the framework slow. Moreover, the occlusion and viewpoint changes lead to missed and false detection. To solve the above issues, this paper proposes a simple jo...]]></summary>
+        <author>
+            <name>Jing Sun</name>
+        </author>
+        <author>
+            <name>Yi-Mu Ji</name>
+        </author>
+        <author>
+            <name>Jing He</name>
+        </author>
+        <author>
+            <name>Fei Wu</name>
+        </author>
+        <author>
+            <name>Yanfei Sun</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TMANomaly: Time-Series Mutual Adversarial Networks for Industrial Anomaly Detection]]></title>
         <id>https://ieeexplore.ieee.org/document/10167479</id>

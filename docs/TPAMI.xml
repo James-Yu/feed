@@ -2,11 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/TPAMI.rss</id>
     <title>IEEE Transactions on Pattern Analysis and Machine Intelligence</title>
-    <updated>2023-06-28T16:16:42.803Z</updated>
+    <updated>2023-06-29T01:13:40.625Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/TPAMI.rss"/>
     <subtitle>IEEE Transactions on Pattern Analysis and Machine Intelligence</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Heterogeneous Multi-party Learning with Data-driven Network Sampling]]></title>
+        <id>https://ieeexplore.ieee.org/document/10167861</id>
+        <link href="https://ieeexplore.ieee.org/document/10167861"/>
+        <updated>2023-06-29T01:13:40.620Z</updated>
+        <summary type="html"><![CDATA[Multi-party learning provides an effective approach for training a machine learning model, e.g., deep neural networks (DNNs), over decentralized data by leveraging multiple decentralized computing devices, subjected to legal and practical constraints. Different parties, so-called local participants, usually provide heterogenous data in a decentralized mode, leading to non-IID data distributions ac...]]></summary>
+        <author>
+            <name>Maoguo Gong</name>
+        </author>
+        <author>
+            <name>Yuan Gao</name>
+        </author>
+        <author>
+            <name>Yue Wu</name>
+        </author>
+        <author>
+            <name>Yuanqiao Zhang</name>
+        </author>
+        <author>
+            <name>A. K. Qin</name>
+        </author>
+        <author>
+            <name>Yew-Soon Ong</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3D-Aware Adversarial Makeup Generation for Facial Privacy Protection]]></title>
+        <id>https://ieeexplore.ieee.org/document/10167807</id>
+        <link href="https://ieeexplore.ieee.org/document/10167807"/>
+        <updated>2023-06-29T01:13:40.620Z</updated>
+        <summary type="html"><![CDATA[The privacy and security of face data on social media are facing unprecedented challenges as it is vulnerable to unauthorized access and identification. A common practice for solving this problem is to modify the original data so that it could be protected from being recognized by malicious face recognition (FR) systems. However, such “adversarial examples” obtained by existing methods usually suf...]]></summary>
+        <author>
+            <name>Yueming Lyu</name>
+        </author>
+        <author>
+            <name>Yue Jiang</name>
+        </author>
+        <author>
+            <name>Ziwen He</name>
+        </author>
+        <author>
+            <name>Bo Peng</name>
+        </author>
+        <author>
+            <name>Yunfan Liu</name>
+        </author>
+        <author>
+            <name>Jing Dong</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Counterfactual Samples Synthesizing and Training for Robust Visual Question Answering]]></title>
         <id>https://ieeexplore.ieee.org/document/10164132</id>

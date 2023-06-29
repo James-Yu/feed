@@ -1,5 +1,45 @@
 [
   {
+    "articleNumber": "10167809",
+    "articleTitle": "Reliability-Driven Local Community Search in Dynamic Networks",
+    "authors": [
+      "Yifu Tang",
+      "Jianxin Li",
+      "Nur Al Hasan Haldar",
+      "Ziyu Guan",
+      "Jiajie Xu",
+      "Chengfei Liu"
+    ],
+    "abstract": "Community search over large dynamic graph has become an important research problem in modern complex networks, such as the online social network, collaboration network and biological networks. Network data in the time-varied environment has motivated several recent studies to identify the evolution of the communities. However, these studies mostly match communities of different snapshot or utilize...",
+    "date": "2023-06-29T01:13:34.751Z"
+  },
+  {
+    "articleNumber": "10167780",
+    "articleTitle": "GPU-Based Efficient Parallel Heuristic Algorithm for High-Utility Itemset Mining in Large Transaction Datasets",
+    "authors": [
+      "Wei Fang",
+      "Haipeng Jiang",
+      "Hengyang Lu",
+      "Jun Sun",
+      "Xiaojun Wu",
+      "Jerry Chun-Wei Lin"
+    ],
+    "abstract": "Heuristic algorithms have been developed to find approximate solutions for high-utility itemset mining (HUIM) problems that compensate for the performance bottlenecks of exact algorithms. However, heuristic algorithms still face the problem of long runtime and insufficient mining quality, especially for large transaction datasets with thousands to tens of thousands of items and up to millions of t...",
+    "date": "2023-06-29T01:13:34.751Z"
+  },
+  {
+    "articleNumber": "10167850",
+    "articleTitle": "GS$^{2}$-RS: A Generative Approach for Alleviating Cold start and Filter bubbles in Recommender Systems",
+    "authors": [
+      "Yuanbo Xu",
+      "En Wang",
+      "Yongjian Yang",
+      "Hui Xiong"
+    ],
+    "abstract": "Recommender Systems (RSs) typically face the cold-start problem and the filter-bubble problem when users suffer the familiar, repeated, and even predictable recommendations, making them bored and unsatisfied. The key to solving these issues is learning users&#39; fine-grained preferences and recommending appealing and unexplored items deviating from users&#39; historical items. However, existing models co...",
+    "date": "2023-06-29T01:13:34.751Z"
+  },
+  {
     "articleNumber": "10164164",
     "articleTitle": "Semi-Supervised Local Community Detection",
     "authors": [

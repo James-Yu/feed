@@ -2,11 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/TKDE.rss</id>
     <title>IEEE Transactions on Knowledge and Data Engineering</title>
-    <updated>2023-06-28T16:16:35.681Z</updated>
+    <updated>2023-06-29T01:13:34.757Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/TKDE.rss"/>
     <subtitle>IEEE Transactions on Knowledge and Data Engineering</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Reliability-Driven Local Community Search in Dynamic Networks]]></title>
+        <id>https://ieeexplore.ieee.org/document/10167809</id>
+        <link href="https://ieeexplore.ieee.org/document/10167809"/>
+        <updated>2023-06-29T01:13:34.751Z</updated>
+        <summary type="html"><![CDATA[Community search over large dynamic graph has become an important research problem in modern complex networks, such as the online social network, collaboration network and biological networks. Network data in the time-varied environment has motivated several recent studies to identify the evolution of the communities. However, these studies mostly match communities of different snapshot or utilize...]]></summary>
+        <author>
+            <name>Yifu Tang</name>
+        </author>
+        <author>
+            <name>Jianxin Li</name>
+        </author>
+        <author>
+            <name>Nur Al Hasan Haldar</name>
+        </author>
+        <author>
+            <name>Ziyu Guan</name>
+        </author>
+        <author>
+            <name>Jiajie Xu</name>
+        </author>
+        <author>
+            <name>Chengfei Liu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPU-Based Efficient Parallel Heuristic Algorithm for High-Utility Itemset Mining in Large Transaction Datasets]]></title>
+        <id>https://ieeexplore.ieee.org/document/10167780</id>
+        <link href="https://ieeexplore.ieee.org/document/10167780"/>
+        <updated>2023-06-29T01:13:34.751Z</updated>
+        <summary type="html"><![CDATA[Heuristic algorithms have been developed to find approximate solutions for high-utility itemset mining (HUIM) problems that compensate for the performance bottlenecks of exact algorithms. However, heuristic algorithms still face the problem of long runtime and insufficient mining quality, especially for large transaction datasets with thousands to tens of thousands of items and up to millions of t...]]></summary>
+        <author>
+            <name>Wei Fang</name>
+        </author>
+        <author>
+            <name>Haipeng Jiang</name>
+        </author>
+        <author>
+            <name>Hengyang Lu</name>
+        </author>
+        <author>
+            <name>Jun Sun</name>
+        </author>
+        <author>
+            <name>Xiaojun Wu</name>
+        </author>
+        <author>
+            <name>Jerry Chun-Wei Lin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GS$^{2}$-RS: A Generative Approach for Alleviating Cold start and Filter bubbles in Recommender Systems]]></title>
+        <id>https://ieeexplore.ieee.org/document/10167850</id>
+        <link href="https://ieeexplore.ieee.org/document/10167850"/>
+        <updated>2023-06-29T01:13:34.751Z</updated>
+        <summary type="html"><![CDATA[Recommender Systems (RSs) typically face the cold-start problem and the filter-bubble problem when users suffer the familiar, repeated, and even predictable recommendations, making them bored and unsatisfied. The key to solving these issues is learning users&#39; fine-grained preferences and recommending appealing and unexplored items deviating from users&#39; historical items. However, existing models co...]]></summary>
+        <author>
+            <name>Yuanbo Xu</name>
+        </author>
+        <author>
+            <name>En Wang</name>
+        </author>
+        <author>
+            <name>Yongjian Yang</name>
+        </author>
+        <author>
+            <name>Hui Xiong</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Semi-Supervised Local Community Detection]]></title>
         <id>https://ieeexplore.ieee.org/document/10164164</id>

@@ -1,5 +1,95 @@
 [
   {
+    "articleNumber": "10168054",
+    "articleTitle": "Coverage Path Planning With Budget Constraints for Multiple Unmanned Ground Vehicles",
+    "authors": [
+      "Vu Phi Tran",
+      "Asanka Perera",
+      "Matthew A. Garratt",
+      "Kathryn Kasmarik",
+      "Sreenatha G. Anavatti"
+    ],
+    "abstract": "This paper proposes an innovative approach to coverage path planning and obstacle avoidance for multiple Unmanned Ground Vehicles (UGVs) in a changing environment, taking into account constraints on the time, path length, number of UGVs and obstacles. Our approach leverages deformable virtual leader-follower formations to enable UGVs to adapt their formation based on both planned and real-time sen...",
+    "date": "2023-06-29T01:13:29.291Z"
+  },
+  {
+    "articleNumber": "10168051",
+    "articleTitle": "Low-Visibility Vehicle-Road Environment Perception Based on the Multi-Modal Visual Features Fusion of Polarization and Infrared",
+    "authors": [
+      "Hui-Feng Wang",
+      "Yun-Mei Jiao",
+      "Ting Hao",
+      "Yuan-He Shan",
+      "Shang-Zhen Song",
+      "He Huang"
+    ],
+    "abstract": "As a key component of the automatic driving assistant system, vehicle-road environment perception technology is the basis of decision-making and the guarantee of safe driving. However, the existing vehicle-road environment perception technology based on vision mainly focus on the conditions of good illumination and weather and rely on visible light imaging equipment, which is not highly adaptable ...",
+    "date": "2023-06-29T01:13:29.291Z"
+  },
+  {
+    "articleNumber": "10167761",
+    "articleTitle": "Fine-Grained Road Quality Monitoring Using Deep Learning",
+    "authors": [
+      "Ifrah Siddiqui",
+      "Suleman Mazhar",
+      "Naufil Hassan",
+      "Waqas Sultani"
+    ],
+    "abstract": "Existing solutions for road surface monitoring have assumed that events (both normal and abnormal) have a defined duration, and these methods fail to provide a universal framework that can be used to assess the quality of roads in real-world scenarios where events do not have to be of fixed duration. This article aims to improve road quality assessment systems by overcoming the constraint of fixed...",
+    "date": "2023-06-29T01:13:29.291Z"
+  },
+  {
+    "articleNumber": "10167760",
+    "articleTitle": "Efficient Package Delivery Task Assignment for Truck and High Capacity Drone",
+    "authors": [
+      "Xiaoshan Bai",
+      "Youqiang Ye",
+      "Bo Zhang",
+      "Shuzhi Sam Ge"
+    ],
+    "abstract": "This paper investigates the task assignment problem for one truck and one drone to deliver packages to a group of customer locations. The truck, carrying a large number of packages, can only travel between a group of prescribed street-stopping/parking locations to replenish the drone with both packages and batteries. The drone can carry multiple packages simultaneously to serve customers sequentia...",
+    "date": "2023-06-29T01:13:29.291Z"
+  },
+  {
+    "articleNumber": "10167758",
+    "articleTitle": "DCA: Delayed Charging Attack on the Electric Shared Mobility System",
+    "authors": [
+      "Shuocheng Guo",
+      "Hanlin Chen",
+      "Mizanur Rahman",
+      "Xinwu Qian"
+    ],
+    "abstract": "An efficient operation of the electric shared mobility system (ESMS) relies heavily on seamless interconnections among shared electric vehicles (SEV), electric vehicle supply equipment (EVSE), and the grid. Nevertheless, this interconnectivity also makes the ESMS vulnerable to cyberattacks that may cause short-term breakdowns or long-term degradation of the ESMS. This study focuses on one such att...",
+    "date": "2023-06-29T01:13:29.291Z"
+  },
+  {
+    "articleNumber": "10168001",
+    "articleTitle": "SDSS: Secure Data Sharing Scheme for Edge Enabled IoV Networks",
+    "authors": [
+      "Jingwei Liu",
+      "Yating Li",
+      "Rong Sun",
+      "Lei Liu",
+      "Ning Zhang",
+      "F. Richard Yu",
+      "Victor C. M. Leung"
+    ],
+    "abstract": "With the large-scale deployment of the Internet of Vehicles (IoV) and 5G technologies, it is inevitable to share data frequently for superior in-vehicle services. However, due to the dynamically changing and widely distributed Vehicular Ad-hoc Networks (VANETs), data sharing still faces challenges in security, efficiency, and reliability. In this paper, we propose a secure and reliable data-sharin...",
+    "date": "2023-06-29T01:13:29.291Z"
+  },
+  {
+    "articleNumber": "10168050",
+    "articleTitle": "Multi-Agent Reinforcement Learning for Intelligent V2G Integration in Future Transportation Systems",
+    "authors": [
+      "Jiawei Dong",
+      "Abdulsalam Yassine",
+      "Andy Armitage",
+      "M. Shamim Hossain"
+    ],
+    "abstract": "Electric vehicles (EVs) are the backbone of the future intelligent transportation system (ITS). They are environmentally friendly and can also be integrated as distributed energy resources (DERs) into the smart grid using vehicle-to-grid (V2G) scheme. Specifically, utility companies can push back EV batteries into the electric grid to reduce the peak load. However, integrating EVs into the power g...",
+    "date": "2023-06-29T01:13:29.291Z"
+  },
+  {
     "articleNumber": "10164180",
     "articleTitle": "PAF-Net: A Progressive and Adaptive Fusion Network for Pavement Crack Segmentation",
     "authors": [

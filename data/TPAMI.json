@@ -1,5 +1,33 @@
 [
   {
+    "articleNumber": "10167861",
+    "articleTitle": "Heterogeneous Multi-party Learning with Data-driven Network Sampling",
+    "authors": [
+      "Maoguo Gong",
+      "Yuan Gao",
+      "Yue Wu",
+      "Yuanqiao Zhang",
+      "A. K. Qin",
+      "Yew-Soon Ong"
+    ],
+    "abstract": "Multi-party learning provides an effective approach for training a machine learning model, e.g., deep neural networks (DNNs), over decentralized data by leveraging multiple decentralized computing devices, subjected to legal and practical constraints. Different parties, so-called local participants, usually provide heterogenous data in a decentralized mode, leading to non-IID data distributions ac...",
+    "date": "2023-06-29T01:13:40.620Z"
+  },
+  {
+    "articleNumber": "10167807",
+    "articleTitle": "3D-Aware Adversarial Makeup Generation for Facial Privacy Protection",
+    "authors": [
+      "Yueming Lyu",
+      "Yue Jiang",
+      "Ziwen He",
+      "Bo Peng",
+      "Yunfan Liu",
+      "Jing Dong"
+    ],
+    "abstract": "The privacy and security of face data on social media are facing unprecedented challenges as it is vulnerable to unauthorized access and identification. A common practice for solving this problem is to modify the original data so that it could be protected from being recognized by malicious face recognition (FR) systems. However, such “adversarial examples” obtained by existing methods usually suf...",
+    "date": "2023-06-29T01:13:40.620Z"
+  },
+  {
     "articleNumber": "10164132",
     "articleTitle": "Counterfactual Samples Synthesizing and Training for Robust Visual Question Answering",
     "authors": [

@@ -1,5 +1,60 @@
 [
   {
+    "articleNumber": "10167821",
+    "articleTitle": "Optimized Operation Framework of Distributed Thermal Storage Aggregators in the Electricity Spot Market",
+    "authors": [
+      "Haixin Wang",
+      "Xiangyu Cai",
+      "Zihao Yang",
+      "Gen Li",
+      "Yue Zhou",
+      "Junyou Yang",
+      "Zhe Chen",
+      "Shiyan Hu"
+    ],
+    "abstract": "For distributed solid electricity thermal storage aggregators (DSETSA), the uncertainty of the marginal clearing price may lead to the problem of multi-bidding scenarios (including successful, part successful and failed biddings) in the electricity spot market. Moreover, the marginal operating cost affecting the bidding revenue in the spot market is not considered in the existing methods, which ch...",
+    "date": "2023-06-29T01:13:50.499Z"
+  },
+  {
+    "articleNumber": "10167813",
+    "articleTitle": "A health-aware AC heating strategy with lithium plating criterion for batteries at low temperatures",
+    "authors": [
+      "Yi Xie",
+      "Wei Li",
+      "Ziyou Song",
+      "Bin Chen",
+      "Kailong Liu",
+      "Rui Yang",
+      "Yangjun Zhang"
+    ],
+    "abstract": "Lithium-ion batteries are crucial power sources in many industries. When they are used at low temperatures, their performance decreases greatly. Thus, heating is required. This paper proposes a health-aware heating strategy based on the AC current. The strategy combines the use of the electro-thermal model for predicting the temperature increment in the battery caused by the AC current and a diagn...",
+    "date": "2023-06-29T01:13:50.499Z"
+  },
+  {
+    "articleNumber": "10167828",
+    "articleTitle": "Performance of a Multiuser Cooperative IoT NOMA Network with Battery-Assisted Energy Harvesting",
+    "authors": [
+      "Kamal Agrawal",
+      "Anand Jee",
+      "Shankar Prakriya"
+    ],
+    "abstract": "This paper investigates a cooperative non-orthogonal multiple access (Co-NM) based network consisting of a multiantenna source, a full-duplex energy harvesting (EH) near user (NU) internet-of-things (IoT) node and multiple distant user (DU) IoT nodes. The source shares a direct link to the NU, while the NU augments the harvested energy by a limited amount of its battery energy to relay the informa...",
+    "date": "2023-06-29T01:13:50.499Z"
+  },
+  {
+    "articleNumber": "10167805",
+    "articleTitle": "$Offset^{3}Net$: Simple joint 3D detection and tracking with three-step offset learning",
+    "authors": [
+      "Jing Sun",
+      "Yi-Mu Ji",
+      "Jing He",
+      "Fei Wu",
+      "Yanfei Sun"
+    ],
+    "abstract": "LIDAR-based multi-object detection and tracking play fundamental roles in autonomous driving systems. Most existing detection and tracking methods inevitably require complex pairing permutations for object association across frames, making the framework slow. Moreover, the occlusion and viewpoint changes lead to missed and false detection. To solve the above issues, this paper proposes a simple jo...",
+    "date": "2023-06-29T01:13:50.499Z"
+  },
+  {
     "articleNumber": "10167479",
     "articleTitle": "TMANomaly: Time-Series Mutual Adversarial Networks for Industrial Anomaly Detection",
     "authors": [

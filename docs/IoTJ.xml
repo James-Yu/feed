@@ -2,11 +2,209 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/IoTJ.rss</id>
     <title>IEEE Internet of Things Journal</title>
-    <updated>2023-06-28T16:16:48.518Z</updated>
+    <updated>2023-06-29T01:13:45.707Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/IoTJ.rss"/>
     <subtitle>IEEE Internet of Things Journal</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[R-PMAC: A Robust Preamble Based MAC Mechanism Applied in Industrial Internet of Things]]></title>
+        <id>https://ieeexplore.ieee.org/document/10168087</id>
+        <link href="https://ieeexplore.ieee.org/document/10168087"/>
+        <updated>2023-06-29T01:13:45.698Z</updated>
+        <summary type="html"><![CDATA[This paper proposes a novel media access control (MAC) mechanism, called the robust preamble-based MAC mechanism (R-PMAC), which can be applied to power line communication (PLC) networks in the context of the Industrial Internet of Things (IIoT). Compared with other MAC mechanisms such as P-MAC and the MAC layer of IEEE1901.1, R-PMAC has higher networking speed. Besides, it supports whitelist auth...]]></summary>
+        <author>
+            <name>Kai Song</name>
+        </author>
+        <author>
+            <name>Biqian Feng</name>
+        </author>
+        <author>
+            <name>Yongpeng Wu</name>
+        </author>
+        <author>
+            <name>Zhen Gao</name>
+        </author>
+        <author>
+            <name>Wenjun Zhang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adversarial Diffusion Attacks on Graph-based Traffic Prediction Models]]></title>
+        <id>https://ieeexplore.ieee.org/document/10167720</id>
+        <link href="https://ieeexplore.ieee.org/document/10167720"/>
+        <updated>2023-06-29T01:13:45.698Z</updated>
+        <summary type="html"><![CDATA[Real-time traffic prediction models play a pivotal role in smart mobility systems and have been widely used in route guidance, emerging mobility services, and advanced traffic management systems. With the availability of massive traffic data, neural network-based deep learning methods, especially graph convolutional networks (GCN) have demonstrated outstanding performance in mining spatio-temporal...]]></summary>
+        <author>
+            <name>Lyuyi Zhu</name>
+        </author>
+        <author>
+            <name>Kairui Feng</name>
+        </author>
+        <author>
+            <name>Ziyuan Pu</name>
+        </author>
+        <author>
+            <name>Wei Ma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“Plug-and-Play” Inventory Robots: Autonomous Itinerary Planning through Autonomous Waypoint Generation]]></title>
+        <id>https://ieeexplore.ieee.org/document/10167732</id>
+        <link href="https://ieeexplore.ieee.org/document/10167732"/>
+        <updated>2023-06-29T01:13:45.698Z</updated>
+        <summary type="html"><![CDATA[Current robotic inventory systems rely on human interaction for installation, configuration, and reconfiguration tasks. However, this dependence on human involvement hampers the efficiency of the process chain in the industry and can lead to bottlenecks in the supply chain and the overall system. In this study, we present a “plug-and-play” methodology that enables the deployment of inventory robot...]]></summary>
+        <author>
+            <name>Sergio Lopez-Soriano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unmanned Aerial Vehicles for Air Pollution Monitoring: A survey]]></title>
+        <id>https://ieeexplore.ieee.org/document/10167736</id>
+        <link href="https://ieeexplore.ieee.org/document/10167736"/>
+        <updated>2023-06-29T01:13:45.698Z</updated>
+        <summary type="html"><![CDATA[Unmanned Aerial Vehicles (UAVs) equipped with air quality sensors offer a powerful solution for increasing the spatial and temporal resolution of air quality data, searching and detecting emission sources, and monitoring emissions from fixed and mobile sources. Despite the numerous advantages of using UAVs, their use, however, presents several challenges that limit their broader adoption. For exam...]]></summary>
+        <author>
+            <name>Naser Hossein Motlagh</name>
+        </author>
+        <author>
+            <name>Pranvera Kortoçi</name>
+        </author>
+        <author>
+            <name>Xiang Su</name>
+        </author>
+        <author>
+            <name>Lauri Lovén</name>
+        </author>
+        <author>
+            <name>Hans Kristian Hoel</name>
+        </author>
+        <author>
+            <name>Sindre Bjerkestrand Haugsvær</name>
+        </author>
+        <author>
+            <name>Varun Srivastava</name>
+        </author>
+        <author>
+            <name>Casper Fabian Gulbrandsen</name>
+        </author>
+        <author>
+            <name>Petteri Nurmi</name>
+        </author>
+        <author>
+            <name>Sasu Tarkoma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blockchain-assisted Server Placement with Elitist Preserved Genetic Algorithm in Edge Computing]]></title>
+        <id>https://ieeexplore.ieee.org/document/10167729</id>
+        <link href="https://ieeexplore.ieee.org/document/10167729"/>
+        <updated>2023-06-29T01:13:45.698Z</updated>
+        <summary type="html"><![CDATA[The distribution of edge resources in the edge computing environment has an important impact on the Quality of Service (QoS) of edge services. Unreasonable server placement will inevitably lead to problems such as server overload or underload, deteriorating workload balancing and service wait time. Therefore, the key issue to be addressed in server placement is how to enhance the QoS of edge servi...]]></summary>
+        <author>
+            <name>Zheng Li</name>
+        </author>
+        <author>
+            <name>Guosheng Li</name>
+        </author>
+        <author>
+            <name>Muhammad Bilal</name>
+        </author>
+        <author>
+            <name>Dongqing Liu</name>
+        </author>
+        <author>
+            <name>Tao Huang</name>
+        </author>
+        <author>
+            <name>Xiaolong Xu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Location Privacy-aware Service Migration against Inference Attacks in Multi-user MEC Systems]]></title>
+        <id>https://ieeexplore.ieee.org/document/10167742</id>
+        <link href="https://ieeexplore.ieee.org/document/10167742"/>
+        <updated>2023-06-29T01:13:45.698Z</updated>
+        <summary type="html"><![CDATA[In Multi-access Edge Computing (MEC) systems, service migration has been extensively applied to ensure service quality by migrating services to follow mobile users. The existing migration methods mainly focus on optimizing service response latency and migration costs by predicting user’s movements. However, some malicious adversaries can learn auxiliary knowledge, i.e., users’ mobility model and s...]]></summary>
+        <author>
+            <name>Weixu Wang</name>
+        </author>
+        <author>
+            <name>Xiaobo Zhou</name>
+        </author>
+        <author>
+            <name>Tie Qiu</name>
+        </author>
+        <author>
+            <name>Xin He</name>
+        </author>
+        <author>
+            <name>Shuxin Ge</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Performance of a Massive MIMO IoT System with Random Non-orthogonal Reference Signals]]></title>
+        <id>https://ieeexplore.ieee.org/document/10167646</id>
+        <link href="https://ieeexplore.ieee.org/document/10167646"/>
+        <updated>2023-06-29T01:13:45.698Z</updated>
+        <summary type="html"><![CDATA[To support a vast amount of Internet of Things (IoT) devices using Massive multiple-input multiple-output (MIMO) systems simultaneously, due to the limited available resources, uplink orthogonal reference signals (ORSs) must be heavily reused for channel estimation. In this situation, the performance of Massive MIMO systems can be seriously degraded due to the collision of ORSs. Random non-orthogo...]]></summary>
+        <author>
+            <name>Byung Moo Lee</name>
+        </author>
+        <author>
+            <name>Hong Yang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Integrated Sensing and Communication System for Fall Detection and Recognition Using Ultra-Wideband Signals]]></title>
+        <id>https://ieeexplore.ieee.org/document/10167714</id>
+        <link href="https://ieeexplore.ieee.org/document/10167714"/>
+        <updated>2023-06-29T01:13:45.698Z</updated>
+        <summary type="html"><![CDATA[Fall detection and recognition play a crucial role in enabling timely medical interventions for people who are at risk of falls, especially among vulnerable populations like older adults and those with mobility limitations. In this paper, a cost-effective integrated sensing and communication system, namely FallDR, is presented for fall detection and recognition using ultra-wideband communication. ...]]></summary>
+        <author>
+            <name>Anna Li</name>
+        </author>
+        <author>
+            <name>Eliane Bodanese</name>
+        </author>
+        <author>
+            <name>Stefan Poslad</name>
+        </author>
+        <author>
+            <name>Zhao Huang</name>
+        </author>
+        <author>
+            <name>Tianwei Hou</name>
+        </author>
+        <author>
+            <name>Kaishun Wu</name>
+        </author>
+        <author>
+            <name>Fei Luo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Distance-Aware Hierarchical Federated Learning in Blockchain-enabled Edge Computing Network]]></title>
+        <id>https://ieeexplore.ieee.org/document/10167763</id>
+        <link href="https://ieeexplore.ieee.org/document/10167763"/>
+        <updated>2023-06-29T01:13:45.698Z</updated>
+        <summary type="html"><![CDATA[Federated learning (FL) has been proposed as an emerging paradigm to perform privacy-preserving distributed machine learning in the Internet of Things (IoT). However, the communication overhead caused by partial model aggregations will increase the model training latency. In this paper, a multi-layer blockchain-enabled hierarchical federated learning (HFL) network is proposed for low-latency model...]]></summary>
+        <author>
+            <name>Xiaoge Huang</name>
+        </author>
+        <author>
+            <name>Yuhang Wu</name>
+        </author>
+        <author>
+            <name>Chengchao Liang</name>
+        </author>
+        <author>
+            <name>Qianbin Chen</name>
+        </author>
+        <author>
+            <name>Jie Zhang</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IncreAuth: Incremental Learning based Behavioral Biometric Authentication on Smartphones]]></title>
         <id>https://ieeexplore.ieee.org/document/10164632</id>
@@ -21387,198 +21585,6 @@
         </author>
         <author>
             <name>Dacheng Yang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Energy-efficient Spectrum Sharing for 6G Ubiquitous IoT Networks Through Blockchain]]></title>
-        <id>https://ieeexplore.ieee.org/document/9964080</id>
-        <link href="https://ieeexplore.ieee.org/document/9964080"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[Ubiquitous Internet of Things (UIoT) is required a three-dimensional network that stretches from space to air to earth. It is involved numerous network components such as satellites, HAPs, UAVs, terrestrial cellular networks, data centers, terrestrial gateways, as well as sharing and openness among operators. Correspondingly wireless spectrum sharing becomes essential to energy efficiency and thus...]]></summary>
-        <author>
-            <name>Zhenqiang Sun</name>
-        </author>
-        <author>
-            <name>Fei Qi</name>
-        </author>
-        <author>
-            <name>Lei Liu</name>
-        </author>
-        <author>
-            <name>Yanxia Xing</name>
-        </author>
-        <author>
-            <name>Weiliang Xie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HALE-IoT: HArdening LEgacy Internet-of-Things devices by retrofitting defensive firmware modifications and implants]]></title>
-        <id>https://ieeexplore.ieee.org/document/9963643</id>
-        <link href="https://ieeexplore.ieee.org/document/9963643"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[Internet-Of-Things (IoT) devices and their firmware are notorious for their lifelong vulnerabilities. As device infection increases, vendors also fail to release patches at a competitive pace. Despite security in IoT being an active area of research, prior work has mainly focused on vulnerability detection and exploitation, threat modelling, and protocol security. However, these methods are ineffe...]]></summary>
-        <author>
-            <name>J. Carrillo-Mondéjar</name>
-        </author>
-        <author>
-            <name>Hannu Turtiainen</name>
-        </author>
-        <author>
-            <name>Andrei Costin</name>
-        </author>
-        <author>
-            <name>J.L. Martínez</name>
-        </author>
-        <author>
-            <name>G. Suarez-Tangil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RIS Assisted Ambient Backscatter Communication for SAGIN IoT]]></title>
-        <id>https://ieeexplore.ieee.org/document/9963692</id>
-        <link href="https://ieeexplore.ieee.org/document/9963692"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[The space, air and ground integrated network (SAGIN) will greatly promote the development of the Internet of Things (IoT). Green IoT will be an important part of SAGIN. Ambient backscatter communication (AmBC) is a potential solution for green SAGIN IoT. To improve the achievable sum rate (ASR) of the AmBC system, we propose a reconfigurable intelligent surface (RIS) assisted AmBC system. In the s...]]></summary>
-        <author>
-            <name>Qiang Liu</name>
-        </author>
-        <author>
-            <name>Meixia Fu</name>
-        </author>
-        <author>
-            <name>Wei Li</name>
-        </author>
-        <author>
-            <name>Jiagui Xie</name>
-        </author>
-        <author>
-            <name>Michel Kadoch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paired Swarm Optimized Relational Vector Learning for FDI Attacks Detection in IoT-aided Smart Grid]]></title>
-        <id>https://ieeexplore.ieee.org/document/9963630</id>
-        <link href="https://ieeexplore.ieee.org/document/9963630"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[IoT-aided smart grid heavily depends on the most innovative communication technologies that could make the grid system susceptible to False Data Injection Attacks (FDIA). The main objective of the FDI attackers remains in damaging or corrupting the state estimation strategy in the smart grid resulting in blackouts and/or to influence the electricity market. With a number of features involved in th...]]></summary>
-        <author>
-            <name>Sumarga Kumar Sah Tyagi</name>
-        </author>
-        <author>
-            <name>Rahul Yadav</name>
-        </author>
-        <author>
-            <name>Deepak Kumar Jain</name>
-        </author>
-        <author>
-            <name>Yicheng Tu</name>
-        </author>
-        <author>
-            <name>Weizhe Zhang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Collaborative LEO Satellites for Secure and Green Internet of Remote Things]]></title>
-        <id>https://ieeexplore.ieee.org/document/9960741</id>
-        <link href="https://ieeexplore.ieee.org/document/9960741"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[The Internet of Remote Things (IoRT) supported by Low Earth Orbit (LEO) satellites is becoming indispensable for remote sensing, and it will play an important role in the forthcoming sixth generation (6G) communication network. In exploring its applications in remote mining and smart grid, etc., it is found that the implementation of IoRT faces challenges, including limited energy supplies, high m...]]></summary>
-        <author>
-            <name>Pingyue Yue</name>
-        </author>
-        <author>
-            <name>Jiaheng Du</name>
-        </author>
-        <author>
-            <name>Rui Zhang</name>
-        </author>
-        <author>
-            <name>Haichuan Ding</name>
-        </author>
-        <author>
-            <name>Shuai Wang</name>
-        </author>
-        <author>
-            <name>Jianping An</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Energy-Efficient Task Transfer in Wireless Computing Power Networks]]></title>
-        <id>https://ieeexplore.ieee.org/document/9956845</id>
-        <link href="https://ieeexplore.ieee.org/document/9956845"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[The Sixth Generation (6G) wireless communication aims to enable ubiquitous intelligent connectivity in future Space-Air-Ground-Ocean integrated networks, with extremely low latency and enhanced global coverage. However, the explosive growth in Internet of Things devices poses new challenges for smart devices to process the generated tremendous data with limited resources. In 6G networks, conventio...]]></summary>
-        <author>
-            <name>Yunlong Lu</name>
-        </author>
-        <author>
-            <name>Bo Ai</name>
-        </author>
-        <author>
-            <name>Zhangdui Zhong</name>
-        </author>
-        <author>
-            <name>Yan Zhang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Multimodal Data Harness Approach of Mobile Sensors Trajectory planning for Target Tracking]]></title>
-        <id>https://ieeexplore.ieee.org/document/9953088</id>
-        <link href="https://ieeexplore.ieee.org/document/9953088"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[The future Internet comprising multimodal mobile wireless sensors (MMWSs) dramatically increases the data dimension and complexity compared to the traditional homogeneous networks. It consists of various types of nodes that can be deployed in different spatial domains to form the space, air, ground, and ocean integrated network (SAGOI-Net). A key challenge to IoT with SAGOI-Net is harnessing the r...]]></summary>
-        <author>
-            <name>Xiafei Huang</name>
-        </author>
-        <author>
-            <name>JingLiang</name>
-        </author>
-        <author>
-            <name>Xiaofeng Shen</name>
-        </author>
-        <author>
-            <name>Qilian Liang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Efficient Fusion and Reconstruction for Communication and Sensing Signals in Green IoT Networks]]></title>
-        <id>https://ieeexplore.ieee.org/document/9953111</id>
-        <link href="https://ieeexplore.ieee.org/document/9953111"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[Efficient and green transmission of communication and sensing (C&S) signals is a vital problem in Internet-of-Things (IoT) networks. In this paper, we propose a variational autoencoder (VAE)-empowered deep learning (DL) network to fuse and reconstruct the integrated C&S signals. Specifically, we present a convolutional neural network to fuse the input communication data and SAR images into a combi...]]></summary>
-        <author>
-            <name>Zexuan Jing</name>
-        </author>
-        <author>
-            <name>Junsheng Mu</name>
-        </author>
-        <author>
-            <name>Xinyu Li</name>
-        </author>
-        <author>
-            <name>Quan Zhou</name>
-        </author>
-        <author>
-            <name>Qinghua Tian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Robust Monitor for Industrial IoT Condition Prediction]]></title>
-        <id>https://ieeexplore.ieee.org/document/9953091</id>
-        <link href="https://ieeexplore.ieee.org/document/9953091"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[The robustness of Machine learning (ML) models has gained much attention along with their wide application on various safety required Industrial Internet of Things (IIoT) paradigms. Researchers found that some specific attacks added on sensor measurements can maliciously disturb IIoT monitors that are designed using ML architectures. Traditional detection methods could judge whether the measuremen...]]></summary>
-        <author>
-            <name>Xingwei Zhang</name>
-        </author>
-        <author>
-            <name>Hu Tian</name>
-        </author>
-        <author>
-            <name>Xiaolong Zheng</name>
-        </author>
-        <author>
-            <name>Daniel Dajun Zeng</name>
         </author>
     </entry>
 </feed>

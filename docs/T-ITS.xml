@@ -2,11 +2,162 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/T-ITS.rss</id>
     <title>IEEE Transactions on Intelligent Transportation Systems</title>
-    <updated>2023-06-28T16:16:29.796Z</updated>
+    <updated>2023-06-29T01:13:29.300Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/T-ITS.rss"/>
     <subtitle>IEEE Transactions on Intelligent Transportation Systems</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Coverage Path Planning With Budget Constraints for Multiple Unmanned Ground Vehicles]]></title>
+        <id>https://ieeexplore.ieee.org/document/10168054</id>
+        <link href="https://ieeexplore.ieee.org/document/10168054"/>
+        <updated>2023-06-29T01:13:29.291Z</updated>
+        <summary type="html"><![CDATA[This paper proposes an innovative approach to coverage path planning and obstacle avoidance for multiple Unmanned Ground Vehicles (UGVs) in a changing environment, taking into account constraints on the time, path length, number of UGVs and obstacles. Our approach leverages deformable virtual leader-follower formations to enable UGVs to adapt their formation based on both planned and real-time sen...]]></summary>
+        <author>
+            <name>Vu Phi Tran</name>
+        </author>
+        <author>
+            <name>Asanka Perera</name>
+        </author>
+        <author>
+            <name>Matthew A. Garratt</name>
+        </author>
+        <author>
+            <name>Kathryn Kasmarik</name>
+        </author>
+        <author>
+            <name>Sreenatha G. Anavatti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Low-Visibility Vehicle-Road Environment Perception Based on the Multi-Modal Visual Features Fusion of Polarization and Infrared]]></title>
+        <id>https://ieeexplore.ieee.org/document/10168051</id>
+        <link href="https://ieeexplore.ieee.org/document/10168051"/>
+        <updated>2023-06-29T01:13:29.291Z</updated>
+        <summary type="html"><![CDATA[As a key component of the automatic driving assistant system, vehicle-road environment perception technology is the basis of decision-making and the guarantee of safe driving. However, the existing vehicle-road environment perception technology based on vision mainly focus on the conditions of good illumination and weather and rely on visible light imaging equipment, which is not highly adaptable ...]]></summary>
+        <author>
+            <name>Hui-Feng Wang</name>
+        </author>
+        <author>
+            <name>Yun-Mei Jiao</name>
+        </author>
+        <author>
+            <name>Ting Hao</name>
+        </author>
+        <author>
+            <name>Yuan-He Shan</name>
+        </author>
+        <author>
+            <name>Shang-Zhen Song</name>
+        </author>
+        <author>
+            <name>He Huang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fine-Grained Road Quality Monitoring Using Deep Learning]]></title>
+        <id>https://ieeexplore.ieee.org/document/10167761</id>
+        <link href="https://ieeexplore.ieee.org/document/10167761"/>
+        <updated>2023-06-29T01:13:29.291Z</updated>
+        <summary type="html"><![CDATA[Existing solutions for road surface monitoring have assumed that events (both normal and abnormal) have a defined duration, and these methods fail to provide a universal framework that can be used to assess the quality of roads in real-world scenarios where events do not have to be of fixed duration. This article aims to improve road quality assessment systems by overcoming the constraint of fixed...]]></summary>
+        <author>
+            <name>Ifrah Siddiqui</name>
+        </author>
+        <author>
+            <name>Suleman Mazhar</name>
+        </author>
+        <author>
+            <name>Naufil Hassan</name>
+        </author>
+        <author>
+            <name>Waqas Sultani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Efficient Package Delivery Task Assignment for Truck and High Capacity Drone]]></title>
+        <id>https://ieeexplore.ieee.org/document/10167760</id>
+        <link href="https://ieeexplore.ieee.org/document/10167760"/>
+        <updated>2023-06-29T01:13:29.291Z</updated>
+        <summary type="html"><![CDATA[This paper investigates the task assignment problem for one truck and one drone to deliver packages to a group of customer locations. The truck, carrying a large number of packages, can only travel between a group of prescribed street-stopping/parking locations to replenish the drone with both packages and batteries. The drone can carry multiple packages simultaneously to serve customers sequentia...]]></summary>
+        <author>
+            <name>Xiaoshan Bai</name>
+        </author>
+        <author>
+            <name>Youqiang Ye</name>
+        </author>
+        <author>
+            <name>Bo Zhang</name>
+        </author>
+        <author>
+            <name>Shuzhi Sam Ge</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DCA: Delayed Charging Attack on the Electric Shared Mobility System]]></title>
+        <id>https://ieeexplore.ieee.org/document/10167758</id>
+        <link href="https://ieeexplore.ieee.org/document/10167758"/>
+        <updated>2023-06-29T01:13:29.291Z</updated>
+        <summary type="html"><![CDATA[An efficient operation of the electric shared mobility system (ESMS) relies heavily on seamless interconnections among shared electric vehicles (SEV), electric vehicle supply equipment (EVSE), and the grid. Nevertheless, this interconnectivity also makes the ESMS vulnerable to cyberattacks that may cause short-term breakdowns or long-term degradation of the ESMS. This study focuses on one such att...]]></summary>
+        <author>
+            <name>Shuocheng Guo</name>
+        </author>
+        <author>
+            <name>Hanlin Chen</name>
+        </author>
+        <author>
+            <name>Mizanur Rahman</name>
+        </author>
+        <author>
+            <name>Xinwu Qian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SDSS: Secure Data Sharing Scheme for Edge Enabled IoV Networks]]></title>
+        <id>https://ieeexplore.ieee.org/document/10168001</id>
+        <link href="https://ieeexplore.ieee.org/document/10168001"/>
+        <updated>2023-06-29T01:13:29.291Z</updated>
+        <summary type="html"><![CDATA[With the large-scale deployment of the Internet of Vehicles (IoV) and 5G technologies, it is inevitable to share data frequently for superior in-vehicle services. However, due to the dynamically changing and widely distributed Vehicular Ad-hoc Networks (VANETs), data sharing still faces challenges in security, efficiency, and reliability. In this paper, we propose a secure and reliable data-sharin...]]></summary>
+        <author>
+            <name>Jingwei Liu</name>
+        </author>
+        <author>
+            <name>Yating Li</name>
+        </author>
+        <author>
+            <name>Rong Sun</name>
+        </author>
+        <author>
+            <name>Lei Liu</name>
+        </author>
+        <author>
+            <name>Ning Zhang</name>
+        </author>
+        <author>
+            <name>F. Richard Yu</name>
+        </author>
+        <author>
+            <name>Victor C. M. Leung</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multi-Agent Reinforcement Learning for Intelligent V2G Integration in Future Transportation Systems]]></title>
+        <id>https://ieeexplore.ieee.org/document/10168050</id>
+        <link href="https://ieeexplore.ieee.org/document/10168050"/>
+        <updated>2023-06-29T01:13:29.291Z</updated>
+        <summary type="html"><![CDATA[Electric vehicles (EVs) are the backbone of the future intelligent transportation system (ITS). They are environmentally friendly and can also be integrated as distributed energy resources (DERs) into the smart grid using vehicle-to-grid (V2G) scheme. Specifically, utility companies can push back EV batteries into the electric grid to reduce the peak load. However, integrating EVs into the power g...]]></summary>
+        <author>
+            <name>Jiawei Dong</name>
+        </author>
+        <author>
+            <name>Abdulsalam Yassine</name>
+        </author>
+        <author>
+            <name>Andy Armitage</name>
+        </author>
+        <author>
+            <name>M. Shamim Hossain</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PAF-Net: A Progressive and Adaptive Fusion Network for Pavement Crack Segmentation]]></title>
         <id>https://ieeexplore.ieee.org/document/10164180</id>
