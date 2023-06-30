@@ -2,11 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/TKDE.rss</id>
     <title>IEEE Transactions on Knowledge and Data Engineering</title>
-    <updated>2023-06-29T16:16:00.238Z</updated>
+    <updated>2023-06-30T01:11:07.298Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/TKDE.rss"/>
     <subtitle>IEEE Transactions on Knowledge and Data Engineering</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Individual and Structural Graph Information Bottlenecks for Out-of-Distribution Generalization]]></title>
+        <id>https://ieeexplore.ieee.org/document/10168296</id>
+        <link href="https://ieeexplore.ieee.org/document/10168296"/>
+        <updated>2023-06-30T01:11:07.293Z</updated>
+        <summary type="html"><![CDATA[Out-of-distribution (OOD) graph generalization are critical for many real-world applications. Existing methods neglect to discard spurious or noisy features of inputs, which are irrelevant to the label. Besides, they mainly conduct instance-level class-invariant graph learning and fail to utilize the structural class relationships between graph instances. In this work, we endeavor to address these...]]></summary>
+        <author>
+            <name>Ling Yang</name>
+        </author>
+        <author>
+            <name>Jiayi Zheng</name>
+        </author>
+        <author>
+            <name>Heyuan Wang</name>
+        </author>
+        <author>
+            <name>Zhongyi Liu</name>
+        </author>
+        <author>
+            <name>Zhilin Huang</name>
+        </author>
+        <author>
+            <name>Shenda Hong</name>
+        </author>
+        <author>
+            <name>Wentao Zhang</name>
+        </author>
+        <author>
+            <name>Bin Cui</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Causal Distillation for Alleviating Performance Heterogeneity in Recommender Systems]]></title>
+        <id>https://ieeexplore.ieee.org/document/10168248</id>
+        <link href="https://ieeexplore.ieee.org/document/10168248"/>
+        <updated>2023-06-30T01:11:07.293Z</updated>
+        <summary type="html"><![CDATA[Recommendation performance usually exhibits a long-tail distribution over users — a small portion of head users enjoy much more accurate recommendation services than the others. We reveal two sources of this performance heterogeneity problem: the uneven distribution of historical interactions (a natural source); and the biased training of recommender models (a model source). As addressing this pro...]]></summary>
+        <author>
+            <name>Shengyu Zhang</name>
+        </author>
+        <author>
+            <name>Ziqi Jiang</name>
+        </author>
+        <author>
+            <name>Jiangchao Yao</name>
+        </author>
+        <author>
+            <name>Fuli Feng</name>
+        </author>
+        <author>
+            <name>Kun Kuang</name>
+        </author>
+        <author>
+            <name>Zhou Zhao</name>
+        </author>
+        <author>
+            <name>Shuo Li</name>
+        </author>
+        <author>
+            <name>Hongxia Yang</name>
+        </author>
+        <author>
+            <name>Tat-seng Chua</name>
+        </author>
+        <author>
+            <name>Fei Wu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Reliability-Driven Local Community Search in Dynamic Networks]]></title>
         <id>https://ieeexplore.ieee.org/document/10167809</id>

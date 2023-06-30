@@ -1,5 +1,39 @@
 [
   {
+    "articleNumber": "10168296",
+    "articleTitle": "Individual and Structural Graph Information Bottlenecks for Out-of-Distribution Generalization",
+    "authors": [
+      "Ling Yang",
+      "Jiayi Zheng",
+      "Heyuan Wang",
+      "Zhongyi Liu",
+      "Zhilin Huang",
+      "Shenda Hong",
+      "Wentao Zhang",
+      "Bin Cui"
+    ],
+    "abstract": "Out-of-distribution (OOD) graph generalization are critical for many real-world applications. Existing methods neglect to discard spurious or noisy features of inputs, which are irrelevant to the label. Besides, they mainly conduct instance-level class-invariant graph learning and fail to utilize the structural class relationships between graph instances. In this work, we endeavor to address these...",
+    "date": "2023-06-30T01:11:07.293Z"
+  },
+  {
+    "articleNumber": "10168248",
+    "articleTitle": "Causal Distillation for Alleviating Performance Heterogeneity in Recommender Systems",
+    "authors": [
+      "Shengyu Zhang",
+      "Ziqi Jiang",
+      "Jiangchao Yao",
+      "Fuli Feng",
+      "Kun Kuang",
+      "Zhou Zhao",
+      "Shuo Li",
+      "Hongxia Yang",
+      "Tat-seng Chua",
+      "Fei Wu"
+    ],
+    "abstract": "Recommendation performance usually exhibits a long-tail distribution over users — a small portion of head users enjoy much more accurate recommendation services than the others. We reveal two sources of this performance heterogeneity problem: the uneven distribution of historical interactions (a natural source); and the biased training of recommender models (a model source). As addressing this pro...",
+    "date": "2023-06-30T01:11:07.293Z"
+  },
+  {
     "articleNumber": "10167809",
     "articleTitle": "Reliability-Driven Local Community Search in Dynamic Networks",
     "authors": [

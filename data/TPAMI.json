@@ -1,5 +1,77 @@
 [
   {
+    "articleNumber": "10168286",
+    "articleTitle": "Generalizing Aggregation Functions in GNNs: Building High Capacity and Robust GNNs via Nonlinear Aggregation",
+    "authors": [
+      "Beibei Wang",
+      "Bo Jiang",
+      "Jin Tang",
+      "Bin Luo"
+    ],
+    "abstract": "The main aspect powering GNNs is the multi-layer network architecture to learn the nonlinear representation for graph learning task. The core operation in GNNs is the message propagation in which each node updates its information by aggregating the information from its neighbors. Existing GNNs usually adopt either linear neighborhood aggregation (e.g. mean, sum) or max aggregator in their message ...",
+    "date": "2023-06-30T01:11:12.379Z"
+  },
+  {
+    "articleNumber": "10168275",
+    "articleTitle": "Geometric Back-propagation in Morphological Neural Networks",
+    "authors": [
+      "Rick Groenendijk",
+      "Leo Dorst",
+      "Theo Gevers"
+    ],
+    "abstract": "This paper provides a definition of back-propagation through geometric correspondences for morphological neural networks. In addition, dilation layers are shown to learn probe geometry by erosion of layer inputs and outputs. A proof-of-principle is provided, in which predictions and convergence of morphological networks significantly outperform convolutional networks.",
+    "date": "2023-06-30T01:11:12.379Z"
+  },
+  {
+    "articleNumber": "10168277",
+    "articleTitle": "Towards Large-Scale Small Object Detection: Survey and Benchmarks",
+    "authors": [
+      "Gong Cheng",
+      "Xiang Yuan",
+      "Xiwen Yao",
+      "Kebing Yan",
+      "Qinghua Zeng",
+      "Xingxing Xie",
+      "Junwei Han"
+    ],
+    "abstract": "With the rise of deep convolutional neural networks, object detection has achieved prominent advances in past years. However, such prosperity could not camouflage the unsatisfactory situation of Small Object Detection (SOD), one of the notoriously challenging tasks in computer vision, owing to the poor visual appearance and noisy representation caused by the intrinsic structure of small targets. I...",
+    "date": "2023-06-30T01:11:12.379Z"
+  },
+  {
+    "articleNumber": "10168255",
+    "articleTitle": "Data-Efficient Learning via Minimizing Hyperspherical Energy",
+    "authors": [
+      "Xiaofeng Cao",
+      "Weiyang Liu",
+      "Ivor W. Tsang"
+    ],
+    "abstract": "Deep learning on large-scale data is currently dominant nowadays. The unprecedented scale of data has been arguably one of the most important driving forces behind its success. However, there still exist scenarios where collecting data or labels could be extremely expensive, e.g., medical imaging and robotics. To fill up this gap, this paper considers the problem of data-efficient learning from sc...",
+    "date": "2023-06-30T01:11:12.379Z"
+  },
+  {
+    "articleNumber": "10168285",
+    "articleTitle": "An Energy-Based Prior for Generative Saliency",
+    "authors": [
+      "Jing Zhang",
+      "Jianwen Xie",
+      "Nick Barnes",
+      "Ping Li"
+    ],
+    "abstract": "We propose a novel generative saliency prediction framework that adopts an informative energy-based model as a prior distribution. The energy-based prior model is defined on the latent space of a saliency generator network that generates the saliency map based on a continuous latent variables and an observed image. Both the parameters of saliency generator and the energy-based prior are jointly tr...",
+    "date": "2023-06-30T01:11:12.379Z"
+  },
+  {
+    "articleNumber": "10168295",
+    "articleTitle": "Towards Enabling Binary Decomposition for Partial Multi-Label Learning",
+    "authors": [
+      "Bing-Qing Liu",
+      "Bin-Bin Jia",
+      "Min-Ling Zhang"
+    ],
+    "abstract": "Partial multi-label learning (PML) is an emerging weakly supervised learning framework, where each training example is associated with multiple candidate labels which are only partially valid. To learn the multi-label predictive model from PML training examples, most existing approaches work by identifying valid labels within candidate label set via label confidence estimation. In this paper, a no...",
+    "date": "2023-06-30T01:11:12.379Z"
+  },
+  {
     "articleNumber": "10167861",
     "articleTitle": "Heterogeneous Multi-party Learning with Data-driven Network Sampling",
     "authors": [

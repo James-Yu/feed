@@ -2,11 +2,227 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/IoTJ.rss</id>
     <title>IEEE Internet of Things Journal</title>
-    <updated>2023-06-29T16:16:10.789Z</updated>
+    <updated>2023-06-30T01:11:16.577Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/IoTJ.rss"/>
     <subtitle>IEEE Internet of Things Journal</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[dRAIN: A distributed Reliable Architecture for IoT Networks]]></title>
+        <id>https://ieeexplore.ieee.org/document/10168197</id>
+        <link href="https://ieeexplore.ieee.org/document/10168197"/>
+        <updated>2023-06-30T01:11:16.568Z</updated>
+        <summary type="html"><![CDATA[The rapid increase in the number and variety of smart devices connected to the Internet has increased the need to ensure resilience, reliability, and traceability when transferring data within the current Internet of Things (IoT) network. The adoption of Distributed Ledger Technologies (DLT) can provide data with the above-mentioned features, but the low scalability and high cost related to the ad...]]></summary>
+        <author>
+            <name>Lorenzo Petrosino</name>
+        </author>
+        <author>
+            <name>Giordano Pescetelli</name>
+        </author>
+        <author>
+            <name>Quirino Fieramosca</name>
+        </author>
+        <author>
+            <name>Stefano Della Valle</name>
+        </author>
+        <author>
+            <name>Mario Merone</name>
+        </author>
+        <author>
+            <name>Luca Vollero</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Discovering Behavioural Patterns Using Conversational Technology for in-Home Health and Well-being Monitoring]]></title>
+        <id>https://ieeexplore.ieee.org/document/10168160</id>
+        <link href="https://ieeexplore.ieee.org/document/10168160"/>
+        <updated>2023-06-30T01:11:16.568Z</updated>
+        <summary type="html"><![CDATA[Advancements in conversational AI have created unparalleled opportunities to promote the independence and well-being of older adults, including people living with dementia (PLWD). However, conversational agents have yet to demonstrate a direct impact in supporting target populations at home, particularly with long-term user benefits and clinical utility. We introduce an infrastructure fusing in-ho...]]></summary>
+        <author>
+            <name>Maria R. Lima</name>
+        </author>
+        <author>
+            <name>Ting Su</name>
+        </author>
+        <author>
+            <name>Melanie Jouaiti</name>
+        </author>
+        <author>
+            <name>Maitreyee Wairagkar</name>
+        </author>
+        <author>
+            <name>Paresh Malhotra</name>
+        </author>
+        <author>
+            <name>Eyal Soreq</name>
+        </author>
+        <author>
+            <name>Payam Barnaghi</name>
+        </author>
+        <author>
+            <name>Ravi Vaidyanathan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Verifiable Privacy-Preserving Heart Rate Estimation Based on LSTM]]></title>
+        <id>https://ieeexplore.ieee.org/document/10168162</id>
+        <link href="https://ieeexplore.ieee.org/document/10168162"/>
+        <updated>2023-06-30T01:11:16.568Z</updated>
+        <summary type="html"><![CDATA[Remote heart rate estimation via facial videos has emerged as an attractive application for healthcare monitoring. Long short-term memory (LSTM) is a kind of deep recurrent neural network architecture used for modeling sequential information, which can be utilized for remote heart rate estimation. Outsourcing computation is an emerging paradigm for enterprises or individuals with a huge volume of ...]]></summary>
+        <author>
+            <name>Mingyun Bian</name>
+        </author>
+        <author>
+            <name>Guanghui He</name>
+        </author>
+        <author>
+            <name>Guorui Feng</name>
+        </author>
+        <author>
+            <name>Xinpeng Zhang</name>
+        </author>
+        <author>
+            <name>Yanli Ren</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[QuAsyncFL: Asynchronous Federated Learning with Quantization for Cloud-Edge-Terminal Collaboration Enabled AIoT]]></title>
+        <id>https://ieeexplore.ieee.org/document/10168200</id>
+        <link href="https://ieeexplore.ieee.org/document/10168200"/>
+        <updated>2023-06-30T01:11:16.568Z</updated>
+        <summary type="html"><![CDATA[Federated Learning is a promising technique that facilitates cloud-edge-terminal collaboration in Artificial Intelligence of Things (AIoT). It will enable model training without centralizing data, addressing privacy and security concerns. However, when applied to AIoT, this technique faces several challenges, such as low communication efficiency among terminal devices, edges, and cloud platforms. ...]]></summary>
+        <author>
+            <name>Ye Liu</name>
+        </author>
+        <author>
+            <name>Peishan Huang</name>
+        </author>
+        <author>
+            <name>Fan Yang</name>
+        </author>
+        <author>
+            <name>Kai Huang</name>
+        </author>
+        <author>
+            <name>Lei Shu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Joint Sensing and Power Transfer via Distributed Coupled-Cavity Lasers]]></title>
+        <id>https://ieeexplore.ieee.org/document/10168198</id>
+        <link href="https://ieeexplore.ieee.org/document/10168198"/>
+        <updated>2023-06-30T01:11:16.568Z</updated>
+        <summary type="html"><![CDATA[Positioning and power transfer are crucial demands in the existing Internet of Things networks, where intra-cavity laser-based systems are proposed as a potential alternative for providing sufficient wireless power and high-accuracy positioning simultaneously. However, existing intra-cavity laser-based systems still face challenges in improving power transfer efficiency and system field of view (F...]]></summary>
+        <author>
+            <name>Hao Deng</name>
+        </author>
+        <author>
+            <name>Shengjie Zhao</name>
+        </author>
+        <author>
+            <name>Mingqing Liu</name>
+        </author>
+        <author>
+            <name>Qingwen Liu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Millimeter-Wave Beam-Tilted Phased Array Antenna for 5G-Enabled IoT Devices]]></title>
+        <id>https://ieeexplore.ieee.org/document/10168203</id>
+        <link href="https://ieeexplore.ieee.org/document/10168203"/>
+        <updated>2023-06-30T01:11:16.568Z</updated>
+        <summary type="html"><![CDATA[In the realm of 5G-enabled Internet of Things (IoT), the smartphone plays a pivotal role in providing users access to various IoT scenarios. With the emergence of millimeter-wave (mmWave) technology in 5G mobile terminals, it is feasible to realize an ultra-broadband, ultra-high speed and ultra-low latency communication for advanced IoT applications. However, in a smartphone, the end-fire mmWave r...]]></summary>
+        <author>
+            <name>Xiaoyue Xia</name>
+        </author>
+        <author>
+            <name>Chao Yu</name>
+        </author>
+        <author>
+            <name>Fan Wu</name>
+        </author>
+        <author>
+            <name>Zhihao Jiang</name>
+        </author>
+        <author>
+            <name>Sidou Zheng</name>
+        </author>
+        <author>
+            <name>Si-Yuan Tang</name>
+        </author>
+        <author>
+            <name>Yu Yao</name>
+        </author>
+        <author>
+            <name>Wei Hong</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Many-Objective Optimization Based-Content Popularity Prediction for Cache-Assisted Cloud-Edge-End Collaborative IoT Networks]]></title>
+        <id>https://ieeexplore.ieee.org/document/10168188</id>
+        <link href="https://ieeexplore.ieee.org/document/10168188"/>
+        <updated>2023-06-30T01:11:16.568Z</updated>
+        <summary type="html"><![CDATA[With the advancement of mobile communication technology, there has been a marked increase in the demand for personalized and ubiquitous Internet-of-Things (IoT) services, raising the expectations for network quality of service (QoS) and quality of experience (QoE). Existing popularity prediction-based content caching policies improve QoS and QoE by pre-caching contents at the network edge, but joi...]]></summary>
+        <author>
+            <name>Zhaoming Hu</name>
+        </author>
+        <author>
+            <name>Chao Fang</name>
+        </author>
+        <author>
+            <name>Zhuwei Wang</name>
+        </author>
+        <author>
+            <name>Shu-Ming Tseng</name>
+        </author>
+        <author>
+            <name>Mianxiong Dong</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Optimizing Age of Information in Polar Coded Status Update System]]></title>
+        <id>https://ieeexplore.ieee.org/document/10168159</id>
+        <link href="https://ieeexplore.ieee.org/document/10168159"/>
+        <updated>2023-06-30T01:11:16.568Z</updated>
+        <summary type="html"><![CDATA[Age of information (AoI) defines the freshness of status update in real-time systems such as the industrial Internet of Things (IIoT), and can be affected by delays and transmission error probability. To improve the reliability of data transmissions, the recent AoI works on physical layer considered applying practical coding schemes. Since polar codes can be strictly proved to achieve the channel ...]]></summary>
+        <author>
+            <name>Yajing Deng</name>
+        </author>
+        <author>
+            <name>Shaohua Wu</name>
+        </author>
+        <author>
+            <name>Junhua You</name>
+        </author>
+        <author>
+            <name>Jian Jiao</name>
+        </author>
+        <author>
+            <name>Ning Zhang</name>
+        </author>
+        <author>
+            <name>Qinyu Zhang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Personalized Modeling of Blood Pressure with Photoplethysmography: an Error-Feedback Incremental Support Vector Regression Model]]></title>
+        <id>https://ieeexplore.ieee.org/document/10168193</id>
+        <link href="https://ieeexplore.ieee.org/document/10168193"/>
+        <updated>2023-06-30T01:11:16.568Z</updated>
+        <summary type="html"><![CDATA[Most of the existing photoplethysmography (PPG) based blood pressure (BP) estimation methods aim at training a general BP model applicable to all individuals which neglected the vasculature and anatomical differences among individuals as well as the slow and subtle cardiovascular changes over time, thus were hard to achieve high accuracy. This study aims at addressing this problem by constructing ...]]></summary>
+        <author>
+            <name>Dingliang Wang</name>
+        </author>
+        <author>
+            <name>Xuezhi Yang</name>
+        </author>
+        <author>
+            <name>Jun Wu</name>
+        </author>
+        <author>
+            <name>Wenjin Wang</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[R-PMAC: A Robust Preamble Based MAC Mechanism Applied in Industrial Internet of Things]]></title>
         <id>https://ieeexplore.ieee.org/document/10168087</id>
@@ -21405,186 +21621,6 @@
         </author>
         <author>
             <name>Wael Elmedany</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lightweight Meta-learning BotNet Attack Detection]]></title>
-        <id>https://ieeexplore.ieee.org/document/9987464</id>
-        <link href="https://ieeexplore.ieee.org/document/9987464"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[Modern society is increasingly dependent on numerous Internet of Things (IoT) devices to assist in a variety of scenarios, such as smart homes and cities, healthcare systems, and cyber-physical systems. Despite IoT’s increasing popularity, IoT security remains a challenge due to the multitude of attack vectors. Existing cyber-attack defense methods attempt to protect the network from both within a...]]></summary>
-        <author>
-            <name>Cut Alna Fadhilla</name>
-        </author>
-        <author>
-            <name>Muhammad Dany Alfikri</name>
-        </author>
-        <author>
-            <name>Rafael Kaliski</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Performance of Energy and Spectrally Efficient AF Relay-Aided Incremental CDRT NOMA Based IoT Network with Imperfect SIC for Smart Cities]]></title>
-        <id>https://ieeexplore.ieee.org/document/9984815</id>
-        <link href="https://ieeexplore.ieee.org/document/9984815"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[High spectral and energy efficiencies are vital for the implementation of smart cities. To this end, this paper investigates the performance of an amplify-and-forward (AF) relay-aided coordinated direct and relay transmission (CDRT) protocol in a downlink non-orthogonal multiple access (NOMA) based Internet-of-things (IoT) network in which source shares the direct as well as the relayed links to t...]]></summary>
-        <author>
-            <name>Anand Jee</name>
-        </author>
-        <author>
-            <name>Shankar Prakriya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Utility Based Cooperative Resource Sharing in Symbiotic Radio aided Internet of Things Networks]]></title>
-        <id>https://ieeexplore.ieee.org/document/9984201</id>
-        <link href="https://ieeexplore.ieee.org/document/9984201"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[Symbiotic radio (SR) is a key technique to solve the energy shortage and spectrum limitation of the future Internet of Things (IoT). In the SR-aided IoT networks supporting energy harvesting (EH), we study the cooperation schemes and offloading strategy between the primary users (PUs), IoT devices and the base station (BS) for reasonably allocating the spectrum, power and time resources. Consideri...]]></summary>
-        <author>
-            <name>Wei Liang</name>
-        </author>
-        <author>
-            <name>Shuhui Wen</name>
-        </author>
-        <author>
-            <name>Soon Xin Ng</name>
-        </author>
-        <author>
-            <name>Jiankang Zhang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Decentralized IoT Resource Monitoring and Scheduling Framework Based on Blockchain]]></title>
-        <id>https://ieeexplore.ieee.org/document/9983804</id>
-        <link href="https://ieeexplore.ieee.org/document/9983804"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[With the continuous advancement of edge intelligence, edge servers undertake more and more intelligent computing tasks. Nowadays, there are a large number of IoT devices in the network in idle state. For instance, the mining process for consensus of miners in blockchain such as Bitcoin causes a waste of computing resources and energy. A natural question arises: can we couple the idle computing res...]]></summary>
-        <author>
-            <name>Dawei Li</name>
-        </author>
-        <author>
-            <name>Ruonan Chen</name>
-        </author>
-        <author>
-            <name>Qinjun Wan</name>
-        </author>
-        <author>
-            <name>Zhenyu Guan</name>
-        </author>
-        <author>
-            <name>Yu Sun</name>
-        </author>
-        <author>
-            <name>Qianhong Wu</name>
-        </author>
-        <author>
-            <name>Jiankun Hu</name>
-        </author>
-        <author>
-            <name>Jianwei Liu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BOTA: Explainable IoT malware detection in large networks]]></title>
-        <id>https://ieeexplore.ieee.org/document/9983820</id>
-        <link href="https://ieeexplore.ieee.org/document/9983820"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[Explainability and alert reasoning are essential but often neglected properties of intrusion detection systems. The lack of explainability reduces security personnel’s trust, limiting the overall impact of alerts. This paper proposes the BOTA (Botnet Analysis) system, which uses the concepts of weak indicators and heterogeneous meta-classifiers to maintain accuracy compared with state-of-the-art s...]]></summary>
-        <author>
-            <name>Daniel Uhříček</name>
-        </author>
-        <author>
-            <name>Karel Hynek</name>
-        </author>
-        <author>
-            <name>Tomáš Čejka</name>
-        </author>
-        <author>
-            <name>Dušan Kolář</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Energy Efficient Space-Air-Ground-Ocean Integrated Network based on Intelligent Autonomous Underwater Glider]]></title>
-        <id>https://ieeexplore.ieee.org/document/9979795</id>
-        <link href="https://ieeexplore.ieee.org/document/9979795"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[Internet of Things (IoT) has extended its coverage to various spatial domains and has established interconnection to serve widespread applications of a larger spatial scale. Such IoT is called SAGOI-Net, which consists of multiple battery-powered heterogeneous devices. Hence, energy efficiency is the key point of SAGOI-Net to be stably operated for a long time without manual maintenance. This pape...]]></summary>
-        <author>
-            <name>Zhengjian Li</name>
-        </author>
-        <author>
-            <name>Jiabao Wen</name>
-        </author>
-        <author>
-            <name>Jiachen Yang</name>
-        </author>
-        <author>
-            <name>Jingyi He</name>
-        </author>
-        <author>
-            <name>Tianlei Ni</name>
-        </author>
-        <author>
-            <name>Yang Li</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Performance Analysis of Downlink Multi-Satellite Joint Service System Towards SAGOI-Net]]></title>
-        <id>https://ieeexplore.ieee.org/document/9970407</id>
-        <link href="https://ieeexplore.ieee.org/document/9970407"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[With the rapid development of communication, the future Internet of Things will greatly expand its coverage to form the space, air, ground, and ocean integrated network (SAGOI-Net) and provide globally ubiquitous applications and services. In SAGOI-Net, the existing research work focused on system design and neglected the theoretical analysis of system performance. Furthermore, the Nakagami-m fadi...]]></summary>
-        <author>
-            <name>Zhiqiang Li</name>
-        </author>
-        <author>
-            <name>Shuyi Chen</name>
-        </author>
-        <author>
-            <name>Shuai Han</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Resource Scheduling of Time-Sensitive Services for B5G/6G Connected Automated Vehicles]]></title>
-        <id>https://ieeexplore.ieee.org/document/9964340</id>
-        <link href="https://ieeexplore.ieee.org/document/9964340"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[Due to the shortage of spectrum resources in the Internet of vehicles, the diversified time-sensitive services for B5G/6G connected automated vehicles cannot be effectively transmitted and the existing researches lack efficient and intelligent resource scheduling methods. Therefore, this paper proposes a spectrum resource scheduling model for time-sensitive services, and designs a two-tier joint r...]]></summary>
-        <author>
-            <name>Qixun Zhang</name>
-        </author>
-        <author>
-            <name>Hao Meng</name>
-        </author>
-        <author>
-            <name>Zhiyong Feng</name>
-        </author>
-        <author>
-            <name>Zhu Han</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Channel Modelling and Estimation for Reconfigurable Intelligent Surface Based 6G SAGIN IoT]]></title>
-        <id>https://ieeexplore.ieee.org/document/9964037</id>
-        <link href="https://ieeexplore.ieee.org/document/9964037"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[The design of Internet of Thing (IoT) system over space-air-ground integrated network (SAGIN) is still in its infancy. It is critical to get 6G technology involved, in order to address the current problems in the combined SAGIN and IoT ecosystem. This work utilizes reconfigurable intelligent surface (RIS) to enhance the existing SAGIN infrastructure. We highlight channel modeling and estimate as a...]]></summary>
-        <author>
-            <name>Xi Meng</name>
-        </author>
-        <author>
-            <name>Nan Zhang</name>
-        </author>
-        <author>
-            <name>Mengnan Jian</name>
-        </author>
-        <author>
-            <name>Michel Kadoch</name>
-        </author>
-        <author>
-            <name>Dacheng Yang</name>
         </author>
     </entry>
 </feed>

@@ -1,5 +1,128 @@
 [
   {
+    "articleNumber": "10168197",
+    "articleTitle": "dRAIN: A distributed Reliable Architecture for IoT Networks",
+    "authors": [
+      "Lorenzo Petrosino",
+      "Giordano Pescetelli",
+      "Quirino Fieramosca",
+      "Stefano Della Valle",
+      "Mario Merone",
+      "Luca Vollero"
+    ],
+    "abstract": "The rapid increase in the number and variety of smart devices connected to the Internet has increased the need to ensure resilience, reliability, and traceability when transferring data within the current Internet of Things (IoT) network. The adoption of Distributed Ledger Technologies (DLT) can provide data with the above-mentioned features, but the low scalability and high cost related to the ad...",
+    "date": "2023-06-30T01:11:16.568Z"
+  },
+  {
+    "articleNumber": "10168160",
+    "articleTitle": "Discovering Behavioural Patterns Using Conversational Technology for in-Home Health and Well-being Monitoring",
+    "authors": [
+      "Maria R. Lima",
+      "Ting Su",
+      "Melanie Jouaiti",
+      "Maitreyee Wairagkar",
+      "Paresh Malhotra",
+      "Eyal Soreq",
+      "Payam Barnaghi",
+      "Ravi Vaidyanathan"
+    ],
+    "abstract": "Advancements in conversational AI have created unparalleled opportunities to promote the independence and well-being of older adults, including people living with dementia (PLWD). However, conversational agents have yet to demonstrate a direct impact in supporting target populations at home, particularly with long-term user benefits and clinical utility. We introduce an infrastructure fusing in-ho...",
+    "date": "2023-06-30T01:11:16.568Z"
+  },
+  {
+    "articleNumber": "10168162",
+    "articleTitle": "Verifiable Privacy-Preserving Heart Rate Estimation Based on LSTM",
+    "authors": [
+      "Mingyun Bian",
+      "Guanghui He",
+      "Guorui Feng",
+      "Xinpeng Zhang",
+      "Yanli Ren"
+    ],
+    "abstract": "Remote heart rate estimation via facial videos has emerged as an attractive application for healthcare monitoring. Long short-term memory (LSTM) is a kind of deep recurrent neural network architecture used for modeling sequential information, which can be utilized for remote heart rate estimation. Outsourcing computation is an emerging paradigm for enterprises or individuals with a huge volume of ...",
+    "date": "2023-06-30T01:11:16.568Z"
+  },
+  {
+    "articleNumber": "10168200",
+    "articleTitle": "QuAsyncFL: Asynchronous Federated Learning with Quantization for Cloud-Edge-Terminal Collaboration Enabled AIoT",
+    "authors": [
+      "Ye Liu",
+      "Peishan Huang",
+      "Fan Yang",
+      "Kai Huang",
+      "Lei Shu"
+    ],
+    "abstract": "Federated Learning is a promising technique that facilitates cloud-edge-terminal collaboration in Artificial Intelligence of Things (AIoT). It will enable model training without centralizing data, addressing privacy and security concerns. However, when applied to AIoT, this technique faces several challenges, such as low communication efficiency among terminal devices, edges, and cloud platforms. ...",
+    "date": "2023-06-30T01:11:16.568Z"
+  },
+  {
+    "articleNumber": "10168198",
+    "articleTitle": "Joint Sensing and Power Transfer via Distributed Coupled-Cavity Lasers",
+    "authors": [
+      "Hao Deng",
+      "Shengjie Zhao",
+      "Mingqing Liu",
+      "Qingwen Liu"
+    ],
+    "abstract": "Positioning and power transfer are crucial demands in the existing Internet of Things networks, where intra-cavity laser-based systems are proposed as a potential alternative for providing sufficient wireless power and high-accuracy positioning simultaneously. However, existing intra-cavity laser-based systems still face challenges in improving power transfer efficiency and system field of view (F...",
+    "date": "2023-06-30T01:11:16.568Z"
+  },
+  {
+    "articleNumber": "10168203",
+    "articleTitle": "Millimeter-Wave Beam-Tilted Phased Array Antenna for 5G-Enabled IoT Devices",
+    "authors": [
+      "Xiaoyue Xia",
+      "Chao Yu",
+      "Fan Wu",
+      "Zhihao Jiang",
+      "Sidou Zheng",
+      "Si-Yuan Tang",
+      "Yu Yao",
+      "Wei Hong"
+    ],
+    "abstract": "In the realm of 5G-enabled Internet of Things (IoT), the smartphone plays a pivotal role in providing users access to various IoT scenarios. With the emergence of millimeter-wave (mmWave) technology in 5G mobile terminals, it is feasible to realize an ultra-broadband, ultra-high speed and ultra-low latency communication for advanced IoT applications. However, in a smartphone, the end-fire mmWave r...",
+    "date": "2023-06-30T01:11:16.568Z"
+  },
+  {
+    "articleNumber": "10168188",
+    "articleTitle": "Many-Objective Optimization Based-Content Popularity Prediction for Cache-Assisted Cloud-Edge-End Collaborative IoT Networks",
+    "authors": [
+      "Zhaoming Hu",
+      "Chao Fang",
+      "Zhuwei Wang",
+      "Shu-Ming Tseng",
+      "Mianxiong Dong"
+    ],
+    "abstract": "With the advancement of mobile communication technology, there has been a marked increase in the demand for personalized and ubiquitous Internet-of-Things (IoT) services, raising the expectations for network quality of service (QoS) and quality of experience (QoE). Existing popularity prediction-based content caching policies improve QoS and QoE by pre-caching contents at the network edge, but joi...",
+    "date": "2023-06-30T01:11:16.568Z"
+  },
+  {
+    "articleNumber": "10168159",
+    "articleTitle": "Optimizing Age of Information in Polar Coded Status Update System",
+    "authors": [
+      "Yajing Deng",
+      "Shaohua Wu",
+      "Junhua You",
+      "Jian Jiao",
+      "Ning Zhang",
+      "Qinyu Zhang"
+    ],
+    "abstract": "Age of information (AoI) defines the freshness of status update in real-time systems such as the industrial Internet of Things (IIoT), and can be affected by delays and transmission error probability. To improve the reliability of data transmissions, the recent AoI works on physical layer considered applying practical coding schemes. Since polar codes can be strictly proved to achieve the channel ...",
+    "date": "2023-06-30T01:11:16.568Z"
+  },
+  {
+    "articleNumber": "10168193",
+    "articleTitle": "Personalized Modeling of Blood Pressure with Photoplethysmography: an Error-Feedback Incremental Support Vector Regression Model",
+    "authors": [
+      "Dingliang Wang",
+      "Xuezhi Yang",
+      "Jun Wu",
+      "Wenjin Wang"
+    ],
+    "abstract": "Most of the existing photoplethysmography (PPG) based blood pressure (BP) estimation methods aim at training a general BP model applicable to all individuals which neglected the vasculature and anatomical differences among individuals as well as the slow and subtle cardiovascular changes over time, thus were hard to achieve high accuracy. This study aims at addressing this problem by constructing ...",
+    "date": "2023-06-30T01:11:16.568Z"
+  },
+  {
     "articleNumber": "10168087",
     "articleTitle": "R-PMAC: A Robust Preamble Based MAC Mechanism Applied in Industrial Internet of Things",
     "authors": [
@@ -12746,117 +12869,6 @@
       "Wael Elmedany"
     ],
     "abstract": "Despite the significant benefits that the Internet of Healthcare Things (IoHT) offered to the medical sector, there are concerns and risks regarding these systems which can delay their wide deployment as they handle sensitive and often life-critical medical information. In addition to the IoHT concerns and risks, there are security constraints which include hardware, software and network constrain...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9987464",
-    "articleTitle": "Lightweight Meta-learning BotNet Attack Detection",
-    "authors": [
-      "Cut Alna Fadhilla",
-      "Muhammad Dany Alfikri",
-      "Rafael Kaliski"
-    ],
-    "abstract": "Modern society is increasingly dependent on numerous Internet of Things (IoT) devices to assist in a variety of scenarios, such as smart homes and cities, healthcare systems, and cyber-physical systems. Despite IoT’s increasing popularity, IoT security remains a challenge due to the multitude of attack vectors. Existing cyber-attack defense methods attempt to protect the network from both within a...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9984815",
-    "articleTitle": "Performance of Energy and Spectrally Efficient AF Relay-Aided Incremental CDRT NOMA Based IoT Network with Imperfect SIC for Smart Cities",
-    "authors": [
-      "Anand Jee",
-      "Shankar Prakriya"
-    ],
-    "abstract": "High spectral and energy efficiencies are vital for the implementation of smart cities. To this end, this paper investigates the performance of an amplify-and-forward (AF) relay-aided coordinated direct and relay transmission (CDRT) protocol in a downlink non-orthogonal multiple access (NOMA) based Internet-of-things (IoT) network in which source shares the direct as well as the relayed links to t...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9984201",
-    "articleTitle": "Utility Based Cooperative Resource Sharing in Symbiotic Radio aided Internet of Things Networks",
-    "authors": [
-      "Wei Liang",
-      "Shuhui Wen",
-      "Soon Xin Ng",
-      "Jiankang Zhang"
-    ],
-    "abstract": "Symbiotic radio (SR) is a key technique to solve the energy shortage and spectrum limitation of the future Internet of Things (IoT). In the SR-aided IoT networks supporting energy harvesting (EH), we study the cooperation schemes and offloading strategy between the primary users (PUs), IoT devices and the base station (BS) for reasonably allocating the spectrum, power and time resources. Consideri...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9983804",
-    "articleTitle": "Decentralized IoT Resource Monitoring and Scheduling Framework Based on Blockchain",
-    "authors": [
-      "Dawei Li",
-      "Ruonan Chen",
-      "Qinjun Wan",
-      "Zhenyu Guan",
-      "Yu Sun",
-      "Qianhong Wu",
-      "Jiankun Hu",
-      "Jianwei Liu"
-    ],
-    "abstract": "With the continuous advancement of edge intelligence, edge servers undertake more and more intelligent computing tasks. Nowadays, there are a large number of IoT devices in the network in idle state. For instance, the mining process for consensus of miners in blockchain such as Bitcoin causes a waste of computing resources and energy. A natural question arises: can we couple the idle computing res...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9983820",
-    "articleTitle": "BOTA: Explainable IoT malware detection in large networks",
-    "authors": [
-      "Daniel Uhříček",
-      "Karel Hynek",
-      "Tomáš Čejka",
-      "Dušan Kolář"
-    ],
-    "abstract": "Explainability and alert reasoning are essential but often neglected properties of intrusion detection systems. The lack of explainability reduces security personnel’s trust, limiting the overall impact of alerts. This paper proposes the BOTA (Botnet Analysis) system, which uses the concepts of weak indicators and heterogeneous meta-classifiers to maintain accuracy compared with state-of-the-art s...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9979795",
-    "articleTitle": "Energy Efficient Space-Air-Ground-Ocean Integrated Network based on Intelligent Autonomous Underwater Glider",
-    "authors": [
-      "Zhengjian Li",
-      "Jiabao Wen",
-      "Jiachen Yang",
-      "Jingyi He",
-      "Tianlei Ni",
-      "Yang Li"
-    ],
-    "abstract": "Internet of Things (IoT) has extended its coverage to various spatial domains and has established interconnection to serve widespread applications of a larger spatial scale. Such IoT is called SAGOI-Net, which consists of multiple battery-powered heterogeneous devices. Hence, energy efficiency is the key point of SAGOI-Net to be stably operated for a long time without manual maintenance. This pape...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9970407",
-    "articleTitle": "Performance Analysis of Downlink Multi-Satellite Joint Service System Towards SAGOI-Net",
-    "authors": [
-      "Zhiqiang Li",
-      "Shuyi Chen",
-      "Shuai Han"
-    ],
-    "abstract": "With the rapid development of communication, the future Internet of Things will greatly expand its coverage to form the space, air, ground, and ocean integrated network (SAGOI-Net) and provide globally ubiquitous applications and services. In SAGOI-Net, the existing research work focused on system design and neglected the theoretical analysis of system performance. Furthermore, the Nakagami-m fadi...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9964340",
-    "articleTitle": "Resource Scheduling of Time-Sensitive Services for B5G/6G Connected Automated Vehicles",
-    "authors": [
-      "Qixun Zhang",
-      "Hao Meng",
-      "Zhiyong Feng",
-      "Zhu Han"
-    ],
-    "abstract": "Due to the shortage of spectrum resources in the Internet of vehicles, the diversified time-sensitive services for B5G/6G connected automated vehicles cannot be effectively transmitted and the existing researches lack efficient and intelligent resource scheduling methods. Therefore, this paper proposes a spectrum resource scheduling model for time-sensitive services, and designs a two-tier joint r...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9964037",
-    "articleTitle": "Channel Modelling and Estimation for Reconfigurable Intelligent Surface Based 6G SAGIN IoT",
-    "authors": [
-      "Xi Meng",
-      "Nan Zhang",
-      "Mengnan Jian",
-      "Michel Kadoch",
-      "Dacheng Yang"
-    ],
-    "abstract": "The design of Internet of Thing (IoT) system over space-air-ground integrated network (SAGIN) is still in its infancy. It is critical to get 6G technology involved, in order to address the current problems in the combined SAGIN and IoT ecosystem. This work utilizes reconfigurable intelligent surface (RIS) to enhance the existing SAGIN infrastructure. We highlight channel modeling and estimate as a...",
     "date": "2023-04-27T04:15:53.706Z"
   }
 ]

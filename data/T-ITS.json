@@ -1,5 +1,44 @@
 [
   {
+    "articleNumber": "10168308",
+    "articleTitle": "Resilient Countermeasures Against Cyber-Attacks on Self-Driving Car Architecture",
+    "authors": [
+      "Junaid M. Qurashi",
+      "Kamal Jambi",
+      "Fawaz Alsolami",
+      "Fathy E. Eassa",
+      "Maher Khemakhem",
+      "Abdullah Basuhail"
+    ],
+    "abstract": "Self-driving cars, believed to be on track to become a seven trillion-dollar industry by 2050, are likely to be a popular mode of transportation in the near future, as the technology promises safety and efficiency. Significant advances have been made to achieve these objectives. However, the idea of a self-driving car completing its goals without human intervention in the presence of uncertainties...",
+    "date": "2023-06-30T01:11:02.386Z"
+  },
+  {
+    "articleNumber": "10168527",
+    "articleTitle": "Evaluation of a New Real-Life Traffic Management Using a Limited Number of Connected Autonomous Vehicles",
+    "authors": [
+      "Ilgin Gokasar",
+      "Ali Atilla Arisoy",
+      "Muhammet Deveci",
+      "Abbas Mardani"
+    ],
+    "abstract": "Methodologies for managing traffic in real-time are evolved in a different direction with the development of Connected Autonomous Vehicles (CAVs). Most of the research uses a specific penetration rate of CAVs. The contribution of this study is to fill that gap by testing a new real-time traffic management method, named SWSCAV (utilization of shockwave-speed information and connected autonomous veh...",
+    "date": "2023-06-30T01:11:02.386Z"
+  },
+  {
+    "articleNumber": "10168266",
+    "articleTitle": "Evaluation of the Connected Vehicle Environment Effectiveness at Tunnel Entrance",
+    "authors": [
+      "Jianhua Zhang",
+      "Xiaohua Zhao",
+      "Haijian Li",
+      "Jianyu Qi",
+      "Guanyang Xing"
+    ],
+    "abstract": "The change of space environment at the tunnel entrance which the light changes from bright to dark will lead to frequent traffic accidents. To explore whether the connected vehicle environment will improve the driving performance and traffic safety at the tunnel entrance, this paper first of all designed a driving simulation experiment and provided driving aids through the Human-Machine Interface ...",
+    "date": "2023-06-30T01:11:02.386Z"
+  },
+  {
     "articleNumber": "10168054",
     "articleTitle": "Coverage Path Planning With Budget Constraints for Multiple Unmanned Ground Vehicles",
     "authors": [
