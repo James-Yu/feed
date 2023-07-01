@@ -2,11 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/TPAMI.rss</id>
     <title>IEEE Transactions on Pattern Analysis and Machine Intelligence</title>
-    <updated>2023-06-30T16:16:00.030Z</updated>
+    <updated>2023-07-01T01:21:17.668Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/TPAMI.rss"/>
     <subtitle>IEEE Transactions on Pattern Analysis and Machine Intelligence</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Bipartite Ranking Fairness through a Model Agnostic Ordering Adjustment]]></title>
+        <id>https://ieeexplore.ieee.org/document/10169084</id>
+        <link href="https://ieeexplore.ieee.org/document/10169084"/>
+        <updated>2023-07-01T01:21:17.663Z</updated>
+        <summary type="html"><![CDATA[Recently, with the applications of algorithms in various risky scenarios, algorithmic fairness has been a serious concern and received lots of interest in machine learning community. In this paper, we focus on the bipartite ranking scenario, where the instances come from either the positive or negative class and the goal is to learn a ranking function that ranks positive instances higher than nega...]]></summary>
+        <author>
+            <name>Sen Cui</name>
+        </author>
+        <author>
+            <name>Weishen Pan</name>
+        </author>
+        <author>
+            <name>Changshui Zhang</name>
+        </author>
+        <author>
+            <name>Fei Wang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Entity-Graph Enhanced Cross-Modal Pretraining for Instance-level Product Retrieval]]></title>
+        <id>https://ieeexplore.ieee.org/document/10169110</id>
+        <link href="https://ieeexplore.ieee.org/document/10169110"/>
+        <updated>2023-07-01T01:21:17.663Z</updated>
+        <summary type="html"><![CDATA[Our goal in this research is to study a more realistic environment in which we can conduct weakly-supervised multi-modal instance-level product retrieval for fine-grained product categories. We first contribute the Product1M datasets, and define two real practical instance-level retrieval tasks to enable the evaluations on the price comparison and personalized recommendations. For both instance-le...]]></summary>
+        <author>
+            <name>Xiao Dong</name>
+        </author>
+        <author>
+            <name>Xunlin Zhan</name>
+        </author>
+        <author>
+            <name>Yunchao Wei</name>
+        </author>
+        <author>
+            <name>Xiaoyong Wei</name>
+        </author>
+        <author>
+            <name>Yaowei Wang</name>
+        </author>
+        <author>
+            <name>Minlong Lu</name>
+        </author>
+        <author>
+            <name>Xiaochun Cao</name>
+        </author>
+        <author>
+            <name>Xiaodan Liang</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Generalizing Aggregation Functions in GNNs: Building High Capacity and Robust GNNs via Nonlinear Aggregation]]></title>
         <id>https://ieeexplore.ieee.org/document/10168286</id>

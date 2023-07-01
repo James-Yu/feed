@@ -1,5 +1,27 @@
 [
   {
+    "articleNumber": "10168965",
+    "articleTitle": "Pedestrian Detection Using Multi-Scale Structure-Enhanced Super-Resolution",
+    "authors": [
+      "Wei-Yen Hsu",
+      "Pei-Yu Yang"
+    ],
+    "abstract": "Pedestrian detection remains a crucial technology for applications such as autonomous driving and gait recognition and continues to be a prominent research area. Despite the development of advanced pedestrian detection techniques, the challenge of detecting pedestrians in low-resolution images persists in real-life scenarios where low-quality imaging devices are still in use. The objective of this...",
+    "date": "2023-07-01T01:21:06.577Z"
+  },
+  {
+    "articleNumber": "10169000",
+    "articleTitle": "Collaborative Generation of Local Conflict Free Trajectories With Weather Hazards Avoidance",
+    "authors": [
+      "Andréas Guitart",
+      "Daniel Delahaye",
+      "Félix Mora Camino",
+      "Eric Feron"
+    ],
+    "abstract": "This paper addresses the design of conflict free trajectories for sets of flights crossing areas subject to wind and meteorological hazards. After presenting the collaborative process based on first come first served principle, a dynamic Fast Marching Tree Star algorithm is proposed. The algorithm first computes initial avoidance trajectories and then updates them according to the new position of ...",
+    "date": "2023-07-01T01:21:06.577Z"
+  },
+  {
     "articleNumber": "10168308",
     "articleTitle": "Resilient Countermeasures Against Cyber-Attacks on Self-Driving Car Architecture",
     "authors": [

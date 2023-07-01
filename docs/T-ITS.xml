@@ -2,11 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/T-ITS.rss</id>
     <title>IEEE Transactions on Intelligent Transportation Systems</title>
-    <updated>2023-06-30T16:15:50.170Z</updated>
+    <updated>2023-07-01T01:21:06.584Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/T-ITS.rss"/>
     <subtitle>IEEE Transactions on Intelligent Transportation Systems</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Pedestrian Detection Using Multi-Scale Structure-Enhanced Super-Resolution]]></title>
+        <id>https://ieeexplore.ieee.org/document/10168965</id>
+        <link href="https://ieeexplore.ieee.org/document/10168965"/>
+        <updated>2023-07-01T01:21:06.577Z</updated>
+        <summary type="html"><![CDATA[Pedestrian detection remains a crucial technology for applications such as autonomous driving and gait recognition and continues to be a prominent research area. Despite the development of advanced pedestrian detection techniques, the challenge of detecting pedestrians in low-resolution images persists in real-life scenarios where low-quality imaging devices are still in use. The objective of this...]]></summary>
+        <author>
+            <name>Wei-Yen Hsu</name>
+        </author>
+        <author>
+            <name>Pei-Yu Yang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Collaborative Generation of Local Conflict Free Trajectories With Weather Hazards Avoidance]]></title>
+        <id>https://ieeexplore.ieee.org/document/10169000</id>
+        <link href="https://ieeexplore.ieee.org/document/10169000"/>
+        <updated>2023-07-01T01:21:06.577Z</updated>
+        <summary type="html"><![CDATA[This paper addresses the design of conflict free trajectories for sets of flights crossing areas subject to wind and meteorological hazards. After presenting the collaborative process based on first come first served principle, a dynamic Fast Marching Tree Star algorithm is proposed. The algorithm first computes initial avoidance trajectories and then updates them according to the new position of ...]]></summary>
+        <author>
+            <name>Andréas Guitart</name>
+        </author>
+        <author>
+            <name>Daniel Delahaye</name>
+        </author>
+        <author>
+            <name>Félix Mora Camino</name>
+        </author>
+        <author>
+            <name>Eric Feron</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Resilient Countermeasures Against Cyber-Attacks on Self-Driving Car Architecture]]></title>
         <id>https://ieeexplore.ieee.org/document/10168308</id>

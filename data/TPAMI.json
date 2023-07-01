@@ -1,5 +1,33 @@
 [
   {
+    "articleNumber": "10169084",
+    "articleTitle": "Bipartite Ranking Fairness through a Model Agnostic Ordering Adjustment",
+    "authors": [
+      "Sen Cui",
+      "Weishen Pan",
+      "Changshui Zhang",
+      "Fei Wang"
+    ],
+    "abstract": "Recently, with the applications of algorithms in various risky scenarios, algorithmic fairness has been a serious concern and received lots of interest in machine learning community. In this paper, we focus on the bipartite ranking scenario, where the instances come from either the positive or negative class and the goal is to learn a ranking function that ranks positive instances higher than nega...",
+    "date": "2023-07-01T01:21:17.663Z"
+  },
+  {
+    "articleNumber": "10169110",
+    "articleTitle": "Entity-Graph Enhanced Cross-Modal Pretraining for Instance-level Product Retrieval",
+    "authors": [
+      "Xiao Dong",
+      "Xunlin Zhan",
+      "Yunchao Wei",
+      "Xiaoyong Wei",
+      "Yaowei Wang",
+      "Minlong Lu",
+      "Xiaochun Cao",
+      "Xiaodan Liang"
+    ],
+    "abstract": "Our goal in this research is to study a more realistic environment in which we can conduct weakly-supervised multi-modal instance-level product retrieval for fine-grained product categories. We first contribute the Product1M datasets, and define two real practical instance-level retrieval tasks to enable the evaluations on the price comparison and personalized recommendations. For both instance-le...",
+    "date": "2023-07-01T01:21:17.663Z"
+  },
+  {
     "articleNumber": "10168286",
     "articleTitle": "Generalizing Aggregation Functions in GNNs: Building High Capacity and Robust GNNs via Nonlinear Aggregation",
     "authors": [

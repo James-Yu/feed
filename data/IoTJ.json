@@ -1,5 +1,67 @@
 [
   {
+    "articleNumber": "10168894",
+    "articleTitle": "Low-Complexity Joint Activity Detection and Channel Estimation with Partially Orthogonal Pilot for Asynchronous Massive Access",
+    "authors": [
+      "Yurong Guo",
+      "Zujun Liu",
+      "Yongjun Sun"
+    ],
+    "abstract": "In the asynchronous massive machine-type communications (mMTC) supported by massive MIMO based grant-free random access, where all active devices asynchronously transmit the pilot sequences to the BS, it necessitates the joint activity detection and channel estimation (JADCE) with imperfect synchronization. In this paper, in order to achieve a good balance between the number of pilots and the corr...",
+    "date": "2023-07-01T01:21:22.963Z"
+  },
+  {
+    "articleNumber": "10168828",
+    "articleTitle": "A Multi-Method Study of Internet of Things Systems Testing in Industry",
+    "authors": [
+      "Jean Baptiste Minani",
+      "Fatima Sabir",
+      "Naouel Moha",
+      "Yann-Gaël Guéhéneuc"
+    ],
+    "abstract": "As the Internet of Things (IoT) grows, its failures may have dramatic consequences on the lives of people who depend on it. Yet, it is hard to test IoT systems before they are deployed. Several researchers have provided state-of-the-art approaches for testing IoT systems. However, many of those approaches are based on academia rather than industry. Therefore, we conducted a multi-method study of I...",
+    "date": "2023-07-01T01:21:22.963Z"
+  },
+  {
+    "articleNumber": "10168921",
+    "articleTitle": "A Blockchain-based Anonymous Attribute-based Searchable Encryption Scheme for Data Sharing",
+    "authors": [
+      "Kai Zhang",
+      "Yan Zhang",
+      "Yanping Li",
+      "Ximeng Liu",
+      "Laifeng Lu"
+    ],
+    "abstract": "Attribute-based searchable encryption (ABSE) is a promising encryption mechanism for sharing outsourced encrypted data in clouds, allowing fine-grained access control over data while searching for encrypted data. However, the access policy in the most existing ABSE schemes exists in plaintext, which could expose sensitive information about legitimate data users. Moreover, such schemes delegate com...",
+    "date": "2023-07-01T01:21:22.963Z"
+  },
+  {
+    "articleNumber": "10168897",
+    "articleTitle": "T-HSER: Transformer Network Enabling Heart Sound Envelope Signal Reconstruction Based on Low Sampling Rate Millimeter Wave Radar",
+    "authors": [
+      "Haibo Zhao",
+      "Yongtao Ma",
+      "Yuxiang Han",
+      "Chenglong Tian",
+      "Xinyue Huang"
+    ],
+    "abstract": "The four stages (first heart sound (S1), systole, second heart sound (S2), and diastole) of heartbeat sounds recorded by contact seismocardiogram (SCG) reflect the health of the heart, but these stages are challenging to measure by non-contact millimeter wave radar. If the sampling rate of millimeter wave radar is increased, this will increase the amount of data storage needed for the long-term mo...",
+    "date": "2023-07-01T01:21:22.963Z"
+  },
+  {
+    "articleNumber": "10168908",
+    "articleTitle": "Quantum Secure Threshold Private Set Intersection Protocol for IoT-Enabled Privacy Preserving Ride-Sharing Application",
+    "authors": [
+      "Tapaswini Mohanty",
+      "Vikas Srivastava",
+      "Sumit Kumar Debnath",
+      "Ashok Kumar Das",
+      "Biplab Sikdar"
+    ],
+    "abstract": "The Internet of Things (IoT)-enabled ride sharing is one of the most transforming and innovative technologies in the transportation industry. It has myriads of advantages, but with increasing demands there are security concerns as well. Traditionally, cryptographic methods are used to address the security and privacy concerns in a ride sharing system. Unfortunately, due to the emergence of quantum...",
+    "date": "2023-07-01T01:21:22.963Z"
+  },
+  {
     "articleNumber": "10168197",
     "articleTitle": "dRAIN: A distributed Reliable Architecture for IoT Networks",
     "authors": [
@@ -12802,73 +12864,6 @@
       "Xiaoming Tao"
     ],
     "abstract": "With the development of modern communication and the Internet of Things (IoT) in the need to provide seamless interconnection between heterogeneous devices, we design an adjustable-distance resonant antenna suitable for 5G communication. The antenna meets the multi-angle radiation requirements of the antenna for flexible positioning of IoT devices, and conforms to the concept of green Internet bas...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9999300",
-    "articleTitle": "Efficient Multiple Green Energy Base Stations Far-field Wireless Charging for Mobile IoT Devices",
-    "authors": [
-      "Qiuyu Sha",
-      "Xilong Liu",
-      "Nirwan Ansari"
-    ],
-    "abstract": "Powering a huge number of Internet of Things devices (IoTDs), necessitated in many IoT applications, is a dreadful problem in many circumstances, in terms of the cost of labor, time and so on. Far-field green energy wireless charging is a promising technique to remotely power IoTDs in a large-scale network. In order to improve the end-to-end energy efficiency, for the scenario with multiple green ...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9999027",
-    "articleTitle": "An Efficient Hierarchical Mobile IPv6 Group-based BU Scheme for Mobile Nodes in IoT Network",
-    "authors": [
-      "Afshan Ahmed",
-      "Sohail Jabbar",
-      "M.Munwar Iqbal",
-      "Muhammad Ibrar",
-      "Aiman Erbad",
-      "Houbing Song"
-    ],
-    "abstract": "With the swift growth of mobile devices in a wireless Internet of Things (IoT) network, mobility management in IP networks has attracted significant research interest due to certain issues with the frequent motion of Mobile Nodes (MNs) participating in the handover process. Hierarchical Mobile IPv6 (HMIPv6) is one of the protocols proposed to accommodate recurrent mobility of MNs to decrease the s...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9999279",
-    "articleTitle": "iPos-5G: Indoor Positioning via Commercial 5G NR CSI",
-    "authors": [
-      "Yanlin Ruan",
-      "Liang Chen",
-      "Xin Zhou",
-      "Zhaoliang Liu",
-      "Xiaoyan Liu",
-      "Guangyi Guo",
-      "Ruizhi Chen"
-    ],
-    "abstract": "The fifth-generation (5G) networks have been massively deployed in commerce. The new features introduced by 5G networks are beneficial to wireless positioning. In this study, the performance of indoor positioning with commercial 5G new radio (NR) signals is investigated, and the channel state information (CSI) extracted from the downlink synchronization signal block is utilized. Considering the li...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9999005",
-    "articleTitle": "AsyFed: Accelerate Federated Learning with Asynchronous Communication Mechanism",
-    "authors": [
-      "Zhixin Li",
-      "Chunpu Huang",
-      "Keke Gai",
-      "Zhihui Lu",
-      "Jie Wu",
-      "Lulu Chen",
-      "Yangchuan Xu",
-      "Kim-Kwang Raymond Choo"
-    ],
-    "abstract": "As a new distributed machine learning framework for privacy protection, Federated Learning (FL) enables substantial Internet of Things (IoT) devices (e.g., mobile phones, tablets, etc.) to participate in collaborative training of a machine learning model. FL can protect the data privacy of IoT devices without exposing their raw data. However, the diversity of IoT devices may degrade the overall tr...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9993742",
-    "articleTitle": "A Novel Intrusion Detection System for Internet of Healthcare Things Based on Deep Subclasses Dispersion Information",
-    "authors": [
-      "Marwa Fouda",
-      "Riadh Ksantini",
-      "Wael Elmedany"
-    ],
-    "abstract": "Despite the significant benefits that the Internet of Healthcare Things (IoHT) offered to the medical sector, there are concerns and risks regarding these systems which can delay their wide deployment as they handle sensitive and often life-critical medical information. In addition to the IoHT concerns and risks, there are security constraints which include hardware, software and network constrain...",
     "date": "2023-04-27T04:15:53.706Z"
   }
 ]

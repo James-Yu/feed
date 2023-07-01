@@ -2,11 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/TII.rss</id>
     <title>IEEE Transactions on Industrial Informatics</title>
-    <updated>2023-06-30T16:16:08.970Z</updated>
+    <updated>2023-07-01T01:21:28.720Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/TII.rss"/>
     <subtitle>IEEE Transactions on Industrial Informatics</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[An Internal Voltage Robust Control of Battery Energy Storage System for Suppressing Wideband Harmonics in VF Control-based Islanded Microgrids]]></title>
+        <id>https://ieeexplore.ieee.org/document/10169096</id>
+        <link href="https://ieeexplore.ieee.org/document/10169096"/>
+        <updated>2023-07-01T01:21:28.712Z</updated>
+        <summary type="html"><![CDATA[In constant voltage and frequency (VF) control-based islanded microgrids, the nonlinear load can easily cause voltage harmonics and degrade the power quality of the islanded microgrids. Firstly, the mechanism and characteristics of the voltage distortion are analyzed based on the impedance method. Due to the large internal impedance of the energy storage inverter, the harmonic voltage generated on...]]></summary>
+        <author>
+            <name>Gaoxiang Li</name>
+        </author>
+        <author>
+            <name>Guofu Tang</name>
+        </author>
+        <author>
+            <name>Xiao Liu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EneX: An Energy-Aware Execution Scheduler for Serverless Computing]]></title>
+        <id>https://ieeexplore.ieee.org/document/10169097</id>
+        <link href="https://ieeexplore.ieee.org/document/10169097"/>
+        <updated>2023-07-01T01:21:28.712Z</updated>
+        <summary type="html"><![CDATA[The emerging serverless computing paradigm has recently attracted huge attention from both academia and industry. It brings benefits such as less operational complexity, high scalability, and availability, and lower costs. Serverless applications are usually partitioned into several chains of functions. The serverless provider should schedule functions for execution per customers&#39; requests conside...]]></summary>
+        <author>
+            <name>Seyed Hamed Rastegar</name>
+        </author>
+        <author>
+            <name>Hossein Shafiei</name>
+        </author>
+        <author>
+            <name>Ahmad Khonsari</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Combined Unfixed-Structure and Fixed-Structure Data-Driven Feedforward Control Approach for Ball Screw Feed-Drive System]]></title>
+        <id>https://ieeexplore.ieee.org/document/10169094</id>
+        <link href="https://ieeexplore.ieee.org/document/10169094"/>
+        <updated>2023-07-01T01:21:28.712Z</updated>
+        <summary type="html"><![CDATA[Ball screw feed-drive system (BSFDS) is a widely used high-precision positioning mechanism. And its positioning accuracy is strongly limited by friction, vibration, etc. Those factors are difficult to model or to model completely. Since the data-driven control approach is not model-dependent, it is suitable to overcome the previous problems. Iterative learning control (ILC) is one of the general u...]]></summary>
+        <author>
+            <name>Tao Huang</name>
+        </author>
+        <author>
+            <name>Yueting Kang</name>
+        </author>
+        <author>
+            <name>Yangjun Pi</name>
+        </author>
+        <author>
+            <name>Min Li</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Optimized Operation Framework of Distributed Thermal Storage Aggregators in the Electricity Spot Market]]></title>
         <id>https://ieeexplore.ieee.org/document/10167821</id>

@@ -1,5 +1,17 @@
 [
   {
+    "articleNumber": "10170749",
+    "articleTitle": "Integrated Personalized and Diversified Search Based on Search Logs",
+    "authors": [
+      "Jiongnan Liu",
+      "Zhicheng Dou",
+      "Jian-Yun Nie",
+      "Ji-Rong Wen"
+    ],
+    "abstract": "Personalized search and search result diversification are two possible solutions to cope with the query ambiguity problem in search engines. In most existing studies, they have been investigated separately, but intuitively, they address the problem from two complementary perspectives and should be combined. Some recent work tried to combine them by restricting result diversification to the subtopi...",
+    "date": "2023-07-01T01:21:11.950Z"
+  },
+  {
     "articleNumber": "10168296",
     "articleTitle": "Individual and Structural Graph Information Bottlenecks for Out-of-Distribution Generalization",
     "authors": [
