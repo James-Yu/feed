@@ -1,5 +1,44 @@
 [
   {
+    "articleNumber": "10171830",
+    "articleTitle": "Efficiently Identifying Unknown COTS RFID Tags for Intelligent Transportation Systems",
+    "authors": [
+      "Kai Lin",
+      "Honglong Chen",
+      "Zhe Li",
+      "Na Yan",
+      "Huansheng Xue",
+      "Feng Xia"
+    ],
+    "abstract": "Over the last decade, the Internet of Things (IoT) technology has advanced significantly in a variety of fields. As a pivotal application of IoT, intelligent transportation systems (ITS) have harvested great attention from the research community. Radio frequency identification (RFID) which is an essential technology in IoT plays a key role in ITS to identify tagged vehicles. Unknown tag identifica...",
+    "date": "2023-07-04T01:15:14.221Z"
+  },
+  {
+    "articleNumber": "10171832",
+    "articleTitle": "Speed Harmonization for Partially Connected and Automated Traffic",
+    "authors": [
+      "Lianhua An",
+      "Xianfeng Yang",
+      "Dong-Kyu Kim",
+      "Jia Hu",
+      "Guan Wang",
+      "Zhigang Xu"
+    ],
+    "abstract": "This paper proposed a speed harmonization controller for partially connected and automated traffic. It regulates the flow rate of the entire traffic by adjusting only the target cruising speed of Connected and Automated Vehicles (CAVs). The proposed controller bears the following features: i) compatibility enabled with partially connected and automated traffic consisting of CAVs and Human-driven V...",
+    "date": "2023-07-04T01:15:14.221Z"
+  },
+  {
+    "articleNumber": "10171831",
+    "articleTitle": "Decentralized iLQR for Cooperative Trajectory Planning of Connected Autonomous Vehicles via Dual Consensus ADMM",
+    "authors": [
+      "Zhenmin Huang",
+      "Shaojie Shen",
+      "Jun Ma"
+    ],
+    "abstract": "Cooperative trajectory planning of connected autonomous vehicles (CAVs) generally admits strong nonlinearity and non-convexity, rendering great difficulties in finding the optimal solution. Existing methods typically suffer from low computational efficiency and poor scalability, which hinder the appropriate applications in large-scale scenarios involving an increasing number of vehicles. To tackle...",
+    "date": "2023-07-04T01:15:14.221Z"
+  },
+  {
     "articleNumber": "10168965",
     "articleTitle": "Pedestrian Detection Using Multi-Scale Structure-Enhanced Super-Resolution",
     "authors": [

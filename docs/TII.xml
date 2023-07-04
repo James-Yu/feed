@@ -2,11 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/TII.rss</id>
     <title>IEEE Transactions on Industrial Informatics</title>
-    <updated>2023-07-03T16:16:29.941Z</updated>
+    <updated>2023-07-04T01:15:36.364Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/TII.rss"/>
     <subtitle>IEEE Transactions on Industrial Informatics</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Neurodynamics for Equality-Constrained Time-Variant Nonlinear Optimization Using Discretization]]></title>
+        <id>https://ieeexplore.ieee.org/document/10171425</id>
+        <link href="https://ieeexplore.ieee.org/document/10171425"/>
+        <updated>2023-07-04T01:15:36.358Z</updated>
+        <summary type="html"><![CDATA[Time-variant problems are widespread in science and engineering, and discrete-time recurrent neurodynamics (DTRN) method has been proved to be an effective way to deal with a variety of discrete time-variant problems. However, this DTRN method is usually based on the study of continuous time-variant problems and lacks a direct study of discrete time-variant problems. To solve the above problem, ba...]]></summary>
+        <author>
+            <name>Yang Shi Wangrong Sheng</name>
+        </author>
+        <author>
+            <name>Shuai Li</name>
+        </author>
+        <author>
+            <name>Bin Li</name>
+        </author>
+        <author>
+            <name>and Xiaobing Sun</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sim-to-Real Transfer of Soft Robotic Navigation Strategies That Learns From the Virtual Eye-in-Hand Vision]]></title>
+        <id>https://ieeexplore.ieee.org/document/10171986</id>
+        <link href="https://ieeexplore.ieee.org/document/10171986"/>
+        <updated>2023-07-04T01:15:36.358Z</updated>
+        <summary type="html"><![CDATA[To steer a soft robot precisely in an unconstructed environment with minimal collision remains an open challenge for soft robots. When the environments are unknown, prior motion planning for navigation may not always be available. This paper presents a novel Sim-to-Real method to guide a cable-driven soft robot in a static environment under the Simulation Open Framework Architecture (SOFA). The sc...]]></summary>
+        <author>
+            <name>Jiewen Lai</name>
+        </author>
+        <author>
+            <name>Tian-Ao Ren</name>
+        </author>
+        <author>
+            <name>Wenchao Yue</name>
+        </author>
+        <author>
+            <name>Shijian Su</name>
+        </author>
+        <author>
+            <name>Jason Y. K. Chan</name>
+        </author>
+        <author>
+            <name>Hongliang Ren</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adversarial Attacks for Neural Network Based Industrial Soft Sensors: Mirror Output Attack and Translation Mirror Output Attack]]></title>
+        <id>https://ieeexplore.ieee.org/document/10172037</id>
+        <link href="https://ieeexplore.ieee.org/document/10172037"/>
+        <updated>2023-07-04T01:15:36.358Z</updated>
+        <summary type="html"><![CDATA[Soft sensing using the neural network technique has been increasingly applied to industrial processes. Recently, the security and robustness of neural network based soft sensors have become primary concerns. Additionally, current studies indicated that neural networks are vulnerable to adversarial attacks. In other words, small perturbations imposed on the input can lead to significant deviations ...]]></summary>
+        <author>
+            <name>Lei Chen</name>
+        </author>
+        <author>
+            <name>Qun-Xiong Zhu</name>
+        </author>
+        <author>
+            <name>Yan-Lin He</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[An Internal Voltage Robust Control of Battery Energy Storage System for Suppressing Wideband Harmonics in VF Control-based Islanded Microgrids]]></title>
         <id>https://ieeexplore.ieee.org/document/10169096</id>

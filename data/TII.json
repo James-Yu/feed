@@ -1,5 +1,42 @@
 [
   {
+    "articleNumber": "10171425",
+    "articleTitle": "Neurodynamics for Equality-Constrained Time-Variant Nonlinear Optimization Using Discretization",
+    "authors": [
+      "Yang Shi Wangrong Sheng",
+      "Shuai Li",
+      "Bin Li",
+      "and Xiaobing Sun"
+    ],
+    "abstract": "Time-variant problems are widespread in science and engineering, and discrete-time recurrent neurodynamics (DTRN) method has been proved to be an effective way to deal with a variety of discrete time-variant problems. However, this DTRN method is usually based on the study of continuous time-variant problems and lacks a direct study of discrete time-variant problems. To solve the above problem, ba...",
+    "date": "2023-07-04T01:15:36.358Z"
+  },
+  {
+    "articleNumber": "10171986",
+    "articleTitle": "Sim-to-Real Transfer of Soft Robotic Navigation Strategies That Learns From the Virtual Eye-in-Hand Vision",
+    "authors": [
+      "Jiewen Lai",
+      "Tian-Ao Ren",
+      "Wenchao Yue",
+      "Shijian Su",
+      "Jason Y. K. Chan",
+      "Hongliang Ren"
+    ],
+    "abstract": "To steer a soft robot precisely in an unconstructed environment with minimal collision remains an open challenge for soft robots. When the environments are unknown, prior motion planning for navigation may not always be available. This paper presents a novel Sim-to-Real method to guide a cable-driven soft robot in a static environment under the Simulation Open Framework Architecture (SOFA). The sc...",
+    "date": "2023-07-04T01:15:36.358Z"
+  },
+  {
+    "articleNumber": "10172037",
+    "articleTitle": "Adversarial Attacks for Neural Network Based Industrial Soft Sensors: Mirror Output Attack and Translation Mirror Output Attack",
+    "authors": [
+      "Lei Chen",
+      "Qun-Xiong Zhu",
+      "Yan-Lin He"
+    ],
+    "abstract": "Soft sensing using the neural network technique has been increasingly applied to industrial processes. Recently, the security and robustness of neural network based soft sensors have become primary concerns. Additionally, current studies indicated that neural networks are vulnerable to adversarial attacks. In other words, small perturbations imposed on the input can lead to significant deviations ...",
+    "date": "2023-07-04T01:15:36.358Z"
+  },
+  {
     "articleNumber": "10169096",
     "articleTitle": "An Internal Voltage Robust Control of Battery Energy Storage System for Suppressing Wideband Harmonics in VF Control-based Islanded Microgrids",
     "authors": [

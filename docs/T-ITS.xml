@@ -2,11 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/T-ITS.rss</id>
     <title>IEEE Transactions on Intelligent Transportation Systems</title>
-    <updated>2023-07-03T16:16:07.368Z</updated>
+    <updated>2023-07-04T01:15:14.228Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/T-ITS.rss"/>
     <subtitle>IEEE Transactions on Intelligent Transportation Systems</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Efficiently Identifying Unknown COTS RFID Tags for Intelligent Transportation Systems]]></title>
+        <id>https://ieeexplore.ieee.org/document/10171830</id>
+        <link href="https://ieeexplore.ieee.org/document/10171830"/>
+        <updated>2023-07-04T01:15:14.221Z</updated>
+        <summary type="html"><![CDATA[Over the last decade, the Internet of Things (IoT) technology has advanced significantly in a variety of fields. As a pivotal application of IoT, intelligent transportation systems (ITS) have harvested great attention from the research community. Radio frequency identification (RFID) which is an essential technology in IoT plays a key role in ITS to identify tagged vehicles. Unknown tag identifica...]]></summary>
+        <author>
+            <name>Kai Lin</name>
+        </author>
+        <author>
+            <name>Honglong Chen</name>
+        </author>
+        <author>
+            <name>Zhe Li</name>
+        </author>
+        <author>
+            <name>Na Yan</name>
+        </author>
+        <author>
+            <name>Huansheng Xue</name>
+        </author>
+        <author>
+            <name>Feng Xia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Speed Harmonization for Partially Connected and Automated Traffic]]></title>
+        <id>https://ieeexplore.ieee.org/document/10171832</id>
+        <link href="https://ieeexplore.ieee.org/document/10171832"/>
+        <updated>2023-07-04T01:15:14.221Z</updated>
+        <summary type="html"><![CDATA[This paper proposed a speed harmonization controller for partially connected and automated traffic. It regulates the flow rate of the entire traffic by adjusting only the target cruising speed of Connected and Automated Vehicles (CAVs). The proposed controller bears the following features: i) compatibility enabled with partially connected and automated traffic consisting of CAVs and Human-driven V...]]></summary>
+        <author>
+            <name>Lianhua An</name>
+        </author>
+        <author>
+            <name>Xianfeng Yang</name>
+        </author>
+        <author>
+            <name>Dong-Kyu Kim</name>
+        </author>
+        <author>
+            <name>Jia Hu</name>
+        </author>
+        <author>
+            <name>Guan Wang</name>
+        </author>
+        <author>
+            <name>Zhigang Xu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Decentralized iLQR for Cooperative Trajectory Planning of Connected Autonomous Vehicles via Dual Consensus ADMM]]></title>
+        <id>https://ieeexplore.ieee.org/document/10171831</id>
+        <link href="https://ieeexplore.ieee.org/document/10171831"/>
+        <updated>2023-07-04T01:15:14.221Z</updated>
+        <summary type="html"><![CDATA[Cooperative trajectory planning of connected autonomous vehicles (CAVs) generally admits strong nonlinearity and non-convexity, rendering great difficulties in finding the optimal solution. Existing methods typically suffer from low computational efficiency and poor scalability, which hinder the appropriate applications in large-scale scenarios involving an increasing number of vehicles. To tackle...]]></summary>
+        <author>
+            <name>Zhenmin Huang</name>
+        </author>
+        <author>
+            <name>Shaojie Shen</name>
+        </author>
+        <author>
+            <name>Jun Ma</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pedestrian Detection Using Multi-Scale Structure-Enhanced Super-Resolution]]></title>
         <id>https://ieeexplore.ieee.org/document/10168965</id>

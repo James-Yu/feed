@@ -1,5 +1,107 @@
 [
   {
+    "articleNumber": "10171185",
+    "articleTitle": "Joint Power Control and Time Allocation for UAV-Assisted IoV Networks Over Licensed and Unlicensed Spectrum",
+    "authors": [
+      "Yuhan Su",
+      "Lianfen Huang",
+      "Minghui Liwang"
+    ],
+    "abstract": "Unmanned Aerial Vehicles (UAVs) have attracted massive attentions in Internet of Vehicles (IoV) networks to support the communications among roadside units (RSUs) and IoV users. In UAV-assisted IoV systems, UAVs and RSUs generally work within the same frequency band to improve the system spectral utilization efficiency, limited by the lack of spectrum resources, which, however, can cause mutual in...",
+    "date": "2023-07-04T01:15:31.524Z"
+  },
+  {
+    "articleNumber": "10171225",
+    "articleTitle": "Damping-Assisted Evolutionary Swarm Intelligence for Industrial IoT Task Scheduling in Cloud Computing",
+    "authors": [
+      "Ahmed G. Gad",
+      "Essam H. Houssein",
+      "MengChu Zhou",
+      "Ponnuthurai Nagaratnam Suganthan",
+      "Yaser M. Wazery"
+    ],
+    "abstract": "In recent years, ongoing advancements in the Industrial Internet of Things (IIoT) have yielded massive volumes of data, taxing the capabilities of cloud computing infrastructure. Allocating limited computing resources to numerous incoming requests is one of the difficulties of cloud computing, which is typically referred to as a Task-Scheduling-in-Cloud-Computing (TSCC) problem. In order to amelio...",
+    "date": "2023-07-04T01:15:31.524Z"
+  },
+  {
+    "articleNumber": "10172148",
+    "articleTitle": "Behavioral-Semantic Privacy Protection for Continual Social Mobility in Mobile-Internet Services",
+    "authors": [
+      "Guoying Qiu",
+      "Guoming Tang",
+      "Chuandong Li",
+      "Deke Guo",
+      "Yulong Shen",
+      "Yan Gan"
+    ],
+    "abstract": "Crowdsensing-based mobile Internet, while facilitating users’ daily life, also raises privacy concerns because of sharing user location trajectories. Combining with open-source network information, these trajectories reveal the semantics of users’ social behaviors in their travels, thus indicating their behavioral traces. Based on such social mobilities, attackers can explore users’ potential beha...",
+    "date": "2023-07-04T01:15:31.524Z"
+  },
+  {
+    "articleNumber": "10172012",
+    "articleTitle": "Ensuring Long-Term Trustworthy Collaboration in IoT Networks using Contract Theory and Reputation Mechanism on Blockchain",
+    "authors": [
+      "Zitao Zhou",
+      "Fang Ye",
+      "Jingpeng Gao",
+      "Sitong Zhang",
+      "Xiaoyu Geng"
+    ],
+    "abstract": "Internet of Things (IoT) devices operate in an untrusted environment, and blockchain technology can provide a secure distributed collaboration method. However, the widespread distribution of heterogeneous devices in the IoT creates complex information asymmetry issues, leading to inefficient resource allocation. This is especially true when information asymmetry occurs in long-term cooperative rel...",
+    "date": "2023-07-04T01:15:31.524Z"
+  },
+  {
+    "articleNumber": "10171213",
+    "articleTitle": "Wideband Quasi-Spherical Lens Antenna Module With Two-Dimensional Switched Beams for 5G Millimeter-Wave IoT Applications",
+    "authors": [
+      "Xujun Yang",
+      "Yuan Ji",
+      "Jun Hu",
+      "Lei Ge",
+      "Yujian Li",
+      "Kwai Man Luk"
+    ],
+    "abstract": "Millimeter-wave (mmWave) communication technologies offer abundant spectrum resources and higher data rates that present new opportunities to facilitate fifth-generation (5G) Internet of Things (IoT) systems. As IoT devices are randomly distributed in the environment, mmWave antennas with multiple switched directional beams are a better choice to reduce data collisions. In this context, a wideband...",
+    "date": "2023-07-04T01:15:31.524Z"
+  },
+  {
+    "articleNumber": "10171224",
+    "articleTitle": "Interference-Aware and Coverage Analysis Scheme for 5G NB-IoT D2D Relaying Strategy for Cell Edge QoS Improvement",
+    "authors": [
+      "Safiu A. Gbadamosi",
+      "Gerhard P. Hancke",
+      "Adnan M. Abu-Mahfouz"
+    ],
+    "abstract": "In an interference-limited 5G Narrowband internet of things (NB-IoT) heterogeneous networks (HetNets), device-to-device (D2D) relaying technology can provide coverage expansion and increase network throughput for cell-edge NB-IoT users (NUE). However, as D2D relaying improves the network’s spectral efficiency, it makes interference management and resource allocation more difficult. To improve cell...",
+    "date": "2023-07-04T01:15:31.524Z"
+  },
+  {
+    "articleNumber": "10171194",
+    "articleTitle": "A Markov Chain Model for Identifying Changes in Daily Activity Patterns of People Living with Dementia",
+    "authors": [
+      "Nan Fletcher-Lloyd",
+      "Alina-Irina Serban",
+      "Magdalena Kolanko",
+      "David Wingfield",
+      "Danielle Wilson",
+      "Ramin Nilforooshan",
+      "Payam Barnaghi",
+      "Eyal Soreq"
+    ],
+    "abstract": "Malnutrition and dehydration are strongly associated with increased cognitive and functional decline in people living with dementia (PLWD), as well as an increased rate of hospitalisations in comparison to their healthy counterparts. Extreme changes in eating and drinking behaviours can often lead to malnutrition and dehydration, accelerating the progression of cognitive and functional decline and...",
+    "date": "2023-07-04T01:15:31.524Z"
+  },
+  {
+    "articleNumber": "10171234",
+    "articleTitle": "BMSim: An Event-Driven Simulator for Performance Evaluation of Bluetooth Mesh Networks",
+    "authors": [
+      "Zohreh Hosseinkhani",
+      "Majid Nabi"
+    ],
+    "abstract": "Bluetooth Mesh (BM) is one of the promising networking technologies for Internet-of-Things (IoT) networks released by Bluetooth SIG in 2017. BM provides a protocol for multi-hop scalable networking of IoT devices over the widely-used Bluetooth Low Energy (BLE) technology. However, the capabilities and limits of this technology are not fully studied to determine the IoT applications for which this ...",
+    "date": "2023-07-04T01:15:31.524Z"
+  },
+  {
     "articleNumber": "10168894",
     "articleTitle": "Low-Complexity Joint Activity Detection and Channel Estimation with Partially Orthogonal Pilot for Asynchronous Massive Access",
     "authors": [
@@ -12765,105 +12867,6 @@
       "Qinyu Zhang"
     ],
     "abstract": "In this paper, we focus on a grant-free massive access setup and analyze its age of information (AoI), where a large number of user equipments (UEs) are randomly activated and attempt transmitting status update packets to a base station (BS) over a common shared channel. To support this age-critical grant-free massive access, we propose a graph-based spatially coupled irregular repetition slotted ...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9999555",
-    "articleTitle": "Reinforcement Learning-based Adaptive Neighbor Discovery Algorithm for Directional Transmission enabled Internet of Underwater Things",
-    "authors": [
-      "Jinfang Jiang",
-      "Shuaihui Wang",
-      "Guangjie Han",
-      "Hao Wang"
-    ],
-    "abstract": "In the Internet of Underwater Things (IoUT), nodes are usually deployed randomly. Effective discovery of randomly deployed neighbor nodes is the basis for network topology self-configuration, data routing and transmission, etc. Especially in the IoUT with directional transmission, how to efficiently discover neighbors is a major challenge to be solved at present. Hence, in this study, the neighbor...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9999559",
-    "articleTitle": "Deep Reinforcement Learning-Driven Secrecy Design for Intelligent Reflecting Surface-Based 6G-IoT Networks",
-    "authors": [
-      "Rabbia Saleem",
-      "Wei Ni",
-      "Muhammad Ikram",
-      "Abbas Jamalipour"
-    ],
-    "abstract": "The sixth-generation (6G) wireless communication has called for higher bandwidth and massive connectivity of Internet-of-Things (IoT) devices. The increased connectivity also demands advanced levels of network security, which are critical to maintaining due to severe signal attenuation at higher frequencies. Intelligent reflecting surface (IRS) is an increasingly popular, efficient, solution to ca...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9999538",
-    "articleTitle": "DSCNN-CAU: Deep Learning-Based Mental Activity Classification for IoT Implementation Towards Portable BCI",
-    "authors": [
-      "Manali Saini",
-      "Udit Satija",
-      "Madhur Deo Upadhayay"
-    ],
-    "abstract": "Mental activity classification (MAC) based on electroencephalogram (EEG) is used in the brain-computer interface (BCI) and neurofeedback applications. For this purpose, machine learning and deep learning techniques are utilized in the previous studies. However, in real-time, there is a need to deploy these techniques on IoT-enabled mobile devices for portability. Towards this aspect, we propose de...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9999609",
-    "articleTitle": "Distributed and Efficient Slot Assignment-Alignment Protocol for Resource-constrained Wireless IoT Devices",
-    "authors": [
-      "Mohammad Ali Sarvghadi",
-      "Tat-Chee Wan"
-    ],
-    "abstract": "In distributed wireless Internet of Things (IoT) networks, time-slotted Medium Access Control protocols incorporating transmission scheduling mechanisms are needed for supporting contention-free real-time data flows. To achieve this, nodes need to be synchronized and know about each other’s notion of time. However, distributed time synchronization protocols rely on frequent message exchanges which...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9999544",
-    "articleTitle": "HearASL: Your Smartphone Can Hear American Sign Language",
-    "authors": [
-      "Yusen Wang",
-      "Fan Li",
-      "Yadong Xie",
-      "Chunhui Duan",
-      "Yu Wang"
-    ],
-    "abstract": "Sign language is expressed by movements of the hands and facial expressions, which is mainly used by the deaf community. Although some gesture recognition methods are put forward, they possess different defects and are not applicable to deal with the sign language recognition problem. In this paper, we propose an end-to-end American sign language recognition system with built-in speakers and micro...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9999550",
-    "articleTitle": "Robust Linear Hybrid Beamforming Designs Relying on Imperfect CSI in mmWave MIMO IoT Networks",
-    "authors": [
-      "Kunwar Pritiraj Rajput",
-      "Priyanka Maity",
-      "Suraj Srivastava",
-      "Vikas Sharma",
-      "Naveen K. D. Venkategowda",
-      "Aditya K. Jagannatham",
-      "Lajos Hanzo"
-    ],
-    "abstract": "Linear hybrid beamformer designs are conceived for the decentralized estimation of a vector parameter in a millimeter wave (mmWave) multiple-input multiple-output (MIMO) Internet of Things network (IoTNe). The proposed designs incorporate both total IoTNe and individual IoTNo power constraints, while also eliminating the need for a baseband receiver combiner at the fusion center (FC). To circumven...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9999548",
-    "articleTitle": "IRDP Ride system: A Privacy Preservation System for Online Ride-hailing",
-    "authors": [
-      "Lei Zhang",
-      "Shiyi Lin",
-      "Chao Wang",
-      "Jing Li",
-      "Yi Liu",
-      "Yue Sun"
-    ],
-    "abstract": "Online ride-hailing and navigation (ORHN) is a significant application in Location-based services (LBS). With this application, users can get convenient services in daily travel. However, during the process of ORHN, the user has to confront the violation of personal privacy (such as the initial point, the destination, and the moving path) from the taxi driver or the ride-hailing sharer. Therefore,...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "9999684",
-    "articleTitle": "Adjustable Dielectric Resonator Antenna with Parasitic Elements for 5G SAGOI-IoT Applications",
-    "authors": [
-      "Chenxing Li",
-      "Yiping Duan",
-      "Bing Du",
-      "Xiaoming Tao"
-    ],
-    "abstract": "With the development of modern communication and the Internet of Things (IoT) in the need to provide seamless interconnection between heterogeneous devices, we design an adjustable-distance resonant antenna suitable for 5G communication. The antenna meets the multi-angle radiation requirements of the antenna for flexible positioning of IoT devices, and conforms to the concept of green Internet bas...",
     "date": "2023-04-27T04:15:53.706Z"
   }
 ]

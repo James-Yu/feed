@@ -1,5 +1,29 @@
 [
   {
+    "articleNumber": "10171448",
+    "articleTitle": "Geometric Deep Neural Network Using Rigid and Non-rigid Transformations for Landmark-based Human Behavior Analysis",
+    "authors": [
+      "Rasha Friji",
+      "Faten Chaieb",
+      "Hassen Drira",
+      "Sebastian Kurtek"
+    ],
+    "abstract": "Deep learning architectures, albeit successful in most computer vision tasks, were designed for data with an underlying Euclidean structure, which is not usually fulfilled since pre-processed data may lie on a non-linear space. In this paper, we propose a geometric deep learning approach using rigid and non-rigid transformations, named KShapenet, for 2D and 3D landmark-based human motion analysis....",
+    "date": "2023-07-04T01:15:26.232Z"
+  },
+  {
+    "articleNumber": "10172026",
+    "articleTitle": "Towards More Reliable Confidence Estimation",
+    "authors": [
+      "Haoxuan Qu",
+      "Lin Geng Foo",
+      "Yanchao Li",
+      "Jun Liu"
+    ],
+    "abstract": "As a task that aims to assess the trustworthiness of the model&#39;s prediction output during deployment, confidence estimation has received much research attention recently, due to its importance for the safe deployment of deep models. Previous works have outlined two important characteristics that a reliable confidence estimation model should possess, i.e., the ability to perform well under label im...",
+    "date": "2023-07-04T01:15:26.232Z"
+  },
+  {
     "articleNumber": "10169084",
     "articleTitle": "Bipartite Ranking Fairness through a Model Agnostic Ordering Adjustment",
     "authors": [

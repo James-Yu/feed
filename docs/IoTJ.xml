@@ -2,11 +2,181 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/IoTJ.rss</id>
     <title>IEEE Internet of Things Journal</title>
-    <updated>2023-07-03T16:16:24.869Z</updated>
+    <updated>2023-07-04T01:15:31.532Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/IoTJ.rss"/>
     <subtitle>IEEE Internet of Things Journal</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Joint Power Control and Time Allocation for UAV-Assisted IoV Networks Over Licensed and Unlicensed Spectrum]]></title>
+        <id>https://ieeexplore.ieee.org/document/10171185</id>
+        <link href="https://ieeexplore.ieee.org/document/10171185"/>
+        <updated>2023-07-04T01:15:31.524Z</updated>
+        <summary type="html"><![CDATA[Unmanned Aerial Vehicles (UAVs) have attracted massive attentions in Internet of Vehicles (IoV) networks to support the communications among roadside units (RSUs) and IoV users. In UAV-assisted IoV systems, UAVs and RSUs generally work within the same frequency band to improve the system spectral utilization efficiency, limited by the lack of spectrum resources, which, however, can cause mutual in...]]></summary>
+        <author>
+            <name>Yuhan Su</name>
+        </author>
+        <author>
+            <name>Lianfen Huang</name>
+        </author>
+        <author>
+            <name>Minghui Liwang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Damping-Assisted Evolutionary Swarm Intelligence for Industrial IoT Task Scheduling in Cloud Computing]]></title>
+        <id>https://ieeexplore.ieee.org/document/10171225</id>
+        <link href="https://ieeexplore.ieee.org/document/10171225"/>
+        <updated>2023-07-04T01:15:31.524Z</updated>
+        <summary type="html"><![CDATA[In recent years, ongoing advancements in the Industrial Internet of Things (IIoT) have yielded massive volumes of data, taxing the capabilities of cloud computing infrastructure. Allocating limited computing resources to numerous incoming requests is one of the difficulties of cloud computing, which is typically referred to as a Task-Scheduling-in-Cloud-Computing (TSCC) problem. In order to amelio...]]></summary>
+        <author>
+            <name>Ahmed G. Gad</name>
+        </author>
+        <author>
+            <name>Essam H. Houssein</name>
+        </author>
+        <author>
+            <name>MengChu Zhou</name>
+        </author>
+        <author>
+            <name>Ponnuthurai Nagaratnam Suganthan</name>
+        </author>
+        <author>
+            <name>Yaser M. Wazery</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Behavioral-Semantic Privacy Protection for Continual Social Mobility in Mobile-Internet Services]]></title>
+        <id>https://ieeexplore.ieee.org/document/10172148</id>
+        <link href="https://ieeexplore.ieee.org/document/10172148"/>
+        <updated>2023-07-04T01:15:31.524Z</updated>
+        <summary type="html"><![CDATA[Crowdsensing-based mobile Internet, while facilitating users’ daily life, also raises privacy concerns because of sharing user location trajectories. Combining with open-source network information, these trajectories reveal the semantics of users’ social behaviors in their travels, thus indicating their behavioral traces. Based on such social mobilities, attackers can explore users’ potential beha...]]></summary>
+        <author>
+            <name>Guoying Qiu</name>
+        </author>
+        <author>
+            <name>Guoming Tang</name>
+        </author>
+        <author>
+            <name>Chuandong Li</name>
+        </author>
+        <author>
+            <name>Deke Guo</name>
+        </author>
+        <author>
+            <name>Yulong Shen</name>
+        </author>
+        <author>
+            <name>Yan Gan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ensuring Long-Term Trustworthy Collaboration in IoT Networks using Contract Theory and Reputation Mechanism on Blockchain]]></title>
+        <id>https://ieeexplore.ieee.org/document/10172012</id>
+        <link href="https://ieeexplore.ieee.org/document/10172012"/>
+        <updated>2023-07-04T01:15:31.524Z</updated>
+        <summary type="html"><![CDATA[Internet of Things (IoT) devices operate in an untrusted environment, and blockchain technology can provide a secure distributed collaboration method. However, the widespread distribution of heterogeneous devices in the IoT creates complex information asymmetry issues, leading to inefficient resource allocation. This is especially true when information asymmetry occurs in long-term cooperative rel...]]></summary>
+        <author>
+            <name>Zitao Zhou</name>
+        </author>
+        <author>
+            <name>Fang Ye</name>
+        </author>
+        <author>
+            <name>Jingpeng Gao</name>
+        </author>
+        <author>
+            <name>Sitong Zhang</name>
+        </author>
+        <author>
+            <name>Xiaoyu Geng</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wideband Quasi-Spherical Lens Antenna Module With Two-Dimensional Switched Beams for 5G Millimeter-Wave IoT Applications]]></title>
+        <id>https://ieeexplore.ieee.org/document/10171213</id>
+        <link href="https://ieeexplore.ieee.org/document/10171213"/>
+        <updated>2023-07-04T01:15:31.524Z</updated>
+        <summary type="html"><![CDATA[Millimeter-wave (mmWave) communication technologies offer abundant spectrum resources and higher data rates that present new opportunities to facilitate fifth-generation (5G) Internet of Things (IoT) systems. As IoT devices are randomly distributed in the environment, mmWave antennas with multiple switched directional beams are a better choice to reduce data collisions. In this context, a wideband...]]></summary>
+        <author>
+            <name>Xujun Yang</name>
+        </author>
+        <author>
+            <name>Yuan Ji</name>
+        </author>
+        <author>
+            <name>Jun Hu</name>
+        </author>
+        <author>
+            <name>Lei Ge</name>
+        </author>
+        <author>
+            <name>Yujian Li</name>
+        </author>
+        <author>
+            <name>Kwai Man Luk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Interference-Aware and Coverage Analysis Scheme for 5G NB-IoT D2D Relaying Strategy for Cell Edge QoS Improvement]]></title>
+        <id>https://ieeexplore.ieee.org/document/10171224</id>
+        <link href="https://ieeexplore.ieee.org/document/10171224"/>
+        <updated>2023-07-04T01:15:31.524Z</updated>
+        <summary type="html"><![CDATA[In an interference-limited 5G Narrowband internet of things (NB-IoT) heterogeneous networks (HetNets), device-to-device (D2D) relaying technology can provide coverage expansion and increase network throughput for cell-edge NB-IoT users (NUE). However, as D2D relaying improves the network’s spectral efficiency, it makes interference management and resource allocation more difficult. To improve cell...]]></summary>
+        <author>
+            <name>Safiu A. Gbadamosi</name>
+        </author>
+        <author>
+            <name>Gerhard P. Hancke</name>
+        </author>
+        <author>
+            <name>Adnan M. Abu-Mahfouz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Markov Chain Model for Identifying Changes in Daily Activity Patterns of People Living with Dementia]]></title>
+        <id>https://ieeexplore.ieee.org/document/10171194</id>
+        <link href="https://ieeexplore.ieee.org/document/10171194"/>
+        <updated>2023-07-04T01:15:31.524Z</updated>
+        <summary type="html"><![CDATA[Malnutrition and dehydration are strongly associated with increased cognitive and functional decline in people living with dementia (PLWD), as well as an increased rate of hospitalisations in comparison to their healthy counterparts. Extreme changes in eating and drinking behaviours can often lead to malnutrition and dehydration, accelerating the progression of cognitive and functional decline and...]]></summary>
+        <author>
+            <name>Nan Fletcher-Lloyd</name>
+        </author>
+        <author>
+            <name>Alina-Irina Serban</name>
+        </author>
+        <author>
+            <name>Magdalena Kolanko</name>
+        </author>
+        <author>
+            <name>David Wingfield</name>
+        </author>
+        <author>
+            <name>Danielle Wilson</name>
+        </author>
+        <author>
+            <name>Ramin Nilforooshan</name>
+        </author>
+        <author>
+            <name>Payam Barnaghi</name>
+        </author>
+        <author>
+            <name>Eyal Soreq</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BMSim: An Event-Driven Simulator for Performance Evaluation of Bluetooth Mesh Networks]]></title>
+        <id>https://ieeexplore.ieee.org/document/10171234</id>
+        <link href="https://ieeexplore.ieee.org/document/10171234"/>
+        <updated>2023-07-04T01:15:31.524Z</updated>
+        <summary type="html"><![CDATA[Bluetooth Mesh (BM) is one of the promising networking technologies for Internet-of-Things (IoT) networks released by Bluetooth SIG in 2017. BM provides a protocol for multi-hop scalable networking of IoT devices over the widely-used Bluetooth Low Energy (BLE) technology. However, the capabilities and limits of this technology are not fully studied to determine the IoT applications for which this ...]]></summary>
+        <author>
+            <name>Zohreh Hosseinkhani</name>
+        </author>
+        <author>
+            <name>Majid Nabi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Low-Complexity Joint Activity Detection and Channel Estimation with Partially Orthogonal Pilot for Asynchronous Massive Access]]></title>
         <id>https://ieeexplore.ieee.org/document/10168894</id>
@@ -21445,167 +21615,6 @@
         </author>
         <author>
             <name>Qinyu Zhang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reinforcement Learning-based Adaptive Neighbor Discovery Algorithm for Directional Transmission enabled Internet of Underwater Things]]></title>
-        <id>https://ieeexplore.ieee.org/document/9999555</id>
-        <link href="https://ieeexplore.ieee.org/document/9999555"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[In the Internet of Underwater Things (IoUT), nodes are usually deployed randomly. Effective discovery of randomly deployed neighbor nodes is the basis for network topology self-configuration, data routing and transmission, etc. Especially in the IoUT with directional transmission, how to efficiently discover neighbors is a major challenge to be solved at present. Hence, in this study, the neighbor...]]></summary>
-        <author>
-            <name>Jinfang Jiang</name>
-        </author>
-        <author>
-            <name>Shuaihui Wang</name>
-        </author>
-        <author>
-            <name>Guangjie Han</name>
-        </author>
-        <author>
-            <name>Hao Wang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deep Reinforcement Learning-Driven Secrecy Design for Intelligent Reflecting Surface-Based 6G-IoT Networks]]></title>
-        <id>https://ieeexplore.ieee.org/document/9999559</id>
-        <link href="https://ieeexplore.ieee.org/document/9999559"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[The sixth-generation (6G) wireless communication has called for higher bandwidth and massive connectivity of Internet-of-Things (IoT) devices. The increased connectivity also demands advanced levels of network security, which are critical to maintaining due to severe signal attenuation at higher frequencies. Intelligent reflecting surface (IRS) is an increasingly popular, efficient, solution to ca...]]></summary>
-        <author>
-            <name>Rabbia Saleem</name>
-        </author>
-        <author>
-            <name>Wei Ni</name>
-        </author>
-        <author>
-            <name>Muhammad Ikram</name>
-        </author>
-        <author>
-            <name>Abbas Jamalipour</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DSCNN-CAU: Deep Learning-Based Mental Activity Classification for IoT Implementation Towards Portable BCI]]></title>
-        <id>https://ieeexplore.ieee.org/document/9999538</id>
-        <link href="https://ieeexplore.ieee.org/document/9999538"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[Mental activity classification (MAC) based on electroencephalogram (EEG) is used in the brain-computer interface (BCI) and neurofeedback applications. For this purpose, machine learning and deep learning techniques are utilized in the previous studies. However, in real-time, there is a need to deploy these techniques on IoT-enabled mobile devices for portability. Towards this aspect, we propose de...]]></summary>
-        <author>
-            <name>Manali Saini</name>
-        </author>
-        <author>
-            <name>Udit Satija</name>
-        </author>
-        <author>
-            <name>Madhur Deo Upadhayay</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Distributed and Efficient Slot Assignment-Alignment Protocol for Resource-constrained Wireless IoT Devices]]></title>
-        <id>https://ieeexplore.ieee.org/document/9999609</id>
-        <link href="https://ieeexplore.ieee.org/document/9999609"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[In distributed wireless Internet of Things (IoT) networks, time-slotted Medium Access Control protocols incorporating transmission scheduling mechanisms are needed for supporting contention-free real-time data flows. To achieve this, nodes need to be synchronized and know about each other’s notion of time. However, distributed time synchronization protocols rely on frequent message exchanges which...]]></summary>
-        <author>
-            <name>Mohammad Ali Sarvghadi</name>
-        </author>
-        <author>
-            <name>Tat-Chee Wan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HearASL: Your Smartphone Can Hear American Sign Language]]></title>
-        <id>https://ieeexplore.ieee.org/document/9999544</id>
-        <link href="https://ieeexplore.ieee.org/document/9999544"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[Sign language is expressed by movements of the hands and facial expressions, which is mainly used by the deaf community. Although some gesture recognition methods are put forward, they possess different defects and are not applicable to deal with the sign language recognition problem. In this paper, we propose an end-to-end American sign language recognition system with built-in speakers and micro...]]></summary>
-        <author>
-            <name>Yusen Wang</name>
-        </author>
-        <author>
-            <name>Fan Li</name>
-        </author>
-        <author>
-            <name>Yadong Xie</name>
-        </author>
-        <author>
-            <name>Chunhui Duan</name>
-        </author>
-        <author>
-            <name>Yu Wang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Robust Linear Hybrid Beamforming Designs Relying on Imperfect CSI in mmWave MIMO IoT Networks]]></title>
-        <id>https://ieeexplore.ieee.org/document/9999550</id>
-        <link href="https://ieeexplore.ieee.org/document/9999550"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[Linear hybrid beamformer designs are conceived for the decentralized estimation of a vector parameter in a millimeter wave (mmWave) multiple-input multiple-output (MIMO) Internet of Things network (IoTNe). The proposed designs incorporate both total IoTNe and individual IoTNo power constraints, while also eliminating the need for a baseband receiver combiner at the fusion center (FC). To circumven...]]></summary>
-        <author>
-            <name>Kunwar Pritiraj Rajput</name>
-        </author>
-        <author>
-            <name>Priyanka Maity</name>
-        </author>
-        <author>
-            <name>Suraj Srivastava</name>
-        </author>
-        <author>
-            <name>Vikas Sharma</name>
-        </author>
-        <author>
-            <name>Naveen K. D. Venkategowda</name>
-        </author>
-        <author>
-            <name>Aditya K. Jagannatham</name>
-        </author>
-        <author>
-            <name>Lajos Hanzo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IRDP Ride system: A Privacy Preservation System for Online Ride-hailing]]></title>
-        <id>https://ieeexplore.ieee.org/document/9999548</id>
-        <link href="https://ieeexplore.ieee.org/document/9999548"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[Online ride-hailing and navigation (ORHN) is a significant application in Location-based services (LBS). With this application, users can get convenient services in daily travel. However, during the process of ORHN, the user has to confront the violation of personal privacy (such as the initial point, the destination, and the moving path) from the taxi driver or the ride-hailing sharer. Therefore,...]]></summary>
-        <author>
-            <name>Lei Zhang</name>
-        </author>
-        <author>
-            <name>Shiyi Lin</name>
-        </author>
-        <author>
-            <name>Chao Wang</name>
-        </author>
-        <author>
-            <name>Jing Li</name>
-        </author>
-        <author>
-            <name>Yi Liu</name>
-        </author>
-        <author>
-            <name>Yue Sun</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adjustable Dielectric Resonator Antenna with Parasitic Elements for 5G SAGOI-IoT Applications]]></title>
-        <id>https://ieeexplore.ieee.org/document/9999684</id>
-        <link href="https://ieeexplore.ieee.org/document/9999684"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[With the development of modern communication and the Internet of Things (IoT) in the need to provide seamless interconnection between heterogeneous devices, we design an adjustable-distance resonant antenna suitable for 5G communication. The antenna meets the multi-angle radiation requirements of the antenna for flexible positioning of IoT devices, and conforms to the concept of green Internet bas...]]></summary>
-        <author>
-            <name>Chenxing Li</name>
-        </author>
-        <author>
-            <name>Yiping Duan</name>
-        </author>
-        <author>
-            <name>Bing Du</name>
-        </author>
-        <author>
-            <name>Xiaoming Tao</name>
         </author>
     </entry>
 </feed>

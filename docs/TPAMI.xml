@@ -2,11 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/TPAMI.rss</id>
     <title>IEEE Transactions on Pattern Analysis and Machine Intelligence</title>
-    <updated>2023-07-03T16:16:19.313Z</updated>
+    <updated>2023-07-04T01:15:26.236Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/TPAMI.rss"/>
     <subtitle>IEEE Transactions on Pattern Analysis and Machine Intelligence</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Geometric Deep Neural Network Using Rigid and Non-rigid Transformations for Landmark-based Human Behavior Analysis]]></title>
+        <id>https://ieeexplore.ieee.org/document/10171448</id>
+        <link href="https://ieeexplore.ieee.org/document/10171448"/>
+        <updated>2023-07-04T01:15:26.232Z</updated>
+        <summary type="html"><![CDATA[Deep learning architectures, albeit successful in most computer vision tasks, were designed for data with an underlying Euclidean structure, which is not usually fulfilled since pre-processed data may lie on a non-linear space. In this paper, we propose a geometric deep learning approach using rigid and non-rigid transformations, named KShapenet, for 2D and 3D landmark-based human motion analysis....]]></summary>
+        <author>
+            <name>Rasha Friji</name>
+        </author>
+        <author>
+            <name>Faten Chaieb</name>
+        </author>
+        <author>
+            <name>Hassen Drira</name>
+        </author>
+        <author>
+            <name>Sebastian Kurtek</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Towards More Reliable Confidence Estimation]]></title>
+        <id>https://ieeexplore.ieee.org/document/10172026</id>
+        <link href="https://ieeexplore.ieee.org/document/10172026"/>
+        <updated>2023-07-04T01:15:26.232Z</updated>
+        <summary type="html"><![CDATA[As a task that aims to assess the trustworthiness of the model&#39;s prediction output during deployment, confidence estimation has received much research attention recently, due to its importance for the safe deployment of deep models. Previous works have outlined two important characteristics that a reliable confidence estimation model should possess, i.e., the ability to perform well under label im...]]></summary>
+        <author>
+            <name>Haoxuan Qu</name>
+        </author>
+        <author>
+            <name>Lin Geng Foo</name>
+        </author>
+        <author>
+            <name>Yanchao Li</name>
+        </author>
+        <author>
+            <name>Jun Liu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bipartite Ranking Fairness through a Model Agnostic Ordering Adjustment]]></title>
         <id>https://ieeexplore.ieee.org/document/10169084</id>
