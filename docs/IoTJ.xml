@@ -2,11 +2,162 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/IoTJ.rss</id>
     <title>IEEE Internet of Things Journal</title>
-    <updated>2023-07-04T16:17:17.255Z</updated>
+    <updated>2023-07-05T01:17:06.463Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/IoTJ.rss"/>
     <subtitle>IEEE Internet of Things Journal</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Using Gate Tunnelling in Bulk CMOS to Create a PUF]]></title>
+        <id>https://ieeexplore.ieee.org/document/10173106</id>
+        <link href="https://ieeexplore.ieee.org/document/10173106"/>
+        <updated>2023-07-05T01:17:06.450Z</updated>
+        <summary type="html"><![CDATA[Physically Unclonable Functions (PUFs) in silicon have received significant attention since their initial proposal, with a wide variety of different designs available. This is largely due to their ability to provide device-specific outputs which can be used in diverse applications such as authentication, attestation, and cryptographic key generation. Existing designs for silicon PUFs are based on ...]]></summary>
+        <author>
+            <name>Patrick Camilleri</name>
+        </author>
+        <author>
+            <name>Shahram Mossayebi</name>
+        </author>
+        <author>
+            <name>Kenneth G. Paterson</name>
+        </author>
+        <author>
+            <name>Charles Grover</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On Virtualizing Targets Coverage in Energy Harvesting IoT Systems]]></title>
+        <id>https://ieeexplore.ieee.org/document/10172240</id>
+        <link href="https://ieeexplore.ieee.org/document/10172240"/>
+        <updated>2023-07-05T01:17:06.450Z</updated>
+        <summary type="html"><![CDATA[This paper considers targets coverage in energy harvesting Internet of Things (IoT) networks. Specifically, solar-powered sensor devices employ network virtualization technology to partition their resources, such as energy, memory, and computation workload, in order to serve requests with different coverage requirements. Our objective is to maximize the revenue from completing requests. To this en...]]></summary>
+        <author>
+            <name>Longji Zhang</name>
+        </author>
+        <author>
+            <name>Kwan-Wu Chin</name>
+        </author>
+        <author>
+            <name>Montserrat Ros</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stochastic Geometry-based Physical Layer Security Performance Analysis of a Hybrid NOMA-PDM based IoT System]]></title>
+        <id>https://ieeexplore.ieee.org/document/10172332</id>
+        <link href="https://ieeexplore.ieee.org/document/10172332"/>
+        <updated>2023-07-05T01:17:06.450Z</updated>
+        <summary type="html"><![CDATA[With the development of low-cost computer chips and wireless networks, any object or thing can become a component of the Internet of Things (IoT). As a result, these disparate things will gain digital intelligence, enabling them to connect with real-time data and be used for a wide range of valuable and practical IoT applications. However, due to the broadcast nature of wireless communication and ...]]></summary>
+        <author>
+            <name>Hela Chamkhia</name>
+        </author>
+        <author>
+            <name>Aiman Erbad</name>
+        </author>
+        <author>
+            <name>Amr Mohamed</name>
+        </author>
+        <author>
+            <name>Ahmed Refaey Hussein</name>
+        </author>
+        <author>
+            <name>Abdullah Al-Ali</name>
+        </author>
+        <author>
+            <name>Mohsen Guizani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Airborne Computing: A Toolkit for UAV-Assisted Federated Computing for Sustainable Smart Cities]]></title>
+        <id>https://ieeexplore.ieee.org/document/10172226</id>
+        <link href="https://ieeexplore.ieee.org/document/10172226"/>
+        <updated>2023-07-05T01:17:06.450Z</updated>
+        <summary type="html"><![CDATA[Smart vehicles are equipped with onboard computing units designed to run in-vehicle applications. However, due to limited computing power, the onboard units are unable to execute compute-intensive tasks and those that require near real-time processing. Therefore tasks are offloaded to nearby fog/ edge devices that have more powerful processors. However, the fog devices are static, placed at fixed ...]]></summary>
+        <author>
+            <name>Kadhim Hayawi</name>
+        </author>
+        <author>
+            <name>Zahid Anwar</name>
+        </author>
+        <author>
+            <name>Asad W. Malik</name>
+        </author>
+        <author>
+            <name>Zouheir Trabelsi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Energy Conservative Data Aggregation for IoT Devices: An Aerial Wake-up Radio Approach]]></title>
+        <id>https://ieeexplore.ieee.org/document/10172273</id>
+        <link href="https://ieeexplore.ieee.org/document/10172273"/>
+        <updated>2023-07-05T01:17:06.450Z</updated>
+        <summary type="html"><![CDATA[The ubiquitous deployment of Internet of Things (IoT) and the ever-evolving IoT services seek fully autonomous devices with no energy limitations. To fulfill this demand, we investigate the usage of unmanned aerial vehicles (UAV) to overcome the limited battery constraint of IoT deployments in hard-to-reach locations. Specifically, we present a UAV-enabled wake-up radio (WuR) and data collection (...]]></summary>
+        <author>
+            <name>Omar Khalifa</name>
+        </author>
+        <author>
+            <name>Nour Kouzayha</name>
+        </author>
+        <author>
+            <name>Mohammed Abdullah Hussaini</name>
+        </author>
+        <author>
+            <name>Hesham ElSawy</name>
+        </author>
+        <author>
+            <name>Noha Al-Harthi</name>
+        </author>
+        <author>
+            <name>Jaafar Elmirghani</name>
+        </author>
+        <author>
+            <name>Mansoor Hanif</name>
+        </author>
+        <author>
+            <name>Tareq Y. Al-Naffouri</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WSN-BFSF: A New Dataset for Attacks Detection in Wireless Sensor Networks]]></title>
+        <id>https://ieeexplore.ieee.org/document/10172239</id>
+        <link href="https://ieeexplore.ieee.org/document/10172239"/>
+        <updated>2023-07-05T01:17:06.450Z</updated>
+        <summary type="html"><![CDATA[The popularity of Wireless Sensor Networks (WSN) increases as the usage areas and the number of integrated systems increase, and this situation attracts the attention of attackers. Attackers carry out attacks aimed at infiltrating, capturing, and manipulating the network. These attacks are implemented differently according to the layers. After these attacks on sensor networks, network traffic data...]]></summary>
+        <author>
+            <name>Murat Dener</name>
+        </author>
+        <author>
+            <name>Celil Okur</name>
+        </author>
+        <author>
+            <name>Samed Al</name>
+        </author>
+        <author>
+            <name>Abdullah Orman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Method for Detecting Phishing Websites Based on Tiny-Bert Stacking]]></title>
+        <id>https://ieeexplore.ieee.org/document/10172235</id>
+        <link href="https://ieeexplore.ieee.org/document/10172235"/>
+        <updated>2023-07-05T01:17:06.450Z</updated>
+        <summary type="html"><![CDATA[The Internet is an indispensable part of our lives. Therefore, it is very important to ensure network security and maintain a safe network environment. Phishing, as a low-cost and imperceptible network attack, is rampant in the world’s information networks. To address this issue, this paper proposes a phishing website detection model based on tiny-Bert stacking. The core concept of the proposed mo...]]></summary>
+        <author>
+            <name>Daojing He</name>
+        </author>
+        <author>
+            <name>Xin Lv</name>
+        </author>
+        <author>
+            <name>Shanshan Zhu</name>
+        </author>
+        <author>
+            <name>Sammy Chan</name>
+        </author>
+        <author>
+            <name>Kim-Kwang Raymond Choo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Joint Power Control and Time Allocation for UAV-Assisted IoV Networks Over Licensed and Unlicensed Spectrum]]></title>
         <id>https://ieeexplore.ieee.org/document/10171185</id>
@@ -21461,160 +21612,6 @@
         </author>
         <author>
             <name>Daoxun Xia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deep Reinforcement Learning for Practical Phase Shift Optimization in RIS-aided MISO URLLC Systems]]></title>
-        <id>https://ieeexplore.ieee.org/document/10002901</id>
-        <link href="https://ieeexplore.ieee.org/document/10002901"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[We study the joint active/passive beamforming and channel blocklength (CBL) allocation in a non-ideal reconfigurable intelligent surface (RIS)-aided ultra-reliable and low-latency communication (URLLC) system. The considered scenario is a finite blocklength (FBL) regime and the problem is solved by leveraging a deep reinforcement learning (DRL) algorithm named twin-delayed deep deterministic polic...]]></summary>
-        <author>
-            <name>Ramin Hashemi</name>
-        </author>
-        <author>
-            <name>Samad Ali</name>
-        </author>
-        <author>
-            <name>Nurul Huda Mahmood</name>
-        </author>
-        <author>
-            <name>Matti Latva-aho</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adaptive wireless power transfer via resonant laser beam over large dynamic range]]></title>
-        <id>https://ieeexplore.ieee.org/document/10002936</id>
-        <link href="https://ieeexplore.ieee.org/document/10002936"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[Wireless power transfer (WPT) via resonant laser beam from a spatially-distributed laser resonator not only benefits the instinct safety, but also has important potential of adaptive operation without positioning and aiming when retroreflectors are used to enable the alignment-free operation of the laser. Despite the intense theoretical modeling and experimental efforts with different laser scheme...]]></summary>
-        <author>
-            <name>Quan Sheng</name>
-        </author>
-        <author>
-            <name>Jingni Geng</name>
-        </author>
-        <author>
-            <name>Zheng Chang</name>
-        </author>
-        <author>
-            <name>Aihua Wang</name>
-        </author>
-        <author>
-            <name>Meng Wang</name>
-        </author>
-        <author>
-            <name>Shijie Fu</name>
-        </author>
-        <author>
-            <name>Wei Shi</name>
-        </author>
-        <author>
-            <name>Jianquan Yao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VariFi: Variational Inference for Indoor Pedestrian Localization and Tracking Using IMU and WiFi RSS]]></title>
-        <id>https://ieeexplore.ieee.org/document/10000400</id>
-        <link href="https://ieeexplore.ieee.org/document/10000400"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[Accurate indoor pedestrian localization and tracking are crucial in many practical applications. One efficient yet low-cost sensing scheme is the integration of IMU and WiFi RSS due to the popularity of smart devices and WiFi networks. Many approaches have been proposed to enhance the localization performance. However, they heavily rely on prerequisites including prior knowledge (e.g. map informat...]]></summary>
-        <author>
-            <name>He Huang</name>
-        </author>
-        <author>
-            <name>Jianfei Yang</name>
-        </author>
-        <author>
-            <name>Xu Fang</name>
-        </author>
-        <author>
-            <name>Hao Jiang</name>
-        </author>
-        <author>
-            <name>Lihua Xie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MPDM: A Multi-Paradigm Deployment Model for Large-scale Edge-Cloud Intelligence]]></title>
-        <id>https://ieeexplore.ieee.org/document/10000402</id>
-        <link href="https://ieeexplore.ieee.org/document/10000402"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[The development of cloud and edge computing has enabled the easy access of artificial intelligence (AI) services for massive heterogeneous and resource-constrained devices. Particularly, computation-intensive AI services can be orchestrated and deployed in the cloud or edge according to varying performance and cost requirements. Nonetheless, the improved accessibility of deep learning (DL) model v...]]></summary>
-        <author>
-            <name>Luhui Wang</name>
-        </author>
-        <author>
-            <name>Xuebin Ren</name>
-        </author>
-        <author>
-            <name>Cong Zhao</name>
-        </author>
-        <author>
-            <name>Fangyuan Zhao</name>
-        </author>
-        <author>
-            <name>Shusen Yang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neighbor-Aware Distributed Task Offloading Algorithm in Energy Harvesting Internet of Things]]></title>
-        <id>https://ieeexplore.ieee.org/document/10000410</id>
-        <link href="https://ieeexplore.ieee.org/document/10000410"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[In the distributed task offloading system, the desired task completion time cannot be achieved when lots of mobile devices offload simultaneously the tasks with high complexity to a specific edge cloud. In this research, we present a neighbor-aware distributed task offloading algorithm (NA-DTOA) where the IoT device takes its energy status and the decisions of neighbor devices into account for the...]]></summary>
-        <author>
-            <name>Jaewook Lee</name>
-        </author>
-        <author>
-            <name>Haneul Ko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Computation Offloading and Resource Allocation in C-RAN Supporting Wireless Charging]]></title>
-        <id>https://ieeexplore.ieee.org/document/10000266</id>
-        <link href="https://ieeexplore.ieee.org/document/10000266"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[In this paper, we consider a Cloud-Radio Access Network (C-RAN) with multiple enhanced remote radio heads (RRHs), which support for wireless charging, computation offloading and information transmission. The employment of enhanced RRHs requires a redesign for efficient resource allocation. Our goal is to minimize the weighted sum of energy transfer time and computation time by jointly optimizing e...]]></summary>
-        <author>
-            <name>Ruijing Li</name>
-        </author>
-        <author>
-            <name>Lan Tang</name>
-        </author>
-        <author>
-            <name>Yechao Bai</name>
-        </author>
-        <author>
-            <name>Mengting Lou</name>
-        </author>
-        <author>
-            <name>Xinggan Zhang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[G-SC-IRSA: Graph-based Spatially Coupled IRSA for Age-Critical Grant-Free Massive Access]]></title>
-        <id>https://ieeexplore.ieee.org/document/10000265</id>
-        <link href="https://ieeexplore.ieee.org/document/10000265"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[In this paper, we focus on a grant-free massive access setup and analyze its age of information (AoI), where a large number of user equipments (UEs) are randomly activated and attempt transmitting status update packets to a base station (BS) over a common shared channel. To support this age-critical grant-free massive access, we propose a graph-based spatially coupled irregular repetition slotted ...]]></summary>
-        <author>
-            <name>Yuhao Huang</name>
-        </author>
-        <author>
-            <name>Jian Jiao</name>
-        </author>
-        <author>
-            <name>Ye Wang</name>
-        </author>
-        <author>
-            <name>Shaohua Wu</name>
-        </author>
-        <author>
-            <name>Rongxing Lu</name>
-        </author>
-        <author>
-            <name>Qinyu Zhang</name>
         </author>
     </entry>
 </feed>

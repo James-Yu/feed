@@ -2,11 +2,127 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/TPAMI.rss</id>
     <title>IEEE Transactions on Pattern Analysis and Machine Intelligence</title>
-    <updated>2023-07-04T16:17:11.688Z</updated>
+    <updated>2023-07-05T01:16:40.617Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/TPAMI.rss"/>
     <subtitle>IEEE Transactions on Pattern Analysis and Machine Intelligence</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Still an Ineffective Method With supertrials/ERPs—Comments on “decoding Brain Representations by Multimodal Learning of Neural Activity and Visual Features”]]></title>
+        <id>https://ieeexplore.ieee.org/document/10172315</id>
+        <link href="https://ieeexplore.ieee.org/document/10172315"/>
+        <updated>2023-07-05T01:16:40.612Z</updated>
+        <summary type="html"><![CDATA[A recent paper claims that a newly proposed method classifies EEG data recorded from subjects viewing ImageNet stimuli better than two prior methods. However, the analysis used to support that claim is based on confounded data. We repeat the analysis on a large new dataset that is free from that confound. Training and testing on aggregated supertrials derived by summing trials demonstrates that th...]]></summary>
+        <author>
+            <name>Hari M Bharadwaj</name>
+        </author>
+        <author>
+            <name>Ronnie B Wilbur</name>
+        </author>
+        <author>
+            <name>Jeffrey Mark Siskind</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Contrastive Video Question Answering via Video Graph Transformer]]></title>
+        <id>https://ieeexplore.ieee.org/document/10172254</id>
+        <link href="https://ieeexplore.ieee.org/document/10172254"/>
+        <updated>2023-07-05T01:16:40.612Z</updated>
+        <summary type="html"><![CDATA[We propose to perform video question answering (VideoQA) in a Contrastive manner via a Video Graph Transformer model (CoVGT). CoVGT&#39;s uniqueness and superiority are three-fold: 1) It proposes a dynamic graph transformer module which encodes video by explicitly capturing the visual objects, their relations and dynamics, for complex spatio-temporal reasoning. 2) It designs separate video and text tr...]]></summary>
+        <author>
+            <name>Junbin Xiao</name>
+        </author>
+        <author>
+            <name>Pan Zhou</name>
+        </author>
+        <author>
+            <name>Angela Yao</name>
+        </author>
+        <author>
+            <name>Yicong Li</name>
+        </author>
+        <author>
+            <name>Richang Hong</name>
+        </author>
+        <author>
+            <name>Shuicheng Yan</name>
+        </author>
+        <author>
+            <name>Tat-Seng Chua</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transfer Learning in Deep Reinforcement Learning: A Survey]]></title>
+        <id>https://ieeexplore.ieee.org/document/10172347</id>
+        <link href="https://ieeexplore.ieee.org/document/10172347"/>
+        <updated>2023-07-05T01:16:40.612Z</updated>
+        <summary type="html"><![CDATA[Reinforcement learning is a learning paradigm for solving sequential decision-making problems. Recent years have witnessed remarkable progress in reinforcement learning upon the fast development of deep neural networks. Along with the promising prospects of reinforcement learning in numerous domains such as robotics and game-playing, transfer learning has arisen to tackle various challenges faced ...]]></summary>
+        <author>
+            <name>Zhuangdi Zhu</name>
+        </author>
+        <author>
+            <name>Kaixiang Lin</name>
+        </author>
+        <author>
+            <name>Anil K. Jain</name>
+        </author>
+        <author>
+            <name>Jiayu Zhou</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Domain Adaptive Object Detection via Balancing between Self-Training and Adversarial Learning]]></title>
+        <id>https://ieeexplore.ieee.org/document/10173487</id>
+        <link href="https://ieeexplore.ieee.org/document/10173487"/>
+        <updated>2023-07-05T01:16:40.612Z</updated>
+        <summary type="html"><![CDATA[Deep learning based object detectors struggle generalizing to a new target domain bearing significant variations in object and background. Most current methods align domains by using image or instance-level adversarial feature alignment. This often suffers due to unwanted background and lacks class-specific alignment. A straightforward approach to promote class-level alignment is to use high confi...]]></summary>
+        <author>
+            <name>Muhammad Akhtar Munir</name>
+        </author>
+        <author>
+            <name>Muhammad Haris Khan</name>
+        </author>
+        <author>
+            <name>M. Saquib Sarfraz</name>
+        </author>
+        <author>
+            <name>Mohsen Ali</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sparse R-CNN: An End-to-End Framework for Object Detection]]></title>
+        <id>https://ieeexplore.ieee.org/document/10172265</id>
+        <link href="https://ieeexplore.ieee.org/document/10172265"/>
+        <updated>2023-07-05T01:16:40.612Z</updated>
+        <summary type="html"><![CDATA[Object detection serves as one of most fundamental computer vision tasks. Existing works on object detection heavily rely on dense object candidates, such as $k$ anchor boxes pre-defined on all grids of an image feature map of size $H\times W$. In this paper, we present Sparse R-CNN, a very simple and sparse method for object detection in images. In our method, a fixed sparse set of learned object...]]></summary>
+        <author>
+            <name>Peize Sun</name>
+        </author>
+        <author>
+            <name>Rufeng Zhang</name>
+        </author>
+        <author>
+            <name>Yi Jiang</name>
+        </author>
+        <author>
+            <name>Tao Kong</name>
+        </author>
+        <author>
+            <name>Chenfeng Xu</name>
+        </author>
+        <author>
+            <name>Wei Zhan</name>
+        </author>
+        <author>
+            <name>Masayoshi Tomizuka</name>
+        </author>
+        <author>
+            <name>Zehuan Yuan</name>
+        </author>
+        <author>
+            <name>Ping Luo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Geometric Deep Neural Network Using Rigid and Non-rigid Transformations for Landmark-based Human Behavior Analysis]]></title>
         <id>https://ieeexplore.ieee.org/document/10171448</id>

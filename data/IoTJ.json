@@ -1,5 +1,95 @@
 [
   {
+    "articleNumber": "10173106",
+    "articleTitle": "Using Gate Tunnelling in Bulk CMOS to Create a PUF",
+    "authors": [
+      "Patrick Camilleri",
+      "Shahram Mossayebi",
+      "Kenneth G. Paterson",
+      "Charles Grover"
+    ],
+    "abstract": "Physically Unclonable Functions (PUFs) in silicon have received significant attention since their initial proposal, with a wide variety of different designs available. This is largely due to their ability to provide device-specific outputs which can be used in diverse applications such as authentication, attestation, and cryptographic key generation. Existing designs for silicon PUFs are based on ...",
+    "date": "2023-07-05T01:17:06.450Z"
+  },
+  {
+    "articleNumber": "10172240",
+    "articleTitle": "On Virtualizing Targets Coverage in Energy Harvesting IoT Systems",
+    "authors": [
+      "Longji Zhang",
+      "Kwan-Wu Chin",
+      "Montserrat Ros"
+    ],
+    "abstract": "This paper considers targets coverage in energy harvesting Internet of Things (IoT) networks. Specifically, solar-powered sensor devices employ network virtualization technology to partition their resources, such as energy, memory, and computation workload, in order to serve requests with different coverage requirements. Our objective is to maximize the revenue from completing requests. To this en...",
+    "date": "2023-07-05T01:17:06.450Z"
+  },
+  {
+    "articleNumber": "10172332",
+    "articleTitle": "Stochastic Geometry-based Physical Layer Security Performance Analysis of a Hybrid NOMA-PDM based IoT System",
+    "authors": [
+      "Hela Chamkhia",
+      "Aiman Erbad",
+      "Amr Mohamed",
+      "Ahmed Refaey Hussein",
+      "Abdullah Al-Ali",
+      "Mohsen Guizani"
+    ],
+    "abstract": "With the development of low-cost computer chips and wireless networks, any object or thing can become a component of the Internet of Things (IoT). As a result, these disparate things will gain digital intelligence, enabling them to connect with real-time data and be used for a wide range of valuable and practical IoT applications. However, due to the broadcast nature of wireless communication and ...",
+    "date": "2023-07-05T01:17:06.450Z"
+  },
+  {
+    "articleNumber": "10172226",
+    "articleTitle": "Airborne Computing: A Toolkit for UAV-Assisted Federated Computing for Sustainable Smart Cities",
+    "authors": [
+      "Kadhim Hayawi",
+      "Zahid Anwar",
+      "Asad W. Malik",
+      "Zouheir Trabelsi"
+    ],
+    "abstract": "Smart vehicles are equipped with onboard computing units designed to run in-vehicle applications. However, due to limited computing power, the onboard units are unable to execute compute-intensive tasks and those that require near real-time processing. Therefore tasks are offloaded to nearby fog/ edge devices that have more powerful processors. However, the fog devices are static, placed at fixed ...",
+    "date": "2023-07-05T01:17:06.450Z"
+  },
+  {
+    "articleNumber": "10172273",
+    "articleTitle": "Energy Conservative Data Aggregation for IoT Devices: An Aerial Wake-up Radio Approach",
+    "authors": [
+      "Omar Khalifa",
+      "Nour Kouzayha",
+      "Mohammed Abdullah Hussaini",
+      "Hesham ElSawy",
+      "Noha Al-Harthi",
+      "Jaafar Elmirghani",
+      "Mansoor Hanif",
+      "Tareq Y. Al-Naffouri"
+    ],
+    "abstract": "The ubiquitous deployment of Internet of Things (IoT) and the ever-evolving IoT services seek fully autonomous devices with no energy limitations. To fulfill this demand, we investigate the usage of unmanned aerial vehicles (UAV) to overcome the limited battery constraint of IoT deployments in hard-to-reach locations. Specifically, we present a UAV-enabled wake-up radio (WuR) and data collection (...",
+    "date": "2023-07-05T01:17:06.450Z"
+  },
+  {
+    "articleNumber": "10172239",
+    "articleTitle": "WSN-BFSF: A New Dataset for Attacks Detection in Wireless Sensor Networks",
+    "authors": [
+      "Murat Dener",
+      "Celil Okur",
+      "Samed Al",
+      "Abdullah Orman"
+    ],
+    "abstract": "The popularity of Wireless Sensor Networks (WSN) increases as the usage areas and the number of integrated systems increase, and this situation attracts the attention of attackers. Attackers carry out attacks aimed at infiltrating, capturing, and manipulating the network. These attacks are implemented differently according to the layers. After these attacks on sensor networks, network traffic data...",
+    "date": "2023-07-05T01:17:06.450Z"
+  },
+  {
+    "articleNumber": "10172235",
+    "articleTitle": "A Method for Detecting Phishing Websites Based on Tiny-Bert Stacking",
+    "authors": [
+      "Daojing He",
+      "Xin Lv",
+      "Shanshan Zhu",
+      "Sammy Chan",
+      "Kim-Kwang Raymond Choo"
+    ],
+    "abstract": "The Internet is an indispensable part of our lives. Therefore, it is very important to ensure network security and maintain a safe network environment. Phishing, as a low-cost and imperceptible network attack, is rampant in the world’s information networks. To address this issue, this paper proposes a phishing website detection model based on tiny-Bert stacking. The core concept of the proposed mo...",
+    "date": "2023-07-05T01:17:06.450Z"
+  },
+  {
     "articleNumber": "10171185",
     "articleTitle": "Joint Power Control and Time Allocation for UAV-Assisted IoV Networks Over Licensed and Unlicensed Spectrum",
     "authors": [
@@ -12776,97 +12866,6 @@
       "Daoxun Xia"
     ],
     "abstract": "Visible-thermal person re-identification (VT-ReID) is an emerging cross-modality matching problem, which aims to identify the same person across the daytime visible modality and nighttime thermal modality in the Internet of Things. Existing cutting-edge approaches consistently attempts to exploit image generation technique to generate cross-modality images or design various feature-level constrain...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "10002901",
-    "articleTitle": "Deep Reinforcement Learning for Practical Phase Shift Optimization in RIS-aided MISO URLLC Systems",
-    "authors": [
-      "Ramin Hashemi",
-      "Samad Ali",
-      "Nurul Huda Mahmood",
-      "Matti Latva-aho"
-    ],
-    "abstract": "We study the joint active/passive beamforming and channel blocklength (CBL) allocation in a non-ideal reconfigurable intelligent surface (RIS)-aided ultra-reliable and low-latency communication (URLLC) system. The considered scenario is a finite blocklength (FBL) regime and the problem is solved by leveraging a deep reinforcement learning (DRL) algorithm named twin-delayed deep deterministic polic...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "10002936",
-    "articleTitle": "Adaptive wireless power transfer via resonant laser beam over large dynamic range",
-    "authors": [
-      "Quan Sheng",
-      "Jingni Geng",
-      "Zheng Chang",
-      "Aihua Wang",
-      "Meng Wang",
-      "Shijie Fu",
-      "Wei Shi",
-      "Jianquan Yao"
-    ],
-    "abstract": "Wireless power transfer (WPT) via resonant laser beam from a spatially-distributed laser resonator not only benefits the instinct safety, but also has important potential of adaptive operation without positioning and aiming when retroreflectors are used to enable the alignment-free operation of the laser. Despite the intense theoretical modeling and experimental efforts with different laser scheme...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "10000400",
-    "articleTitle": "VariFi: Variational Inference for Indoor Pedestrian Localization and Tracking Using IMU and WiFi RSS",
-    "authors": [
-      "He Huang",
-      "Jianfei Yang",
-      "Xu Fang",
-      "Hao Jiang",
-      "Lihua Xie"
-    ],
-    "abstract": "Accurate indoor pedestrian localization and tracking are crucial in many practical applications. One efficient yet low-cost sensing scheme is the integration of IMU and WiFi RSS due to the popularity of smart devices and WiFi networks. Many approaches have been proposed to enhance the localization performance. However, they heavily rely on prerequisites including prior knowledge (e.g. map informat...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "10000402",
-    "articleTitle": "MPDM: A Multi-Paradigm Deployment Model for Large-scale Edge-Cloud Intelligence",
-    "authors": [
-      "Luhui Wang",
-      "Xuebin Ren",
-      "Cong Zhao",
-      "Fangyuan Zhao",
-      "Shusen Yang"
-    ],
-    "abstract": "The development of cloud and edge computing has enabled the easy access of artificial intelligence (AI) services for massive heterogeneous and resource-constrained devices. Particularly, computation-intensive AI services can be orchestrated and deployed in the cloud or edge according to varying performance and cost requirements. Nonetheless, the improved accessibility of deep learning (DL) model v...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "10000410",
-    "articleTitle": "Neighbor-Aware Distributed Task Offloading Algorithm in Energy Harvesting Internet of Things",
-    "authors": [
-      "Jaewook Lee",
-      "Haneul Ko"
-    ],
-    "abstract": "In the distributed task offloading system, the desired task completion time cannot be achieved when lots of mobile devices offload simultaneously the tasks with high complexity to a specific edge cloud. In this research, we present a neighbor-aware distributed task offloading algorithm (NA-DTOA) where the IoT device takes its energy status and the decisions of neighbor devices into account for the...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "10000266",
-    "articleTitle": "Computation Offloading and Resource Allocation in C-RAN Supporting Wireless Charging",
-    "authors": [
-      "Ruijing Li",
-      "Lan Tang",
-      "Yechao Bai",
-      "Mengting Lou",
-      "Xinggan Zhang"
-    ],
-    "abstract": "In this paper, we consider a Cloud-Radio Access Network (C-RAN) with multiple enhanced remote radio heads (RRHs), which support for wireless charging, computation offloading and information transmission. The employment of enhanced RRHs requires a redesign for efficient resource allocation. Our goal is to minimize the weighted sum of energy transfer time and computation time by jointly optimizing e...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "10000265",
-    "articleTitle": "G-SC-IRSA: Graph-based Spatially Coupled IRSA for Age-Critical Grant-Free Massive Access",
-    "authors": [
-      "Yuhao Huang",
-      "Jian Jiao",
-      "Ye Wang",
-      "Shaohua Wu",
-      "Rongxing Lu",
-      "Qinyu Zhang"
-    ],
-    "abstract": "In this paper, we focus on a grant-free massive access setup and analyze its age of information (AoI), where a large number of user equipments (UEs) are randomly activated and attempt transmitting status update packets to a base station (BS) over a common shared channel. To support this age-critical grant-free massive access, we propose a graph-based spatially coupled irregular repetition slotted ...",
     "date": "2023-04-27T04:15:53.706Z"
   }
 ]

@@ -1,5 +1,72 @@
 [
   {
+    "articleNumber": "10172315",
+    "articleTitle": "Still an Ineffective Method With supertrials/ERPs—Comments on “decoding Brain Representations by Multimodal Learning of Neural Activity and Visual Features”",
+    "authors": [
+      "Hari M Bharadwaj",
+      "Ronnie B Wilbur",
+      "Jeffrey Mark Siskind"
+    ],
+    "abstract": "A recent paper claims that a newly proposed method classifies EEG data recorded from subjects viewing ImageNet stimuli better than two prior methods. However, the analysis used to support that claim is based on confounded data. We repeat the analysis on a large new dataset that is free from that confound. Training and testing on aggregated supertrials derived by summing trials demonstrates that th...",
+    "date": "2023-07-05T01:16:40.612Z"
+  },
+  {
+    "articleNumber": "10172254",
+    "articleTitle": "Contrastive Video Question Answering via Video Graph Transformer",
+    "authors": [
+      "Junbin Xiao",
+      "Pan Zhou",
+      "Angela Yao",
+      "Yicong Li",
+      "Richang Hong",
+      "Shuicheng Yan",
+      "Tat-Seng Chua"
+    ],
+    "abstract": "We propose to perform video question answering (VideoQA) in a Contrastive manner via a Video Graph Transformer model (CoVGT). CoVGT&#39;s uniqueness and superiority are three-fold: 1) It proposes a dynamic graph transformer module which encodes video by explicitly capturing the visual objects, their relations and dynamics, for complex spatio-temporal reasoning. 2) It designs separate video and text tr...",
+    "date": "2023-07-05T01:16:40.612Z"
+  },
+  {
+    "articleNumber": "10172347",
+    "articleTitle": "Transfer Learning in Deep Reinforcement Learning: A Survey",
+    "authors": [
+      "Zhuangdi Zhu",
+      "Kaixiang Lin",
+      "Anil K. Jain",
+      "Jiayu Zhou"
+    ],
+    "abstract": "Reinforcement learning is a learning paradigm for solving sequential decision-making problems. Recent years have witnessed remarkable progress in reinforcement learning upon the fast development of deep neural networks. Along with the promising prospects of reinforcement learning in numerous domains such as robotics and game-playing, transfer learning has arisen to tackle various challenges faced ...",
+    "date": "2023-07-05T01:16:40.612Z"
+  },
+  {
+    "articleNumber": "10173487",
+    "articleTitle": "Domain Adaptive Object Detection via Balancing between Self-Training and Adversarial Learning",
+    "authors": [
+      "Muhammad Akhtar Munir",
+      "Muhammad Haris Khan",
+      "M. Saquib Sarfraz",
+      "Mohsen Ali"
+    ],
+    "abstract": "Deep learning based object detectors struggle generalizing to a new target domain bearing significant variations in object and background. Most current methods align domains by using image or instance-level adversarial feature alignment. This often suffers due to unwanted background and lacks class-specific alignment. A straightforward approach to promote class-level alignment is to use high confi...",
+    "date": "2023-07-05T01:16:40.612Z"
+  },
+  {
+    "articleNumber": "10172265",
+    "articleTitle": "Sparse R-CNN: An End-to-End Framework for Object Detection",
+    "authors": [
+      "Peize Sun",
+      "Rufeng Zhang",
+      "Yi Jiang",
+      "Tao Kong",
+      "Chenfeng Xu",
+      "Wei Zhan",
+      "Masayoshi Tomizuka",
+      "Zehuan Yuan",
+      "Ping Luo"
+    ],
+    "abstract": "Object detection serves as one of most fundamental computer vision tasks. Existing works on object detection heavily rely on dense object candidates, such as $k$ anchor boxes pre-defined on all grids of an image feature map of size $H\\times W$. In this paper, we present Sparse R-CNN, a very simple and sparse method for object detection in images. In our method, a fixed sparse set of learned object...",
+    "date": "2023-07-05T01:16:40.612Z"
+  },
+  {
     "articleNumber": "10171448",
     "articleTitle": "Geometric Deep Neural Network Using Rigid and Non-rigid Transformations for Landmark-based Human Behavior Analysis",
     "authors": [
