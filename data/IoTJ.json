@@ -1,5 +1,182 @@
 [
   {
+    "articleNumber": "10173662",
+    "articleTitle": "TRCC: Transferable Congestion Control with Reinforcement Learning",
+    "authors": [
+      "Zhicong Zheng",
+      "Zhenchang Xia",
+      "Yu-Cheng Chou",
+      "Yanjiao Chen"
+    ],
+    "abstract": "The breathtaking progress in machine learning has motivated studies in learning-based congestion control algorithms, which are expected to adjust congestion window choices according to the dynamic network environment. Nevertheless, existing learning-based congestion control protocols are mostly designed and trained for a specific network environment. When applied to a different network environment...",
+    "date": "2023-07-06T01:16:54.611Z"
+  },
+  {
+    "articleNumber": "10173673",
+    "articleTitle": "Multipath Signal Mitigation for Indoor Localization Based on MIMO FMCW Radar System",
+    "authors": [
+      "Jeong-Ki Park",
+      "Jae-Hyun Park",
+      "Kyung-Tae Kim"
+    ],
+    "abstract": "Indoor human localization (IHL) is an important application of the internet of things. Multipath effects are the most challenging problem for successful IHL when using radar, and thus, they should be mitigated properly. Therefore, effective solutions for indoor multipath mitigation are devised in this paper based on a co-located multiple-input multiple-output (MIMO) frequency-modulated continuous-...",
+    "date": "2023-07-06T01:16:54.611Z"
+  },
+  {
+    "articleNumber": "10173685",
+    "articleTitle": "Lightweight Privacy-Preserving Feature Extraction for EEG Signals under Edge Computing",
+    "authors": [
+      "Nazhao Yan",
+      "Hang Cheng",
+      "Ximeng Liu",
+      "Fei Chen",
+      "Meiqing Wang"
+    ],
+    "abstract": "The health-related Internet of Things (IoT) play an irreplaceable role in the collection, analysis, and transmission of medical data. As a device of the health-related IoT, the electroencephalogram (EEG) has long been a powerful tool for physiological and clinical brain research, which contains a wealth of personal information. Due to its rich computational/storage resources, cloud computing is a ...",
+    "date": "2023-07-06T01:16:54.611Z"
+  },
+  {
+    "articleNumber": "10173652",
+    "articleTitle": "Federation-based Deep Reinforcement Learning Cooperative Cache in Vehicular Edge Networks",
+    "authors": [
+      "Honghai Wu",
+      "Jichong Jin",
+      "Huahong Ma",
+      "Ling Xing"
+    ],
+    "abstract": "With the emergence of a large number of computing resource-intensive applications and a variety of content delivery services, data in Internet of Vehicles (IoV) is exploding. In order to improve the service performance of IoV, Vehicle Edge Computing (VEC) accelerates the response process of content requests and reduces the backhaul burden of the base station by caching content at the nodes of the ...",
+    "date": "2023-07-06T01:16:54.611Z"
+  },
+  {
+    "articleNumber": "10173720",
+    "articleTitle": "Joint Resource Allocation and 3D Deployment for Multi-UAV Covert Communications",
+    "authors": [
+      "Haobin Mao",
+      "Yanming Liu",
+      "Zhenyu Xiao",
+      "Zhu Han",
+      "Xiang-Gen Xia"
+    ],
+    "abstract": "Unmanned aerial vehicles (UAVs) assisted wireless communication will play an important role in the next-generation mobile communication network. However, the inherent open nature of the signal propagation environment may cause illegal eavesdropping and surveillance from adversaries. In addition, the intergroup co-channel interference among different cells further degrades the system performance. H...",
+    "date": "2023-07-06T01:16:54.611Z"
+  },
+  {
+    "articleNumber": "10173679",
+    "articleTitle": "Toward Network Slicing Enabled Edge Computing: A Cloud-Native Approach for Slice Mobility",
+    "authors": [
+      "Syed Danial Ali Shah",
+      "Mark A Gregory",
+      "Shuo Li"
+    ],
+    "abstract": "Network slicing is a key enabler for 5G and beyond networks that permits operators to provide scalable, flexible, and dedicated networks over a common physical infrastructure. To cope with the rising demand for Ultra-Reliable and Low-Latency Communication (URLLC) in beyond 5G networks, the provision of dedicated secure networks closer to the users is essential. Multi-access Edge Computing (MEC) is...",
+    "date": "2023-07-06T01:16:54.611Z"
+  },
+  {
+    "articleNumber": "10173668",
+    "articleTitle": "An Optimal Transport-based Federated Reinforcement Learning Approach for Resource Allocation in Cloud-Edge Collaborative IoT",
+    "authors": [
+      "Deqiao Gan",
+      "Xiaohu Ge",
+      "Qiang Li"
+    ],
+    "abstract": "In the traditional cloud-edge collaborative Internet of Things (IoT), the high communication cost and slow convergence of the models often result in high delay and energy consumption. In this paper, a model and data dual-driven resource optimization mechanism is proposed for cloud-edge collaborative IoT applications. The model and data dual-driven mechanism is a joint delay and energy consumption ...",
+    "date": "2023-07-06T01:16:54.611Z"
+  },
+  {
+    "articleNumber": "10173655",
+    "articleTitle": "Multi-Dimensional Fingerprints-based Multi-Attacker Detection for 6G Systems",
+    "authors": [
+      "Rui Meng",
+      "Xiaodong Xu",
+      "Gangyi Li",
+      "Bingxuan Xu",
+      "Fangzhou Zhu",
+      "Bizhu Wang",
+      "Ping Zhang"
+    ],
+    "abstract": "The future 6G systems are expected to achieve intelligent connection and interaction between various heterogeneous terminals, increasing the fragility for spoofing attacks. Due to the high security and energy efficiency, Physical Layer Authentication (PLA) has been regarded as a powerful method to verify the identity of devices. Nevertheless, due to the inaccurate identifying fingerprints caused b...",
+    "date": "2023-07-06T01:16:54.611Z"
+  },
+  {
+    "articleNumber": "10173518",
+    "articleTitle": "Physical-layer Jammer Detection in Multi-hop IoT Networks",
+    "authors": [
+      "Mostafa Abdollahi",
+      "Kousar Malekinasab",
+      "Wanqing Tu",
+      "Mozafar Bag-Mohammadi"
+    ],
+    "abstract": "The presence of a jammer in an IoT network severely degrades all communication efforts between adjacent wireless devices. The situation is getting worse due to retransmission attempts made by affected devices. Therefore, jammers must be detected or localized quickly to activate a series of corrective countermeasures so as to ensure the robust operation of the IoT network. This paper proposes a nov...",
+    "date": "2023-07-06T01:16:54.611Z"
+  },
+  {
+    "articleNumber": "10173681",
+    "articleTitle": "Edge TMS: Optimized Real-Time Temperature Monitoring Systems deployed on Edge AI Devices",
+    "authors": [
+      "Henar Mike O. Canilang",
+      "Angela C. Caliwag",
+      "James Rigor C. Camacho",
+      "Wansu Lim",
+      "Martin Maier"
+    ],
+    "abstract": "Temperature monitoring system (TMS) aims to reduce the infection spread and outbreak of COVID-19 through early detection. Conventional and currently deployed TMS have high implementation cost and require a substantial amount of space. Also, the performance often depends on the accuracy of the thermal camera. To address this, we propose Edge TMS wherein a multi-task cascaded convolutional neural ne...",
+    "date": "2023-07-06T01:16:54.611Z"
+  },
+  {
+    "articleNumber": "10173664",
+    "articleTitle": "Large-scale Cooperative Task Offloading and Resource Allocation in Heterogeneous MEC Systems via Multi-Agent Reinforcement Learning",
+    "authors": [
+      "Zhen Gao",
+      "Lei Yang",
+      "Yu Dai"
+    ],
+    "abstract": "In multi-access edge computing systems, existing task offloading methods have provided ultra-short latency services for heterogeneous tasks on mobile devices (MDs). Nevertheless, the complexity of MEC systems grows exponentially with the number of MDs or edge servers (ES), so learning a good offloading policy is a huge challenge when the number of MDs or ESs is large. Moreover, MDs are often unabl...",
+    "date": "2023-07-06T01:16:54.611Z"
+  },
+  {
+    "articleNumber": "10173670",
+    "articleTitle": "Transferability of Machine Learning Algorithm for IoT Device Profiling and Identification",
+    "authors": [
+      "Priscilla Kyei Danso",
+      "Sajjad Dadkhah",
+      "Euclides Carlos Pinto Neto",
+      "Alireza Zohourian",
+      "Heather Molyneaux",
+      "Rongxing Lu",
+      "Ali A. Ghorbani"
+    ],
+    "abstract": "The lack of appropriate cyber security measures deployed on IoT makes these devices prone to security issues. Consequently, the timely identification and detection of these compromised devices become crucial. Machine learning (ML) models which are used to monitor devices in a network have made tremendous strides. However, most of the research in profiling and identification uses the same data for ...",
+    "date": "2023-07-06T01:16:54.611Z"
+  },
+  {
+    "articleNumber": "10173674",
+    "articleTitle": "Accelerating Wireless Federated Learning with Adaptive Scheduling over Heterogeneous Devices",
+    "authors": [
+      "Yixuan Li",
+      "Xiaoqi Qin",
+      "Kaifeng Han",
+      "Nan Ma",
+      "Xiaodong Xu",
+      "Ping Zhang"
+    ],
+    "abstract": "As the proliferation of sophisticated task models in 5G empowered digital twin, it yields significant demands on fast and accurate model training over resource-limited wireless networks. It is vital to investigate how to accelerate the training process based on the salient features of practical systems, including heterogeneous data distributions and system resources both across devices and over ti...",
+    "date": "2023-07-06T01:16:54.611Z"
+  },
+  {
+    "articleNumber": "10173682",
+    "articleTitle": "WiVi-GR: Wireless-Visual Joint Representation Based Accurate Gesture Recognition",
+    "authors": [
+      "Xiaokai Liu",
+      "Shi Tang",
+      "Boyi Zhang",
+      "Jingmiao Wu",
+      "Xiaorui Ma",
+      "Jie Wang"
+    ],
+    "abstract": "Human gesture recognition provides great potentials in Human Computer Interaction (HCI), and the wireless or visual signals based technologies have been explored in their respective fields. The intrinsic characteristics of both modalities are complementary to each other, e.g. the wireless signal is robust to illumination changes and occluded conditions but suffers from low space resolution, while ...",
+    "date": "2023-07-06T01:16:54.611Z"
+  },
+  {
     "articleNumber": "10173106",
     "articleTitle": "Using Gate Tunnelling in Bulk CMOS to Create a PUF",
     "authors": [
@@ -12681,191 +12858,6 @@
       "Hu Jin"
     ],
     "abstract": "To improve the throughput per channel in multichannel non-orthogonal multiple access (NOMA) random access (RA) system, users (re)transmit their packet to one of channels using transmit power control such that the receive power of the packets at the base station (BS) can be one of the predefined levels called target receive power (TRP). The BS decodes the received packets in the descending order of...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "10004636",
-    "articleTitle": "Differentially private crowdsourcing with the public and private blockchain",
-    "authors": [
-      "Minghao Wang",
-      "Tianqing Zhu",
-      "Xuhan Zuo",
-      "Mengmeng Yang",
-      "Shui Yu",
-      "Wanlei Zhou"
-    ],
-    "abstract": "As a result of the rapid development of IoT systems, an increasing number of academics are focusing on finding new applications for IoT systems. For Internet of Things (IoT) systems, crowdsourcing is a prevalent practise. Due to the large number of deployed devices in IoT networks, more research is still required on the privacy and trust issues that arise when utilising crowdsourcing. As a result ...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "10004693",
-    "articleTitle": "Heterogeneous Ultra-Dense Networks with Traffic Hotspots: A Unified Handover Analysis",
-    "authors": [
-      "He Zhou",
-      "Haibo Zhou",
-      "Jianguo Li",
-      "Kai Yang",
-      "Jianping An",
-      "Xuemin Shen"
-    ],
-    "abstract": "With the ever-growing communication demands and the unceasing miniaturization of mobile devices, the Internet of Things is expanding the amount of mobile terminals to an enormous level. To deal with such numbers of communication data, plenty of base stations (BSs) need to be deployed. However, denser deployments of heterogeneous networks (HetNets) lead to more frequent handovers, which could incre...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "10004947",
-    "articleTitle": "Dependency Tasks Offloading and Communication Resource Allocation in Collaborative UAVs Networks: A Meta-Heuristic Approach",
-    "authors": [
-      "Loc X. Nguyen",
-      "Yan Kyaw Tun",
-      "Tri Nguyen Dang",
-      "Yu Min Park",
-      "Zhu Han",
-      "Choong Seon Hong"
-    ],
-    "abstract": "Nowadays, unmanned aerial vehicles (UAVs) assisted mobile edge computing (MEC) systems have been exploited as a promising solution for providing computation services to mobile users outside of terrestrial networks. However, it remains challenging for standalone UAVs to meet the computation requirement of numerous users due to their limited computation capacity and battery lives. Therefore, we prop...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "10005041",
-    "articleTitle": "A Micro-Acoustic Enhanced Low-Impedance Antenna System for IoT Wake-Up Receivers",
-    "authors": [
-      "Giuseppe Michetti",
-      "Luca Colombo",
-      "Gabriel Giribaldi",
-      "Ankit Mittal",
-      "Hussain Elkotby",
-      "Ravikumar Pragada",
-      "Aatmesh Shrivastava",
-      "Matteo Rinaldi"
-    ],
-    "abstract": "In this work, we propose a passive radio frequency (RF) front-end tailored for wake-up receivers (WuRx) to be deployed in cellular IoT devices and wearables networks, featuring a low radiation resistance antenna and a high-Q matching network implemented with microacoustic resonators integrated to obtain a systematic higher node’s sensitivity at no cost in terms of power consumption. We show how th...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "10004699",
-    "articleTitle": "Recurrent Neural Network-based Anti-jamming Framework for Defense Against Multiple Jamming Policies",
-    "authors": [
-      "Ali Pourranjbar",
-      "Georges Kaddoum",
-      "Walid Saad"
-    ],
-    "abstract": "Conventional anti-jamming methods mainly focus on preventing single jammer attacks with an invariant jamming policy or jamming attacks from multiple jammers with similar jamming policies. These anti-jamming methods are ineffective against a single jammer following several different jamming policies or multiple jammers with distinct policies. Therefore, this paper proposes an anti-jamming method th...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "10004955",
-    "articleTitle": "Joint Device Selection and Bandwidth Allocation for Cost-Efficient Federated Learning in Industrial Internet of Things",
-    "authors": [
-      "Xiuzhao Ji",
-      "Jie Tian",
-      "Haixia Zhang",
-      "Dalei Wu",
-      "Tiantian Li"
-    ],
-    "abstract": "Along with the deployment of Industrial Internet of Things (IIoT), massive amounts of industrial data have been generated at the network edge, driving the evolution of edge machine learning (ML). But during the ML model training, it may bring privacy leakage by traditional central methods. To address this issue, federated learning (FL) has been proposed as a distributed learning framework for trai...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "10004213",
-    "articleTitle": "A Secure Certificateless Signcryption Scheme without Pairing for Internet of Medical Things",
-    "authors": [
-      "Xin Chen",
-      "Debiao He",
-      "Muhammad Khurram Khan",
-      "Min Luo",
-      "Cong Peng"
-    ],
-    "abstract": "The Internet of Medical Things (IoMT), which integrates medical sensors with Internet of things, is helpful for providing remote diagnosis and real-time decision making. Massive data collected by medical and healthcare monitoring sensors in the IoMT involves sensitive patient information. It brings some security challenges to validate the legitimacy of participating entities and protect patient da...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "10004046",
-    "articleTitle": "PPVerifier: A Privacy-Preserving and Verifiable Federated Learning Method in Cloud-Edge Collaborative Computing Environment",
-    "authors": [
-      "Li Lin",
-      "XiaoYing Zhang"
-    ],
-    "abstract": "Federated Learning is a distributed machine learning framework, which mainly adopts cloud-edge collaborative computing mode and supports multiple participants to train models without directly sharing local data. However, participants’ sensitive information may still be leaked through their gradients. Besides, incorrect aggregated results returned by the aggregation server may reduce the effect of ...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "10004210",
-    "articleTitle": "Two-way Reliable Forwarding Strategy of RIS Symbiotic Communications for Vehicular Named Data Networks",
-    "authors": [
-      "Kai Fang",
-      "Boyu Yang",
-      "Han Zhu",
-      "Zhihua Lin",
-      "Zhuoran Wang"
-    ],
-    "abstract": "Abstract: Upon the spreading of intelligent transportation technology, Reconfigurable Intelligent Surface (RIS) can be applied in traditional vehicular networks to assist autonomous driving, so as to deal with blind spots and high energy consumption of long-distance communication in vehicles communication system. However, achieving bidirectional reliable communication for vehicular networks is cha...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "10004208",
-    "articleTitle": "Personalized Location Privacy Trading in Double Auction for Mobile Crowdsensing",
-    "authors": [
-      "Jiandong Wang",
-      "Hao Liu",
-      "Xuewen Dong",
-      "Yulong Shen",
-      "Xinghui Zhu",
-      "Bin Wang",
-      "Feng Li"
-    ],
-    "abstract": "Mobile crowdsensing systems (MCSs) are widely used in data collection due to their flexible deployment and comprehensive coveragein many IoT scenarios (e.g., road condition monitoring). Recently, the difference between workers’ perception on location privacy has drawn researchers’ attention. The only privacy trading mechanism in MCSs has been designed, however, in a single auction and single-minde...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "10004212",
-    "articleTitle": "Energy-and Cost-Efficient Transmission Strategy for UAV Trajectory Tracking Control: A Deep Reinforcement Learning Approach",
-    "authors": [
-      "Minkai Zhang",
-      "Shaohua Wu",
-      "Jian Jiao",
-      "Ning Zhang",
-      "Qinyu Zhang"
-    ],
-    "abstract": "In this paper, we consider a networked control system (NCS) with network-induced delay, in which the control center needs to control the remote unmanned aerial vehicle (UAV) to complete the trajectory tracking task. The sensor of the controlled UAV adopts the event-triggered mechanism, while the control center uses the adaptive dynamic programming (ADP) based tracking control method to generate co...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "10004609",
-    "articleTitle": "Incentive-based Distributed Resource Allocation for Task Offloading and Collaborative Computing in MEC-enabled Networks",
-    "authors": [
-      "Guang Chen",
-      "Yueyun Chen",
-      "Zhiyuan Mai",
-      "Conghui Hao",
-      "Meijie Yang",
-      "Liping Du"
-    ],
-    "abstract": "Computing tasks offloaded from user devices (UDs) can be carried out by one or more mobile edge computing (MEC) servers to alleviate the computing burden of UDs. The incentive is needed to encourage MEC servers to provide their computing services to other network nodes. In this paper, inspired by the fact that bargaining games have the available features of incentive, self-enforcement, and satisfa...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "10004043",
-    "articleTitle": "A Decentralized IoT Architecture of Distributed Energy Resources in Virtual Power Plant",
-    "authors": [
-      "Yifeng Zhang",
-      "Zeqi Chen",
-      "Kaixuan Ma",
-      "Feifan Chen"
-    ],
-    "abstract": "Under the background of the Internet of Energy (IoE), building the Distributed Energy Resources Management System (DERMS) is the premise for further research on virtual power plant (VPP). Now, the design solutions of DERMS are mostly based on Supervisory Control and Data Acquisition (SCADA) architecture and mainstream Industrial Internet of Things (IIoT) architecture. Both have the problems of obv...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "10004196",
-    "articleTitle": "Visible-Thermal Person Reidentification in Visual Internet of Things with Random Gray Data Augmentation and a New Pooling Mechanism",
-    "authors": [
-      "Haojie Liu",
-      "Lili Xu",
-      "Xingyu Tian",
-      "Houfu Peng",
-      "Daoxun Xia"
-    ],
-    "abstract": "Visible-thermal person re-identification (VT-ReID) is an emerging cross-modality matching problem, which aims to identify the same person across the daytime visible modality and nighttime thermal modality in the Internet of Things. Existing cutting-edge approaches consistently attempts to exploit image generation technique to generate cross-modality images or design various feature-level constrain...",
     "date": "2023-04-27T04:15:53.706Z"
   }
 ]

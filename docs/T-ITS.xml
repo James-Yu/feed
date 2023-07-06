@@ -2,11 +2,172 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/T-ITS.rss</id>
     <title>IEEE Transactions on Intelligent Transportation Systems</title>
-    <updated>2023-07-05T16:17:47.153Z</updated>
+    <updated>2023-07-06T01:16:38.176Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/T-ITS.rss"/>
     <subtitle>IEEE Transactions on Intelligent Transportation Systems</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Machine Learning Based Channel Estimation for 5G NR-V2V Communications: Sparse Bayesian Learning and Gaussian Progress Regression]]></title>
+        <id>https://ieeexplore.ieee.org/document/10173706</id>
+        <link href="https://ieeexplore.ieee.org/document/10173706"/>
+        <updated>2023-07-06T01:16:38.170Z</updated>
+        <summary type="html"><![CDATA[In intelligent transportation systems (ITS), 5G NR-V2V communication is adopted to expand the connectivity and coverage of ITS applications, where the data needs to be processed directly in the on-board units (OBUs) deployed in the vehicle to meet the ultra-reliable and low latency communication (URLLC). However, the rapid variation of channel brings great challenges to channel estimation of V2V c...]]></summary>
+        <author>
+            <name>Yong Liao</name>
+        </author>
+        <author>
+            <name>Xue Li</name>
+        </author>
+        <author>
+            <name>Zhirong Cai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Accelerating Stereo Image Simulation for Automotive Applications Using Neural Stereo Super Resolution]]></title>
+        <id>https://ieeexplore.ieee.org/document/10173712</id>
+        <link href="https://ieeexplore.ieee.org/document/10173712"/>
+        <updated>2023-07-06T01:16:38.170Z</updated>
+        <summary type="html"><![CDATA[Camera image simulation is integral to the virtual validation of autonomous vehicles and robots that use visual perception to understand their environment. It also has applications in creating image datasets for training learning-based vision models. As camera image simulation takes into account a wide variety of external and internal parameters, achieving a high-fidelity simulation is a computati...]]></summary>
+        <author>
+            <name>Hamed Haghighi</name>
+        </author>
+        <author>
+            <name>Mehrdad Dianati</name>
+        </author>
+        <author>
+            <name>Valentina Donzella</name>
+        </author>
+        <author>
+            <name>Kurt Debattista</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On Vehicular Ad-Hoc Networks With Full-Duplex Radios: An End-to-End Delay Perspective]]></title>
+        <id>https://ieeexplore.ieee.org/document/10173714</id>
+        <link href="https://ieeexplore.ieee.org/document/10173714"/>
+        <updated>2023-07-06T01:16:38.170Z</updated>
+        <summary type="html"><![CDATA[The aim of this paper is to present a groundwork on the delay-minimized routing problem in a vehicular ad-hoc network (VANET) where some of the vehicles are equipped with full-duplex (FD) radios. We first give the generalized delay calculation model for a multi-hop path, and prove that the Dijkstra algorithm is unable to get the delay-minimized routing path from source to destination. Then we prop...]]></summary>
+        <author>
+            <name>Momiao Zhou</name>
+        </author>
+        <author>
+            <name>Lei Liu</name>
+        </author>
+        <author>
+            <name>Yanshi Sun</name>
+        </author>
+        <author>
+            <name>Kan Wang</name>
+        </author>
+        <author>
+            <name>Mianxiong Dong</name>
+        </author>
+        <author>
+            <name>Mohammed Atiquzzaman</name>
+        </author>
+        <author>
+            <name>Schahram Dustdar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cooperative Incident Management in Mixed Traffic of CAVs and Human-Driven Vehicles]]></title>
+        <id>https://ieeexplore.ieee.org/document/10173710</id>
+        <link href="https://ieeexplore.ieee.org/document/10173710"/>
+        <updated>2023-07-06T01:16:38.170Z</updated>
+        <summary type="html"><![CDATA[Traffic incident management in metropolitan areas is crucial for the recovery of road systems from accidents as well as the mobility and safety of the community. With the continuous improvement in computation and communication technologies, connected and automated vehicles (CAVs) exhibit the potential to relieve incident-induced traffic degradation. To understand the benefits of CAVs on traffic in...]]></summary>
+        <author>
+            <name>Wenwei Yue</name>
+        </author>
+        <author>
+            <name>Changle Li</name>
+        </author>
+        <author>
+            <name>Shangbo Wang</name>
+        </author>
+        <author>
+            <name>Nan Xue</name>
+        </author>
+        <author>
+            <name>Jiaming Wu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adaptive Sliding Mode Fault Tolerant Control for Autonomous Vehicle With Unknown Actuator Parameters and Saturated Tire Force Based on the Center of Percussion]]></title>
+        <id>https://ieeexplore.ieee.org/document/10173711</id>
+        <link href="https://ieeexplore.ieee.org/document/10173711"/>
+        <updated>2023-07-06T01:16:38.170Z</updated>
+        <summary type="html"><![CDATA[With consideration of tire force saturation in vehicle motions, a novel path-following controller is developed for autonomous vehicles with unknown-bound disturbances and unknown actuator parameters. An adaptive sliding-mode fault-tolerant control (ASM-FTC) strategy is designed to stabilize the path-following errors without any information of disturbance boundaries, actuator fault boundaries and s...]]></summary>
+        <author>
+            <name>Zhongchao Liang</name>
+        </author>
+        <author>
+            <name>Mingyu Shen</name>
+        </author>
+        <author>
+            <name>Jing Zhao</name>
+        </author>
+        <author>
+            <name>Zhongguo Li</name>
+        </author>
+        <author>
+            <name>Yongfu Wang</name>
+        </author>
+        <author>
+            <name>Zhengtao Ding</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Acoustic SLAM With Moving Sound Event Based on Auxiliary Microphone Arrays]]></title>
+        <id>https://ieeexplore.ieee.org/document/10173709</id>
+        <link href="https://ieeexplore.ieee.org/document/10173709"/>
+        <updated>2023-07-06T01:16:38.170Z</updated>
+        <summary type="html"><![CDATA[Acoustic simultaneous localization and mapping (ASLAM) aim to map the positions of sound sources while passively localizing the microphone array embedded in the robot platform. In this paper, an ASLAM method with auxiliary microphone arrays based on dual interacting multiple models and unscented Kalman filter (D-IMM-UKF) is proposed for the single moving source scenario. Firstly, a dual-unscented ...]]></summary>
+        <author>
+            <name>De Hu</name>
+        </author>
+        <author>
+            <name>Zhe Chen</name>
+        </author>
+        <author>
+            <name>Fuliang Yin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Data-Driven Modeling of Urban Traffic Travel Times for Short-and Long-Term Forecasting]]></title>
+        <id>https://ieeexplore.ieee.org/document/10173713</id>
+        <link href="https://ieeexplore.ieee.org/document/10173713"/>
+        <updated>2023-07-06T01:16:38.170Z</updated>
+        <summary type="html"><![CDATA[Travel time duration and traffic forecasting in urban environments is of critical importance for efficient supply chain logistics and accurate navigation services. The paper compares data-driven statistical and machine learning approaches for urban traffic travel times forecasting on a 15-minute resolution for the next 24 hours. A detailed analysis of the available historical data is performed, in...]]></summary>
+        <author>
+            <name>Hrvoje Novak</name>
+        </author>
+        <author>
+            <name>Filip Bronić</name>
+        </author>
+        <author>
+            <name>Andelko Kolak</name>
+        </author>
+        <author>
+            <name>Vinko Lešić</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Estimating Probability Distributions of Travel Times by Fitting a Markovian Velocity Model]]></title>
+        <id>https://ieeexplore.ieee.org/document/10173707</id>
+        <link href="https://ieeexplore.ieee.org/document/10173707"/>
+        <updated>2023-07-06T01:16:38.170Z</updated>
+        <summary type="html"><![CDATA[To improve the routing decisions of individual drivers and the management policies designed by traffic operators, one needs reliable estimates of travel time distributions. Since congestion caused by both recurrent patterns (e.g., rush hours) and non-recurrent events (e.g., traffic incidents) leads to potentially substantial delays in highway travel times, we focus on a framework capable of incorp...]]></summary>
+        <author>
+            <name>Nikki Levering</name>
+        </author>
+        <author>
+            <name>Marko Boon</name>
+        </author>
+        <author>
+            <name>Michel Mandjes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Efficiently Identifying Unknown COTS RFID Tags for Intelligent Transportation Systems]]></title>
         <id>https://ieeexplore.ieee.org/document/10171830</id>

@@ -1,5 +1,34 @@
 [
   {
+    "articleNumber": "10173747",
+    "articleTitle": "Collaborative Uncertainty Benefits Multi-Agent Multi-Modal Trajectory Forecasting",
+    "authors": [
+      "Bohan Tang",
+      "Yiqi Zhong",
+      "Chenxin Xu",
+      "Wei-Tao Wu",
+      "Ulrich Neumann",
+      "Ya Zhang",
+      "Siheng Chen",
+      "Yanfeng Wang"
+    ],
+    "abstract": "In multi-modal multi-agent trajectory forecasting, two major challenges have not been fully tackled: 1) how to measure the uncertainty brought by the interaction module that causes correlations among the predicted trajectories of multiple agents; 2) how to rank the multiple predictions and select the optimal predicted trajectory. In order to handle the aforementioned challenges, this work first pr...",
+    "date": "2023-07-06T01:16:49.638Z"
+  },
+  {
+    "articleNumber": "10173552",
+    "articleTitle": "Towards Causality-Aware Inferring: A Sequential Discriminative Approach for Medical Diagnosis",
+    "authors": [
+      "Junfan Lin",
+      "Keze Wang",
+      "Ziliang Chen",
+      "Xiaodan Liang",
+      "Liang Lin"
+    ],
+    "abstract": "Medical diagnosis assistant (MDA) aims to build an interactive diagnostic agent to sequentially inquire about symptoms for discriminating diseases. However, since the dialogue records for building a patient simulator are collected passively, the collected records might be deteriorated by some task-unrelated biases, such as the preference of the collectors. These biases might hinder the diagnostic ...",
+    "date": "2023-07-06T01:16:49.638Z"
+  },
+  {
     "articleNumber": "10172315",
     "articleTitle": "Still an Ineffective Method With supertrials/ERPs—Comments on “decoding Brain Representations by Multimodal Learning of Neural Activity and Visual Features”",
     "authors": [

@@ -1,5 +1,72 @@
 [
   {
+    "articleNumber": "10173506",
+    "articleTitle": "Ensemble Clustering with Attentional Representation",
+    "authors": [
+      "Zhezheng Hao",
+      "Zhoumin Lu",
+      "Guoxu Li",
+      "Feiping Nie",
+      "Rong Wang",
+      "Xuelong Li"
+    ],
+    "abstract": "Ensemble clustering has emerged as a powerful framework for analyzing heterogeneous and complex data. Despite the abundance of existing schemes, co-association matrix-based methods remain the mainstream approach. However, focusing solely on pairwise correlations falls short of fully capturing the intricate cluster relationships. Moreover, despite its potential, ensemble clustering has yet to effec...",
+    "date": "2023-07-06T01:16:43.910Z"
+  },
+  {
+    "articleNumber": "10173540",
+    "articleTitle": "Extracting Top-$k$ Frequent and Diversified Patterns in Knowledge Graphs",
+    "authors": [
+      "Jian Zeng",
+      "Leong Hou U",
+      "Xiao Yan",
+      "Yan Li",
+      "Mingji Han",
+      "Bo Tang"
+    ],
+    "abstract": "A knowledge graph contains many real-world facts that can be used to support various analytical tasks, e.g., exceptional fact discovery and the check of claims. In this work, we attempt to extract top-$k$ frequent and diversified patterns from knowledge graph by well capturing user interest. Specifically, we first formalize the core-based top-$k$ frequent pattern discovery problem, which finds the...",
+    "date": "2023-07-06T01:16:43.910Z"
+  },
+  {
+    "articleNumber": "10173606",
+    "articleTitle": "Probabilistic Modeling of Assimilate-Contrast Effects in Online Rating Systems",
+    "authors": [
+      "Hong Xie",
+      "Mingze Zhong",
+      "Xiaoyu Shi",
+      "Xiaoying Zhang",
+      "Jiang Zhong",
+      "Mingsheng Shang"
+    ],
+    "abstract": "Online rating system serves as an indispensable building block for many web applications. Previous studies showed that due to assimilate-contrast effects, historical ratings could significantly distort users&#39; ratings, leading to low accuracy of product quality estimation and recommendation. To understand assimilate-contrast effects, an “accurate” model is still missing as previous models do not ca...",
+    "date": "2023-07-06T01:16:43.910Z"
+  },
+  {
+    "articleNumber": "10173618",
+    "articleTitle": "Social-Enhanced Explainable Recommendation With Knowledge Graph",
+    "authors": [
+      "Chunyu Liu",
+      "Wei Wu",
+      "Siyu Wu",
+      "Lu Yuan",
+      "Rui Ding",
+      "Fuhui Zhou",
+      "Qihui Wu"
+    ],
+    "abstract": "Recommendation systems are of crucial importance due to their wide applications. Knowledge graph (KG) enabled recommendation schemes have attracted great attention due to their superior performance and interpretability. However, the rich social information is not exploited for those systems, which limits the recommendation performance . In this paper, a novel explainable recommendation scheme is p...",
+    "date": "2023-07-06T01:16:43.910Z"
+  },
+  {
+    "articleNumber": "10173561",
+    "articleTitle": "Enhance Knowledge Graph Embedding by Mixup",
+    "authors": [
+      "Tianyang Xie",
+      "Yong Ge"
+    ],
+    "abstract": "Knowledge graphs have important applications for many computational tasks, such as personalized recommendations, information search, and natural language processing. Knowledge graph embedding, which is to learn representations of nodes and relations, is very critical to facilitate these applications and thus has been studied extensively in the literature. Most existing knowledge graphs (e.g., Free...",
+    "date": "2023-07-06T01:16:43.910Z"
+  },
+  {
     "articleNumber": "10170749",
     "articleTitle": "Integrated Personalized and Diversified Search Based on Search Logs",
     "authors": [

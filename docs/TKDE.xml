@@ -2,11 +2,127 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/TKDE.rss</id>
     <title>IEEE Transactions on Knowledge and Data Engineering</title>
-    <updated>2023-07-05T16:17:53.133Z</updated>
+    <updated>2023-07-06T01:16:43.915Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/TKDE.rss"/>
     <subtitle>IEEE Transactions on Knowledge and Data Engineering</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Ensemble Clustering with Attentional Representation]]></title>
+        <id>https://ieeexplore.ieee.org/document/10173506</id>
+        <link href="https://ieeexplore.ieee.org/document/10173506"/>
+        <updated>2023-07-06T01:16:43.910Z</updated>
+        <summary type="html"><![CDATA[Ensemble clustering has emerged as a powerful framework for analyzing heterogeneous and complex data. Despite the abundance of existing schemes, co-association matrix-based methods remain the mainstream approach. However, focusing solely on pairwise correlations falls short of fully capturing the intricate cluster relationships. Moreover, despite its potential, ensemble clustering has yet to effec...]]></summary>
+        <author>
+            <name>Zhezheng Hao</name>
+        </author>
+        <author>
+            <name>Zhoumin Lu</name>
+        </author>
+        <author>
+            <name>Guoxu Li</name>
+        </author>
+        <author>
+            <name>Feiping Nie</name>
+        </author>
+        <author>
+            <name>Rong Wang</name>
+        </author>
+        <author>
+            <name>Xuelong Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Extracting Top-$k$ Frequent and Diversified Patterns in Knowledge Graphs]]></title>
+        <id>https://ieeexplore.ieee.org/document/10173540</id>
+        <link href="https://ieeexplore.ieee.org/document/10173540"/>
+        <updated>2023-07-06T01:16:43.910Z</updated>
+        <summary type="html"><![CDATA[A knowledge graph contains many real-world facts that can be used to support various analytical tasks, e.g., exceptional fact discovery and the check of claims. In this work, we attempt to extract top-$k$ frequent and diversified patterns from knowledge graph by well capturing user interest. Specifically, we first formalize the core-based top-$k$ frequent pattern discovery problem, which finds the...]]></summary>
+        <author>
+            <name>Jian Zeng</name>
+        </author>
+        <author>
+            <name>Leong Hou U</name>
+        </author>
+        <author>
+            <name>Xiao Yan</name>
+        </author>
+        <author>
+            <name>Yan Li</name>
+        </author>
+        <author>
+            <name>Mingji Han</name>
+        </author>
+        <author>
+            <name>Bo Tang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Probabilistic Modeling of Assimilate-Contrast Effects in Online Rating Systems]]></title>
+        <id>https://ieeexplore.ieee.org/document/10173606</id>
+        <link href="https://ieeexplore.ieee.org/document/10173606"/>
+        <updated>2023-07-06T01:16:43.910Z</updated>
+        <summary type="html"><![CDATA[Online rating system serves as an indispensable building block for many web applications. Previous studies showed that due to assimilate-contrast effects, historical ratings could significantly distort users&#39; ratings, leading to low accuracy of product quality estimation and recommendation. To understand assimilate-contrast effects, an “accurate” model is still missing as previous models do not ca...]]></summary>
+        <author>
+            <name>Hong Xie</name>
+        </author>
+        <author>
+            <name>Mingze Zhong</name>
+        </author>
+        <author>
+            <name>Xiaoyu Shi</name>
+        </author>
+        <author>
+            <name>Xiaoying Zhang</name>
+        </author>
+        <author>
+            <name>Jiang Zhong</name>
+        </author>
+        <author>
+            <name>Mingsheng Shang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Social-Enhanced Explainable Recommendation With Knowledge Graph]]></title>
+        <id>https://ieeexplore.ieee.org/document/10173618</id>
+        <link href="https://ieeexplore.ieee.org/document/10173618"/>
+        <updated>2023-07-06T01:16:43.910Z</updated>
+        <summary type="html"><![CDATA[Recommendation systems are of crucial importance due to their wide applications. Knowledge graph (KG) enabled recommendation schemes have attracted great attention due to their superior performance and interpretability. However, the rich social information is not exploited for those systems, which limits the recommendation performance . In this paper, a novel explainable recommendation scheme is p...]]></summary>
+        <author>
+            <name>Chunyu Liu</name>
+        </author>
+        <author>
+            <name>Wei Wu</name>
+        </author>
+        <author>
+            <name>Siyu Wu</name>
+        </author>
+        <author>
+            <name>Lu Yuan</name>
+        </author>
+        <author>
+            <name>Rui Ding</name>
+        </author>
+        <author>
+            <name>Fuhui Zhou</name>
+        </author>
+        <author>
+            <name>Qihui Wu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enhance Knowledge Graph Embedding by Mixup]]></title>
+        <id>https://ieeexplore.ieee.org/document/10173561</id>
+        <link href="https://ieeexplore.ieee.org/document/10173561"/>
+        <updated>2023-07-06T01:16:43.910Z</updated>
+        <summary type="html"><![CDATA[Knowledge graphs have important applications for many computational tasks, such as personalized recommendations, information search, and natural language processing. Knowledge graph embedding, which is to learn representations of nodes and relations, is very critical to facilitate these applications and thus has been studied extensively in the literature. Most existing knowledge graphs (e.g., Free...]]></summary>
+        <author>
+            <name>Tianyang Xie</name>
+        </author>
+        <author>
+            <name>Yong Ge</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Integrated Personalized and Diversified Search Based on Search Logs]]></title>
         <id>https://ieeexplore.ieee.org/document/10170749</id>
