@@ -1,5 +1,352 @@
 [
   {
+    "articleNumber": "10174646",
+    "articleTitle": "Fuzzy Controlled Wavelet Based Edge Computing Method for Energy Harvesting IoT Sensors",
+    "authors": [
+      "Jaromir Konecny",
+      "Michal Prauzek",
+      "Monika Borova"
+    ],
+    "abstract": "The study presents a novel edge computing (EC) method based on a discrete wavelet transform (DWT) and fuzzy logic controller suitable for application with energy harvesting IoT sensors. The authors propose a new solution to address information latency in an IoT device when compressed data with high information density are transmitted to the cloud with high priority or detailed information is added...",
+    "date": "2023-07-07T01:17:16.197Z"
+  },
+  {
+    "articleNumber": "10175025",
+    "articleTitle": "Reinforcement Learning for Optimizing Delay-Sensitive Task Offloading in Vehicular Edge-Cloud Computing",
+    "authors": [
+      "Ta Huu Binh",
+      "Do Bao Son",
+      "Hiep Vo",
+      "Binh Minh Nguyen",
+      "Huynh Thi Thanh Binh"
+    ],
+    "abstract": "With the appearance of more and more devices connected to the Internet, the world has witnessed an ever-growing number of data to be processed. Among those, many tasks require swift execution time, while the storage and computation capability of Internet of Things (IoT) devices are limited. To address the demands of delay-sensitive tasks, we present a Vehicular Edge-Cloud Computing (VECC) network ...",
+    "date": "2023-07-07T01:17:16.197Z"
+  },
+  {
+    "articleNumber": "10175062",
+    "articleTitle": "Energy Efficient Optimization Algorithm Based on Reconfigurable Intelligent Surface and Rate Splitting Multiple Access for 6G Multicell Communication System",
+    "authors": [
+      "Zhimin Tang",
+      "Xiaorong Zhu",
+      "Hongxiu Zhu",
+      "Honghua Xu"
+    ],
+    "abstract": "Reconfigurable Intelligent Surface (RIS) is a technology that can intelligently control the signal transmission link to enhance the signal transmission quality. Rate Splitting Multiple Access (RSMA) technology can effectively restrain the same channel interference between users and achieve better system performance by flexibly controlling the rate allocation strategy and beamforming strategy. In t...",
+    "date": "2023-07-07T01:17:16.197Z"
+  },
+  {
+    "articleNumber": "10174621",
+    "articleTitle": "A Novel Nature-inspired Algorithm for Optimal Task Scheduling in Fog-Cloud Blockchain System",
+    "authors": [
+      "Binh Minh Nguyen",
+      "Thieu Nguyen",
+      "Quoc-Hien Vu",
+      "Huy Hung Tran",
+      "Hiep Vo",
+      "Do Bao Son",
+      "Huynh Thi Thanh Binh",
+      "Shui Yu",
+      "Zongda Wu"
+    ],
+    "abstract": "In recent years, the utilization of fog cloud-based Internet of Things (IoT) applications has been steadily rising due to the exponential growth of data produced by interconnected smart devices. However, cloud providers who are responsible for these IoT applications face two critical problems: how to protect the system from untrusted users and how to allocate processing units to meet the demands w...",
+    "date": "2023-07-07T01:17:16.197Z"
+  },
+  {
+    "articleNumber": "10175070",
+    "articleTitle": "Stochastic Delay Guarantees for Devices with Dual Connectivity",
+    "authors": [
+      "Monika Prakash",
+      "Atef Abdrabou",
+      "Weihua Zhuang"
+    ],
+    "abstract": "Dual connectivity is a feature that allows dual-wireless interface devices to concurrently utilize radio resources from two different wireless network technologies. The aggregate data rate achievable using dual connectivity is expected to enhance application performance and user experience if the radio resources of contributing wireless networks are efficiently allocated. Moreover, with the curren...",
+    "date": "2023-07-07T01:17:16.197Z"
+  },
+  {
+    "articleNumber": "10175071",
+    "articleTitle": "Spatiotemporal-aware Privacy-preserving Task Matching in Mobile Crowdsensing",
+    "authors": [
+      "Tao Peng",
+      "Wentao Zhong",
+      "Guojun Wang",
+      "Shaobo Zhang",
+      "Entao Luo",
+      "Tian Wang"
+    ],
+    "abstract": "Task matching is widely used for participant selection in mobile crowdsensing (MCS). However, accurate task matching relies on collecting a large amount of user information, which has the risk of privacy leakage. Existing privacy-preserving task matching methods have the disadvantages of low matching efficiency and coarse matching granularity, and are difficult to apply to MCS because of higher re...",
+    "date": "2023-07-07T01:17:16.197Z"
+  },
+  {
+    "articleNumber": "10174742",
+    "articleTitle": "Joint Angle Estimation Error Analysis and 3D Positioning Algorithm Design for mmWave Positioning System",
+    "authors": [
+      "Tuo Wu",
+      "Cunhua Pan",
+      "Yijin Pan",
+      "Sheng Hong",
+      "Hong Ren",
+      "Maged Elkashlan",
+      "Feng Shu",
+      "Jiangzhou Wang"
+    ],
+    "abstract": "This paper presents a comprehensive framework for jointly analyzing the angle estimation error and designing a three-dimensional (3D) positioning algorithm for an Internet of Things (IoT) millimeter wave (mmWave) positioning system. Initially, the azimuth and elevation angles of arrival (AoAs) at the anchors are estimated by applying the two-dimensional discrete Fourier transform (2D-DFT) algorith...",
+    "date": "2023-07-07T01:17:16.197Z"
+  },
+  {
+    "articleNumber": "10174631",
+    "articleTitle": "DTD: An Intelligent Data and Bid Dual Truth Discovery Scheme for MCS in IIoT",
+    "authors": [
+      "Yunchuan Kang",
+      "Anfeng Liu",
+      "Neal N. Xiong",
+      "Shaobo Zhang",
+      "Tian Wang",
+      "Mianxiong Dong"
+    ],
+    "abstract": "Mobile CrowdSensing (MCS) is a crucial component in the Industrial Internet of Things (IIoT), mainly due to its role in collecting data and enhancing applications. Nonetheless, it faces challenges in maintaining data quality and cost efficiency. Low-quality workers and their deceptive data bids undermine the trustworthiness of MCS data collection. Despite this, prior studies have not sufficiently ...",
+    "date": "2023-07-07T01:17:16.197Z"
+  },
+  {
+    "articleNumber": "10174242",
+    "articleTitle": "Miso: Misalignment Allowed Optimization for Multi-antenna Over-the-air Computation",
+    "authors": [
+      "Suhua Tang",
+      "Chao Zhang",
+      "Jie Li",
+      "Sadao Obana"
+    ],
+    "abstract": "Over-the-air computation (AirComp), as an effective method to wireless data aggregation, has attracted much attention recently. It helps to improve network efficiency and scalability by integrating communication and computation in the air. In AirComp, both signal magnitude misalignment and noise lead to computation error. In the single antenna case, by allowing misalignment in signal magnitude, a ...",
+    "date": "2023-07-07T01:17:16.197Z"
+  },
+  {
+    "articleNumber": "10174842",
+    "articleTitle": "Guest Editorial Special Issue on When Blockchain Meets 5G/6G—Enabling Endogenously Secure IoT",
+    "authors": [
+      "Dongxiao Yu",
+      "Jian Ren",
+      "Qing Yang",
+      "Sasu Tarkoma",
+      "Madhuri Siddula",
+      "Falko Dressler"
+    ],
+    "abstract": "The standardization of the fifth-generation (5G) communications has been completed, and the visioning and planning of the sixth-generation (6G) communications have begun, with an objective of casting the high technical standard of new spectrum, high time and phase synchronization accuracy, and 100% geographical coverage to flexibly and efficiently connect upper trillion-level devices in the future...",
+    "date": "2023-07-07T01:17:16.197Z"
+  },
+  {
+    "articleNumber": "9747918",
+    "articleTitle": "BDRA: Blockchain and Decentralized Identifiers Assisted Secure Registration and Authentication for VANETs",
+    "authors": [
+      "Xuehan Li",
+      "Tao Jing",
+      "Ruinian Li",
+      "Hui Li",
+      "Xiaoxuan Wang",
+      "Dequan Shen"
+    ],
+    "abstract": "In vehicular ad hoc networks (VANETs), road safety and road traffic efficiency can be improved through message interaction between vehicle users, which inevitably relies on secure identity authentication, and message credibility verification. Existing authentication and message verification mechanisms are prone to severe single points of failure and low authentication efficiency due to their relia...",
+    "date": "2023-07-07T01:17:16.197Z"
+  },
+  {
+    "articleNumber": "9714261",
+    "articleTitle": "A Certificateless Signcryption Mechanism Based on Blockchain for Edge Computing",
+    "authors": [
+      "Guangxia Xu",
+      "Jingnan Dong",
+      "Chuang Ma",
+      "Jun Liu",
+      "Uchani Gutierrez Omar Cliff"
+    ],
+    "abstract": "The emergence of edge computing makes it possible to realize new technologies, such as virtual reality and augmented reality. However, a large number of devices and more messages at the edge bring more security problems. Therefore, it is an important research topic to provide users with faster network services while ensuring confidentiality and authentication of data transmission. Because signcryp...",
+    "date": "2023-07-07T01:17:16.197Z"
+  },
+  {
+    "articleNumber": "9680715",
+    "articleTitle": "Toward Secure Data Sharing for the IoT Devices With Limited Resources: A Smart Contract-Based Quality-Driven Incentive Mechanism",
+    "authors": [
+      "Chi Zhang",
+      "Tao Shen",
+      "Fenhua Bai"
+    ],
+    "abstract": "With the rapid deployment of Internet of Things (IoT) devices in various industries and fields, the massive amount of data produced by these devices can yield greater value through sharing. A critical challenge in the data-sharing process is ensuring that the data are high quality. However, the quality of data provided by a large number of IoT devices is impacted by the variability of factors cont...",
+    "date": "2023-07-07T01:17:16.197Z"
+  },
+  {
+    "articleNumber": "9669187",
+    "articleTitle": "MSKNP: Multistage Key Negotiation Protocol for IoT-Blockchain Environment",
+    "authors": [
+      "Zipeng Diao",
+      "Qian Wang",
+      "Bei Gong"
+    ],
+    "abstract": "With the development of the Internet, the technical framework that integrates Internet of Things (IoT) and blockchain has gradually developed. However, how to ensure the secure with balanced performance of devices becomes a key issue. In this article, we design a new multistage session key negotiation protocols for the Internet of Things-blockchain environment by using “Agents.” We transfer biline...",
+    "date": "2023-07-07T01:17:16.197Z"
+  },
+  {
+    "articleNumber": "9650617",
+    "articleTitle": "Resource Sharing and Trading of Blockchain Radio Access Networks: Architecture and Prototype Design",
+    "authors": [
+      "Yuwei Le",
+      "Xintong Ling",
+      "Jiaheng Wang",
+      "Ruiwei Guo",
+      "Yongming Huang",
+      "Cheng-Xiang Wang",
+      "Xiaohu You"
+    ],
+    "abstract": "Recently, blockchain radio access network (B-RAN) arises as an innovative paradigm for the sixth-generation (6G) wireless communications to build cooperative trust, aggregate wireless resources, and schedule inter- and intra-network tasks among independent network entities. It establishes an open platform based on blockchain to provide diverse wireless services and applications, such as radio acce...",
+    "date": "2023-07-07T01:17:16.197Z"
+  },
+  {
+    "articleNumber": "9646996",
+    "articleTitle": "DS2PM: A Data-Sharing Privacy Protection Model Based on Blockchain and Federated Learning",
+    "authors": [
+      "Yanru Chen",
+      "Jingpeng Li",
+      "Fan Wang",
+      "Kaifeng Yue",
+      "Yang Li",
+      "Bin Xing",
+      "Lei Zhang",
+      "Liangyin Chen"
+    ],
+    "abstract": "With the development of big data and blockchain, an increasing number of scholars have begun to study blockchain for data sharing. By studying data sharing models that are based on blockchain, we find that almost all of them have the following problems: 1) it is difficult to protect the privacy and integrity of users’ data, along with users’ data ownership; 2) the storage burden of blockchain is h...",
+    "date": "2023-07-07T01:17:16.197Z"
+  },
+  {
+    "articleNumber": "9634104",
+    "articleTitle": "Cross-Chain Trusted Service Quality Computing Scheme for Multichain-Model-Based 5G Network Slicing SLA",
+    "authors": [
+      "Yunhua He",
+      "Cui Zhang",
+      "Bin Wu",
+      "Yigang Yang",
+      "Ke Xiao",
+      "Hong Li"
+    ],
+    "abstract": "As a key technology for the development of 5G networks, network slicing is developing rapidly. Although network slicing can realize the flexible division of 5G network resources and quickly customize virtual networks that meet the differentiated needs of customers, it is still difficult to determine the optimal service quality parameters in application scenarios. To solve the problem, this article...",
+    "date": "2023-07-07T01:17:16.197Z"
+  },
+  {
+    "articleNumber": "9624959",
+    "articleTitle": "Federated Learning Meets Blockchain: State Channel-Based Distributed Data-Sharing Trust Supervision Mechanism",
+    "authors": [
+      "Fan Zhang",
+      "Shaoyong Guo",
+      "Xuesong Qiu",
+      "Siya Xu",
+      "Feng Qi",
+      "Zhili Wang"
+    ],
+    "abstract": "With the rapid development of the 5G and 6G technology, it has become an inevitable trend to share the cross-domain scattered data and enhance data value transmission. As a new data-sharing technology with intelligence and privacy computing, federated learning (FL) receives wide attention. It can realize data value delivery and data privacy protection at the same time, however, it lacks supervisio...",
+    "date": "2023-07-07T01:17:16.197Z"
+  },
+  {
+    "articleNumber": "9615370",
+    "articleTitle": "Blockchain and Federated Edge Learning for Privacy-Preserving Mobile Crowdsensing",
+    "authors": [
+      "Qin Hu",
+      "Zhilin Wang",
+      "Minghui Xu",
+      "Xiuzhen Cheng"
+    ],
+    "abstract": "Mobile crowdsensing (MCS) counting on the mobility of massive workers helps the requestor accomplish various sensing tasks with more flexibility and lower cost. However, for the conventional MCS, the large consumption of communication resources for raw data transmission and high requirements on data storage and computing capability hinder potential requestors with limited resources from using MCS....",
+    "date": "2023-07-07T01:17:16.197Z"
+  },
+  {
+    "articleNumber": "9615371",
+    "articleTitle": "Privacy Protection Data Retrieval Scheme With Inverted Index for IoT Based on Blockchain",
+    "authors": [
+      "Wenmin Li",
+      "Yang Chen",
+      "Fei Gao",
+      "Shuo Zhang",
+      "Hua Zhang",
+      "Qiaoyan Wen"
+    ],
+    "abstract": "In the 6G era, Internet of Things (IoT) devices can form a blockchain network, which also faces the problems of data sharing. The data transmitted and stored through the network have the risk of privacy leaking. Encrypting the shared data can satisfy the need of the privacy, and retrieving the encrypted data can make the data used efficiently. However, to enable users to retrieve encrypted data an...",
+    "date": "2023-07-07T01:17:16.197Z"
+  },
+  {
+    "articleNumber": "9594078",
+    "articleTitle": "Data Trusted Sharing Delivery: A Blockchain-Assisted Software-Defined Content Delivery Network",
+    "authors": [
+      "Sujie Shao",
+      "Weichao Gong",
+      "Huifeng Yang",
+      "Shaoyong Guo",
+      "Liandong Chen",
+      "Ao Xiong"
+    ],
+    "abstract": "The 6G wireless network aims to forge a new spectrum, high technical standards of high time and phase synchronization accuracy, and 100% geographic coverage to connect trillions of devices flexibly and efficiently in the future. However, as connectivity increases and applications become novel, it is a challenge to ensure the privacy and security of networks and applications. Blockchain is seen as ...",
+    "date": "2023-07-07T01:17:16.197Z"
+  },
+  {
+    "articleNumber": "9594084",
+    "articleTitle": "Blockchain-Enabled Trust Management Model for the Internet of Vehicles",
+    "authors": [
+      "Zhigang Yang",
+      "Ruyan Wang",
+      "Dapeng Wu",
+      "Boran Yang",
+      "Puning Zhang"
+    ],
+    "abstract": "The high-speed movement of nodes and the burstiness of interactions in the Internet of Vehicles pose huge challenges to the trusted vehicle collaboration and data sharing. Aiming at the disadvantages of existing authentication mechanisms and trust management models for connected vehicles, this article proposes a trust management model enabled by blockchain to ensure the traceability, nontampering,...",
+    "date": "2023-07-07T01:17:16.197Z"
+  },
+  {
+    "articleNumber": "9593927",
+    "articleTitle": "A Fast Consensus for Permissioned Wireless Blockchains",
+    "authors": [
+      "Yifei Zou",
+      "Minghui Xu",
+      "Jiguo Yu",
+      "Feng Zhao",
+      "Xiuzhen Cheng"
+    ],
+    "abstract": "With the wide deployment of Internet of Things (IoT), blockchain systems have been playing a crucial role to establish a trusted computing environment among potentially mistrusting agents without depending on a centralized server. Different from previous blockchain consensus protocols adopted in IoT, which rely on efficient and stable transmissions, in this article, we consider how to reach blockc...",
+    "date": "2023-07-07T01:17:16.197Z"
+  },
+  {
+    "articleNumber": "9592674",
+    "articleTitle": "BCT: An Efficient and Fault Tolerance Blockchain Consensus Transform Mechanism for IoT",
+    "authors": [
+      "Jintian Fu",
+      "Lupeng Zhang",
+      "Leixin Wang",
+      "Fengqi Li"
+    ],
+    "abstract": "With the vigorous development of 5G communication technology, massive Internet of Things (IoT) devices generate data incrementally. Different data owners control different private domains of the IoT through edge devices and hope to achieve credible data sharing. Most of the existing solutions are based on blockchain to realize cross-domain IoT data sharing. However, incremental IoT data sharing ha...",
+    "date": "2023-07-07T01:17:16.197Z"
+  },
+  {
+    "articleNumber": "9590557",
+    "articleTitle": "Edge Trusted Sharing: Task-Driven Decentralized Resources Collaborate in IoT",
+    "authors": [
+      "Meiling Dai",
+      "Siya Xu",
+      "Zhili Wang",
+      "Huisheng Ma",
+      "Xuesong Qiu"
+    ],
+    "abstract": "Sixth generation (6G) is committed to providing a fully connected world. The deployment and application of the 6G technology in the Internet of Things (IoT) can efficiently collaborate IoT resources and realize resource sharing, which mainly encourages IoT development. However, due to the lack of trust between IoT resources, security and privacy become the main challenges. As an emerging technolog...",
+    "date": "2023-07-07T01:17:16.197Z"
+  },
+  {
+    "articleNumber": "9581311",
+    "articleTitle": "Secure and Efficiently Searchable IoT Communication Data Management Model: Using Blockchain as a New Tool",
+    "authors": [
+      "Hua Zhang",
+      "Xin Zhang",
+      "Ziqing Guo",
+      "Huawei Wang",
+      "Dong Cui",
+      "Qiaoyan Wen"
+    ],
+    "abstract": "With the rapid development of the Internet of Things (IoT), more IoT devices are connected in the same network and communicate frequently for sharing data and switching instructions. So that the traditional centralized security architecture of IoT will be limited in terms of data storage space, data reliability, scalability, and operating costs. In this article, we propose a novel communication da...",
+    "date": "2023-07-07T01:17:16.197Z"
+  },
+  {
     "articleNumber": "10173662",
     "articleTitle": "TRCC: Transferable Congestion Control with Reinforcement Learning",
     "authors": [
@@ -12536,328 +12883,6 @@
       "Muhammad Ali Babar"
     ],
     "abstract": "A benchmark study of modern distributed databases (e.g., Cassandra, MongoDB, Redis, and MySQL) is an important source of information for selecting the right technology for managing data in edge-cloud deployments. While most of the existing studies have investigated the performance and scalability of distributed databases in cloud computing, there is a lack of focus on resource utilization (e.g., e...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "10012416",
-    "articleTitle": "An Efficient Geo-routing Aware MAC Protocol Based on OFDM for Underwater Acoustic Networks",
-    "authors": [
-      "Jiani Guo",
-      "Shanshan Song",
-      "Jun Liu",
-      "Hao Chen",
-      "Bin Lin",
-      "Jun-Hong Cui"
-    ],
-    "abstract": "Performing an effective Media Access Control (MAC) protocol suffers from strong dependencies between Underwater Acoustic Networks’ upper and lower layers: 1) the network layer frequently uses geo-routing protocols, which do not provide the specific next-hop for MAC protocols, resulting in serious data collisions. 2) in such scenarios with the unknown next-hop, fixed Orthogonal Frequency Division M...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "10008191",
-    "articleTitle": "DeepWE: A Deep Bayesian Active Learning Waypoint Estimator for Indoor walkers",
-    "authors": [
-      "Zhao Huang",
-      "Stefan Poslad",
-      "Qingquan Li",
-      "Bisheng Yang",
-      "Jizhe Xia",
-      "Bang Wu",
-      "Zhaoliang Luan",
-      "Yonglei Fan"
-    ],
-    "abstract": "Waypoint Estimation (WE) has a wide range of applications for indoor walkers, such as fire rescue, and navigation to find exit doors, lifts, or stairs as examples of waypoints, etc. Data-driven waypoint estimation has been on the rise with advancements in deep learning algorithms. The current waypoint estimation methods, however, face two challenges. On one hand, most waypoint detection approaches...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "10008195",
-    "articleTitle": "Variational Bayesian Inference Clustering Based Joint User Activity and Data Detection for Grant-Free Random Access in mMTC",
-    "authors": [
-      "Zhaoji Zhang",
-      "Qinghua Guo",
-      "Ying Li",
-      "Ming Jin",
-      "Chongwen Huang"
-    ],
-    "abstract": "Tailor-made for massive connectivity and sporadic access, grant-free random access has become a promising candidate access protocol for massive machine-type communications (mMTC). Compared with conventional grant-based protocols, grant-free random access skips the exchange of scheduling information to reduce the signaling overhead, and facilitates sharing of access resources to enhance access effi...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "10008095",
-    "articleTitle": "OPTIMIST: Lightweight and Transparent IDS with Optimum Placement Strategy to Mitigate Mixed-rate DDoS Attacks in IoT Networks",
-    "authors": [
-      "Pradeepkumar Bhale",
-      "Debanjan Roy Chowdhury",
-      "Santosh Biswas",
-      "Sukumar Nandi"
-    ],
-    "abstract": "Distributed denial of service (DDoS) attacks are widespread for Internet of things (IoT) systems that aim to disrupt the availability of a system completely (high-rate DDoS) or partially (low-rate DDoS). Design and placement of Intrusion Detection Systems (IDS) for DDoS attacks on IoT systems are challenging due to the low power and lossy nature of networks. Existing IDSs are designed to handle ei...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "10008202",
-    "articleTitle": "Optimal Sleep Scheduling for Energy-Efficient AoI Optimization in Industrial Internet of Things",
-    "authors": [
-      "Xianghui Cao",
-      "Jia Wang",
-      "Yu Cheng",
-      "Jiong Jin"
-    ],
-    "abstract": "Keeping sensor data fresh is desired for industrial Internet of Things (IIoT) especially in real-time monitoring applications. However, this may require sensors always in active mode and thus incur low energy efficiency. In this paper, we consider that a wireless sensor monitors a dynamical system and reports real-time measurements to a processing center through an unreliable wireless channel. We ...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "10008099",
-    "articleTitle": "Towards Optimal Tradeoff Between Data Freshness and Update Cost in Information-update Systems",
-    "authors": [
-      "Zhongdong Liu",
-      "Bin Li",
-      "Zizhan Zheng",
-      "Y. Thomas Hou",
-      "Bo Ji"
-    ],
-    "abstract": "In this paper, we consider a discrete-time information-update system, where a service provider can proactively retrieve information from the information source to update its data and users query the data at the service provider. One example is crowdsensing-based applications. In order to keep users satisfied, the application desires to provide users with fresh data, where the freshness is measured...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "10008208",
-    "articleTitle": "A Deep Reinforcement Learning-based Social-Aware Cooperative Caching Scheme in D2D Communication Networks",
-    "authors": [
-      "Yalu Bai",
-      "Dan Wang",
-      "Gang Huang",
-      "Bin Song"
-    ],
-    "abstract": "Device-to-Device (D2D) caching is becoming prevalent in relieving network congestion. However, there remain challenges in exploring efficient D2D caching strategies due to the diverse user requirements. In this paper, we propose a social-aware D2D caching scheme that integrates the concept of social incentive and recommendation with D2D caching decision-making. Firstly, we investigate federated le...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "10008192",
-    "articleTitle": "A Novel Electromagnetic Positioning Prototype System with Simplified Receiver for Interventional Surgery Application",
-    "authors": [
-      "Peijun Zhong",
-      "Jianhui Zhao",
-      "Zhiyong Yuan",
-      "Wenyuan Zhao",
-      "Tingbao Zhang",
-      "Yu Feng"
-    ],
-    "abstract": "To meet the need of 3D positioning of surgical instru-ment in interventional surgery and the requirement of smaller size sensor for the narrow blood vessels, a new electromagnetic posi-tioning model is proposed with simplified receiver. Based on the electromagnetic theory and geometry principle, the electromag-netic field transmitter with groups of three orthogonal coils and the simplified receive...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "10007632",
-    "articleTitle": "Spectrum-Efficient Analog Pulse Index Modulation for High-Volume Wireless Data Telemetry",
-    "authors": [
-      "Md. Kamal Hossain",
-      "Muhammad Masud Rana",
-      "Mohammad R. Haider"
-    ],
-    "abstract": "Spectrum-efficient, high-density, and high-speed data transmission are essential to store and exchange sensitive information through Internet-of-Things (IoT) networks. However, the resource-constrained IoT devices and the limited existing frequency spectrum pose a significant challenge to employing the more efficient technique for the next-generation technology. This paper presents an innovative p...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "10007654",
-    "articleTitle": "StateOS: A Memory-Efficient Hybrid Operating System for IoT Devices",
-    "authors": [
-      "Xinyu Tan",
-      "Ismo Hakala"
-    ],
-    "abstract": "The increasing significance of operating systems (OSs) in the development of the internet of things (IoT) has emerged in the last decade. An event-driven OS is memory efficient and suitable for resource-constrained IoT devices and wireless sensors, although the program’s control flow, which is determined by events, is not always obvious. A multithreaded OS with sequential control flow is often con...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "10007633",
-    "articleTitle": "A Smartphone-enabled IoT System for Vibration and Noise Monitoring of Rail Transit",
-    "authors": [
-      "Qiuhan Meng",
-      "Pengran Lu",
-      "Songye Zhu"
-    ],
-    "abstract": "With the development of the urban rail transit system, the ride comfort of trains in operation has been emphasized by passengers and railroad operators alike. The monitoring of interior vibration and noise levels of trains provides an efficient way to guarantee ride comfort. Traditional monitoring equipment has numerous disadvantages, such as high cost, poor mobility, and lack of real-time evaluat...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "10007635",
-    "articleTitle": "Latency Oriented Secure Wireless Federated Learning: A Channel-Sharing Approach with Artificial Jamming",
-    "authors": [
-      "Tianshun Wang",
-      "Ning Huang",
-      "Yuan Wu",
-      "Jie Gao",
-      "Tony Q.S. Quek"
-    ],
-    "abstract": "As a promising framework for distributed machine learning (ML), wireless federated learning (FL) faces the threat of eavesdropping attacks when a trained ML model is sent over a radio channel. To address this threat, we propose channel sharing-based artificial jamming to increase the secrecy throughput of FL clients (FCs). Specifically, when an FC performs local model training, a selected device s...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "10007639",
-    "articleTitle": "A Gaming and Trust Model based Counter Measure for DIS Attack on 6TiSCH IoT Networks",
-    "authors": [
-      "Alakesh Kalita",
-      "Mohan Gurusamy",
-      "Manas Khatua"
-    ],
-    "abstract": "The 6TiSCH communication architecture provides delay-bounded packet delivery, energy-efficient and reliable data-delivering communication in mission-critical Internet of Things (IoT) applications. It uses IETF’s 6TiSCH minimal configuration (6TiSCH-MC) standard for resource allocation during network formation and routing using Routing Protocol for Low power and Lossy network (RPL) as routing proto...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "10007655",
-    "articleTitle": "Design of a Wireless, Inexpensive Ocean of Things System for Volunteer Bathymetry",
-    "authors": [
-      "Brian Calder"
-    ],
-    "abstract": "Although much progress has been made in recent years to fully map the world ocean, only approximately 20% is adequately mapped to modern standards. Filling in the remainder must by necessity be a multi-modal effort, with traditional ocean mapping technologies such as crewed survey ships with multibeam echosounders being mixed with newer systems such as uncrewed, sail-powered mapping systems. Volun...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "10007657",
-    "articleTitle": "How global observation works in Federated Learning: Integrating vertical training into Horizontal Federated Learning",
-    "authors": [
-      "Shuo Wan",
-      "Jiaxun Lu",
-      "Pingyi Fan",
-      "Yunfeng Shao",
-      "Chenghui Peng",
-      "Khaled B. letaief",
-      "Jie Chuai"
-    ],
-    "abstract": "Federated learning (FL) has recently emerged as an innovative paradigm to train models among distributed agents. Conventional FL considers the center as an aggregator and trains from distributed data, while the collected global information at the center is not effectively utilized. Thus, the restricted information from local observations may limit the model accuracy. If FL can introduce data sets ...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "10005804",
-    "articleTitle": "Contact-Free Multi-Target Tracking Using Distributed Massive MIMO-OFDM Communication System: Prototype and Analysis",
-    "authors": [
-      "Chenglong Li",
-      "Sibren De Bast",
-      "Yang Miao",
-      "Emmeric Tanghe",
-      "Sofie Pollin",
-      "Wout Joseph"
-    ],
-    "abstract": "Wireless-based human activity recognition has become an essential technology that enables contact-free human-machine and human-environment interactions. In this paper, we consider contact-free multi-target tracking (MTT) based on available communication systems. A radar-like prototype is built upon a sub-6 GHz distributed massive multiple-input and multiple-output (MIMO) orthogonal frequency-divis...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "10005843",
-    "articleTitle": "SAPFS: An Efficient Symmetric-Key Authentication Key Agreement Scheme with Perfect Forward Secrecy for Industrial Internet of Things",
-    "authors": [
-      "Yunru Zhang",
-      "Debiao He",
-      "Pandi Vijayakumar",
-      "Min Luo",
-      "Xinyi Huang"
-    ],
-    "abstract": "An edge-cloud Industrial Internet of Things (IIoT) can help meet the computing requirements of industrial applications, particularly in time and latency-sensitive services. Ensuring the security and privacy of (sensitive) information collected by IIoT end devices is crucial, and has an important impact on the decision-making as well as operational safety. However, these devices are energy-constrai...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "10005810",
-    "articleTitle": "Multidimensional Information Recognition Algorithm Based on CSI Decomposition",
-    "authors": [
-      "Yong Tian",
-      "Chen Chen",
-      "Qiyue Zhang",
-      "Ying Li",
-      "Sirou Li",
-      "Xuejun Ding"
-    ],
-    "abstract": "Wireless sensing technology based on channel state information (CSI) has broad application prospects in human-computer interaction, smart homes and other fields due to its advantages, which include no special equipment deployment, no privacy leakage, and no light intensity and line of sight influence. The existing studies have achieved satisfactory recognition accuracy for human localization or ac...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "10006404",
-    "articleTitle": "Optimization of the Hardware Layer for IoT Systems using a Trust Region Method with Adaptive Forward Finite Differences",
-    "authors": [
-      "Adrian Bekasiewicz"
-    ],
-    "abstract": "Trust-region (TR) algorithms represent a popular class of local optimization methods. Owing to straightforward setup and low computational cost, TR routines based on linear models determined using forward finite differences (FD) are often utilized for performance tuning of microwave and antenna components incorporated within the Internet of Things systems. Despite usefulness for design of complex ...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "10005789",
-    "articleTitle": "D2OP: A fair dual-objective weighted scheduling scheme in Internet of Everything",
-    "authors": [
-      "Zhao Tong",
-      "Bilan Liu",
-      "Jing Mei",
-      "Jiake Wang",
-      "Wenbin Li",
-      "Keqin Li"
-    ],
-    "abstract": "In times of the Internet of Everything (IoE), the power of the Internet is growing exponentially, followed by a surge in the number of network requests. The conflict between people’s high requirements for quality of experience (QoE) and limited computing resources are becoming increasingly prominent. Therefore, an appropriate offloading method is required to better ease this conflict. In this pape...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "10005609",
-    "articleTitle": "Machine Learning for Time-of-Arrival Estimation with 5G Signals in Indoor Positioning",
-    "authors": [
-      "Zhaoliang Liu",
-      "Liang Chen",
-      "Xin Zhou",
-      "Zhenhang Jiao",
-      "Guangyi Guo",
-      "Ruizhi Chen."
-    ],
-    "abstract": "Location-based service in the indoor environment is playing a crucial role in different application scenarios. The introduction of technologies such as ultra-dense network and massive multiple-input multiple-output enables fifth-generation (5G) cellular signals, as a new generation of cellular network signals, to show unique advantages in indoor positioning. This paper describes 5G reference signa...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "10005094",
-    "articleTitle": "Co-optimizing CPU Voltage, Memory Placement, and Task Offloading for Energy-Efficient Mobile Systems",
-    "authors": [
-      "Soomin Ki",
-      "Gyuri Byun",
-      "Kyungwoon Cho",
-      "Hyokyung Bahn"
-    ],
-    "abstract": "Energy-saving is one of the most important missions in the design of battery-based mobile systems. Many ideas have been suggested for saving energy in different system layers. Specifically, (1) lowering the supply voltage for idle CPU time slots, (2) using hybrid memory to save DRAM refresh power, and (3) task offloading to edge/cloud servers are well-acknowledged techniques used in CPU, memory, a...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "10005223",
-    "articleTitle": "Deep Reinforcement Learning Based IRS for Cooperative Jamming Networks under Edge Computing",
-    "authors": [
-      "Tengyue Zhang",
-      "Hong Wen",
-      "Yixin Jiang",
-      "Jie Tang"
-    ],
-    "abstract": "Effective energy design and secure communications are critical in the Internet of Things (IoT). A cooperative jamming (CJ) scheme based on deep reinforcement learning (DRL) is proposed for intelligent reflecting surface (IRS) aided secure cooperative network with eavesdroppers. Our goal is to maximize the average secrecy rate, or energy efficiency with secrecy constraints by jointly optimising the...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "10005204",
-    "articleTitle": "Multiple UAVs Trajectory Optimization in Multi-Cell Networks with Adjustable Overlapping Coverage",
-    "authors": [
-      "Jongyul Lee",
-      "Vasilis Friderikos"
-    ],
-    "abstract": "Trajectory optimization of Unmanned Aerial Vehicles (UAVs) operating as flying base stations (FBSs) evolved as a novel integration component in beyond 5G (B5G) networks and has recently received significant research attention. Notably, the vast majority of previous research has mainly concentrated on the case of a single terrestrial macro base station (BS) which is used as a depot for multiple FBS...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "10004952",
-    "articleTitle": "A Privacy Preserving Internet of Things Smart Healthcare Financial System",
-    "authors": [
-      "Rajani Singh",
-      "Ashutosh Dhar Dwivedi",
-      "Gautam Srivastava",
-      "Pushpita Chatterjee",
-      "Jerry Chun-Wei Lin"
-    ],
-    "abstract": "Several emerging areas like sensor networks, the Internet of Things (IoT), and distributed networks are gaining traction where resource-constrained devices communicate by sharing privacy-preserving information. Due to heavy cryptographic components, standard cryptographic algorithms do not fit these IoT devices. In this paper, we propose an efficient zero-knowledge blockchain-based privacy-preserv...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "10004634",
-    "articleTitle": "Real-time Transmission Control for Multichannel NOMA Random Access Systems",
-    "authors": [
-      "Jun-Bae Seo",
-      "Swades De",
-      "Hu Jin"
-    ],
-    "abstract": "To improve the throughput per channel in multichannel non-orthogonal multiple access (NOMA) random access (RA) system, users (re)transmit their packet to one of channels using transmit power control such that the receive power of the packets at the base station (BS) can be one of the predefined levels called target receive power (TRP). The BS decodes the received packets in the descending order of...",
     "date": "2023-04-27T04:15:53.706Z"
   }
 ]

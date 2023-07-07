@@ -2,11 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/TKDE.rss</id>
     <title>IEEE Transactions on Knowledge and Data Engineering</title>
-    <updated>2023-07-06T16:17:35.007Z</updated>
+    <updated>2023-07-07T01:17:06.021Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/TKDE.rss"/>
     <subtitle>IEEE Transactions on Knowledge and Data Engineering</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Evidence Reasoning and Curriculum Learning for Document-level Relation Extraction]]></title>
+        <id>https://ieeexplore.ieee.org/document/10174655</id>
+        <link href="https://ieeexplore.ieee.org/document/10174655"/>
+        <updated>2023-07-07T01:17:06.016Z</updated>
+        <summary type="html"><![CDATA[Document-level Relation Extraction (RE) is a promising task aiming at identifying relations of multiple entity pairs in a document. Compared with the sentence-level counterpart, it has raised two significant challenges: a) In most cases, a relational fact can be adequately expressed via a small subset of sentences from the document, namely evidence. But the traditional method cannot model such str...]]></summary>
+        <author>
+            <name>Tianyu Xu</name>
+        </author>
+        <author>
+            <name>Jianfeng Qu</name>
+        </author>
+        <author>
+            <name>Wen Hua</name>
+        </author>
+        <author>
+            <name>Zhixu Li</name>
+        </author>
+        <author>
+            <name>Jiajie Xu</name>
+        </author>
+        <author>
+            <name>An Liu</name>
+        </author>
+        <author>
+            <name>Lei Zhao</name>
+        </author>
+        <author>
+            <name>Xiaofang Zhou</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ensemble Clustering with Attentional Representation]]></title>
         <id>https://ieeexplore.ieee.org/document/10173506</id>

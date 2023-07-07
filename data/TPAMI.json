@@ -1,5 +1,27 @@
 [
   {
+    "articleNumber": "10174654",
+    "articleTitle": "Rewarded Semi-Supervised Re-Identification on Identities Rarely Crossing Camera Views",
+    "authors": [
+      "Ancong Wu",
+      "Wenhang Ge",
+      "Wei-Shi Zheng"
+    ],
+    "abstract": "Semi-supervised person re-identification (Re-ID) is an important approach for alleviating annotation costs when learning to match person images across camera views. Most existing works assume that training data contains abundant identities crossing camera views. However, this assumption is not true in many real-world applications, especially when images are captured in nonadjacent scenes for Re-ID...",
+    "date": "2023-07-07T01:17:11.551Z"
+  },
+  {
+    "articleNumber": "10174740",
+    "articleTitle": "Cross-Lingual Universal Dependency Parsing Only From One Monolingual Treebank",
+    "authors": [
+      "Kailai Sun",
+      "Zuchao Li",
+      "Hai Zhao"
+    ],
+    "abstract": "Syntactic parsing is a highly linguistic processing task whose parser requires training on treebanks from the expensive human annotation. As it is unlikely to obtain a treebank for every human language, in this work, we propose an effective cross-lingual UD parsing framework for transferring parser from only one source monolingual treebank to any other target languages without treebank available. ...",
+    "date": "2023-07-07T01:17:11.551Z"
+  },
+  {
     "articleNumber": "10173747",
     "articleTitle": "Collaborative Uncertainty Benefits Multi-Agent Multi-Modal Trajectory Forecasting",
     "authors": [

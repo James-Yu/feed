@@ -1,5 +1,21 @@
 [
   {
+    "articleNumber": "10175049",
+    "articleTitle": "Using Tabu Search to Avoid Concave Obstacles for Source Location",
+    "authors": [
+      "Junqi Zhang",
+      "Huan Liu",
+      "Peng Zu",
+      "Mengshi Zhao",
+      "Cheng Wang",
+      "Aiiad Albeshri",
+      "Abdullah Abusorrah",
+      "MengChu Zhou"
+    ],
+    "abstract": "Recently, using a particle swarm optimizer (PSO) to guide robots in a source location problem has attracted widespread interest. While being navigated by PSO, robots are easily trapped into U-shape-like concave obstacles such that they move back and forth cyclically and fail to locate a correct source. Existing obstacle avoidance strategies perform well when robots have information about all obsta...",
+    "date": "2023-07-07T01:17:00.670Z"
+  },
+  {
     "articleNumber": "10173706",
     "articleTitle": "Machine Learning Based Channel Estimation for 5G NR-V2V Communications: Sparse Bayesian Learning and Gaussian Progress Regression",
     "authors": [

@@ -1,5 +1,21 @@
 [
   {
+    "articleNumber": "10174655",
+    "articleTitle": "Evidence Reasoning and Curriculum Learning for Document-level Relation Extraction",
+    "authors": [
+      "Tianyu Xu",
+      "Jianfeng Qu",
+      "Wen Hua",
+      "Zhixu Li",
+      "Jiajie Xu",
+      "An Liu",
+      "Lei Zhao",
+      "Xiaofang Zhou"
+    ],
+    "abstract": "Document-level Relation Extraction (RE) is a promising task aiming at identifying relations of multiple entity pairs in a document. Compared with the sentence-level counterpart, it has raised two significant challenges: a) In most cases, a relational fact can be adequately expressed via a small subset of sentences from the document, namely evidence. But the traditional method cannot model such str...",
+    "date": "2023-07-07T01:17:06.016Z"
+  },
+  {
     "articleNumber": "10173506",
     "articleTitle": "Ensemble Clustering with Attentional Representation",
     "authors": [
