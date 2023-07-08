@@ -1,5 +1,18 @@
 [
   {
+    "articleNumber": "10175548",
+    "articleTitle": "Differentiable and Scalable Generative Adversarial Models for Data Imputation",
+    "authors": [
+      "Yangyang Wu",
+      "Jun Wang",
+      "Xiaoye Miao",
+      "Wenjia Wang",
+      "Jianwei Yin"
+    ],
+    "abstract": "Data imputation has been extensively explored to solve the missing data problem. The dramatically increasing volume of incomplete data makes the imputation models computationally infeasible in many real-life applications. In this paper, we propose an effective scalable imputation system named SCIS to significantly speed up the training of the differentiable generative adversarial imputation models...",
+    "date": "2023-07-08T01:16:09.868Z"
+  },
+  {
     "articleNumber": "10174655",
     "articleTitle": "Evidence Reasoning and Curriculum Learning for Document-level Relation Extraction",
     "authors": [

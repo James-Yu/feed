@@ -2,11 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/TII.rss</id>
     <title>IEEE Transactions on Industrial Informatics</title>
-    <updated>2023-07-07T16:16:46.189Z</updated>
+    <updated>2023-07-08T01:16:22.285Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/TII.rss"/>
     <subtitle>IEEE Transactions on Industrial Informatics</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Model-Free Anti-disturbance Autopilot Design for Autonomous Surface Vehicles with Hardware-in-Loop Experiments]]></title>
+        <id>https://ieeexplore.ieee.org/document/10175543</id>
+        <link href="https://ieeexplore.ieee.org/document/10175543"/>
+        <updated>2023-07-08T01:16:22.279Z</updated>
+        <summary type="html"><![CDATA[This paper investigates the yaw angle tracking control of an autonomous surface vehicle (ASV) subject to fully unknown internal dynamic, external disturbance, and unknown control input gain. A model-free adaptive anti-disturbance autopilot control method is proposed for an ASV without using any model parameters. Specifically, by utilizing real-time and historical data, data-driven concurrent learn...]]></summary>
+        <author>
+            <name>Zhouhua Peng</name>
+        </author>
+        <author>
+            <name>Kai cui</name>
+        </author>
+        <author>
+            <name>Huijuan Li</name>
+        </author>
+        <author>
+            <name>Nan Gu</name>
+        </author>
+        <author>
+            <name>Lu Liu</name>
+        </author>
+        <author>
+            <name>Dan Wang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spatio-Temporal Deep Graph Network for Event Detection, Localization and Classification in Cyber-Physical Electric Distribution System]]></title>
+        <id>https://ieeexplore.ieee.org/document/10175547</id>
+        <link href="https://ieeexplore.ieee.org/document/10175547"/>
+        <updated>2023-07-08T01:16:22.279Z</updated>
+        <summary type="html"><![CDATA[This work proposes a deep graph learning framework to identify, locate, and classify power, cyber, and cyber power events at the distribution system level. The proposed algorithm jointly exploits spatial, temporal, and node-level cyber and physical data features. The developed graph neural network, together with a deep autoencoder, utilizes physical measurements from distribution level phasor meas...]]></summary>
+        <author>
+            <name>Arman Ahmed</name>
+        </author>
+        <author>
+            <name>Sagnik Basumallik</name>
+        </author>
+        <author>
+            <name>Amir Gholami</name>
+        </author>
+        <author>
+            <name>Sajan K. Sadanandan</name>
+        </author>
+        <author>
+            <name>Mohammad H. N. Namaki</name>
+        </author>
+        <author>
+            <name>Anurag K. Srivastava</name>
+        </author>
+        <author>
+            <name>Yinghui Wu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adaptive Interference-Avoidance and Mode Selection Scheme for D2D-Enabled Small Cells in 5G-IIoT Networks]]></title>
+        <id>https://ieeexplore.ieee.org/document/10175632</id>
+        <link href="https://ieeexplore.ieee.org/document/10175632"/>
+        <updated>2023-07-08T01:16:22.279Z</updated>
+        <summary type="html"><![CDATA[Small cell and device-to-device (D2D) communications can fulfill high-speed wireless communication in indoor industrial internet of things (IIoT) services and cell-edge devices. However, controlling interference is crucial for optimizing resource sharing (RS). To address this, we present an adaptive interference avoidance (IA) and mode selection (MS) framework that incorporates MS, channel gain fa...]]></summary>
+        <author>
+            <name>Safiu A. Gbadamosi</name>
+        </author>
+        <author>
+            <name>Gerhard P. Hancke</name>
+        </author>
+        <author>
+            <name>Adnan M. Abu- Mahfouz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Neurodynamics for Equality-Constrained Time-Variant Nonlinear Optimization Using Discretization]]></title>
         <id>https://ieeexplore.ieee.org/document/10171425</id>

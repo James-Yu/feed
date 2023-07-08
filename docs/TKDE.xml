@@ -2,11 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/TKDE.rss</id>
     <title>IEEE Transactions on Knowledge and Data Engineering</title>
-    <updated>2023-07-07T16:16:32.086Z</updated>
+    <updated>2023-07-08T01:16:09.873Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/TKDE.rss"/>
     <subtitle>IEEE Transactions on Knowledge and Data Engineering</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Differentiable and Scalable Generative Adversarial Models for Data Imputation]]></title>
+        <id>https://ieeexplore.ieee.org/document/10175548</id>
+        <link href="https://ieeexplore.ieee.org/document/10175548"/>
+        <updated>2023-07-08T01:16:09.868Z</updated>
+        <summary type="html"><![CDATA[Data imputation has been extensively explored to solve the missing data problem. The dramatically increasing volume of incomplete data makes the imputation models computationally infeasible in many real-life applications. In this paper, we propose an effective scalable imputation system named SCIS to significantly speed up the training of the differentiable generative adversarial imputation models...]]></summary>
+        <author>
+            <name>Yangyang Wu</name>
+        </author>
+        <author>
+            <name>Jun Wang</name>
+        </author>
+        <author>
+            <name>Xiaoye Miao</name>
+        </author>
+        <author>
+            <name>Wenjia Wang</name>
+        </author>
+        <author>
+            <name>Jianwei Yin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Evidence Reasoning and Curriculum Learning for Document-level Relation Extraction]]></title>
         <id>https://ieeexplore.ieee.org/document/10174655</id>

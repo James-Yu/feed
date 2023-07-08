@@ -2,11 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/T-ITS.rss</id>
     <title>IEEE Transactions on Intelligent Transportation Systems</title>
-    <updated>2023-07-07T16:16:27.459Z</updated>
+    <updated>2023-07-08T01:16:05.597Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/T-ITS.rss"/>
     <subtitle>IEEE Transactions on Intelligent Transportation Systems</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Guest Editorial Special Issue on Intelligent Autonomous Transportation Systems With 6G—Part IV]]></title>
+        <id>https://ieeexplore.ieee.org/document/10175861</id>
+        <link href="https://ieeexplore.ieee.org/document/10175861"/>
+        <updated>2023-07-08T01:16:05.590Z</updated>
+        <summary type="html"><![CDATA[We are delighted to introduce the fourth part of the Special Issue on Intelligent Autonomous Transportation Systems ith 6G, hich aims to provide the scientific community ith a comprehensive overvie of innovative technologies, advanced architectures, and potential challenges for the 6G-supported Intelligent Autonomous Transport Systems. Forty-three papers ere selected for publication in this issue....]]></summary>
+        <author>
+            <name>Shahid Mumtaz</name>
+        </author>
+        <author>
+            <name>Muhammad Ikram Ashraf</name>
+        </author>
+        <author>
+            <name>Varun G. Menon</name>
+        </author>
+        <author>
+            <name>Taimoor Abbas</name>
+        </author>
+        <author>
+            <name>Anwer Al-Dulaimi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scanning the Issue]]></title>
+        <id>https://ieeexplore.ieee.org/document/10175862</id>
+        <link href="https://ieeexplore.ieee.org/document/10175862"/>
+        <updated>2023-07-08T01:16:05.590Z</updated>
+        <summary type="html"><![CDATA[Survey of Air, Sea, and Road Vehicles Research for Motion Control Security]]></summary>
+        <author>
+            <name>Azim Eskandarian</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Using Tabu Search to Avoid Concave Obstacles for Source Location]]></title>
         <id>https://ieeexplore.ieee.org/document/10175049</id>

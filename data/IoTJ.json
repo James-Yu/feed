@@ -1,5 +1,257 @@
 [
   {
+    "articleNumber": "10175537",
+    "articleTitle": "Joint Multiple Resources Allocation for Underwater Acoustic Cooperative Communication in Time-Varying IoUT Systems: A Double Closed-Loop Adversarial Bandit Approach",
+    "authors": [
+      "Song Han",
+      "Huan Zhao",
+      "Xinbin Li",
+      "Junzhi Yu",
+      "Zhixin Liu",
+      "Lei Yan",
+      "Tongwei Zhang"
+    ],
+    "abstract": "This paper deals with a joint multiple resources (relay, channel and power) allocation problem for underwater acoustic cooperative communication in time-varying IoUT scenarios. The strong coupling of multiple resources and the unknown time-varying characteristic of underwater acoustic communication scenes make the joint optimization problem full of challenges. To address this issue, the adversaria...",
+    "date": "2023-07-08T01:16:18.479Z"
+  },
+  {
+    "articleNumber": "10175516",
+    "articleTitle": "Interference-Robust Millimeter-Wave Radar-Based Dynamic Hand Gesture Recognition Using 2D CNN-Transformer Networks",
+    "authors": [
+      "Biao Jin",
+      "Xiao Ma",
+      "Zhenkai Zhang",
+      "Zhuxian Lian",
+      "Biao Wang"
+    ],
+    "abstract": "Dynamic gesture recognition using millimeter-wave radar has a broad application prospect in the industrial Internet of Things (IoT) field. However, the existing methods in the random dynamic interference environment, such as throwing objects and waving, easily cause wrong recognition. This paper proposes a dynamic gesture recognition method based on a CNNTransformer network to solve this problem. ...",
+    "date": "2023-07-08T01:16:18.479Z"
+  },
+  {
+    "articleNumber": "10175522",
+    "articleTitle": "Data-Driven Resource Allocation for Deep Learning in IoT Networks",
+    "authors": [
+      "Chang-Jae Chun",
+      "Cheol Jeong"
+    ],
+    "abstract": "We consider an Internet of Things (IoT) network, where a large amount of sensor data is transmitted from wireless IoT devices to a central server for classification of system behaviors. When the number of IoT devices and their sensors is very large, the redundancy in the collected data at the server can also be very high due to the high correlation between the data. By compressing the sensor data ...",
+    "date": "2023-07-08T01:16:18.479Z"
+  },
+  {
+    "articleNumber": "10176268",
+    "articleTitle": "PCIDS: Permission and Credibility-Based Intrusion Detection System in IoT Gateways",
+    "authors": [
+      "Chen Zhang",
+      "Zhuotao Lian",
+      "Huakun Huang",
+      "Chunhua Su"
+    ],
+    "abstract": "The Internet of Things (IoT) has evolved into a global platform dramatically facilitating human life through intelligent services. It is straightforward for people to access smart devices through IoT. However, the easy accessibility of IoT devices has also led to unprecedented security challenges for the IoT. To ensure the security of the basic structure of IoT, we need to establish a security bar...",
+    "date": "2023-07-08T01:16:18.479Z"
+  },
+  {
+    "articleNumber": "10176313",
+    "articleTitle": "Security-aware Resource Allocation Scheme Based on DRL in Cloud-Edge-Terminal Cooperative Vehicular Network",
+    "authors": [
+      "Yi Zhang",
+      "Chunxiao Jiang",
+      "Peiying Zhang"
+    ],
+    "abstract": "Virtual network embedding (VNE) refers to the process of mapping virtual networks onto physical networks, which can improve the utilization and flexibility of network resources. However, due to the complexity of VNE problems and the requirement for network security, how to efficiently complete virtual network embedding and ensure network security is important. In this paper, we analyze the charact...",
+    "date": "2023-07-08T01:16:18.479Z"
+  },
+  {
+    "articleNumber": "10175512",
+    "articleTitle": "Optimal Transport based One-Shot Federated Learning for Artificial Intelligence of Things",
+    "authors": [
+      "Yi-Han Chiang",
+      "Koudai Terai",
+      "Tsung-Wei Chiang",
+      "Hai Lin",
+      "Yusheng Ji",
+      "John C. S. Lui"
+    ],
+    "abstract": "Federated learning (FL) is an emerging distributed machine learning (ML) paradigm in the Artificial Intelligence of Things (AIoT). FL enables AIoT devices to collaboratively train an ML model on the network edge, while protecting data privacy and solving the problem of isolated data islands. Contemporary FL is typically realized through the model aggregation of locally trained models and the model...",
+    "date": "2023-07-08T01:16:18.479Z"
+  },
+  {
+    "articleNumber": "10175529",
+    "articleTitle": "Encrypted Domain Secret Medical-Image Sharing with Secure Outsourcing Computation in IoT Environment",
+    "authors": [
+      "Jingwang Huang",
+      "Qi Cui",
+      "Zhili Zhou",
+      "Keping Yu",
+      "Ching-Nung Yang",
+      "Kim-Kwang Raymond Choo"
+    ],
+    "abstract": "In existing Secret Medical-Image Sharing (SMIS) schemes, to protect and manage secret medical-images (SMIs), the sharing and recovery of each SMI are implemented by local servers of medical institutions. However, since a lot of SMIs are produced by personal smart terminal devices in Internet of Things (IoT) environment, directly implementing the sharing and recovery processes will cause excessive ...",
+    "date": "2023-07-08T01:16:18.479Z"
+  },
+  {
+    "articleNumber": "10175541",
+    "articleTitle": "Energy-Efficient Resource Allocation for Heterogeneous Edge-Cloud Computing",
+    "authors": [
+      "Wei Hua",
+      "Peng Liu",
+      "Linyu Huang"
+    ],
+    "abstract": "With the rapid development of Internet of Things (IoT) technology, billions of Mobile Devices (MDs) are putting a massive burden on limited radio resources. Mobile edge computing (MEC) can save MDs’ energy consumption and relieve network pressure by offloading their tasks to edge servers. Compared with cloud servers, edge servers are closer to the users but have less storage capacity. The heteroge...",
+    "date": "2023-07-08T01:16:18.479Z"
+  },
+  {
+    "articleNumber": "10175166",
+    "articleTitle": "Achieving Energy-efficient Massive URLLC over Cell-free Massive MIMO",
+    "authors": [
+      "Jie Zeng",
+      "Teng Wu",
+      "Yuxin Song",
+      "Yi Zhong",
+      "Tiejun Lv",
+      "Shidong Zhou"
+    ],
+    "abstract": "Achieving energy-efficient massive ultra-reliable and low-latency communications (E2-mURLLC) is a promising application prospect for sixth-generation (6G) mobile communication networks. However, there are some insurmountable obstacles, such as a large number of potential users, complex and diverse small-scale and shadow fading, and stringent energy efficiency (EE), reliability, and latency require...",
+    "date": "2023-07-08T01:16:18.479Z"
+  },
+  {
+    "articleNumber": "10175391",
+    "articleTitle": "Joint Task and Data Oriented Semantic Communications: A Deep Separate Source-channel Coding Scheme",
+    "authors": [
+      "Jianhao Huang",
+      "Dongxu Li",
+      "Chuan Huang",
+      "Xiaoqi Qin",
+      "Wei Zhang"
+    ],
+    "abstract": "Semantic communications are expected to accomplish various semantic tasks with relatively less spectrum resource by exploiting the semantic feature of source data. To simultaneously serve both the data transmission and semantic tasks, joint data compression and semantic analysis has become pivotal issue in semantic communications. This paper proposes a deep separate source-channel coding (DSSCC) f...",
+    "date": "2023-07-08T01:16:18.479Z"
+  },
+  {
+    "articleNumber": "10176275",
+    "articleTitle": "PPO-based Autonomous Transmission Period Control System in IoT Edge Computing",
+    "authors": [
+      "Gyeong Ho Lee",
+      "Hyunseo Park",
+      "Jae Won Jang",
+      "Jaeseob Han",
+      "Jun Kyun Choi"
+    ],
+    "abstract": "With the recent explosive growth of the Internet of Things (IoT), edge computing is emerging as a modern computing paradigm that coexists with the cloud to process massive amounts of data particularly distributed at the edge network. Meanwhile, edge computing directly permits the use of artificial intelligent (AI) models at the edge. Currently in numerous IoT applications, a tremendous amount of d...",
+    "date": "2023-07-08T01:16:18.479Z"
+  },
+  {
+    "articleNumber": "10175510",
+    "articleTitle": "Minimizing Age of Collection for Multiple Access in Wireless Industrial Internet of Things",
+    "authors": [
+      "Jiaxin Liang",
+      "Tse-Tin Chan",
+      "Haoyuan Pan"
+    ],
+    "abstract": "This paper investigates the information freshness of Industrial Internet of Things (IIoT) systems, where each IoT device makes a partial observation of a common target and transmits the information update to a central receiver to recover the complete observation. We consider the age of collection (AoC) performance as a measure of information freshness. Unlike the conventional age of information (A...",
+    "date": "2023-07-08T01:16:18.479Z"
+  },
+  {
+    "articleNumber": "10176319",
+    "articleTitle": "Compact Tetracyclic Nested AMC-Backed Multi-Band Antenna with High OoB Rejection and Enhanced Gain Radiation for IIoV-Based Sensing and Communication",
+    "authors": [
+      "Shuhui Yang",
+      "Fanglu Tong",
+      "Jiajie Chu",
+      "Yinchao Chen",
+      "Zhenyu Zhao",
+      "Zhongyuan Fang",
+      "Yuanjin Zheng",
+      "Wensong Wang"
+    ],
+    "abstract": "An innovative artificial magnetic conductor (AMC)-backed quad-band antenna is proposed with gain enhancement, high out-of-band (OoB) rejection, forward radiation improvement, and backward radiation reduction for intelligent Internet of Vehicle (IIoV)-based sensing and communication. It includes a quad-band microstrip radiator and a tetracyclic nested AMC as a reflector. The radiator has a radiatin...",
+    "date": "2023-07-08T01:16:18.479Z"
+  },
+  {
+    "articleNumber": "10176312",
+    "articleTitle": "Assessment of Zero-Carbon Measures for Sustainable Transportation in Smart Cities: A CRITIC-MARCOS framework based on Q-Rung Fuzzy Preferences",
+    "authors": [
+      "R. Krishankumar",
+      "Arunodaya Raj Mishra",
+      "Pratibha Rani",
+      "Fatih Ecer",
+      "KS Ravichandran"
+    ],
+    "abstract": "Sustainable transportation is an emerging field of research that primarily focuses on eco-friendliness. Smart cities actively attempt to adopt sustainable practices for reducing carbon footprints and improving people’s lives. Developing countries like India intensely concentrate on the zero-carbon theme and promote measures to expedite the process. Mayor’s transport strategy 2018 is a useful docum...",
+    "date": "2023-07-08T01:16:18.479Z"
+  },
+  {
+    "articleNumber": "10175520",
+    "articleTitle": "Towards A Personalized Clustered Federated Learning: A Speech Recognition Case Study",
+    "authors": [
+      "Bahar Farahani",
+      "Shima Tabibian",
+      "Hamid Ebrahimi"
+    ],
+    "abstract": "Most speech recognition systems utilize cloud computing for model training and updates. Speech data, being Personally Identifiable Information (PII), encompasses personal, privacysensitive, and regulated content. Relying on centralized servers or third parties can threaten confidential data, resulting in privacy breaches. Therefore, privacy issues and strict regulations (e.g, EU’s GDPR, California...",
+    "date": "2023-07-08T01:16:18.479Z"
+  },
+  {
+    "articleNumber": "10176276",
+    "articleTitle": "TLEE: Temporal-wise and Layer-wise Early Exiting Network for Efficient Video Recognition on Edge Devices",
+    "authors": [
+      "Qingli Wang",
+      "Weiwei Fang",
+      "Neal N. Xiong"
+    ],
+    "abstract": "With the explosive growth in video streaming comes a rising demand for efficient and scalable video understanding. State-of-the-art video recognition approaches based on Convolutional Neural Network (CNN) have shown promising performance by adopting 2D or 3D CNN architectures. However, the large data volumes, high resource demands, and strict latency requirements have hindered the wide application...",
+    "date": "2023-07-08T01:16:18.479Z"
+  },
+  {
+    "articleNumber": "10176278",
+    "articleTitle": "Location Privacy Protection for UAVs in Package Delivery and IoT Data Collection",
+    "authors": [
+      "Saeede Enayati",
+      "Dennis Goeckel",
+      "Amir Houmansadr",
+      "Hossein Pishro-Nik"
+    ],
+    "abstract": "Unmanned aerial vehicles (UAVs) are well-known for violating citizens privacy either inadvertently or deliberately. However, UAVs could be victims of privacy violations themselves in the sense that an adversary observing a UAV can infer its destination. This paper proposes several privacy-preserving mechanisms (PPMs) for protecting a UAV’s location privacy. In particular, we address the privacy pr...",
+    "date": "2023-07-08T01:16:18.479Z"
+  },
+  {
+    "articleNumber": "10176287",
+    "articleTitle": "DIT and Beyond: Inter-domain Routing with Intra-domain Awareness for IIoT",
+    "authors": [
+      "Peizhuang Cong",
+      "Yuchao Zhang",
+      "Lei Wang",
+      "Wendong Wang",
+      "Xiangyang Gong",
+      "Tong Yang",
+      "Dan Li",
+      "Ke Xu"
+    ],
+    "abstract": "Along with the ever-increasing amount of data generated from industrial devices, cross domain (also known as Autonomous Systems, AS) data transmission problem has attracted more and more attention in Industrial Internet of Things (IIoT). As mature and widely used inter-domain routing protocols, BGP-based solutions often take the number of domains (i.e., AS hops) of each path as a criterion to make...",
+    "date": "2023-07-08T01:16:18.479Z"
+  },
+  {
+    "articleNumber": "10175534",
+    "articleTitle": "A Novel Mathematical Framework for Modeling Application-Specific IoT Traffic",
+    "authors": [
+      "Dana Haj Hussein",
+      "Mohamed Ibnkahla"
+    ],
+    "abstract": "Traffic modeling is a valuable tool for simulating traffic characteristics and assessing the effectiveness of new network mechanisms and protocol designs. The emergence of the Internet of Things (IoT) has led to a growing interest in IoT traffic modeling due to the unique characteristics of IoT traffic, such as sudden data bursts and application-dependent traffic characteristics. The focus of the ...",
+    "date": "2023-07-08T01:16:18.479Z"
+  },
+  {
+    "articleNumber": "10175515",
+    "articleTitle": "Priority-aware Access Strategy for GF-NOMA System in IIoT: the Device-specific Allocation Approach",
+    "authors": [
+      "Di Wu",
+      "Zhi Zhang",
+      "Yuzhen Huang",
+      "Xiaoqi Qin"
+    ],
+    "abstract": "To support large-scale connectivity of massive machine-type communication (mMTC) devices in Industrial Internet of Things (IIoT) scenario, a grant-free (GF) transmission aided non-orthogonal multiple access (NOMA) system is considered in this paper, where the devices with diverse behavior characteristics coexist. In order to reflect the diversity of IIoT scenario, multiple types of MTC devices are...",
+    "date": "2023-07-08T01:16:18.479Z"
+  },
+  {
     "articleNumber": "10174646",
     "articleTitle": "Fuzzy Controlled Wavelet Based Edge Computing Method for Energy Harvesting IoT Sensors",
     "authors": [
@@ -12623,266 +12875,6 @@
       "Wenjun Guo"
     ],
     "abstract": "Low-cost inertial measurement unit (IMU) is gradually applied for providing reliable positioning and navigation information in the area of Internet of Things (IoT) applications recently. However, the accuracy of IMU is highly influenced by inertial sensor errors in GNSS-denied and indoor navigation environment. In order to improve the accuracy and robustness of IMU, rotation modulation and coopera...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "10012407",
-    "articleTitle": "Collaborative Caching Strategy for RL-Based Content Downloading Algorithm in Clustered Vehicular Networks",
-    "authors": [
-      "Xiaodan Bi",
-      "Lian Zhao"
-    ],
-    "abstract": "With the explosive growth of content request services in the vehicle network, there is an urgent need to speed up the response process of content requests and reduce the backhaul burden on base stations. However, most traditional content caching strategies only consider the content popularity or cluster-based caching strategies individually, and the access paths are fixed. This paper proposes a co...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "10012055",
-    "articleTitle": "An Autonomic Workload Prediction and Resource Allocation Framework for Fog enabled Industrial IoT",
-    "authors": [
-      "Mohit Kumar",
-      "Avadh Kishor",
-      "Jitendra Kumar Samariya",
-      "Albert Y. Zomaya"
-    ],
-    "abstract": "The Internet of Things (IoT) has revolutionized the industrial field with numerous facilities and advancements. The industrial IoT system demands delay-aware workload execution with the aid of a fog computing platform, and precise resource allocation is required in fog nodes (FNs) to execute the fluctuating industrial IoT workloads with minimal cost and delay. In view of the issue mentioned above,...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "10012421",
-    "articleTitle": "Integrated Sensing and Communication Signals Towards 5G-A and 6G: A Survey",
-    "authors": [
-      "Zhiqing Wei",
-      "Hanyang Qu",
-      "Yuan Wang",
-      "Xin Yuan",
-      "Huici Wu",
-      "Ying Du",
-      "Kaifeng Han",
-      "Ning Zhang",
-      "Zhiyong Feng"
-    ],
-    "abstract": "Integrated sensing and communication (ISAC) has the advantages of efficient spectrum utilization and low hardware cost. It is promising to be implemented in the fifth-generation-advanced (5G-A) and sixth-generation (6G) mobile communication systems, having the potential to be applied in intelligent applications requiring both communication and high-accurate sensing capabilities. As the fundamental...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "10012419",
-    "articleTitle": "ViTaLS -A Novel Link-Layer Scheduling Framework for Tactile Internet over Wi-Fi",
-    "authors": [
-      "Vineet Gokhale",
-      "Kees Kroep",
-      "R. Venkatesha Prasad",
-      "Boris Bellalta",
-      "Falko Dressler"
-    ],
-    "abstract": "The pioneering field of Tactile Internet (TI) will enable the transfer of human skills over long distances through haptic feedback. Realizing this demands a roundtrip latency of sub-5 ms. In this work, we investigate the capability of Wi-Fi 6 and existing TI scheduling/multiplexing schemes in meeting this stringent latency constraint. Taking the concrete example of the state-of-the-art Video-Hapti...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "10011632",
-    "articleTitle": "Federated Learning for IoT Devices with Domain Generalization",
-    "authors": [
-      "Liling Zhang",
-      "Xinyu Lei",
-      "Yichun Shi",
-      "Hongyu Huang",
-      "Chao Chen"
-    ],
-    "abstract": "Federated Learning (FL) is a distributed machine learning technique that allows numerous Internet of Things (IoT) devices to jointly train a machine learning model using a centralized server for help. Local data never leaves each IoT device in FL, so the local data of IoT devices are protected. In FL, distributed IoT devices usually collect their local data independently, so the dataset of each Io...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "10012445",
-    "articleTitle": "Resilient Pseudorange Error Prediction and Correction for GNSS Positioning in Urban Areas",
-    "authors": [
-      "Rui Sun",
-      "Linxia Fu",
-      "Qi Cheng",
-      "Kai-Wei Chiang",
-      "Wu Chen"
-    ],
-    "abstract": "Positioning, navigation and timing (PNT) is essential for internet of things (IoT) communications and location-based services. Although GNSS can provide accurate PNT in open areas, obtaining reliable PNT is still a considerable technical challenge in complex urban environments. This is because the GNSS signals are more likely to be affected by multipath interference and non-line of sight (NLOS) re...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "10012414",
-    "articleTitle": "DRIVE: Dynamic Resource Introspection and VNF Embedding for 5G using Machine Learning",
-    "authors": [
-      "Deborsi Basu",
-      "Soumyadeep Kal",
-      "Uttam Ghosh",
-      "Raja Datta"
-    ],
-    "abstract": "Network Slicing (NS) technique is comprehensively reshaping the next-generation communication networks (e.g. 5G, 6G). Software-Defined Networking (SDN) and Network Functions Virtualization (NFV) predominantly control the flow of service functions on NS to incorporate versatile applications as per user demands. In the virtualized-Software Defined Networking vSDN environment, a chain of well-defined...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "10012060",
-    "articleTitle": "Indoor Multi-Pedestrian Multi-Camera Tracking Based on Fine Spatio-Temporal Constraints",
-    "authors": [
-      "Wuping Liu",
-      "Wei Guo",
-      "Yangfan Wang",
-      "Ruijie Wu"
-    ],
-    "abstract": "As indoor space is the primary place for pedestrian activities, obtaining intelligent monitoring of indoor pedestrians is crucial for intelligent video surveillance. Previous studies have verified the effectiveness of spatio-temporal constraints in multitarget multi-camera tracking (MTMCT). Pedestrians are generally subjected to fine spatio-temporal constraints within buildings, based on which the...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "10012455",
-    "articleTitle": "An Autonomous IoT-based Contact Tracing Platform in a COVID-19 Patient Ward",
-    "authors": [
-      "Asanka Rathnayaka",
-      "Maggie Ezzat Gaber Gendy",
-      "Fan Wu",
-      "Md Abdulla Al Mamun",
-      "Stephanie J. Curtis",
-      "Gordon Bingham",
-      "Anton Y. Peleg",
-      "Andrew J. Stewardson",
-      "Mehmet R. Yuce"
-    ],
-    "abstract": "Since 2020, the coronavirus disease (COVID-19) pandemic has had a substantial impact on all community sectors worldwide, particularly the health care sector. Healthcare workers (HCWs) are at risk of COVID-19 infection due to occupational exposure to infectious patients, visitors, and staff. Contact tracing of close physical interaction is an essential control measure, especially in hospitals, to p...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "10012422",
-    "articleTitle": "Wideband Circularly-Polarized Millimeter-Wave DRA Array for Internet of Things",
-    "authors": [
-      "Hussein Attia",
-      "Ahmad Abdalrazik",
-      "Mohammad S. Sharawi",
-      "Ahmed A. Kishk"
-    ],
-    "abstract": "This work proposes a novel millimeter-wave wideband circularly polarized antenna array for Internet of Things (IoT) applications. The proposed design addresses the issues of having IoT sensors deployed in remote locations or over large geographical regions. Elliptically-shaped dielectric resonator antennas (DRAs) are used as array elements to improve radiation characteristics and achieve circular ...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "10012051",
-    "articleTitle": "Quantum Multi-Agent Actor-Critic Neural Networks for Internet-Connected Multi-Robot Coordination in Smart Factory Management",
-    "authors": [
-      "Won Joon Yun",
-      "Jae Pyoung Kim",
-      "Soyi Jung",
-      "Jae-Hyun Kim",
-      "Joongheon Kim"
-    ],
-    "abstract": "As one of the latest fields of interest in both academia and industry, quantum computing has garnered significant attention. Among various topics in quantum computing, variational quantum circuits (VQC) have been noticed for their ability to carry out quantum deep reinforcement learning (QRL). This paper verifies the potential of QRL, which will be further realized by implementing quantum multi-ag...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "10012413",
-    "articleTitle": "Reconfigurable Intelligent Surface for FDD Systems: Design and Optimization",
-    "authors": [
-      "Hu Zhou",
-      "Ying-Chang Liang",
-      "Ruizhe Long",
-      "Lian Zhao",
-      "Yiyang Pei"
-    ],
-    "abstract": "Reconfigurable intelligent surface (RIS) has recently emerged as a promising technology for wireless communications, which intelligently controls the phase shift of each unit cell to form desired beams. Most prior works on RIS consider time-division duplexing (TDD) systems, in which the same phase shifts can be applied to both uplink and downlink due to the channel reciprocity. However, for freque...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "10012454",
-    "articleTitle": "FastNet: A Lightweight Convolutional Neural Network for Tumors Fast Identification in Mobile Computer-Assisted Devices",
-    "authors": [
-      "Peng Xiao",
-      "Zhen Qin",
-      "Dajiang Chen",
-      "Ning Zhang",
-      "Yi Ding",
-      "Fuhu Deng",
-      "Zhiguang Qin",
-      "Minghui Pang"
-    ],
-    "abstract": "Histopathology diagnosis is an important standard for breast tumors identifying. However, histopathology image analysis is complex, tedious and error-prone, due to the super-resolution image. In recent years, deep learning technology has been successfully applied to histopathology image analysis and made great progress. The well-known deep neural networks usually have tens of million parameters, w...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "10012417",
-    "articleTitle": "Selfish-Aware and Learning-Aided Computation Offloading for Edge-Cloud Collaboration Network",
-    "authors": [
-      "Ping Zhao",
-      "Ziyi Yang",
-      "Yaqiong Mu",
-      "Guanglin Zhang"
-    ],
-    "abstract": "Mobile edge computing (MEC) raises the problem of selfish user devices that utilize less computing resources than expected to execute offloading tasks or maliciously discard computation tasks. However, most of the existing work either focused on the task offloading or concentrated on the trust mechanism in MEC systems. By jointly considering the two challenges, in this paper, we propose a selfish-...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "10012427",
-    "articleTitle": "A Novel Exploitative and Explorative GWO-SVM Algorithm for Smart Emotion Recognition",
-    "authors": [
-      "Xucun Yan",
-      "Zihuai Lin",
-      "Zhiyun Lin",
-      "Branka Vucetic"
-    ],
-    "abstract": "Emotion recognition or detection is broadly utilized in patient-doctor interactions for diseases such as schizophrenia and autism and the most typical techniques are speech detection and facial recognition. However, features extracted from these behavior-based emotion recognitions are not reliable since humans can disguise their emotions. Recording voices or tracking facial expressions for a long ...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "10012431",
-    "articleTitle": "Sensing Quality-aware Task Allocation for Multi-dimensional Vehicular Urban Sensing",
-    "authors": [
-      "Hosung Baek",
-      "Haneul Ko",
-      "Joonwoo Kim",
-      "Youbin Jeon",
-      "Sangheon Pack"
-    ],
-    "abstract": "Vehicular sensing has become attracting an increasing research interest for cost-effective monitoring in urban areas. Even though multiple types of sensing data are required to form a multi-dimensional sensing map in urban sensing applications, most of previous works have only considered the sensing quality of single sensor type. In this paper, we formulate an optimization problem of task allocati...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "10012038",
-    "articleTitle": "SemiPFL: Personalized Semi-Supervised Federated Learning Framework for Edge Intelligence",
-    "authors": [
-      "Arvin Tashakori",
-      "Wenwen Zhang",
-      "Z. Jane Wang",
-      "Peyman Servati"
-    ],
-    "abstract": "Recent advances in wearable devices and Internetof-Things (IoT) have led to massive growth in sensor data generated in edge devices. Labeling such massive data for classification tasks has proven to be challenging. In addition, data generated by different users bear various personal attributes and edge heterogeneity, rendering it impractical to develop a global model that adapts well to all users....",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "10012046",
-    "articleTitle": "Controlling Action Space of Reinforcement Learning-based Energy Management in Batteryless Applications",
-    "authors": [
-      "JunIck Ahn",
-      "Daeyong Kim",
-      "Rhan Ha",
-      "Hojung Cha"
-    ],
-    "abstract": "Duty cycle management is critical for energy-neutral operation of batteryless devices. Many efforts have been made to develop an effective duty cycling method, including machine learning-based approaches, but existing methods can barely handle the dynamic harvesting environments of batteryless devices. Specifically, most machine learning-based methods require the harvesting patterns to be collecte...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "10012054",
-    "articleTitle": "AI-Powered Non-Contact In-Home Gait Monitoring and Activity Recognition System Based on mm-Wave FMCW Radar and Cloud Computing",
-    "authors": [
-      "Hajar Abedi",
-      "Ahmad Ansariyan",
-      "Plinio P Morita",
-      "Alexander Wong",
-      "Jennifer Boger",
-      "George Shaker"
-    ],
-    "abstract": "In this work, we present a cloud-based system for non-contact, real-time recognition and monitoring of physical activities and walking periods within a domestic environment. The proposed system employs standalone Internet of Things (IoT)-based millimeter wave radar devices and deep learning models to enable autonomous, free-living activity recognition and gait analysis. To train deep learning mode...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "10012453",
-    "articleTitle": "Resource Utilization of Distributed Databases in Edge-Cloud Environment",
-    "authors": [
-      "Yaser Mansouri",
-      "Victor Prokhorenko",
-      "Faheem Ullah",
-      "Muhammad Ali Babar"
-    ],
-    "abstract": "A benchmark study of modern distributed databases (e.g., Cassandra, MongoDB, Redis, and MySQL) is an important source of information for selecting the right technology for managing data in edge-cloud deployments. While most of the existing studies have investigated the performance and scalability of distributed databases in cloud computing, there is a lack of focus on resource utilization (e.g., e...",
     "date": "2023-04-27T04:15:53.706Z"
   }
 ]

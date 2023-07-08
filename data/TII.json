@@ -1,5 +1,45 @@
 [
   {
+    "articleNumber": "10175543",
+    "articleTitle": "Model-Free Anti-disturbance Autopilot Design for Autonomous Surface Vehicles with Hardware-in-Loop Experiments",
+    "authors": [
+      "Zhouhua Peng",
+      "Kai cui",
+      "Huijuan Li",
+      "Nan Gu",
+      "Lu Liu",
+      "Dan Wang"
+    ],
+    "abstract": "This paper investigates the yaw angle tracking control of an autonomous surface vehicle (ASV) subject to fully unknown internal dynamic, external disturbance, and unknown control input gain. A model-free adaptive anti-disturbance autopilot control method is proposed for an ASV without using any model parameters. Specifically, by utilizing real-time and historical data, data-driven concurrent learn...",
+    "date": "2023-07-08T01:16:22.279Z"
+  },
+  {
+    "articleNumber": "10175547",
+    "articleTitle": "Spatio-Temporal Deep Graph Network for Event Detection, Localization and Classification in Cyber-Physical Electric Distribution System",
+    "authors": [
+      "Arman Ahmed",
+      "Sagnik Basumallik",
+      "Amir Gholami",
+      "Sajan K. Sadanandan",
+      "Mohammad H. N. Namaki",
+      "Anurag K. Srivastava",
+      "Yinghui Wu"
+    ],
+    "abstract": "This work proposes a deep graph learning framework to identify, locate, and classify power, cyber, and cyber power events at the distribution system level. The proposed algorithm jointly exploits spatial, temporal, and node-level cyber and physical data features. The developed graph neural network, together with a deep autoencoder, utilizes physical measurements from distribution level phasor meas...",
+    "date": "2023-07-08T01:16:22.279Z"
+  },
+  {
+    "articleNumber": "10175632",
+    "articleTitle": "Adaptive Interference-Avoidance and Mode Selection Scheme for D2D-Enabled Small Cells in 5G-IIoT Networks",
+    "authors": [
+      "Safiu A. Gbadamosi",
+      "Gerhard P. Hancke",
+      "Adnan M. Abu- Mahfouz"
+    ],
+    "abstract": "Small cell and device-to-device (D2D) communications can fulfill high-speed wireless communication in indoor industrial internet of things (IIoT) services and cell-edge devices. However, controlling interference is crucial for optimizing resource sharing (RS). To address this, we present an adaptive interference avoidance (IA) and mode selection (MS) framework that incorporates MS, channel gain fa...",
+    "date": "2023-07-08T01:16:22.279Z"
+  },
+  {
     "articleNumber": "10171425",
     "articleTitle": "Neurodynamics for Equality-Constrained Time-Variant Nonlinear Optimization Using Discretization",
     "authors": [
