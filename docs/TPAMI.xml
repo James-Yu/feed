@@ -2,11 +2,83 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/TPAMI.rss</id>
     <title>IEEE Transactions on Pattern Analysis and Machine Intelligence</title>
-    <updated>2023-07-10T16:17:36.029Z</updated>
+    <updated>2023-07-11T01:08:46.480Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/TPAMI.rss"/>
     <subtitle>IEEE Transactions on Pattern Analysis and Machine Intelligence</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[ModeRNN: Harnessing Spatiotemporal Mode Collapse in Unsupervised Predictive Learning]]></title>
+        <id>https://ieeexplore.ieee.org/document/10177760</id>
+        <link href="https://ieeexplore.ieee.org/document/10177760"/>
+        <updated>2023-07-11T01:08:46.474Z</updated>
+        <summary type="html"><![CDATA[Learning predictive models for unlabeled spatiotemporal data is challenging in part because visual dynamics can be highly entangled, especially in real scenes. In this paper, we refer to the multi-modal output distribution of predictive learning as spatiotemporal modes. We find an experimental phenomenon named spatiotemporal mode collapse (STMC) on most existing video prediction models, that is, f...]]></summary>
+        <author>
+            <name>Zhiyu Yao</name>
+        </author>
+        <author>
+            <name>Yunbo Wang</name>
+        </author>
+        <author>
+            <name>Haixu Wu</name>
+        </author>
+        <author>
+            <name>Jianmin Wang</name>
+        </author>
+        <author>
+            <name>Mingsheng Long</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CycMuNet+: Cycle-Projected Mutual Learning for Spatial-Temporal Video Super-Resolution]]></title>
+        <id>https://ieeexplore.ieee.org/document/10177211</id>
+        <link href="https://ieeexplore.ieee.org/document/10177211"/>
+        <updated>2023-07-11T01:08:46.474Z</updated>
+        <summary type="html"><![CDATA[Spatial-Temporal Video Super-Resolution (ST-VSR) aims to generate high-quality videos with higher resolution (HR) and higher frame rate (HFR). Quite intuitively, pioneering two-stage based methods complete ST-VSR by directly combining two sub-tasks: Spatial Video Super-Resolution (S-VSR) and Temporal Video Super-Resolution (T-VSR) but ignore the reciprocal relations among them. 1) T-VSR to S-VSR: ...]]></summary>
+        <author>
+            <name>Mengshun Hu</name>
+        </author>
+        <author>
+            <name>Kui Jiang</name>
+        </author>
+        <author>
+            <name>Zheng Wang</name>
+        </author>
+        <author>
+            <name>Xiang Bai</name>
+        </author>
+        <author>
+            <name>Ruimin Hu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DifFormer: Multi-Resolutional Differencing Transformer With Dynamic Ranging for Time Series Analysis]]></title>
+        <id>https://ieeexplore.ieee.org/document/10177239</id>
+        <link href="https://ieeexplore.ieee.org/document/10177239"/>
+        <updated>2023-07-11T01:08:46.474Z</updated>
+        <summary type="html"><![CDATA[Time series analysis is essential to many far-reaching applications of data science and statistics including economic and financial forecasting, surveillance, and automated business processing. Though being greatly successful of Transformer in computer vision and natural language processing, the potential of employing it as the general backbone in analyzing the ubiquitous times series data has not...]]></summary>
+        <author>
+            <name>Bing Li</name>
+        </author>
+        <author>
+            <name>Wei Cui</name>
+        </author>
+        <author>
+            <name>Le Zhang</name>
+        </author>
+        <author>
+            <name>Ce Zhu</name>
+        </author>
+        <author>
+            <name>Wei Wang</name>
+        </author>
+        <author>
+            <name>Ivor Tsang</name>
+        </author>
+        <author>
+            <name>Joey Tianyi Zhou</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rewarded Semi-Supervised Re-Identification on Identities Rarely Crossing Camera Views]]></title>
         <id>https://ieeexplore.ieee.org/document/10174654</id>

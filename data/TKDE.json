@@ -1,5 +1,16 @@
 [
   {
+    "articleNumber": "10177207",
+    "articleTitle": "Elastic Multi-view Subspace Clustering with Pairwise and High-order Correlations",
+    "authors": [
+      "Yalan Qin",
+      "Nan Pu",
+      "Hanzhou Wu"
+    ],
+    "abstract": "Multi-view clustering has become an important research topic in machine learning and computer vision communities, which aims at achieving a consensus partition of data points across different views. However, the existing multi-view clustering methods fail to simultaneously consider the pairwise and high-order correlations among different views in the process of obtaining the final results. In this...",
+    "date": "2023-07-11T01:08:41.384Z"
+  },
+  {
     "articleNumber": "10175548",
     "articleTitle": "Differentiable and Scalable Generative Adversarial Models for Data Imputation",
     "authors": [

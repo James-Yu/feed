@@ -1,5 +1,43 @@
 [
   {
+    "articleNumber": "10177283",
+    "articleTitle": "Optimal Design of Tractive Layout for Minimizing the Insufficient Displacement of Railway Turnout",
+    "authors": [
+      "Feng Wang",
+      "Shihong Sun",
+      "Yuan Cao",
+      "Yaowen Pei",
+      "Tao Tang"
+    ],
+    "abstract": "Railway turnout is the key infrastructure for trains to change their routes. In order to ensure the smoothness and safety of the train’s passing through turnouts, the insufficient displacement (ID) of switch rails after their conversions must be controlled within a permitted range. During design stage, it is quite important for the reduction of the ID to reasonably arrange the tractive points. In ...",
+    "date": "2023-07-11T01:08:36.978Z"
+  },
+  {
+    "articleNumber": "10177675",
+    "articleTitle": "A Diversity Analysis of Safety Metrics Comparing Vehicle Performance in the Lead-Vehicle Interaction Regime",
+    "authors": [
+      "Harnarayan Singh",
+      "Bowen Weng",
+      "Sughosh J. Rao",
+      "Devin Elsasser"
+    ],
+    "abstract": "Vehicle performance metrics analyze data sets consisting of subject vehicle’s interactions with other road users in a nominal driving environment and provide certain performance measures as outputs. To the best of the authors’ knowledge, the vehicle safety performance metrics research dates back to at least 1967. To date, there still does not exist a community-wide accepted metric or a set of metr...",
+    "date": "2023-07-11T01:08:36.978Z"
+  },
+  {
+    "articleNumber": "10177677",
+    "articleTitle": "Power Flow Optimization and Control Strategy for Energy Router in Dual Mode Traction Power Supply System",
+    "authors": [
+      "Junhong Lai",
+      "Minwu Chen",
+      "Xianfeng Dai",
+      "Li Liu",
+      "Ning Zhao"
+    ],
+    "abstract": "A dual mode traction power supply system (TPSS), as a high-efficiency transportation approach, is composed of a mainline railway (AC traction power supply system) and an urban railway (DC traction power supply system). However, due to the neutral sections, the power from the two systems has been isolated, resulting in a low utilization rate of regenerative braking energy (RBE). The power flow from...",
+    "date": "2023-07-11T01:08:36.978Z"
+  },
+  {
     "articleNumber": "10175861",
     "articleTitle": "Guest Editorial Special Issue on Intelligent Autonomous Transportation Systems With 6G—Part IV",
     "authors": [

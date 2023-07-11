@@ -2,11 +2,74 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/T-ITS.rss</id>
     <title>IEEE Transactions on Intelligent Transportation Systems</title>
-    <updated>2023-07-10T16:17:26.671Z</updated>
+    <updated>2023-07-11T01:08:36.985Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/T-ITS.rss"/>
     <subtitle>IEEE Transactions on Intelligent Transportation Systems</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Optimal Design of Tractive Layout for Minimizing the Insufficient Displacement of Railway Turnout]]></title>
+        <id>https://ieeexplore.ieee.org/document/10177283</id>
+        <link href="https://ieeexplore.ieee.org/document/10177283"/>
+        <updated>2023-07-11T01:08:36.978Z</updated>
+        <summary type="html"><![CDATA[Railway turnout is the key infrastructure for trains to change their routes. In order to ensure the smoothness and safety of the train’s passing through turnouts, the insufficient displacement (ID) of switch rails after their conversions must be controlled within a permitted range. During design stage, it is quite important for the reduction of the ID to reasonably arrange the tractive points. In ...]]></summary>
+        <author>
+            <name>Feng Wang</name>
+        </author>
+        <author>
+            <name>Shihong Sun</name>
+        </author>
+        <author>
+            <name>Yuan Cao</name>
+        </author>
+        <author>
+            <name>Yaowen Pei</name>
+        </author>
+        <author>
+            <name>Tao Tang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Diversity Analysis of Safety Metrics Comparing Vehicle Performance in the Lead-Vehicle Interaction Regime]]></title>
+        <id>https://ieeexplore.ieee.org/document/10177675</id>
+        <link href="https://ieeexplore.ieee.org/document/10177675"/>
+        <updated>2023-07-11T01:08:36.978Z</updated>
+        <summary type="html"><![CDATA[Vehicle performance metrics analyze data sets consisting of subject vehicle’s interactions with other road users in a nominal driving environment and provide certain performance measures as outputs. To the best of the authors’ knowledge, the vehicle safety performance metrics research dates back to at least 1967. To date, there still does not exist a community-wide accepted metric or a set of metr...]]></summary>
+        <author>
+            <name>Harnarayan Singh</name>
+        </author>
+        <author>
+            <name>Bowen Weng</name>
+        </author>
+        <author>
+            <name>Sughosh J. Rao</name>
+        </author>
+        <author>
+            <name>Devin Elsasser</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Power Flow Optimization and Control Strategy for Energy Router in Dual Mode Traction Power Supply System]]></title>
+        <id>https://ieeexplore.ieee.org/document/10177677</id>
+        <link href="https://ieeexplore.ieee.org/document/10177677"/>
+        <updated>2023-07-11T01:08:36.978Z</updated>
+        <summary type="html"><![CDATA[A dual mode traction power supply system (TPSS), as a high-efficiency transportation approach, is composed of a mainline railway (AC traction power supply system) and an urban railway (DC traction power supply system). However, due to the neutral sections, the power from the two systems has been isolated, resulting in a low utilization rate of regenerative braking energy (RBE). The power flow from...]]></summary>
+        <author>
+            <name>Junhong Lai</name>
+        </author>
+        <author>
+            <name>Minwu Chen</name>
+        </author>
+        <author>
+            <name>Xianfeng Dai</name>
+        </author>
+        <author>
+            <name>Li Liu</name>
+        </author>
+        <author>
+            <name>Ning Zhao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Guest Editorial Special Issue on Intelligent Autonomous Transportation Systems With 6G—Part IV]]></title>
         <id>https://ieeexplore.ieee.org/document/10175861</id>

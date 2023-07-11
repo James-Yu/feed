@@ -1,5 +1,46 @@
 [
   {
+    "articleNumber": "10177760",
+    "articleTitle": "ModeRNN: Harnessing Spatiotemporal Mode Collapse in Unsupervised Predictive Learning",
+    "authors": [
+      "Zhiyu Yao",
+      "Yunbo Wang",
+      "Haixu Wu",
+      "Jianmin Wang",
+      "Mingsheng Long"
+    ],
+    "abstract": "Learning predictive models for unlabeled spatiotemporal data is challenging in part because visual dynamics can be highly entangled, especially in real scenes. In this paper, we refer to the multi-modal output distribution of predictive learning as spatiotemporal modes. We find an experimental phenomenon named spatiotemporal mode collapse (STMC) on most existing video prediction models, that is, f...",
+    "date": "2023-07-11T01:08:46.474Z"
+  },
+  {
+    "articleNumber": "10177211",
+    "articleTitle": "CycMuNet+: Cycle-Projected Mutual Learning for Spatial-Temporal Video Super-Resolution",
+    "authors": [
+      "Mengshun Hu",
+      "Kui Jiang",
+      "Zheng Wang",
+      "Xiang Bai",
+      "Ruimin Hu"
+    ],
+    "abstract": "Spatial-Temporal Video Super-Resolution (ST-VSR) aims to generate high-quality videos with higher resolution (HR) and higher frame rate (HFR). Quite intuitively, pioneering two-stage based methods complete ST-VSR by directly combining two sub-tasks: Spatial Video Super-Resolution (S-VSR) and Temporal Video Super-Resolution (T-VSR) but ignore the reciprocal relations among them. 1) T-VSR to S-VSR: ...",
+    "date": "2023-07-11T01:08:46.474Z"
+  },
+  {
+    "articleNumber": "10177239",
+    "articleTitle": "DifFormer: Multi-Resolutional Differencing Transformer With Dynamic Ranging for Time Series Analysis",
+    "authors": [
+      "Bing Li",
+      "Wei Cui",
+      "Le Zhang",
+      "Ce Zhu",
+      "Wei Wang",
+      "Ivor Tsang",
+      "Joey Tianyi Zhou"
+    ],
+    "abstract": "Time series analysis is essential to many far-reaching applications of data science and statistics including economic and financial forecasting, surveillance, and automated business processing. Though being greatly successful of Transformer in computer vision and natural language processing, the potential of employing it as the general backbone in analyzing the ubiquitous times series data has not...",
+    "date": "2023-07-11T01:08:46.474Z"
+  },
+  {
     "articleNumber": "10174654",
     "articleTitle": "Rewarded Semi-Supervised Re-Identification on Identities Rarely Crossing Camera Views",
     "authors": [
