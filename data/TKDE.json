@@ -1,5 +1,18 @@
 [
   {
+    "articleNumber": "10177995",
+    "articleTitle": "Discovering Dynamic Patterns from Spatiotemporal Data with Time-Varying Low-Rank Autoregression",
+    "authors": [
+      "Xinyu Chen",
+      "Chengyuan Zhang",
+      "Xiaoxu Chen",
+      "Nicolas Saunier",
+      "Lijun Sun"
+    ],
+    "abstract": "The problem of discovering interpretable dynamic patterns from spatiotemporal data is studied in this paper. For that purpose, we develop a time-varying reduced-rank vector autoregression (VAR) model whose coefficient matrices are parameterized by low-rank tensor factorization. Benefiting from the tensor factorization structure, the proposed model can simultaneously achieve model compression and p...",
+    "date": "2023-07-12T01:14:04.853Z"
+  },
+  {
     "articleNumber": "10177207",
     "articleTitle": "Elastic Multi-view Subspace Clustering with Pairwise and High-order Correlations",
     "authors": [

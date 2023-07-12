@@ -1,5 +1,81 @@
 [
   {
+    "articleNumber": "10177983",
+    "articleTitle": "Learning Symbolic Model-Agnostic Loss Functions via Meta-Learning",
+    "authors": [
+      "Christian Raymond",
+      "Qi Chen",
+      "Bing Xue"
+    ],
+    "abstract": "In this paper, we develop upon the emerging topic of loss function learning, which aims to learn loss functions that significantly improve the performance of the models trained under them. Specifically, we propose a new meta-learning framework for learning model-agnostic loss functions via a hybrid neuro-symbolic search approach. The framework first uses evolution-based methods to search the space...",
+    "date": "2023-07-12T01:14:10.935Z"
+  },
+  {
+    "articleNumber": "10177972",
+    "articleTitle": "DROID: Driver-Centric Risk Object IDentification",
+    "authors": [
+      "Chengxi Li",
+      "Stanley H. Chan",
+      "Yi-Ting Chen"
+    ],
+    "abstract": "Identification of high-risk driving situations is generally approached through collision risk estimation or accident pattern recognition. In this work, we approach the problem from the perspective of subjective risk. We operationalize subjective risk assessment by predicting driver behavior changes and identifying the cause of changes. To this end, we introduce a new task called driver-centric ris...",
+    "date": "2023-07-12T01:14:10.935Z"
+  },
+  {
+    "articleNumber": "10179131",
+    "articleTitle": "Synthesis of Multi-View 3D Fingerprints to Advance Contactless Fingerprint Identification",
+    "authors": [
+      "Chengdong Dong",
+      "Ajay Kumar"
+    ],
+    "abstract": "Billions of contact-based fingerprint images have been acquired in large databases. Contactless 2D fingerprint identification systems have emerged to provide more hygienic and secured alternatives and are highly sought under the current pandemic. The success of such an alternative requires high match accuracy, not just for the contactless-to-contactless but also for the contactless-to-contact-base...",
+    "date": "2023-07-12T01:14:10.935Z"
+  },
+  {
+    "articleNumber": "10178057",
+    "articleTitle": "3D Point-Voxel Correlation Fields for Scene Flow Estimation",
+    "authors": [
+      "Ziyi Wang",
+      "Yi Wei",
+      "Yongming Rao",
+      "Jie Zhou",
+      "Jiwen Lu"
+    ],
+    "abstract": "In this paper, we propose Point-Voxel Correlation Fields to explore relations between two consecutive point clouds and estimate scene flow that represents 3D motions. Most existing works only consider local correlations, which are able to handle small movements but fail when there are large displacements. Therefore, it is essential to introduce all-pair correlation volumes that are free from local...",
+    "date": "2023-07-12T01:14:10.935Z"
+  },
+  {
+    "articleNumber": "10179167",
+    "articleTitle": "MNGNAS: Distilling Adaptive Combination of Multiple Searched Networks for One-Shot Neural Architecture Search",
+    "authors": [
+      "Zhihua Chen",
+      "Guhao Qiu",
+      "Ping Li",
+      "Lei Zhu",
+      "Xiaokang Yang",
+      "Bin Sheng"
+    ],
+    "abstract": "Recently neural architecture (NAS) search has attracted great interest in academia and industry. It remains a challenging problem due to the huge search space and computational costs. Recent studies in NAS mainly focused on the usage of weight sharing to train a SuperNet once. However, the corresponding branch of each subnetwork is not guaranteed to be fully trained. It may not only incur huge com...",
+    "date": "2023-07-12T01:14:10.935Z"
+  },
+  {
+    "articleNumber": "10179184",
+    "articleTitle": "MADAv2: Advanced Multi-Anchor Based Active Domain Adaptation Segmentation",
+    "authors": [
+      "Munan Ning",
+      "Donghuan Lu",
+      "Yujia Xie",
+      "Dongdong Chen",
+      "Dong Wei",
+      "Yefeng Zheng",
+      "Yonghong Tian",
+      "Shuicheng Yan",
+      "Li Yuan"
+    ],
+    "abstract": "Unsupervised domain adaption has been widely adopted in tasks with scarce annotated data. Unfortunately, mapping the target-domain distribution to the source-domain unconditionally may distort the essential structural information of the target-domain data, leading to inferior performance. To address this issue, we firstly propose to introduce active sample selection to assist domain adaptation reg...",
+    "date": "2023-07-12T01:14:10.935Z"
+  },
+  {
     "articleNumber": "10177760",
     "articleTitle": "ModeRNN: Harnessing Spatiotemporal Mode Collapse in Unsupervised Predictive Learning",
     "authors": [

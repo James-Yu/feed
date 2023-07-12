@@ -2,11 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/TII.rss</id>
     <title>IEEE Transactions on Industrial Informatics</title>
-    <updated>2023-07-11T16:16:59.630Z</updated>
+    <updated>2023-07-12T01:14:22.878Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/TII.rss"/>
     <subtitle>IEEE Transactions on Industrial Informatics</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Hybrid TOA-AOA Cooperative Localization for Multiple AUVs in the Absence of Anchors]]></title>
+        <id>https://ieeexplore.ieee.org/document/10178025</id>
+        <link href="https://ieeexplore.ieee.org/document/10178025"/>
+        <updated>2023-07-12T01:14:22.866Z</updated>
+        <summary type="html"><![CDATA[This paper presents a hybrid time-of-arrival (TOA) and angle-of-arrival (AOA) cooperative localization algorithm, termed HTACL, for the multiple-autonomous-underwater-vehicle (multi-AUV) navigation in the absence of anchors (devices with known positions). Compared with traditional TOA-based methods, the joint use of TOA and AOA measurements improves the quality of position prediction and inter-AUV...]]></summary>
+        <author>
+            <name>Yichen Li</name>
+        </author>
+        <author>
+            <name>Wenbin Yu</name>
+        </author>
+        <author>
+            <name>Xinping Guan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prescribed-Time Cooperative Output Regulation of Heterogeneous Multi-Agent Systems]]></title>
+        <id>https://ieeexplore.ieee.org/document/10178084</id>
+        <link href="https://ieeexplore.ieee.org/document/10178084"/>
+        <updated>2023-07-12T01:14:22.866Z</updated>
+        <summary type="html"><![CDATA[This paper concentrates on the prescribed-time cooperative output regulation problem (CORP) of linear heterogeneous multiagent systems (HMASs) under directed topology. First, a novel distributed observer with prescribed-time convergence is designed to estimate the state of the exosystem. Then, two distributed prescribed-time control protocols, one based on the agent&#39;s state, the other based on the...]]></summary>
+        <author>
+            <name>Chongyang Chen</name>
+        </author>
+        <author>
+            <name>Yiyan Han</name>
+        </author>
+        <author>
+            <name>Song Zhu</name>
+        </author>
+        <author>
+            <name>Zhigang Zeng</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Model-Free Anti-disturbance Autopilot Design for Autonomous Surface Vehicles with Hardware-in-Loop Experiments]]></title>
         <id>https://ieeexplore.ieee.org/document/10175543</id>

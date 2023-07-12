@@ -2,11 +2,137 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/TPAMI.rss</id>
     <title>IEEE Transactions on Pattern Analysis and Machine Intelligence</title>
-    <updated>2023-07-11T16:16:49.480Z</updated>
+    <updated>2023-07-12T01:14:10.940Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/TPAMI.rss"/>
     <subtitle>IEEE Transactions on Pattern Analysis and Machine Intelligence</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[Learning Symbolic Model-Agnostic Loss Functions via Meta-Learning]]></title>
+        <id>https://ieeexplore.ieee.org/document/10177983</id>
+        <link href="https://ieeexplore.ieee.org/document/10177983"/>
+        <updated>2023-07-12T01:14:10.935Z</updated>
+        <summary type="html"><![CDATA[In this paper, we develop upon the emerging topic of loss function learning, which aims to learn loss functions that significantly improve the performance of the models trained under them. Specifically, we propose a new meta-learning framework for learning model-agnostic loss functions via a hybrid neuro-symbolic search approach. The framework first uses evolution-based methods to search the space...]]></summary>
+        <author>
+            <name>Christian Raymond</name>
+        </author>
+        <author>
+            <name>Qi Chen</name>
+        </author>
+        <author>
+            <name>Bing Xue</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DROID: Driver-Centric Risk Object IDentification]]></title>
+        <id>https://ieeexplore.ieee.org/document/10177972</id>
+        <link href="https://ieeexplore.ieee.org/document/10177972"/>
+        <updated>2023-07-12T01:14:10.935Z</updated>
+        <summary type="html"><![CDATA[Identification of high-risk driving situations is generally approached through collision risk estimation or accident pattern recognition. In this work, we approach the problem from the perspective of subjective risk. We operationalize subjective risk assessment by predicting driver behavior changes and identifying the cause of changes. To this end, we introduce a new task called driver-centric ris...]]></summary>
+        <author>
+            <name>Chengxi Li</name>
+        </author>
+        <author>
+            <name>Stanley H. Chan</name>
+        </author>
+        <author>
+            <name>Yi-Ting Chen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Synthesis of Multi-View 3D Fingerprints to Advance Contactless Fingerprint Identification]]></title>
+        <id>https://ieeexplore.ieee.org/document/10179131</id>
+        <link href="https://ieeexplore.ieee.org/document/10179131"/>
+        <updated>2023-07-12T01:14:10.935Z</updated>
+        <summary type="html"><![CDATA[Billions of contact-based fingerprint images have been acquired in large databases. Contactless 2D fingerprint identification systems have emerged to provide more hygienic and secured alternatives and are highly sought under the current pandemic. The success of such an alternative requires high match accuracy, not just for the contactless-to-contactless but also for the contactless-to-contact-base...]]></summary>
+        <author>
+            <name>Chengdong Dong</name>
+        </author>
+        <author>
+            <name>Ajay Kumar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3D Point-Voxel Correlation Fields for Scene Flow Estimation]]></title>
+        <id>https://ieeexplore.ieee.org/document/10178057</id>
+        <link href="https://ieeexplore.ieee.org/document/10178057"/>
+        <updated>2023-07-12T01:14:10.935Z</updated>
+        <summary type="html"><![CDATA[In this paper, we propose Point-Voxel Correlation Fields to explore relations between two consecutive point clouds and estimate scene flow that represents 3D motions. Most existing works only consider local correlations, which are able to handle small movements but fail when there are large displacements. Therefore, it is essential to introduce all-pair correlation volumes that are free from local...]]></summary>
+        <author>
+            <name>Ziyi Wang</name>
+        </author>
+        <author>
+            <name>Yi Wei</name>
+        </author>
+        <author>
+            <name>Yongming Rao</name>
+        </author>
+        <author>
+            <name>Jie Zhou</name>
+        </author>
+        <author>
+            <name>Jiwen Lu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MNGNAS: Distilling Adaptive Combination of Multiple Searched Networks for One-Shot Neural Architecture Search]]></title>
+        <id>https://ieeexplore.ieee.org/document/10179167</id>
+        <link href="https://ieeexplore.ieee.org/document/10179167"/>
+        <updated>2023-07-12T01:14:10.935Z</updated>
+        <summary type="html"><![CDATA[Recently neural architecture (NAS) search has attracted great interest in academia and industry. It remains a challenging problem due to the huge search space and computational costs. Recent studies in NAS mainly focused on the usage of weight sharing to train a SuperNet once. However, the corresponding branch of each subnetwork is not guaranteed to be fully trained. It may not only incur huge com...]]></summary>
+        <author>
+            <name>Zhihua Chen</name>
+        </author>
+        <author>
+            <name>Guhao Qiu</name>
+        </author>
+        <author>
+            <name>Ping Li</name>
+        </author>
+        <author>
+            <name>Lei Zhu</name>
+        </author>
+        <author>
+            <name>Xiaokang Yang</name>
+        </author>
+        <author>
+            <name>Bin Sheng</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MADAv2: Advanced Multi-Anchor Based Active Domain Adaptation Segmentation]]></title>
+        <id>https://ieeexplore.ieee.org/document/10179184</id>
+        <link href="https://ieeexplore.ieee.org/document/10179184"/>
+        <updated>2023-07-12T01:14:10.935Z</updated>
+        <summary type="html"><![CDATA[Unsupervised domain adaption has been widely adopted in tasks with scarce annotated data. Unfortunately, mapping the target-domain distribution to the source-domain unconditionally may distort the essential structural information of the target-domain data, leading to inferior performance. To address this issue, we firstly propose to introduce active sample selection to assist domain adaptation reg...]]></summary>
+        <author>
+            <name>Munan Ning</name>
+        </author>
+        <author>
+            <name>Donghuan Lu</name>
+        </author>
+        <author>
+            <name>Yujia Xie</name>
+        </author>
+        <author>
+            <name>Dongdong Chen</name>
+        </author>
+        <author>
+            <name>Dong Wei</name>
+        </author>
+        <author>
+            <name>Yefeng Zheng</name>
+        </author>
+        <author>
+            <name>Yonghong Tian</name>
+        </author>
+        <author>
+            <name>Shuicheng Yan</name>
+        </author>
+        <author>
+            <name>Li Yuan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ModeRNN: Harnessing Spatiotemporal Mode Collapse in Unsupervised Predictive Learning]]></title>
         <id>https://ieeexplore.ieee.org/document/10177760</id>

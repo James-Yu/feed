@@ -1,5 +1,28 @@
 [
   {
+    "articleNumber": "10178025",
+    "articleTitle": "Hybrid TOA-AOA Cooperative Localization for Multiple AUVs in the Absence of Anchors",
+    "authors": [
+      "Yichen Li",
+      "Wenbin Yu",
+      "Xinping Guan"
+    ],
+    "abstract": "This paper presents a hybrid time-of-arrival (TOA) and angle-of-arrival (AOA) cooperative localization algorithm, termed HTACL, for the multiple-autonomous-underwater-vehicle (multi-AUV) navigation in the absence of anchors (devices with known positions). Compared with traditional TOA-based methods, the joint use of TOA and AOA measurements improves the quality of position prediction and inter-AUV...",
+    "date": "2023-07-12T01:14:22.866Z"
+  },
+  {
+    "articleNumber": "10178084",
+    "articleTitle": "Prescribed-Time Cooperative Output Regulation of Heterogeneous Multi-Agent Systems",
+    "authors": [
+      "Chongyang Chen",
+      "Yiyan Han",
+      "Song Zhu",
+      "Zhigang Zeng"
+    ],
+    "abstract": "This paper concentrates on the prescribed-time cooperative output regulation problem (CORP) of linear heterogeneous multiagent systems (HMASs) under directed topology. First, a novel distributed observer with prescribed-time convergence is designed to estimate the state of the exosystem. Then, two distributed prescribed-time control protocols, one based on the agent&#39;s state, the other based on the...",
+    "date": "2023-07-12T01:14:22.866Z"
+  },
+  {
     "articleNumber": "10175543",
     "articleTitle": "Model-Free Anti-disturbance Autopilot Design for Autonomous Surface Vehicles with Hardware-in-Loop Experiments",
     "authors": [
