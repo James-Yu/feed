@@ -1,5 +1,20 @@
 [
   {
+    "articleNumber": "10179922",
+    "articleTitle": "$D^{2}MTS$: Enabling Dependable Data Collection With Multiple Crowdsourcers Trust Sharing in Mobile Crowdsensing",
+    "authors": [
+      "Bin Luo",
+      "Xinghua Li",
+      "Ximeng Liu",
+      "Jingjing Guo",
+      "Yanbing Ren",
+      "Siqi Ma",
+      "Jianfeng Ma"
+    ],
+    "abstract": "When enjoying mobile crowdsensing (MCS), it is vital to evaluate the trustworthiness of mobile users (MUs) without disclosing their sensitive information. However, the existing schemes ignore this requirement in the multiple crowdsourcers (CSs) scenario. The lack of a credible sharing about MUs&#39; trustworthiness results in an inaccurate trust evaluation, disabling allocating tasks to reliable MUs. ...",
+    "date": "2023-07-13T01:17:07.051Z"
+  },
+  {
     "articleNumber": "10177995",
     "articleTitle": "Discovering Dynamic Patterns from Spatiotemporal Data with Time-Varying Low-Rank Autoregression",
     "authors": [

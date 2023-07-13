@@ -1,5 +1,84 @@
 [
   {
+    "articleNumber": "10179935",
+    "articleTitle": "Modeling on Resource Allocation for Age-Sensitive Mobile Edge Computing Using Federated Multi-Agent Reinforcement Learning",
+    "authors": [
+      "Cong Wang",
+      "Tianye Yao",
+      "Tingshan Fan",
+      "Sancheng Peng",
+      "Changming Xu",
+      "Shui Yu"
+    ],
+    "abstract": "Existing mobile edge computing (MEC) systems are facing the challenges of limited resources and highly dynamic network environments. How to allocate resources to maintain the efficiency and timeliness of data and tasks is still an open issue. To address this problem, we propose a novel framework for UAV-assisted MEC systems using federated multi-agent reinforcement learning. First, we formulate a ...",
+    "date": "2023-07-13T01:17:17.739Z"
+  },
+  {
+    "articleNumber": "10179978",
+    "articleTitle": "Index Modulation Based Key Exchange Scheme for Internet of Things Networks",
+    "authors": [
+      "Tasneem Alshamaseen",
+      "Saud Althunibat",
+      "Marwa Qaraqe",
+      "Elmehdi Illi",
+      "Muhammad Usman"
+    ],
+    "abstract": "The pervasiveness of the Internet of Things (IoT) in our daily lives has been remarkably increasing over the past years. Due to their massive connectivity and limited resources, ensuring decent security levels for these networks has been challenging. In this paper, a novel and efficient physical layer key exchange scheme for IoT devices is proposed. The proposed scheme leverages on the well-known ...",
+    "date": "2023-07-13T01:17:17.739Z"
+  },
+  {
+    "articleNumber": "10180031",
+    "articleTitle": "Signal Processing over Multilayer Graphs: Theoretical Foundations and Practical Applications",
+    "authors": [
+      "Songyang Zhang",
+      "Qinwen Deng",
+      "Zhi Ding"
+    ],
+    "abstract": "Signal processing over single-layer graphs has become a mainstream tool owing to its power in revealing obscure underlying structures within data signals. However, many real-life datasets and systems, including those in Internet of Things (IoT), are characterized by more complex interactions among distinct entities, which may represent multi-level interactions that are harder to be captured with a...",
+    "date": "2023-07-13T01:17:17.739Z"
+  },
+  {
+    "articleNumber": "10180014",
+    "articleTitle": "VeriRange: A Verifiable Range Query Model on Encrypted Geographic Data for loT Environment",
+    "authors": [
+      "Wenjie Ma",
+      "Yanguo Peng",
+      "Ximeng Liu",
+      "Jiangtao Cui"
+    ],
+    "abstract": "In the era of the Internet of Things (IoT), the rapid development of cloud computing has been advancing location-based services (LBS). To enjoy the considerable advantages of lower cost and higher performance of cloud computing, it has become the first choice for most IoT enterprises to outsource data and services to public clouds. However, the privacy protection of data and the integrity of query...",
+    "date": "2023-07-13T01:17:17.739Z"
+  },
+  {
+    "articleNumber": "10179953",
+    "articleTitle": "An Effective Lightweight Crowd Counting Method Based on an Encoder-Decoder Network for the Internet of Video Things",
+    "authors": [
+      "Jun Yi",
+      "Fan Chen",
+      "Zhilong Shen",
+      "Yi Xiang",
+      "Shan Xiao",
+      "Wei Zhou"
+    ],
+    "abstract": "An emerging internet of video things (IoVT) application, crowd counting is a computer vision task where the number of heads in a crowded scene is estimated. In recent years, it has attracted increasing attention from academia and industry because of its great potential value in public safety and urban planning. However, it has become a challenge to cross the gap between the increasingly heavy and ...",
+    "date": "2023-07-13T01:17:17.739Z"
+  },
+  {
+    "articleNumber": "10179994",
+    "articleTitle": "An Efficient Smart Contract Vulnerability Detector Based on Semantic Contract Graphs Using Approximate Graph Matching",
+    "authors": [
+      "Yingli Zhang",
+      "Jiali Ma",
+      "Xin Liu",
+      "Guodong Ye",
+      "Qun Jin",
+      "Jianhua Ma",
+      "Qingguo Zhou"
+    ],
+    "abstract": "The Internet of Things (IoT) has become a focus of information infrastructure development in recent years. The smart blockchain can provide various solutions for trust, security, and privacy (TSP) challenges to protect IoT data, and smart contracts are the foundation of blockchain intelligence, and greatly enhance the ability of smart blockchain to solve TSP problems. So the security of smart cont...",
+    "date": "2023-07-13T01:17:17.739Z"
+  },
+  {
     "articleNumber": "10177933",
     "articleTitle": "Preserving Privacy in the Internet of Vehicles (IoV): A Novel Group Leader-based Shadowing Scheme using Blockchain",
     "authors": [
@@ -12806,83 +12885,6 @@
       "Xianping Zhao"
     ],
     "abstract": "In recent years, with an increasing number of Internet of Things (IoT) devices, general cloud computing mode is hard to process large amounts of data with high quality of service (QoS). Edge computing is put forward to relieve the pressure of cloud servers, but most of them only focused on allocating tasks depending on cloud servers or edge servers with virtualization technology. Resource-constrai...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "10017373",
-    "articleTitle": "IDADET: Iterative Double-sided Auction-based Data-Energy Transaction Ecosystem in Internet of Vehicles",
-    "authors": [
-      "Yang Xu",
-      "Honggang He",
-      "Jia Liu",
-      "Yulong Shen",
-      "Tarik Taleb",
-      "Shiratori Norio"
-    ],
-    "abstract": "In the era of big data, the unprecedented growth of data has been regarded as an important asset and the commercial application of data acquisition markets has emerged accordingly. With the advancement of vehicle manufacturing and sensor technologies, a large amount of data can be collected and stored in electric vehicles (EV), making the data acquisition scenario gradually extend to the Internet ...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "10018288",
-    "articleTitle": "Budget-constrained Optimal Deployment of Redundant Services in Edge Computing Environment",
-    "authors": [
-      "Pengwei Wang",
-      "Jin Xu",
-      "MengChu Zhou",
-      "Aiiad Albeshri"
-    ],
-    "abstract": "With the development of multi-access edge computing (also called mobile edge computing, MEC), more and more service-based applications are deployed to edge servers in order to ensure desired quality of service (QoS), especially in the scenario of Internet of things (IoT). In edge environment, how to reasonably deploy application services emerges as a challenging problem due to the limited resource...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "10017297",
-    "articleTitle": "Proof of Travel for Trust-Based Data Validation in V2I Communication",
-    "authors": [
-      "Dajiang Suo",
-      "Baichuan Mo",
-      "Jinhua Zhao",
-      "Sanjay E. Sarma"
-    ],
-    "abstract": "Previous work on misbehavior detection and trust management for Vehicle-to-Everything (V2X) communication security is effective in identifying falsified and malicious V2X data. Each vehicle in a given region can be a witness to report on the misbehavior of other nearby vehicles, which will then be added to a “blacklist.” However, there may not exist enough witness vehicles that are willing to opt-...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "10017376",
-    "articleTitle": "Federated Feature Selection for Horizontal Federated Learning in IoT Networks",
-    "authors": [
-      "Xunzheng Zhang",
-      "Alex Mavromatics",
-      "Antonis Vafeas",
-      "Reza Nejabati",
-      "Dimitra Simeonidou"
-    ],
-    "abstract": "Under horizontal federated learning (HFL) in IoT scenarios, different user datasets have significant similarities on the feature spaces, the final goal is to build a high-performance global model. However, not all features are great contributors when training the global HFL model, some features even impair the HFL. Besides, the curse of dimension will delay the training time and cause more energy ...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "10016633",
-    "articleTitle": "An efficient identity authentication scheme with dynamic anonymity for VANETs",
-    "authors": [
-      "Yanwei Zhou",
-      "Lei Cao",
-      "Zirui Qiao",
-      "Zhe Xia",
-      "Bo Yang",
-      "Mingwu Zhang",
-      "Wenzheng Zhang"
-    ],
-    "abstract": "Nowadays, as an essential technique for intelligent transportation, Vehicular Ad hoc Networks (VANETs) has significantly improved people’s travel experience, providing richer and smarter services for vehicles while ensuring driver safety. However, considering that VANETs are complex, some security challenges still remain, including but not restricted to privacy preserving of vehicles, authenticati...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "10016470",
-    "articleTitle": "Specification-based Symbolic Execution for Stateful Network Protocol Implementations in the IoT",
-    "authors": [
-      "Sören Tempel",
-      "Vladimir Herdt",
-      "Rolf Drechsler"
-    ],
-    "abstract": "IoT devices offer insufficient protections against exploitation of critical programming errors (such as buffer overflows) it is therefore paramount to sufficiently test IoT software before deployment. A central source of these errors are implementations of stateful network protocols used in the IoT (e.g. MQTT-SN). Unfortunately, comprehensive automated testing of such protocol implementations is c...",
     "date": "2023-04-27T04:15:53.706Z"
   }
 ]
