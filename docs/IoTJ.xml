@@ -2,11 +2,203 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/IoTJ.rss</id>
     <title>IEEE Internet of Things Journal</title>
-    <updated>2023-07-13T16:16:45.388Z</updated>
+    <updated>2023-07-14T01:16:37.119Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/IoTJ.rss"/>
     <subtitle>IEEE Internet of Things Journal</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[VoiceMap: Autonomous Mapping of Microphone Array for Voice Localization]]></title>
+        <id>https://ieeexplore.ieee.org/document/10181306</id>
+        <link href="https://ieeexplore.ieee.org/document/10181306"/>
+        <updated>2023-07-14T01:16:37.112Z</updated>
+        <summary type="html"><![CDATA[Voice command systems have been widely deployed on many smart devices for remote control. To further enrich the intelligence of these smart devices, the location of sound plays an important role in context-aware acoustic services. Despite initial steps made toward reliable voice localization, the state of the arts rely on prior knowledge of device location, device orientation and an indoor electro...]]></summary>
+        <author>
+            <name>Sheng Chen</name>
+        </author>
+        <author>
+            <name>Renrui Tan</name>
+        </author>
+        <author>
+            <name>Zhiming Wang</name>
+        </author>
+        <author>
+            <name>Xinyu Tong</name>
+        </author>
+        <author>
+            <name>Keqiu Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Deep Reinforcement Learning Model for a Two-layer Scheduling Policy in Urban Public Resources]]></title>
+        <id>https://ieeexplore.ieee.org/document/10183782</id>
+        <link href="https://ieeexplore.ieee.org/document/10183782"/>
+        <updated>2023-07-14T01:16:37.112Z</updated>
+        <summary type="html"><![CDATA[The issue of efficient scheduling and deployment of urban public resources has become increasingly important with the development of technological innovations and the mobility of societies. The arbitrary usage behavior of users causes the unbalanced distribution of resources and makes it difficult for users to get adequate resources in some places but redundant resources in others. Therefore, desi...]]></summary>
+        <author>
+            <name>Cong Zhang</name>
+        </author>
+        <author>
+            <name>Fan Wu</name>
+        </author>
+        <author>
+            <name>He Wang</name>
+        </author>
+        <author>
+            <name>Hegeng Zhang</name>
+        </author>
+        <author>
+            <name>Huadong Ma</name>
+        </author>
+        <author>
+            <name>Yuanan Liu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Decentralized Multi-Subsystem Weighted Interference Cancellation with Coded Caching]]></title>
+        <id>https://ieeexplore.ieee.org/document/10181303</id>
+        <link href="https://ieeexplore.ieee.org/document/10181303"/>
+        <updated>2023-07-14T01:16:37.112Z</updated>
+        <summary type="html"><![CDATA[To both eliminate interference from unrequested subfiles and improve sum degree-of-freedom (DoF) in multirelay Internet of vehicles (IoV) systems, a new decentralized multi-subsystem weighted interference cancellation (DMS-WIC) scheme with coded caching is proposed. It divides the transmission into two stages with optimized parameters to minimize link load. It also improves the sum DoF by jointly ...]]></summary>
+        <author>
+            <name>Jianrong Bao</name>
+        </author>
+        <author>
+            <name>Pu Wang</name>
+        </author>
+        <author>
+            <name>Chao Liu</name>
+        </author>
+        <author>
+            <name>Jun Wu</name>
+        </author>
+        <author>
+            <name>Bin Jiang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coexistence between Task-and Data-Oriented Communications: A Whittle’s Index Guided Multi-Agent Reinforcement Learning Approach]]></title>
+        <id>https://ieeexplore.ieee.org/document/10181305</id>
+        <link href="https://ieeexplore.ieee.org/document/10181305"/>
+        <updated>2023-07-14T01:16:37.112Z</updated>
+        <summary type="html"><![CDATA[We investigate the coexistence of task-oriented and data-oriented communications in a IoT system that shares a group of channels, and study the scheduling problem to jointly optimize the weighted age of incorrect information (AoII) and throughput, which are the performance metrics of the two types of communications, respectively. This problem is formulated as a Markov decision problem, which is di...]]></summary>
+        <author>
+            <name>Ran Li</name>
+        </author>
+        <author>
+            <name>Chuan Huang</name>
+        </author>
+        <author>
+            <name>Xiaoqi Qin</name>
+        </author>
+        <author>
+            <name>Shengpei Jiang</name>
+        </author>
+        <author>
+            <name>Nan Ma</name>
+        </author>
+        <author>
+            <name>Shuguang Cui</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Task Class Partitioning for Mobile Computation Offloading]]></title>
+        <id>https://ieeexplore.ieee.org/document/10182315</id>
+        <link href="https://ieeexplore.ieee.org/document/10182315"/>
+        <updated>2023-07-14T01:16:37.112Z</updated>
+        <summary type="html"><![CDATA[This paper introduces algorithms for static task class partitioning in mobile computation offloading (MCO). The objective is to partition a given set of task classes into two sets that are either executed locally by the mobile device (MD) or those classes that are permitted to contend for remote edge server (ES) execution. The goal is to find the task class partition that gives the minimum mean MD...]]></summary>
+        <author>
+            <name>Hong Chen</name>
+        </author>
+        <author>
+            <name>Terence D. Todd</name>
+        </author>
+        <author>
+            <name>Dongmei Zhao</name>
+        </author>
+        <author>
+            <name>George Karakostas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intelligent Partial Sensing based Autonomous Resource Allocation for NR V2X]]></title>
+        <id>https://ieeexplore.ieee.org/document/10182300</id>
+        <link href="https://ieeexplore.ieee.org/document/10182300"/>
+        <updated>2023-07-14T01:16:37.112Z</updated>
+        <summary type="html"><![CDATA[Since its introduction for long term evolution (LTE), vehicle-to-everything (V2X) communications have evolved to the recent new radio (NR)-based V2X with enhanced reliability, latency, capacity, and flexibility. One of the key features of NR V2X is the enabling of sidelink (SL) communications between user equipments (UEs) without any assistance from a base station (i.e. support of the out-of-cover...]]></summary>
+        <author>
+            <name>Taehyoung Kim</name>
+        </author>
+        <author>
+            <name>Younsun Kim</name>
+        </author>
+        <author>
+            <name>Minchae Jung</name>
+        </author>
+        <author>
+            <name>Hyukmin Son</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Through-Wall Human Pose Estimation by Mutual Information Maximizing Deeply-Supervised Nets]]></title>
+        <id>https://ieeexplore.ieee.org/document/10182341</id>
+        <link href="https://ieeexplore.ieee.org/document/10182341"/>
+        <updated>2023-07-14T01:16:37.112Z</updated>
+        <summary type="html"><![CDATA[This article proposes a three-dimensional (3D) human pose estimation method using through-wall radar (TWR) systems, which extends and supplements new applications in the era of the Internet of Things (IoT). TWR system can penetrate non-metallic obstacles and perceive wall-occlusive human targets, but the physical characteristics of radio frequency (RF) signals, such as poor imaging resolution and ...]]></summary>
+        <author>
+            <name>Zhijie Zheng</name>
+        </author>
+        <author>
+            <name>Jun Pan</name>
+        </author>
+        <author>
+            <name>Diankun Zhang</name>
+        </author>
+        <author>
+            <name>Xiao Liang</name>
+        </author>
+        <author>
+            <name>Xiaojun Liu</name>
+        </author>
+        <author>
+            <name>Guangyou Fang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Efficient Demodulation Algorithms for MIMO-LoRa]]></title>
+        <id>https://ieeexplore.ieee.org/document/10182330</id>
+        <link href="https://ieeexplore.ieee.org/document/10182330"/>
+        <updated>2023-07-14T01:16:37.112Z</updated>
+        <summary type="html"><![CDATA[Multiple-Input Multiple-Output (MIMO) and Long Range (LoRa) have been synergistically combined to better support a variety of Internet-of-Things (IoT) applications. This letter investigates the problem of demodulation for a MIMO-LoRa system. The existing demodulation strategy for MIMO-LoRa is based on the maximum likelihood criterion, which however suffers from its high computational complexity. T...]]></summary>
+        <author>
+            <name>Jae-Mo Kang</name>
+        </author>
+        <author>
+            <name>Kae Won Choi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Advanced Energy Management and Harvesting System for Network Lifetime for Industrial IoT in Smart Cities]]></title>
+        <id>https://ieeexplore.ieee.org/document/10182347</id>
+        <link href="https://ieeexplore.ieee.org/document/10182347"/>
+        <updated>2023-07-14T01:16:37.112Z</updated>
+        <summary type="html"><![CDATA[In smart cities, managing the energy in the industrial Internet of Things (IIoT) IoT networks is a challenging issue. In a cluster-based IIoT, Cluster Heads (CHs) near the sink quickly deplete their energy as they are responsible for relaying a large amount of data. It results in isolating the sink from the network and causes an energy hole or hot spot problem. Many solutions exist for this proble...]]></summary>
+        <author>
+            <name>Srikanth Jannu</name>
+        </author>
+        <author>
+            <name>Suresh Dara</name>
+        </author>
+        <author>
+            <name>Chaitanya Thuppari</name>
+        </author>
+        <author>
+            <name>Ankit Vidyarthi</name>
+        </author>
+        <author>
+            <name>Deepak Gupta</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Modeling on Resource Allocation for Age-Sensitive Mobile Edge Computing Using Federated Multi-Agent Reinforcement Learning]]></title>
         <id>https://ieeexplore.ieee.org/document/10179935</id>
@@ -21474,201 +21666,6 @@
         </author>
         <author>
             <name>Kevin Zhang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Efficient Framework of Energy Status Reporting for BLE Beacon Networks]]></title>
-        <id>https://ieeexplore.ieee.org/document/10020181</id>
-        <link href="https://ieeexplore.ieee.org/document/10020181"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[With growing demands for IoT applications, BLE beacon networks are rapidly being adopted. Periodic battery replacement operations and onsite maintenance are required to ensure continuous and reliable service. These operations are labour-intensive and resource-exhaustive. Therefore, Bluetooth gateways/mobile devices are often employed to monitor/collect the energy status. However, the gateways cons...]]></summary>
-        <author>
-            <name>Simon Wong</name>
-        </author>
-        <author>
-            <name>James She</name>
-        </author>
-        <author>
-            <name>Kang Eun Jeon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Two-Timescale Learning-Based Task Offloading for Remote IoT in Integrated Satellite-Terrestrial Networks]]></title>
-        <id>https://ieeexplore.ieee.org/document/10018447</id>
-        <link href="https://ieeexplore.ieee.org/document/10018447"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[In this paper, we propose an integrated satellite-terrestrial network (ISTN) architecture to support delay-sensitive task offloading for remote Internet of Things (IoT), in which satellite networks serve as a complement to terrestrial networks by providing additional communication resources, backhaul capacities, and seamless coverage. Under this architecture, we investigate how to jointly make off...]]></summary>
-        <author>
-            <name>Dairu Han</name>
-        </author>
-        <author>
-            <name>Qiang Ye</name>
-        </author>
-        <author>
-            <name>Haixia Peng</name>
-        </author>
-        <author>
-            <name>Wen Wu</name>
-        </author>
-        <author>
-            <name>Huaqing Wu</name>
-        </author>
-        <author>
-            <name>Wenhe Liao</name>
-        </author>
-        <author>
-            <name>Xuemin Shen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Efficient Revocable Anonymous Authentication Mechanism for Edge Intelligent Controllers]]></title>
-        <id>https://ieeexplore.ieee.org/document/10018418</id>
-        <link href="https://ieeexplore.ieee.org/document/10018418"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[In the field of industrial control, edge computing puts forward higher requirements for the local processing ability of data. The traditional industrial Programmable Logic Controller (PLC) cannot complete this task. Edge Intelligent Controller (EIC) is developed according to the demand for edge computing. As the core component of edge computing, the security and reliable operation of EIC has great...]]></summary>
-        <author>
-            <name>Zhong Cao</name>
-        </author>
-        <author>
-            <name>Zhuo Chen</name>
-        </author>
-        <author>
-            <name>Wenli Shang</name>
-        </author>
-        <author>
-            <name>Yongdong Zhu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Joint DNN Partition and Resource Allocation for Task Offloading in Edge-Cloud-Assisted IoT Environments]]></title>
-        <id>https://ieeexplore.ieee.org/document/10018424</id>
-        <link href="https://ieeexplore.ieee.org/document/10018424"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[Multi-access Edge Computing (MEC) is a promising approach to enhancing IoT devices running AI-based services. Especially, the edge-cloud architecture acts as a strong supporter of the resource-limited IoT devices. How to optimize the system resources efficiently to improve the service performance is the key issue in this scenario. Motivated by this, in this paper, we focus on a multi-Base Station ...]]></summary>
-        <author>
-            <name>Wenhao Fan</name>
-        </author>
-        <author>
-            <name>Li Gao</name>
-        </author>
-        <author>
-            <name>Yi Su</name>
-        </author>
-        <author>
-            <name>Fan Wu</name>
-        </author>
-        <author>
-            <name>Yuan’an Liu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dynamic Pilot Design for Multicast in the Internet of Vehicles Running at Different Speeds]]></title>
-        <id>https://ieeexplore.ieee.org/document/10018440</id>
-        <link href="https://ieeexplore.ieee.org/document/10018440"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[High mobility of vehicles causes time-frequency selective fading over physical channels within the Internet of vehicles (IoV). To improve the resource utilisation efficiency, a novel transmission strategy, based on dynamic pilot design, is proposed in this paper to reduce the pilot consumption in doubly selective channel estimation for the multicast to vehicles running at different speeds. As the ...]]></summary>
-        <author>
-            <name>Yuli Yang</name>
-        </author>
-        <author>
-            <name>Bingli Jiao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Decomposition-based Approach for Multi-task Scheduling with Execution Uncertainty in Industrial Internet of Things]]></title>
-        <id>https://ieeexplore.ieee.org/document/10018419</id>
-        <link href="https://ieeexplore.ieee.org/document/10018419"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[Industrial Internet of Things (IIoT) is changing the way in which factories operatewith the help of various industrial applications. However, the execution uncertainty of computing tasks has always been ignored in IIoT applications. In this paper, we define a novel conditional task graph to describe the execution uncertainty and present a generation algorithm to obtain all task scenario graphs and...]]></summary>
-        <author>
-            <name>Yong Wang</name>
-        </author>
-        <author>
-            <name>Bingtao Hu</name>
-        </author>
-        <author>
-            <name>Yixiong Feng</name>
-        </author>
-        <author>
-            <name>Zhiwu Li</name>
-        </author>
-        <author>
-            <name>Yiping Feng</name>
-        </author>
-        <author>
-            <name>Jianrong Tan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Novel Robust Dynamic Distributed Drone-Deployment Strategy for Channel-Capacity Optimization for Three-Dimensional UAV-Aided Ad Hoc Networks]]></title>
-        <id>https://ieeexplore.ieee.org/document/10018423</id>
-        <link href="https://ieeexplore.ieee.org/document/10018423"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[Unmanned aerial vehicles (UAVs) are considered to be excellent candidates of airborne relays or base stations for the three-dimensional ad hoc networks. They can be promptly deployed to serve large bursts of communication traffic in cellular networks or provide timely network support in wireless sensor networks (WSN). It is desirable but challenging to dynamically find the optimal deployment strat...]]></summary>
-        <author>
-            <name>Xiao Yan</name>
-        </author>
-        <author>
-            <name>Yehan Lin</name>
-        </author>
-        <author>
-            <name>Hsiao-Chun Wu</name>
-        </author>
-        <author>
-            <name>Qian Wang</name>
-        </author>
-        <author>
-            <name>Shenglong Zhu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CubeLearn: End-to-end Learning for Human Motion Recognition from Raw mmWave Radar Signals]]></title>
-        <id>https://ieeexplore.ieee.org/document/10018429</id>
-        <link href="https://ieeexplore.ieee.org/document/10018429"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[mmWave FMCW radar has attracted huge amount of research interest for human-centered applications in recent years, such as human gesture and activity recognition. Most existing pipelines are built upon conventional Discrete Fourier Transform (DFT) pre-processing and deep neural network classifier hybrid methods, with a majority of previous works focusing on designing the downstream classifier to im...]]></summary>
-        <author>
-            <name>Peijun Zhao</name>
-        </author>
-        <author>
-            <name>Chris Xiaoxuan Lu</name>
-        </author>
-        <author>
-            <name>Bing Wang</name>
-        </author>
-        <author>
-            <name>Niki Trigoni</name>
-        </author>
-        <author>
-            <name>Andrew Markham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Data-driven Task Offloading Method for Resource-constrained Terminals via Unified Resource Model]]></title>
-        <id>https://ieeexplore.ieee.org/document/10018327</id>
-        <link href="https://ieeexplore.ieee.org/document/10018327"/>
-        <updated>2023-04-27T04:15:53.706Z</updated>
-        <summary type="html"><![CDATA[In recent years, with an increasing number of Internet of Things (IoT) devices, general cloud computing mode is hard to process large amounts of data with high quality of service (QoS). Edge computing is put forward to relieve the pressure of cloud servers, but most of them only focused on allocating tasks depending on cloud servers or edge servers with virtualization technology. Resource-constrai...]]></summary>
-        <author>
-            <name>Xueshuo Chen</name>
-        </author>
-        <author>
-            <name>Yuxing Mao</name>
-        </author>
-        <author>
-            <name>Hongyu Wang</name>
-        </author>
-        <author>
-            <name>Yihang Xu</name>
-        </author>
-        <author>
-            <name>Danyang Li</name>
-        </author>
-        <author>
-            <name>Siyang Liu</name>
-        </author>
-        <author>
-            <name>Xianping Zhao</name>
         </author>
     </entry>
 </feed>

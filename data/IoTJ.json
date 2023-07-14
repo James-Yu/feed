@@ -1,5 +1,120 @@
 [
   {
+    "articleNumber": "10181306",
+    "articleTitle": "VoiceMap: Autonomous Mapping of Microphone Array for Voice Localization",
+    "authors": [
+      "Sheng Chen",
+      "Renrui Tan",
+      "Zhiming Wang",
+      "Xinyu Tong",
+      "Keqiu Li"
+    ],
+    "abstract": "Voice command systems have been widely deployed on many smart devices for remote control. To further enrich the intelligence of these smart devices, the location of sound plays an important role in context-aware acoustic services. Despite initial steps made toward reliable voice localization, the state of the arts rely on prior knowledge of device location, device orientation and an indoor electro...",
+    "date": "2023-07-14T01:16:37.112Z"
+  },
+  {
+    "articleNumber": "10183782",
+    "articleTitle": "A Deep Reinforcement Learning Model for a Two-layer Scheduling Policy in Urban Public Resources",
+    "authors": [
+      "Cong Zhang",
+      "Fan Wu",
+      "He Wang",
+      "Hegeng Zhang",
+      "Huadong Ma",
+      "Yuanan Liu"
+    ],
+    "abstract": "The issue of efficient scheduling and deployment of urban public resources has become increasingly important with the development of technological innovations and the mobility of societies. The arbitrary usage behavior of users causes the unbalanced distribution of resources and makes it difficult for users to get adequate resources in some places but redundant resources in others. Therefore, desi...",
+    "date": "2023-07-14T01:16:37.112Z"
+  },
+  {
+    "articleNumber": "10181303",
+    "articleTitle": "Decentralized Multi-Subsystem Weighted Interference Cancellation with Coded Caching",
+    "authors": [
+      "Jianrong Bao",
+      "Pu Wang",
+      "Chao Liu",
+      "Jun Wu",
+      "Bin Jiang"
+    ],
+    "abstract": "To both eliminate interference from unrequested subfiles and improve sum degree-of-freedom (DoF) in multirelay Internet of vehicles (IoV) systems, a new decentralized multi-subsystem weighted interference cancellation (DMS-WIC) scheme with coded caching is proposed. It divides the transmission into two stages with optimized parameters to minimize link load. It also improves the sum DoF by jointly ...",
+    "date": "2023-07-14T01:16:37.112Z"
+  },
+  {
+    "articleNumber": "10181305",
+    "articleTitle": "Coexistence between Task-and Data-Oriented Communications: A Whittle’s Index Guided Multi-Agent Reinforcement Learning Approach",
+    "authors": [
+      "Ran Li",
+      "Chuan Huang",
+      "Xiaoqi Qin",
+      "Shengpei Jiang",
+      "Nan Ma",
+      "Shuguang Cui"
+    ],
+    "abstract": "We investigate the coexistence of task-oriented and data-oriented communications in a IoT system that shares a group of channels, and study the scheduling problem to jointly optimize the weighted age of incorrect information (AoII) and throughput, which are the performance metrics of the two types of communications, respectively. This problem is formulated as a Markov decision problem, which is di...",
+    "date": "2023-07-14T01:16:37.112Z"
+  },
+  {
+    "articleNumber": "10182315",
+    "articleTitle": "Task Class Partitioning for Mobile Computation Offloading",
+    "authors": [
+      "Hong Chen",
+      "Terence D. Todd",
+      "Dongmei Zhao",
+      "George Karakostas"
+    ],
+    "abstract": "This paper introduces algorithms for static task class partitioning in mobile computation offloading (MCO). The objective is to partition a given set of task classes into two sets that are either executed locally by the mobile device (MD) or those classes that are permitted to contend for remote edge server (ES) execution. The goal is to find the task class partition that gives the minimum mean MD...",
+    "date": "2023-07-14T01:16:37.112Z"
+  },
+  {
+    "articleNumber": "10182300",
+    "articleTitle": "Intelligent Partial Sensing based Autonomous Resource Allocation for NR V2X",
+    "authors": [
+      "Taehyoung Kim",
+      "Younsun Kim",
+      "Minchae Jung",
+      "Hyukmin Son"
+    ],
+    "abstract": "Since its introduction for long term evolution (LTE), vehicle-to-everything (V2X) communications have evolved to the recent new radio (NR)-based V2X with enhanced reliability, latency, capacity, and flexibility. One of the key features of NR V2X is the enabling of sidelink (SL) communications between user equipments (UEs) without any assistance from a base station (i.e. support of the out-of-cover...",
+    "date": "2023-07-14T01:16:37.112Z"
+  },
+  {
+    "articleNumber": "10182341",
+    "articleTitle": "Through-Wall Human Pose Estimation by Mutual Information Maximizing Deeply-Supervised Nets",
+    "authors": [
+      "Zhijie Zheng",
+      "Jun Pan",
+      "Diankun Zhang",
+      "Xiao Liang",
+      "Xiaojun Liu",
+      "Guangyou Fang"
+    ],
+    "abstract": "This article proposes a three-dimensional (3D) human pose estimation method using through-wall radar (TWR) systems, which extends and supplements new applications in the era of the Internet of Things (IoT). TWR system can penetrate non-metallic obstacles and perceive wall-occlusive human targets, but the physical characteristics of radio frequency (RF) signals, such as poor imaging resolution and ...",
+    "date": "2023-07-14T01:16:37.112Z"
+  },
+  {
+    "articleNumber": "10182330",
+    "articleTitle": "Efficient Demodulation Algorithms for MIMO-LoRa",
+    "authors": [
+      "Jae-Mo Kang",
+      "Kae Won Choi"
+    ],
+    "abstract": "Multiple-Input Multiple-Output (MIMO) and Long Range (LoRa) have been synergistically combined to better support a variety of Internet-of-Things (IoT) applications. This letter investigates the problem of demodulation for a MIMO-LoRa system. The existing demodulation strategy for MIMO-LoRa is based on the maximum likelihood criterion, which however suffers from its high computational complexity. T...",
+    "date": "2023-07-14T01:16:37.112Z"
+  },
+  {
+    "articleNumber": "10182347",
+    "articleTitle": "An Advanced Energy Management and Harvesting System for Network Lifetime for Industrial IoT in Smart Cities",
+    "authors": [
+      "Srikanth Jannu",
+      "Suresh Dara",
+      "Chaitanya Thuppari",
+      "Ankit Vidyarthi",
+      "Deepak Gupta"
+    ],
+    "abstract": "In smart cities, managing the energy in the industrial Internet of Things (IIoT) IoT networks is a challenging issue. In a cluster-based IIoT, Cluster Heads (CHs) near the sink quickly deplete their energy as they are responsible for relaying a large amount of data. It results in isolating the sink from the network and causes an energy hole or hot spot problem. Many solutions exist for this proble...",
+    "date": "2023-07-14T01:16:37.112Z"
+  },
+  {
     "articleNumber": "10179935",
     "articleTitle": "Modeling on Resource Allocation for Age-Sensitive Mobile Edge Computing Using Federated Multi-Agent Reinforcement Learning",
     "authors": [
@@ -12769,122 +12884,6 @@
       "Kevin Zhang"
     ],
     "abstract": "In this paper, we demonstrate that by using a temporal sequence of applied brake signals collected from a vehicle, attackers can still possibly infer the vehicle’s route over the period, even though brake signal data does not reveal any specific location information. Our route inference is basically composed of three steps: At first, we categorize brake signal sub-sequences into four different dri...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "10020181",
-    "articleTitle": "An Efficient Framework of Energy Status Reporting for BLE Beacon Networks",
-    "authors": [
-      "Simon Wong",
-      "James She",
-      "Kang Eun Jeon"
-    ],
-    "abstract": "With growing demands for IoT applications, BLE beacon networks are rapidly being adopted. Periodic battery replacement operations and onsite maintenance are required to ensure continuous and reliable service. These operations are labour-intensive and resource-exhaustive. Therefore, Bluetooth gateways/mobile devices are often employed to monitor/collect the energy status. However, the gateways cons...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "10018447",
-    "articleTitle": "Two-Timescale Learning-Based Task Offloading for Remote IoT in Integrated Satellite-Terrestrial Networks",
-    "authors": [
-      "Dairu Han",
-      "Qiang Ye",
-      "Haixia Peng",
-      "Wen Wu",
-      "Huaqing Wu",
-      "Wenhe Liao",
-      "Xuemin Shen"
-    ],
-    "abstract": "In this paper, we propose an integrated satellite-terrestrial network (ISTN) architecture to support delay-sensitive task offloading for remote Internet of Things (IoT), in which satellite networks serve as a complement to terrestrial networks by providing additional communication resources, backhaul capacities, and seamless coverage. Under this architecture, we investigate how to jointly make off...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "10018418",
-    "articleTitle": "Efficient Revocable Anonymous Authentication Mechanism for Edge Intelligent Controllers",
-    "authors": [
-      "Zhong Cao",
-      "Zhuo Chen",
-      "Wenli Shang",
-      "Yongdong Zhu"
-    ],
-    "abstract": "In the field of industrial control, edge computing puts forward higher requirements for the local processing ability of data. The traditional industrial Programmable Logic Controller (PLC) cannot complete this task. Edge Intelligent Controller (EIC) is developed according to the demand for edge computing. As the core component of edge computing, the security and reliable operation of EIC has great...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "10018424",
-    "articleTitle": "Joint DNN Partition and Resource Allocation for Task Offloading in Edge-Cloud-Assisted IoT Environments",
-    "authors": [
-      "Wenhao Fan",
-      "Li Gao",
-      "Yi Su",
-      "Fan Wu",
-      "Yuan’an Liu"
-    ],
-    "abstract": "Multi-access Edge Computing (MEC) is a promising approach to enhancing IoT devices running AI-based services. Especially, the edge-cloud architecture acts as a strong supporter of the resource-limited IoT devices. How to optimize the system resources efficiently to improve the service performance is the key issue in this scenario. Motivated by this, in this paper, we focus on a multi-Base Station ...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "10018440",
-    "articleTitle": "Dynamic Pilot Design for Multicast in the Internet of Vehicles Running at Different Speeds",
-    "authors": [
-      "Yuli Yang",
-      "Bingli Jiao"
-    ],
-    "abstract": "High mobility of vehicles causes time-frequency selective fading over physical channels within the Internet of vehicles (IoV). To improve the resource utilisation efficiency, a novel transmission strategy, based on dynamic pilot design, is proposed in this paper to reduce the pilot consumption in doubly selective channel estimation for the multicast to vehicles running at different speeds. As the ...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "10018419",
-    "articleTitle": "A Decomposition-based Approach for Multi-task Scheduling with Execution Uncertainty in Industrial Internet of Things",
-    "authors": [
-      "Yong Wang",
-      "Bingtao Hu",
-      "Yixiong Feng",
-      "Zhiwu Li",
-      "Yiping Feng",
-      "Jianrong Tan"
-    ],
-    "abstract": "Industrial Internet of Things (IIoT) is changing the way in which factories operatewith the help of various industrial applications. However, the execution uncertainty of computing tasks has always been ignored in IIoT applications. In this paper, we define a novel conditional task graph to describe the execution uncertainty and present a generation algorithm to obtain all task scenario graphs and...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "10018423",
-    "articleTitle": "Novel Robust Dynamic Distributed Drone-Deployment Strategy for Channel-Capacity Optimization for Three-Dimensional UAV-Aided Ad Hoc Networks",
-    "authors": [
-      "Xiao Yan",
-      "Yehan Lin",
-      "Hsiao-Chun Wu",
-      "Qian Wang",
-      "Shenglong Zhu"
-    ],
-    "abstract": "Unmanned aerial vehicles (UAVs) are considered to be excellent candidates of airborne relays or base stations for the three-dimensional ad hoc networks. They can be promptly deployed to serve large bursts of communication traffic in cellular networks or provide timely network support in wireless sensor networks (WSN). It is desirable but challenging to dynamically find the optimal deployment strat...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "10018429",
-    "articleTitle": "CubeLearn: End-to-end Learning for Human Motion Recognition from Raw mmWave Radar Signals",
-    "authors": [
-      "Peijun Zhao",
-      "Chris Xiaoxuan Lu",
-      "Bing Wang",
-      "Niki Trigoni",
-      "Andrew Markham"
-    ],
-    "abstract": "mmWave FMCW radar has attracted huge amount of research interest for human-centered applications in recent years, such as human gesture and activity recognition. Most existing pipelines are built upon conventional Discrete Fourier Transform (DFT) pre-processing and deep neural network classifier hybrid methods, with a majority of previous works focusing on designing the downstream classifier to im...",
-    "date": "2023-04-27T04:15:53.706Z"
-  },
-  {
-    "articleNumber": "10018327",
-    "articleTitle": "Data-driven Task Offloading Method for Resource-constrained Terminals via Unified Resource Model",
-    "authors": [
-      "Xueshuo Chen",
-      "Yuxing Mao",
-      "Hongyu Wang",
-      "Yihang Xu",
-      "Danyang Li",
-      "Siyang Liu",
-      "Xianping Zhao"
-    ],
-    "abstract": "In recent years, with an increasing number of Internet of Things (IoT) devices, general cloud computing mode is hard to process large amounts of data with high quality of service (QoS). Edge computing is put forward to relieve the pressure of cloud servers, but most of them only focused on allocating tasks depending on cloud servers or edge servers with virtualization technology. Resource-constrai...",
     "date": "2023-04-27T04:15:53.706Z"
   }
 ]

@@ -1,5 +1,84 @@
 [
   {
+    "articleNumber": "10182275",
+    "articleTitle": "CAMV: A Crash Alarm Model for Vehicles Based on Internet of Vehicles Data",
+    "authors": [
+      "Tiange Wang",
+      "Zijun Zhang",
+      "Kwok-Leung Tsui"
+    ],
+    "abstract": "Predicting vehicle crashes is critical to improve urban transportation safety. It is however challenging to alarm impending crashes accurately as the volume of non-crash data dominates that of crash data. Most existing studies formulate the crash prediction as retrospective study and a binary classification problem, which offers the limited capacity of alarming crashes in advance. To fill such gap...",
+    "date": "2023-07-14T01:16:22.532Z"
+  },
+  {
+    "articleNumber": "10181232",
+    "articleTitle": "Incorporating Optimization in Strategic Conflict Resolution for UAS Traffic Management",
+    "authors": [
+      "Yiwen Tang",
+      "Yan Xu"
+    ],
+    "abstract": "This study presents an approach to incorporate optimisation in the strategic conflict resolution service for unmanned aircraft systems (UAS) traffic management. A conventional approach in line with the First-Come, First-Served (FCFS) principle is introduced, following the generation of two types of flight plans (i.e., linear and area operations) with uncertainty buffers further taken into account....",
+    "date": "2023-07-14T01:16:22.532Z"
+  },
+  {
+    "articleNumber": "10181234",
+    "articleTitle": "Pedestrian Trajectory Prediction in Pedestrian-Vehicle Mixed Environments: A Systematic Review",
+    "authors": [
+      "Mahsa Golchoubian",
+      "Moojan Ghafurian",
+      "Kerstin Dautenhahn",
+      "Nasser Lashgarian Azad"
+    ],
+    "abstract": "Planning an autonomous vehicle’s (AV) path in a space shared with pedestrians requires reasoning about pedestrians’ future trajectories. A practical pedestrian trajectory prediction algorithm for the use of AVs needs to consider the effect of the vehicle’s interactions with the pedestrians on pedestrians’ future motion behaviours. In this regard, this paper systematically reviews different methods...",
+    "date": "2023-07-14T01:16:22.532Z"
+  },
+  {
+    "articleNumber": "10182362",
+    "articleTitle": "FLAMNet: A Flexible Line Anchor Mechanism Network for Lane Detection",
+    "authors": [
+      "Hao Ran",
+      "Yunfei Yin",
+      "Faliang Huang",
+      "Xianjian Bao"
+    ],
+    "abstract": "Lane detection is critical for intelligent vehicles to sense drivable areas. Compared to general objects, lane lines are slender-shaped, easily occluded, or defaced. Therefore, the lane detection network requires a more robust ability for local detail extraction and global semantic information modeling. In this paper, we propose a novel lane detection network (FLAMNet) with a flexible line anchor ...",
+    "date": "2023-07-14T01:16:22.532Z"
+  },
+  {
+    "articleNumber": "10182290",
+    "articleTitle": "Shallow Detail and Semantic Segmentation Combined Bilateral Network Model for Lane Detection",
+    "authors": [
+      "Fuxing Yu",
+      "Yafeng Wu",
+      "Yina Suo",
+      "Yaguang Su"
+    ],
+    "abstract": "Lanes play a very critical and important role in maintaining the orderly operation of road traffic. Therefore, the automatic lane detection is very important and has significant potential value. Combining the existing lane detection methods based on deep learning, this paper proposes a new lane detection model, Bi-Lanenet, to solve the problems that still exist in the current methods, aiming to ov...",
+    "date": "2023-07-14T01:16:22.532Z"
+  },
+  {
+    "articleNumber": "10181236",
+    "articleTitle": "Developing a More Reliable Framework for Extracting Traffic Data From a UAV Video",
+    "authors": [
+      "Xiaohe Li",
+      "Jianping Wu"
+    ],
+    "abstract": "Unmanned aerial vehicles (UAVs) have been used extensively in traffic data collection owing to their flexibility, stability, and ease of operation. However, vehicle detection methods using horizontal detectors are less efficient and accurate for UAV vehicle detection, whereas rotated detectors suffer the discontinuous boundaries problem. Therefore, we proposed a traffic data extraction framework b...",
+    "date": "2023-07-14T01:16:22.532Z"
+  },
+  {
+    "articleNumber": "10181238",
+    "articleTitle": "Potential Game Based Task Offloading in the High-Speed Railway With Reinforcement Learning",
+    "authors": [
+      "Wei Wu",
+      "Haifeng Song",
+      "Hongwei Wang",
+      "Hairong Dong"
+    ],
+    "abstract": "The advanced 5G and mobile edge computing promote the development of the intelligent high-speed railway and enable computing-intensive and latency-sensitive tasks. Mobile edge computing can effectively release the pressure of tasks on on-board computing resources by migrating communication, computing, and storage to edge servers. However, the fluctuation of data transmission and task processing du...",
+    "date": "2023-07-14T01:16:22.532Z"
+  },
+  {
     "articleNumber": "10177283",
     "articleTitle": "Optimal Design of Tractive Layout for Minimizing the Insufficient Displacement of Railway Turnout",
     "authors": [

@@ -1,5 +1,16 @@
 [
   {
+    "articleNumber": "10183830",
+    "articleTitle": "From Minimum Change to Maximum Density: On Determining Near-Optimal S-Repair",
+    "authors": [
+      "Yu Sun",
+      "Shaoxu Song",
+      "Xiaojie Yuan"
+    ],
+    "abstract": "Dirty data are commonly observed in real applications, making cleaning them a key step in data preparation. The widely adopted idea of cleaning dirty data is based on detecting conflicts w.r.t. integrity constraints. Typical S-repair methods remove a minimal set of tuples (to avoid excessive removal and information loss) such that integrity constraints are no longer violated in remaining tuples. U...",
+    "date": "2023-07-14T01:16:27.400Z"
+  },
+  {
     "articleNumber": "10179922",
     "articleTitle": "$D^{2}MTS$: Enabling Dependable Data Collection With Multiple Crowdsourcers Trust Sharing in Mobile Crowdsensing",
     "authors": [

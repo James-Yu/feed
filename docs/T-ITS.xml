@@ -2,11 +2,129 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://jamesyu.me/feed/T-ITS.rss</id>
     <title>IEEE Transactions on Intelligent Transportation Systems</title>
-    <updated>2023-07-13T16:16:29.438Z</updated>
+    <updated>2023-07-14T01:16:22.539Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://jamesyu.me/feed/T-ITS.rss"/>
     <subtitle>IEEE Transactions on Intelligent Transportation Systems</subtitle>
     <rights>Copyright reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[CAMV: A Crash Alarm Model for Vehicles Based on Internet of Vehicles Data]]></title>
+        <id>https://ieeexplore.ieee.org/document/10182275</id>
+        <link href="https://ieeexplore.ieee.org/document/10182275"/>
+        <updated>2023-07-14T01:16:22.532Z</updated>
+        <summary type="html"><![CDATA[Predicting vehicle crashes is critical to improve urban transportation safety. It is however challenging to alarm impending crashes accurately as the volume of non-crash data dominates that of crash data. Most existing studies formulate the crash prediction as retrospective study and a binary classification problem, which offers the limited capacity of alarming crashes in advance. To fill such gap...]]></summary>
+        <author>
+            <name>Tiange Wang</name>
+        </author>
+        <author>
+            <name>Zijun Zhang</name>
+        </author>
+        <author>
+            <name>Kwok-Leung Tsui</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Incorporating Optimization in Strategic Conflict Resolution for UAS Traffic Management]]></title>
+        <id>https://ieeexplore.ieee.org/document/10181232</id>
+        <link href="https://ieeexplore.ieee.org/document/10181232"/>
+        <updated>2023-07-14T01:16:22.532Z</updated>
+        <summary type="html"><![CDATA[This study presents an approach to incorporate optimisation in the strategic conflict resolution service for unmanned aircraft systems (UAS) traffic management. A conventional approach in line with the First-Come, First-Served (FCFS) principle is introduced, following the generation of two types of flight plans (i.e., linear and area operations) with uncertainty buffers further taken into account....]]></summary>
+        <author>
+            <name>Yiwen Tang</name>
+        </author>
+        <author>
+            <name>Yan Xu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pedestrian Trajectory Prediction in Pedestrian-Vehicle Mixed Environments: A Systematic Review]]></title>
+        <id>https://ieeexplore.ieee.org/document/10181234</id>
+        <link href="https://ieeexplore.ieee.org/document/10181234"/>
+        <updated>2023-07-14T01:16:22.532Z</updated>
+        <summary type="html"><![CDATA[Planning an autonomous vehicle’s (AV) path in a space shared with pedestrians requires reasoning about pedestrians’ future trajectories. A practical pedestrian trajectory prediction algorithm for the use of AVs needs to consider the effect of the vehicle’s interactions with the pedestrians on pedestrians’ future motion behaviours. In this regard, this paper systematically reviews different methods...]]></summary>
+        <author>
+            <name>Mahsa Golchoubian</name>
+        </author>
+        <author>
+            <name>Moojan Ghafurian</name>
+        </author>
+        <author>
+            <name>Kerstin Dautenhahn</name>
+        </author>
+        <author>
+            <name>Nasser Lashgarian Azad</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FLAMNet: A Flexible Line Anchor Mechanism Network for Lane Detection]]></title>
+        <id>https://ieeexplore.ieee.org/document/10182362</id>
+        <link href="https://ieeexplore.ieee.org/document/10182362"/>
+        <updated>2023-07-14T01:16:22.532Z</updated>
+        <summary type="html"><![CDATA[Lane detection is critical for intelligent vehicles to sense drivable areas. Compared to general objects, lane lines are slender-shaped, easily occluded, or defaced. Therefore, the lane detection network requires a more robust ability for local detail extraction and global semantic information modeling. In this paper, we propose a novel lane detection network (FLAMNet) with a flexible line anchor ...]]></summary>
+        <author>
+            <name>Hao Ran</name>
+        </author>
+        <author>
+            <name>Yunfei Yin</name>
+        </author>
+        <author>
+            <name>Faliang Huang</name>
+        </author>
+        <author>
+            <name>Xianjian Bao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shallow Detail and Semantic Segmentation Combined Bilateral Network Model for Lane Detection]]></title>
+        <id>https://ieeexplore.ieee.org/document/10182290</id>
+        <link href="https://ieeexplore.ieee.org/document/10182290"/>
+        <updated>2023-07-14T01:16:22.532Z</updated>
+        <summary type="html"><![CDATA[Lanes play a very critical and important role in maintaining the orderly operation of road traffic. Therefore, the automatic lane detection is very important and has significant potential value. Combining the existing lane detection methods based on deep learning, this paper proposes a new lane detection model, Bi-Lanenet, to solve the problems that still exist in the current methods, aiming to ov...]]></summary>
+        <author>
+            <name>Fuxing Yu</name>
+        </author>
+        <author>
+            <name>Yafeng Wu</name>
+        </author>
+        <author>
+            <name>Yina Suo</name>
+        </author>
+        <author>
+            <name>Yaguang Su</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Developing a More Reliable Framework for Extracting Traffic Data From a UAV Video]]></title>
+        <id>https://ieeexplore.ieee.org/document/10181236</id>
+        <link href="https://ieeexplore.ieee.org/document/10181236"/>
+        <updated>2023-07-14T01:16:22.532Z</updated>
+        <summary type="html"><![CDATA[Unmanned aerial vehicles (UAVs) have been used extensively in traffic data collection owing to their flexibility, stability, and ease of operation. However, vehicle detection methods using horizontal detectors are less efficient and accurate for UAV vehicle detection, whereas rotated detectors suffer the discontinuous boundaries problem. Therefore, we proposed a traffic data extraction framework b...]]></summary>
+        <author>
+            <name>Xiaohe Li</name>
+        </author>
+        <author>
+            <name>Jianping Wu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Potential Game Based Task Offloading in the High-Speed Railway With Reinforcement Learning]]></title>
+        <id>https://ieeexplore.ieee.org/document/10181238</id>
+        <link href="https://ieeexplore.ieee.org/document/10181238"/>
+        <updated>2023-07-14T01:16:22.532Z</updated>
+        <summary type="html"><![CDATA[The advanced 5G and mobile edge computing promote the development of the intelligent high-speed railway and enable computing-intensive and latency-sensitive tasks. Mobile edge computing can effectively release the pressure of tasks on on-board computing resources by migrating communication, computing, and storage to edge servers. However, the fluctuation of data transmission and task processing du...]]></summary>
+        <author>
+            <name>Wei Wu</name>
+        </author>
+        <author>
+            <name>Haifeng Song</name>
+        </author>
+        <author>
+            <name>Hongwei Wang</name>
+        </author>
+        <author>
+            <name>Hairong Dong</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Optimal Design of Tractive Layout for Minimizing the Insufficient Displacement of Railway Turnout]]></title>
         <id>https://ieeexplore.ieee.org/document/10177283</id>
